@@ -2,7 +2,7 @@
 
 ## Mac
 
-#### Mac Helper
+### Mac Helper
 
 1. [Alfred](https://www.alfredapp.com/) 给你另一种Mac~
 
