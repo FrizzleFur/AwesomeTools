@@ -67,20 +67,23 @@
 
 1. [Charles](https://www.charlesproxy.com/) request抓包~
 
-2. [Dash](https://kapeli.com/dash)  看Docs只用它了
+2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
 
-3. [iTerm](https://www.iterm2.com/) Best Terminal Client
+3. [Paw](https://paw.cloud/)    Simulate Request Test
 
-4. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
+4. [Dash](https://kapeli.com/dash)  看Docs只用它了
 
-5. [HopperDisassembler](https://www.hopperapp.com/)     Reveal~
+5. [iTerm](https://www.iterm2.com/) Best Terminal Client
 
-6. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
+6. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
 
-7. [SublimeText](https://www.sublimetext.com/)  据说是神奇，还没充分用
+7. [HopperDisassembler](https://www.hopperapp.com/)     Reveal~
 
-8. [Paw](https://paw.cloud/)    Simulate Request Test
-9. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
+8. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
+
+9. [SublimeText](https://www.sublimetext.com/)  据说是神奇，还没充分用
+
+10. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
 
 
 ### Cloud
@@ -199,6 +202,8 @@
 12. [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf/related?hl=en) 好用`Gist`工具
 
 13. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
+
+14. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
 
 ### WebSite
 #### Schedule
