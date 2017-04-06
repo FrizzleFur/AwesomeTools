@@ -60,6 +60,8 @@
 
 5. [Wakatime](https://wakatime.com/) 开发工具时间使用统计，支持很多工具。
 
+5. [Gisto](http://www.gistoapp.com/) Gists Helper
+
 
 #### Developing Tools
 
@@ -194,6 +196,10 @@
 
 11. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
 
+12. [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf/related?hl=en) 好用`Gist`工具
+
+13. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
+
 ### WebSite
 #### Schedule
 
@@ -229,6 +235,7 @@
 
 3. [JS Doc](https://nodelover.me/#/course/5835606ea22b9d006bc0b31e?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) JS Guide
 
+4. [Gist](https://gist.github.com/) Code Snippet Manager
 
 ### iOS Developing
 
