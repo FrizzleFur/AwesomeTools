@@ -248,19 +248,18 @@
 
 4. [Gist](https://gist.github.com/) Code Snippet Manager
 
-### iOS Developing
+#### iOS Developing
 
 1. [Xcode help](http://help.apple.com/xcode/mac/8.0/#/dev466720061)
 
+2. [iOS Framework Analyze](https://github.com/Draveness/Analyze)
 
-#### Learn
+3. [Swift Learning](https://boxueio.com/skill/swift)
 
-1. [iOS Framework Analyze](https://github.com/Draveness/Analyze)
+4. [Jike swift](http://wiki.jikexueyuan.com/project/swift/)
 
-2. [Swift Learning](https://boxueio.com/skill/swift)
-
-3. [Jike swift](http://wiki.jikexueyuan.com/project/swift/)
-
+#### Dev Tool
+1. [TinyPng](https://tinypng.com/)  Smart PNG and JPEG compression
 
 #### CI
 
