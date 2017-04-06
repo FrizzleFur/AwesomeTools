@@ -66,8 +66,12 @@
 #### Developing Tools
 
 1. [Charles](https://www.charlesproxy.com/) request抓包~
-
+##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
+
+- 2.1 [Newman](https://github.com/postmanlabs/newman) The cli companion for postman
+
+- 2.2 [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo/)  Sends requests fired through the Postman chrome app.
 
 3. [Paw](https://paw.cloud/)    Simulate Request Test
 
