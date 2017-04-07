@@ -178,6 +178,10 @@
 12. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
 
 
+### Data
+
+1. [QQ同步助手](https://itunes.apple.com/cn/app/id389481236)    大陆用户换机备份神器~
+
 ------
 
 ## Web
