@@ -245,6 +245,9 @@
 
 3. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool
 
+### Invest 
+
+[暖石](http://www.nuanshi100.com/)    投资自己
 
 ### Developing
 
