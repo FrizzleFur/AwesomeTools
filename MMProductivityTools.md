@@ -245,9 +245,14 @@
 
 3. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool
 
+
+### Career
+
+1. [应届毕业生第一份工作的选择有多重要？应该考虑清楚些什么？](https://www.zhihu.com/question/20237863)
+
 ### Invest 
 
-[暖石](http://www.nuanshi100.com/)    投资自己
+1. [暖石](http://www.nuanshi100.com/)    投资自己
 
 ### Developing
 
