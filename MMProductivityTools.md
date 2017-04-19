@@ -231,6 +231,19 @@
 
 2. [注册码大全youserials](http://www.youserials.com/) Registration Keys
 
+#### Greasyfork Pool
+
+3. [护眼脚本](https://greasyfork.org/zh-CN/scripts/14716-%E6%8A%A4%E7%9C%BC%E8%84%9A%E6%9C%AC)
+
+4. [去百度搜索置顶推广 (ECMA6)](https://greasyfork.org/zh-CN/scripts/10019-%E5%8E%BB%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E7%BD%AE%E9%A1%B6%E6%8E%A8%E5%B9%BF-ecma6)
+
+5. [移除百度搜索的广告](https://greasyfork.org/zh-CN/scripts/18288-%E7%A7%BB%E9%99%A4%E7%99%BE%E5%BA%A6%E6%90%9C%E7%B4%A2%E7%9A%84%E5%B9%BF%E5%91%8A)
+
+6. [在百度百科中添加跳转到维基百科的按钮](https://greasyfork.org/zh-CN/scripts/20134-baidu-encyclopedia-to-wikipedia)
+
+7. [DouyuTools](https://greasyfork.org/zh-CN/scripts/18613-douyutools)
+
+8. [哔哩哔哩（bilibili.com）播放器调整](https://greasyfork.org/zh-CN/scripts/21284-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-com-%E6%92%AD%E6%94%BE%E5%99%A8%E8%B0%83%E6%95%B4)
 
 ### Productivity
 
@@ -276,6 +289,7 @@
 4. [Jike swift](http://wiki.jikexueyuan.com/project/swift/)
 
 #### Dev Tool
+
 1. [TinyPng](https://tinypng.com/)  Smart PNG and JPEG compression
 
 #### CI
