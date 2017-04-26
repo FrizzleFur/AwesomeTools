@@ -123,18 +123,6 @@
 8. [AlterNote](http://alternoteapp.com/)    你知道，大象逼得开发者不得不自己开发一款EverNote ╮(╯▽╰)╭
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 ### Statistics
 
 1. [TimeRescue](https://www.rescuetime.com/)
@@ -218,6 +206,9 @@
 13. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
 
 14. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+
+15. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
+
 
 ### WebSite
 #### Schedule
