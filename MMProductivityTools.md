@@ -62,6 +62,8 @@
 
 5. [Gisto](http://www.gistoapp.com/) Gists Helper
 
+6. [Graphviz](http://www.graphviz.org/)贝尔实验室给程序员开发的导图，开源哦，看数据结构不要不要的✪ω✪,Mac下建议用`homebrew`安装。
+
 
 #### Developing Tools
 
@@ -243,6 +245,7 @@
 ### Productivity
 
 1. [Zapier](https://zapier.com/) Web Service Manager
+2. [Processon](https://www.processon.com/diagrams) 挺精致的一个Online思维导图网站，只是免费的最多保存10个。感觉可以用完就走😄（Ctrl+B 格式刷）
 
 
 ### Tools Pool
