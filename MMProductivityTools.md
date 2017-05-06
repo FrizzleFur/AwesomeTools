@@ -67,32 +67,33 @@
 
 #### Developing Tools
 
-1. [Charles](https://www.charlesproxy.com/) request抓包~
+##### Xcode 
+1. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
 ##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
 
 - 2.1 [Newman](https://github.com/postmanlabs/newman) The cli companion for postman
 
 - 2.2 [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo/)  Sends requests fired through the Postman chrome app.
+3. [Charles](https://www.charlesproxy.com/) request抓包~
 
-3. [Paw](https://paw.cloud/)    Simulate Request Test
+4. [Paw](https://paw.cloud/)    Simulate Request Test
 
-4. [Dash](https://kapeli.com/dash)  看Docs只用它了
+5. [Dash](https://kapeli.com/dash)  看Docs只用它了
 
-5. [iTerm](https://www.iterm2.com/) Best Terminal Client
+6. [iTerm](https://www.iterm2.com/) Best Terminal Client
 
-6. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
+7. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
 
-7. [HopperDisassembler](https://www.hopperapp.com/)     Reveal~
+8. [HopperDisassembler](https://www.hopperapp.com/)     Reveal~
 
-8. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
+9. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
 
-9. [SublimeText](https://www.sublimetext.com/)  据说是神奇，还没充分用
+10. [SublimeText](https://www.sublimetext.com/)  据说是神奇，还没充分用
 
-10. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
+11. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
 
-11. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12)Prepare, share and preview App artwork and icons.
-
+12. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12)Prepare, share and preview App artwork and icons.
 
 ### Cloud
 
@@ -132,6 +133,10 @@
 ### MenuBar
 
 ![](http://oc98nass3.bkt.clouddn.com/14937761631295.jpg)
+
+### Automator
+[automator-workflows](https://github.com/sparanoid/automator-workflows)
+
 
 ------
 
