@@ -56,7 +56,7 @@
 
 3. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12)
 
-4. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  “懒人听书”，还不错，精度有待提高~
+4. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  检查你的坐姿，精度有待提高~
 
 5. [Wakatime](https://wakatime.com/) 开发工具时间使用统计，支持很多工具。
 
@@ -174,7 +174,7 @@
 
 10. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) Habit Manager
 
-11. [Naturalreaders](https://www.naturalreaders.com/) Save your eyes.
+11. [NaturalReaders](https://www.naturalreaders.com/) “懒人听书”——Save your eyes
 
 12. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
 
