@@ -228,6 +228,9 @@
 
 [Trello](https://trello.com/guide) 看板，`[SCRUM](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/task-boards)`工具
 
+#### ZhihuRSS
+
+[知乎专栏RSS](https://rss.lilydjwg.me/)
 
 ### Web Helper
 
