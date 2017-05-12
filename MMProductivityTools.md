@@ -82,6 +82,8 @@
 5. [Dash](https://kapeli.com/dash)  看Docs只用它了
 
 6. [iTerm](https://www.iterm2.com/) Best Terminal Client
+    * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) Best Zsh framework
+    * [thefuck](https://github.com/nvbn/thefuck) 忘记命令?fuck就行。
 
 7. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
 
