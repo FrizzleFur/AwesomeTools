@@ -56,7 +56,7 @@
 
 3. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12)
 
-4. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)   精读有待提高
+4. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  “懒人听书”，还不错，精度有待提高~
 
 5. [Wakatime](https://wakatime.com/) 开发工具时间使用统计，支持很多工具。
 
