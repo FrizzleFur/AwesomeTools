@@ -64,6 +64,8 @@
 
 6. [Graphviz](http://www.graphviz.org/)贝尔实验室给程序员开发的导图，开源哦，看数据结构不要不要的✪ω✪,Mac下建议用`homebrew`安装。
 
+7. [LiceCap](http://www.cockos.com/licecap/) 好用给的录屏小软件
+
 
 #### Developing Tools
 
