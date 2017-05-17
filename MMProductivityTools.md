@@ -377,7 +377,6 @@
 
 ### Sea Amoy
 
-[海淘族](https://www.haitaozu.org/base/17134.html)
-
-挺丰富的海淘站
+1. [海淘族](https://www.haitaozu.org/base/17134.html)挺丰富的海淘站
+2. [Rakuten](http://global.rakuten.com/zh-cn/?siteID=5UNe5hkl3dM-1_Vtj7WDbFFoT2PK3Bewmg) 乐天
 
