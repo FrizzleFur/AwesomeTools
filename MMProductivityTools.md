@@ -191,6 +191,8 @@
 
 12. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
 
+13.  [扫描王](https://itunes.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B%E5%85%8D%E8%B4%B9%E7%89%88/id388627783?mt=8) 扫描Tool
+14. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
 
 ### Reading
 
