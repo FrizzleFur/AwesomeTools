@@ -72,6 +72,12 @@
 
 #### Developing Tools
 
+##### Git
+
+1. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
+2. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
+
 ##### Xcode 
 1. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
 ##### Postman
