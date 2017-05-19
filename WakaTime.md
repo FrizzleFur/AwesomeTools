@@ -28,4 +28,63 @@
 [Zenobase](https://zenobase.com/)
 ![](http://oc98nass3.bkt.clouddn.com/2017-05-19-14951634226176.jpg)
 
+### WakaTime FAQ
+
+一、WakaTime精确度如何
+
+1. 当你开始编辑一个文件, WakaTime开始计时;
+2. 计时器停止当你到达你AFK的超时设置。当你去AFK，WakaTime倒计时器到时间你最后编辑的文件。
+3. 切换到编辑不同文件时计时器也停止。在这种情况下，WakaTime节省时间从你开始编辑原始文件，当你切换到新文件。时间是重置，我们开始在步骤1与新文件。
+二、How are projects created? 
+
+WakaTime creates projects for you automatically, using one of these methods.
+
+This means you don’t manually create projects.
+
+Instead, use your IDE like normal and projects are created automatically in the background.
+
+We work hard to keep WakaTime completely passive, so it never gets in your way.
+
+三、如何设置，修改项目名称？
+WakaTime recognizes the project’s name one of four ways:
+
+Revision control software (Ex: Git, Mercurial, or Subversion):
+
+To set the project name for a folder, go to that folder in a terminal and type:
+
+git init
+
+Files inside that folder will be assigned to a project with that folder’s name.
+
+* only renames projects for new coding activity
+
+Create a .wakatime-project file inside your project directory. Type the project name as the first line of this file and WakaTime will use that project name for all files inside this directory.
+
+* only renames projects for new coding activity
+
+Adding the project directory to your ~/.wakatime.cfg file under the [projectmap] section.
+
+* only renames projects for new coding activity
+
+As a last resort use custom rules:
+![](https://wakatime.com/static/img/custom_rules_for_projects.png)
+* Warning: this will rename projects from past coding activity. Use with caution!
+
+四、我可以删除项目吗？
+
+要删除项目，首先删除使用编码活动删除工具的[编码活动](https://wakatime.com/code-delete-tool).
+
+![](http://oc98nass3.bkt.clouddn.com/2017-05-19-14951650055930.jpg)
+
+After removing the project’s coding activity, you can delete the project from the project’s dashboard. A project dashboard without coding activity will have a “trash icon” in the top right corner.
+
+To exclude projects in the future, add the project’s path to your `$HOME/.wakatime.cfg` file under the exclude setting.
+
+
+## 参考
+
+[WakaTime Help](https://wakatime.com/help/getting-started/faq)
+
+
+
 
