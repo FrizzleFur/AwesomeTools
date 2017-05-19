@@ -60,7 +60,7 @@ Files inside that folder will be assigned to a project with that folder’s name
 
 Create a .wakatime-project file inside your project directory. Type the project name as the first line of this file and WakaTime will use that project name for all files inside this directory.
 
-* only renames projects for new coding activity
+* 只是重新命名项目的新活动
 
 Adding the project directory to your ~/.wakatime.cfg file under the [projectmap] section.
 
@@ -76,9 +76,8 @@ As a last resort use custom rules:
 
 ![](http://oc98nass3.bkt.clouddn.com/2017-05-19-14951650055930.jpg)
 
-After removing the project’s coding activity, you can delete the project from the project’s dashboard. A project dashboard without coding activity will have a “trash icon” in the top right corner.
-
-To exclude projects in the future, add the project’s path to your `$HOME/.wakatime.cfg` file under the exclude setting.
+移除项目的编码活动后，您可以从项目的仪表板中删除项目。没有编码活动的项目仪表板在右上角会有一个“垃圾图标”。
+若要排除项目的以后统计，请将项目的路径添加到设置里的`$HOME/.wakatime.cfg` 文件。
 
 
 ## 参考
