@@ -77,6 +77,8 @@
 1. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
 2. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
+4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. http://gitup.co
+
 
 ##### Xcode 
 1. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
