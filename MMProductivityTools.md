@@ -245,10 +245,6 @@
 
 [Trello](https://trello.com/guide) 看板，`[SCRUM](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/task-boards)`工具
 
-#### ZhihuRSS
-
-[知乎专栏RSS](https://rss.lilydjwg.me/)
-
 ### Web Helper
 
 1. [Watchtower](https://watchtower.agilebits.com/)
@@ -361,6 +357,9 @@
 
 3. [一览](http://www.yilan.io/home/?category=_recommend)  国产RSS
 
+#### Feed Rss
+[Feedity](https://feedity.com/default.aspx) RSS feed神器
+[知乎专栏RSS](https://rss.lilydjwg.me/)
 
 ### Tools
 
