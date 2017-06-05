@@ -72,6 +72,10 @@
 
 #### Developing Tools
 
+##### iOS Pool
+
+1. [awesome-ios](https://github.com/vsouza/awesome-ios)
+
 ##### Git
 
 1. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
