@@ -86,6 +86,9 @@
 
 ##### Xcode 
 1. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
+2. [PPRows](https://github.com/jkpang/PPRows/releases) 统计代码行数
+
+
 ##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
 
@@ -113,6 +116,7 @@
 11. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
 
 12. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12)Prepare, share and preview App artwork and icons.
+
 
 ### Cloud
 
@@ -146,7 +150,7 @@
 
 9. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload)markdown图片实用工具
 
-10. [QuickLook Plugins List](http://www.quicklookplugins.com/) QuickLook Plugins MarkDown
+10. [QuickLook Plugins List](https://github.com/toland/qlmarkdown) [QuickLook Plugins MarkDown](https://sspai.com/post/31927)
 
 ### Statistics
 
@@ -286,9 +290,13 @@
 
 3. [Sspai.com](https://sspai.com/) Tool Guide
 
-4. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool
+4. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本
 
-5. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本
+#### Alfred Pool
+
+1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool
+
+
 
 ### Career
 
