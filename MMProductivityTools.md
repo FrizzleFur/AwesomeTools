@@ -146,6 +146,7 @@
 
 9. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload)markdown图片实用工具
 
+10. [QuickLook Plugins List](http://www.quicklookplugins.com/) QuickLook Plugins MarkDown
 
 ### Statistics
 
