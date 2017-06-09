@@ -219,7 +219,7 @@
 
 ### Chrome Extension
 1. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
-2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器
+2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器 [Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md#%E5%89%8D%E7%BC%80%E6%95%B0%E5%AD%97%E5%8F%AF%E5%A4%9A%E6%AC%A1%E9%87%8D%E5%A4%8D%E7%9B%B8%E5%BA%94%E6%93%8D%E4%BD%9C)
 
 1. [一键管理所有扩展](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja)   你当然需要Extension Manager
 
@@ -297,8 +297,10 @@
 
 1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool
 
+2. [Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
 
-
+3. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
+ 
 ### Career
 
 1. [应届毕业生第一份工作的选择有多重要？应该考虑清楚些什么？](https://www.zhihu.com/question/20237863)
