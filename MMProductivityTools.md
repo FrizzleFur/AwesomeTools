@@ -280,7 +280,7 @@
 2. [Processon](https://www.processon.com/diagrams) 挺精致的一个Online思维导图网站，只是免费的最多保存10个。感觉可以用完就走😄（Ctrl+B 格式刷）
 3. [Astah](http://www.astah.net/) UML神器
 4. [StarUml](http://staruml.io/)  UML神器
-
+5. [Mermaid](https://github.com/knsv/mermaid) Mermaid 是一个从文本生成各类图形如类图／时序图的工具
 
 ### Tools Pool
 
