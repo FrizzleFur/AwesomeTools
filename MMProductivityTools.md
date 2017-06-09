@@ -219,6 +219,7 @@
 
 ### Chrome Extension
 1. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
+2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器
 
 1. [一键管理所有扩展](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja)   你当然需要Extension Manager
 
