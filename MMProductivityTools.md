@@ -102,10 +102,9 @@
 - 2.2 [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo/)  Sends requests fired through the Postman chrome app.
 3. [Charles](https://www.charlesproxy.com/) request抓包~
 
-4. [Paw](https://paw.cloud/)    Simulate Request Test
+4. [Paw](https://paw.cloud/) API请求利器
 
-5. [Visual-Json](https://itunes.apple.com/cn/app/visual-json/id488709442?mt=12)
-
+5. [Visual-Json](https://itunes.apple.com/cn/app/visual-json/id488709442?mt=12) JSON利器
 
 6. [Dash](https://kapeli.com/dash)  看Docs只用它了
 
