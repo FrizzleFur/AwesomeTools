@@ -19,8 +19,7 @@
 
 6. [Gemini](http://macpaw.com/gemini) Detect and delete duplicates.
 
-
-7. [Hider2](http://macpaw.com/hider)
+7. [Hider2](http://macpaw.com/hider)  数据安全~
 
 8. [DaisyDisk](https://daisydiskapp.com/)   检查硬盘使用神器~
 
@@ -70,7 +69,6 @@
 6. [Graphviz](http://www.graphviz.org/)贝尔实验室给程序员开发的导图，开源哦，看数据结构不要不要的✪ω✪,Mac下建议用`homebrew`安装。
 
 7. [LiceCap](http://www.cockos.com/licecap/) 好用给的录屏小软件
-
 
 8. [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) Mac壁纸就用它了！
 
@@ -306,10 +304,30 @@
 
 1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool
 
-2. [Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
+2. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
 
-3. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
+3. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~
+
+4. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
+
+5. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
+
+6. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
+
+ 7. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
  
+8. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+
+9. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 
+
+10. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
+
+11. [Github Search](http://www.packal.org/workflow/github-search) Search Github
+
+12. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
+
+13.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
+
 ### Career
 
 1. [应届毕业生第一份工作的选择有多重要？应该考虑清楚些什么？](https://www.zhihu.com/question/20237863)
@@ -397,7 +415,6 @@
 
 ### BodyBuilding
 
-
 1. [牛男网](https://www.neonan.com/)
 
 2. [我爱健身](http://www.fitnes.cn/)
@@ -409,7 +426,6 @@
 ### BodyHealth
 
 1. [jiushixing](http://www.jiushixing.com/html/hufu/meibai/)
-
 
 
 ### Shopping
