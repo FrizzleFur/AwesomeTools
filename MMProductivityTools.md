@@ -17,7 +17,8 @@
 
 5. [CleanMyMac](http://macpaw.com/cleanmymac) Mac必备吧
 
-6. [Gemini](http://macpaw.com/gemini)
+6. [Gemini](http://macpaw.com/gemini) Detect and delete duplicates.
+
 
 7. [Hider2](http://macpaw.com/hider)
 
@@ -135,6 +136,8 @@
 1. [2Do](https://www.2doapp.com/)
 
 2. [pomotodo番茄土豆](https://pomotodo.com/app/)
+
+3. [幕布](https://mubu.com/) 结合导图和笔记，挺有创意的
 
 
 ### Writing
