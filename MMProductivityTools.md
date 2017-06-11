@@ -47,6 +47,7 @@
 
 20. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
 
+21. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
 
 
 ### Developing
