@@ -70,6 +70,9 @@
 7. [LiceCap](http://www.cockos.com/licecap/) 好用给的录屏小软件
 
 
+8. [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) Mac壁纸就用它了！
+
+
 #### Developing Tools
 
 ##### iOS Pool
