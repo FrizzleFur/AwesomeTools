@@ -88,19 +88,24 @@
 
 
 ##### Xcode 
-1. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
 
-2. [PPRows](https://github.com/jkpang/PPRows/releases) 统计代码行数
+1. [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) Xcode打包脚本╮(✪ω✪)╭
 
-3. [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode Source Editor 插件集
+2. [XAssistant](https://github.com/icofans/XAssistant) 桌面打包IPA小程序，方便打包分发,支持蒲公英
 
-4. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
+3. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
 
-5. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12) Prepare, share and preview App artwork and icons.
+4. [PPRows](https://github.com/jkpang/PPRows/releases) 统计代码行数
 
-6. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12)  [苹果推送服务测试小工具](http://www.cocoachina.com/bbs/read.php?tid-290938.html)
+5. [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode Source Editor 插件集
 
-7. [App Icon Gear ](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html)  创建App图标、启动图LaunchImage，还可以生成自定义尺寸的图标集（Image Set）
+6. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
+
+7. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12) Prepare, share and preview App artwork and icons.
+
+8. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12)  [苹果推送服务测试小工具](http://www.cocoachina.com/bbs/read.php?tid-290938.html)
+
+9. [App Icon Gear ](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html)  创建App图标、启动图LaunchImage，还可以生成自定义尺寸的图标集（Image Set）
 
 ##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
