@@ -89,8 +89,10 @@
 
 ##### Xcode 
 1. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
+
 2. [PPRows](https://github.com/jkpang/PPRows/releases) 统计代码行数
 
+3. [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode Source Editor 插件集
 
 ##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
@@ -120,7 +122,9 @@
 
 12. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
 
-13. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12)Prepare, share and preview App artwork and icons.
+13. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12) Prepare, share and preview App artwork and icons.
+
+14. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12)  [苹果推送服务测试小工具](http://www.cocoachina.com/bbs/read.php?tid-290938.html)
 
 
 ### Cloud
