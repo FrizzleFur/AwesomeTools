@@ -75,7 +75,7 @@
 
 #### Developing Tools
 
-##### iOS Pool
+##### iOS Demo Pool
 
 1. [awesome-ios](https://github.com/vsouza/awesome-ios)
 
@@ -84,7 +84,7 @@
 1. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
 2. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
-4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. http://gitup.co
+4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 
 
 ##### Xcode 
@@ -106,6 +106,9 @@
 8. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12)  [苹果推送服务测试小工具](http://www.cocoachina.com/bbs/read.php?tid-290938.html)
 
 9. [App Icon Gear ](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html)  创建App图标、启动图LaunchImage，还可以生成自定义尺寸的图标集（Image Set）
+
+
+10.  [UIDebuggingInformationOverlay - Low Level](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/)  UIDebuggingInformationOverlay是UIWindow由苹果创建的私有子类，大概是帮助开发人员和设计师调试苹果自己的iOS应用程序。
 
 ##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
