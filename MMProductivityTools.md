@@ -74,6 +74,8 @@ convert anything to anything~
 
 8. [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) Mac壁纸就用它了！
 
+9. [HeadSpace](https://www.headspace.com/) Let`s 冥想~
+10. [睿心灵犀](https://itunes.apple.com/cn/app/%E7%9D%BF%E5%BF%83%E7%81%B5%E7%8A%80-%E6%9C%80%E5%A5%BD%E7%94%A8%E6%9C%80%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%AD%E6%96%87%E5%86%A5%E6%83%B3%E5%BA%94%E7%94%A8/id1145757110?mt=8)
 
 #### Developing Tools
 
