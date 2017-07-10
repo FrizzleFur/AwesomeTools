@@ -96,6 +96,7 @@ convert anything to anything~
 2. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
 4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
+5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 
 
 ##### Xcode 
