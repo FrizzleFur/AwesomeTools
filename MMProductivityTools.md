@@ -99,7 +99,8 @@ convert anything to anything~
 3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
 4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
-6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~
+6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
+
 
 
 ##### Xcode 
@@ -251,6 +252,9 @@ Turn drawings into code with PaintCode ~
 
 13.  [扫描王](https://itunes.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B%E5%85%8D%E8%B4%B9%E7%89%88/id388627783?mt=8) 扫描Tool
 14. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
+15. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
+
+
 
 ### Reading
 
