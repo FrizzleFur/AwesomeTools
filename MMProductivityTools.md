@@ -65,7 +65,7 @@ convert anything to anything~
 
 2. [Noizio](http://noiz.io/)    工作安心点
 
-3. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12)
+3. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12) a free time reminder
 
 4. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  检查你的坐姿，精度有待提高~
 
