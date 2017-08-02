@@ -56,6 +56,11 @@ convert anything to anything~
 
 23. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
 
+24. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
+
+25. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致
+
+
 
 ### Developing
 
