@@ -62,6 +62,7 @@ convert anything to anything~
 
 26. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
 
+27. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
 
 
 ### Developing
@@ -90,6 +91,11 @@ convert anything to anything~
 10. [睿心灵犀](https://itunes.apple.com/cn/app/%E7%9D%BF%E5%BF%83%E7%81%B5%E7%8A%80-%E6%9C%80%E5%A5%BD%E7%94%A8%E6%9C%80%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%AD%E6%96%87%E5%86%A5%E6%83%B3%E5%BA%94%E7%94%A8/id1145757110?mt=8)
 
 11. [Drop – Color](https://www.waitsun.com/drop-color-picker-1-0-1.html)Drop 是一款Mac上优秀的屏幕取色工具
+
+12. [JSON Wizard](https://www.waitsun.com/json-wizard-1-3.html#downlink)JSON Wizard 是为您完美的工具，如果您只想查看和编辑您的 JSON 文件。或者也许你想要能够导入 XML/YAML/PLIST/CSV 文件。也许你甚至想要能够导出到所有这些的格式。JSON 向导提供了方便的可视化编辑和直接访问源代码与生活语法检查。
+
+13. [TextLab for Mac](https://www.waitsun.com/textlab-1-3-0.html)TextLab 是一款Mac上实用的代码格式转换工具，可以转换和验证JSON、HTML、XML、Base64等代码格式，简单易用，很实用的一款开发辅助工具！
+
 
 #### Developing Tools
 
