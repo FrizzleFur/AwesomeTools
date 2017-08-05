@@ -60,6 +60,8 @@ convert anything to anything~
 
 25. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致
 
+26. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+
 
 
 ### Developing
@@ -107,7 +109,6 @@ convert anything to anything~
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
 
 
-
 ##### Xcode 
 
 1. [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) Xcode打包脚本╮(✪ω✪)╭
@@ -138,7 +139,7 @@ Turn drawings into code with PaintCode ~
 
 13. [Core-Animator](http://xclient.info/s/core-animator.html?_=7f6b20915b1318a0839df0a326a089e5)Core Animator 是一款能够帮助iOS或OS X开发者进行动画制作的工具,支持导出Swift和Objective-C代码，从而大量节省编码时间
 
-
+12. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) 将绘图转为代码
 
 ##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
