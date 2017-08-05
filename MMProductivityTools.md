@@ -89,7 +89,13 @@ convert anything to anything~
 9. [HeadSpace](https://www.headspace.com/) Let`s 冥想~
 10. [睿心灵犀](https://itunes.apple.com/cn/app/%E7%9D%BF%E5%BF%83%E7%81%B5%E7%8A%80-%E6%9C%80%E5%A5%BD%E7%94%A8%E6%9C%80%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%AD%E6%96%87%E5%86%A5%E6%83%B3%E5%BA%94%E7%94%A8/id1145757110?mt=8)
 
+11. [Drop – Color](https://www.waitsun.com/drop-color-picker-1-0-1.html)Drop 是一款Mac上优秀的屏幕取色工具
+
 #### Developing Tools
+
+##### Objective-C
+
+[iSwift for Mac](https://www.waitsun.com/iswift-3-0.html) Objective-C转换Swift代码工具
 
 ##### WWDC
 [WWDC for mac](https://wwdc.io/) [Best iOS Learning Resource](https://github.com/insidegui/WWDC)
