@@ -136,6 +136,10 @@ Turn drawings into code with PaintCode ~
 
 12. [Provisioning](https://github.com/chockenberry/Provisioning) A Quick Look plug-in for .mobileprovision files
 
+13. [Core-Animator](http://xclient.info/s/core-animator.html?_=7f6b20915b1318a0839df0a326a089e5)Core Animator 是一款能够帮助iOS或OS X开发者进行动画制作的工具,支持导出Swift和Objective-C代码，从而大量节省编码时间
+
+
+
 ##### Postman
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
 
