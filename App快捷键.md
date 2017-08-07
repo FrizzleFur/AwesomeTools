@@ -1,9 +1,6 @@
+## App快捷键
 
-
-
-iTerm2
-
-
+### iTerm2
 
 ```
 Editing
@@ -161,4 +158,11 @@ Show command history
 CMD+ALT+/
 
 ```
+
+### 1PassWord
+
+[1Password for Mac 使用指南](https://jbguide.me/2014/09/03/1password-35/)
+
+![](http://oc98nass3.bkt.clouddn.com/2017-08-07-15020711016494.jpg)
+
 
