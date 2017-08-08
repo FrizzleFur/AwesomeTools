@@ -40,21 +40,22 @@ Kill text from the point to the end of the line
 CTRL+P
 
 Previous history
-CTRL+R
 
+CTRL+R
 History reverse search
+
 Tab Navigation
 CMD+T
 
 Open new tab
+
 CMD+W
-
 Close current tab
+
 CMD+1-9
-
 Go to tab
-CMD+SHIFT+]
 
+CMD+SHIFT+]
 CMD+N
 
 CMD+Arrow Left
