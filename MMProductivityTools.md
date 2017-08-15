@@ -66,6 +66,8 @@ convert anything to anything~
 
 28. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
+29. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
+
 ### Developing
 
 #### Developing Helper
