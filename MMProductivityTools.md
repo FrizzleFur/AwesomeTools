@@ -333,6 +333,11 @@ Turn drawings into code with PaintCode ~
 
 
 ### WebSite
+
+#### 资源
+
+1. [周读](http://www.ireadweek.com/)电子书资源
+
 #### Schedule
 
 [Trello](https://trello.com/guide) 看板，`[SCRUM](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/task-boards)`工具
