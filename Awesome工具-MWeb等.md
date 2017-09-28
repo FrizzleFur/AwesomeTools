@@ -160,9 +160,41 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971926107042.jpg)
 
 
+##  Sublime Text 3 
 
+[Sublime Text 3 for Mac 安装和插件配置说明 – 老柴的宅](http://chaishiwei.com/blog/892.html)
 
-## iTerm2
+主要快捷键
+
+`Command + Shift + P`
+
+刚才已经介绍过了，打开 Package Control 命令面板，支持模糊搜索。
+
+`Command + P`
+
+根据文件名打开文件。比如想打开`~/Sites/index.html`，你只要在输入框中输入`~/Sites/index.html`即可，支持模糊匹配，比如~/index。
+
+`Command + R`
+
+查找函数。比如输入log，能找到所有名带 log 的方法，输入 loginout，则能定位到 loginout()。输入框中自动出现的 @ 符号，就是要匹配方法的意思。
+
+定位到行：`Command + G`，或Command + P后，在框中输入:行数，如:58，则要跳转到58行去。
+
+查找标识:`Command + P`后，#标识。
+
+`Command + D`
+
+同时修改多个相同代码。先选中一段要修改的代码，然后`Command + D`，会向下连选相同的那段代码，重复，直到满意为止。虽然「查找/替换」功能可以做到同样的效果，不过此种操作方法更直观和可控。
+
+`Command + F`
+
+查找搜索。这个就不多介绍了吧：
+
+回车查找下一个，`Shift + 回车`，查找上一个。
+`Command + H`，查找替换。
+`Command + Shift + F`，可以叫全项目查找，就是在当前打开的项目中，根据所输入的字符进行查找搜索。
+
+##  iTerm2
 
 ```
 Editing
