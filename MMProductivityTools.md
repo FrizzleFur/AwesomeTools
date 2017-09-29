@@ -76,32 +76,35 @@ convert anything to anything~
 
 2. [Noizio](http://noiz.io/)    工作安心点
 
-3. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12) a free time reminder
+3. [noisli](https://www.noisli.com/) 类似 Noizio，但是web更轻~
 
-4. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  检查你的坐姿，精度有待提高~
+4. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12) a free time reminder
 
-5. [Wakatime](https://wakatime.com/) 开发工具时间使用统计，支持很多工具。
+5. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  检查你的坐姿，精度有待提高~
 
-5. [Gisto](http://www.gistoapp.com/) Gists Helper
+6. [Wakatime](https://wakatime.com/) 开发工具时间使用统计，支持很多工具。
 
-6. [Graphviz](http://www.graphviz.org/)贝尔实验室给程序员开发的导图，开源哦，看数据结构不要不要的✪ω✪,Mac下建议用`homebrew`安装。
+7. [Gisto](http://www.gistoapp.com/) Gists Helper
 
-7. [LiceCap](http://www.cockos.com/licecap/) 好用给的录屏小软件
+8. [Graphviz](http://www.graphviz.org/)贝尔实验室给程序员开发的导图，开源哦，看数据结构不要不要的✪ω✪,Mac下建议用`homebrew`安装。
 
-8. [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) Mac壁纸就用它了！
+9. [LiceCap](http://www.cockos.com/licecap/) 好用给的录屏小软件
 
-9. [HeadSpace](https://www.headspace.com/) Let`s 冥想~
-10. [睿心灵犀](https://itunes.apple.com/cn/app/%E7%9D%BF%E5%BF%83%E7%81%B5%E7%8A%80-%E6%9C%80%E5%A5%BD%E7%94%A8%E6%9C%80%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%AD%E6%96%87%E5%86%A5%E6%83%B3%E5%BA%94%E7%94%A8/id1145757110?mt=8)
+10. [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) Mac壁纸就用它了！
 
-11. [Drop – Color](https://www.waitsun.com/drop-color-picker-1-0-1.html)Drop 是一款Mac上优秀的屏幕取色工具
+11. [HeadSpace](https://www.headspace.com/) Let`s 冥想~
 
-12. [JSON Wizard](https://www.waitsun.com/json-wizard-1-3.html#downlink)JSON Wizard 是为您完美的工具，如果您只想查看和编辑您的 JSON 文件。或者也许你想要能够导入 XML/YAML/PLIST/CSV 文件。也许你甚至想要能够导出到所有这些的格式。JSON 向导提供了方便的可视化编辑和直接访问源代码与生活语法检查。
+12. [睿心灵犀](https://itunes.apple.com/cn/app/%E7%9D%BF%E5%BF%83%E7%81%B5%E7%8A%80-%E6%9C%80%E5%A5%BD%E7%94%A8%E6%9C%80%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%AD%E6%96%87%E5%86%A5%E6%83%B3%E5%BA%94%E7%94%A8/id1145757110?mt=8)
 
-13. [TextLab for Mac](https://www.waitsun.com/textlab-1-3-0.html)TextLab 是一款Mac上实用的代码格式转换工具，可以转换和验证JSON、HTML、XML、Base64等代码格式，简单易用，很实用的一款开发辅助工具！
+13. [Drop – Color](https://www.waitsun.com/drop-color-picker-1-0-1.html)Drop 是一款Mac上优秀的屏幕取色工具
 
-14. [Oneapm](http://www.oneapm.com/mi/price.html) Applicaiton Performance Management
+14. [JSON Wizard](https://www.waitsun.com/json-wizard-1-3.html#downlink)JSON Wizard 是为您完美的工具，如果您只想查看和编辑您的 JSON 文件。或者也许你想要能够导入 XML/YAML/PLIST/CSV 文件。也许你甚至想要能够导出到所有这些的格式。JSON 向导提供了方便的可视化编辑和直接访问源代码与生活语法检查。
 
-15. [3 Minute Mindfulness](https://itunes.apple.com/us/app/3-minute-mindfulness-meditation-and-breathing/id982502810?mt=8)Meditation and Breathing
+15. [TextLab for Mac](https://www.waitsun.com/textlab-1-3-0.html)TextLab 是一款Mac上实用的代码格式转换工具，可以转换和验证JSON、HTML、XML、Base64等代码格式，简单易用，很实用的一款开发辅助工具！
+
+16. [Oneapm](http://www.oneapm.com/mi/price.html) Applicaiton Performance Management
+
+17. [3 Minute Mindfulness](https://itunes.apple.com/us/app/3-minute-mindfulness-meditation-and-breathing/id982502810?mt=8)Meditation and Breathing
 
 #### Developing Tools
 
@@ -122,6 +125,7 @@ convert anything to anything~
 1. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
 2. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
+
 4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
@@ -160,6 +164,7 @@ Turn drawings into code with PaintCode ~
 12. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) 将绘图转为代码
 
 ##### Postman
+
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
 
 - 2.1 [Newman](https://github.com/postmanlabs/newman) The cli companion for postman
@@ -174,7 +179,6 @@ Turn drawings into code with PaintCode ~
 6. [Dash](https://kapeli.com/dash)  看Docs只用它了
 ![](http://oc98nass3.bkt.clouddn.com/2017-08-04-15018311767868.jpg)
 ![](http://oc98nass3.bkt.clouddn.com/2017-08-04-15018312082029.jpg)
-
 
 7. [iTerm](https://www.iterm2.com/) Best Terminal Client
     * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) Best Zsh framework
@@ -246,7 +250,6 @@ Turn drawings into code with PaintCode ~
 ### Automator
 [automator-workflows](https://github.com/sparanoid/automator-workflows)
 
-
 ------
 
 ## PC
@@ -254,7 +257,7 @@ Turn drawings into code with PaintCode ~
 ### PC Helper
 
 1. [CleanMyPC](http://macpaw.com/cleanmypc)
-
+2. 
 ------
 
 ## Phone
@@ -287,9 +290,8 @@ Turn drawings into code with PaintCode ~
 
 13.  [扫描王](https://itunes.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B%E5%85%8D%E8%B4%B9%E7%89%88/id388627783?mt=8) 扫描Tool
 14. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
+
 15. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
-
-
 
 ### Reading
 
@@ -304,38 +306,41 @@ Turn drawings into code with PaintCode ~
 ## Web
 
 ### Chrome Extension
+
 1. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
+
 2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器 [Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md#%E5%89%8D%E7%BC%80%E6%95%B0%E5%AD%97%E5%8F%AF%E5%A4%9A%E6%AC%A1%E9%87%8D%E5%A4%8D%E7%9B%B8%E5%BA%94%E6%93%8D%E4%BD%9C)
 
-1. [一键管理所有扩展](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja)   你当然需要Extension Manager
+3. [一键管理所有扩展](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja)   你当然需要Extension Manager
 
-2. [IE-On-Chrome](https://chrome.google.com/webstore/detail/ie-on-chrome/kmomimblkpkjeilfbkinoonalgiejlcl)  兼容IE的Chrome插件
+4. [IE-On-Chrome](https://chrome.google.com/webstore/detail/ie-on-chrome/kmomimblkpkjeilfbkinoonalgiejlcl)  兼容IE的Chrome插件
 
-3. [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)   开启阅读模式，一般般吧
+5. [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)   开启阅读模式，一般般吧
 
-4. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
-5. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；
+6. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
 
-5. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
+7. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；
 
-6. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
+8. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
 
-8. [Ublock-origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)    有过滤器的Ad killer.
+9. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
 
-9. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
+10. [Ublock-origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)    有过滤器的Ad killer.
 
-10. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
+11. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
 
-11. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
+12. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
 
-12. [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf/related?hl=en) 好用`Gist`工具
+13. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
 
-13. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
+14. [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf/related?hl=en) 好用`Gist`工具
 
-14. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+15. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
 
-15. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
-16. [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
+16. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+
+17. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
+18.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
 
 #### 油猴Pool
 1.  [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解 - 少数派](https://sspai.com/post/40485)
@@ -372,11 +377,16 @@ Turn drawings into code with PaintCode ~
 ### Productivity
 
 1. [Zapier](https://zapier.com/) Web Service Manager
+
 2. [Processon](https://www.processon.com/diagrams) 挺精致的一个Online思维导图网站，只是免费的最多保存10个。感觉可以用完就走😄（Ctrl+B 格式刷）
+
 3. [Coggle](https://coggle.it/)  Collaborative Mind Maps， 挺好用的
-3. [Astah](http://www.astah.net/) UML神器
-4. [StarUml](http://staruml.io/)  UML神器
-5. [Mermaid](https://github.com/knsv/mermaid) Mermaid 是一个从文本生成各类图形如类图／时序图的工具
+
+4. [Astah](http://www.astah.net/) UML神器
+
+5. [StarUml](http://staruml.io/)  UML神器
+
+6. [Mermaid](https://github.com/knsv/mermaid) Mermaid 是一个从文本生成各类图形如类图／时序图的工具
 
 ### Tools Pool
 
