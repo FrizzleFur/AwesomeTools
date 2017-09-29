@@ -314,6 +314,7 @@ Turn drawings into code with PaintCode ~
 3. [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)   开启阅读模式，一般般吧
 
 4. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
+5. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；
 
 5. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
 
@@ -372,6 +373,7 @@ Turn drawings into code with PaintCode ~
 
 1. [Zapier](https://zapier.com/) Web Service Manager
 2. [Processon](https://www.processon.com/diagrams) 挺精致的一个Online思维导图网站，只是免费的最多保存10个。感觉可以用完就走😄（Ctrl+B 格式刷）
+3. [Coggle](https://coggle.it/)  Collaborative Mind Maps， 挺好用的
 3. [Astah](http://www.astah.net/) UML神器
 4. [StarUml](http://staruml.io/)  UML神器
 5. [Mermaid](https://github.com/knsv/mermaid) Mermaid 是一个从文本生成各类图形如类图／时序图的工具
