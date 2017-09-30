@@ -319,6 +319,8 @@ Turn drawings into code with PaintCode ~
 
 4. [IE-On-Chrome](https://chrome.google.com/webstore/detail/ie-on-chrome/kmomimblkpkjeilfbkinoonalgiejlcl)  兼容IE的Chrome插件
 
+
+#### RSS Read
 5. [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)   开启阅读模式，一般般吧
 
 6. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
@@ -326,6 +328,10 @@ Turn drawings into code with PaintCode ~
 7. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；
 
 8. [Linnk](https://linnk.net/) 全能书签管家
+
+9. [Diigo](https://www.diigo.com/index)  会不会是最好用的web知识工具╮(✪ω✪)╭
+
+========================
 
 9. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
 
