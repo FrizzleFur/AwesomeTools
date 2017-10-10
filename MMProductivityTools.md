@@ -76,7 +76,7 @@ convert anything to anything~
 
 2. [Noizio](http://noiz.io/)    工作安心点
 
-3. [noisli](https://www.noisli.com/) 类似 Noizio，但是web更轻~
+3. [Calm](https://www.calm.com/meditate) 类似 Noizio，但是web更轻~
 
 4. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12) a free time reminder
 
@@ -213,9 +213,12 @@ Turn drawings into code with PaintCode ~
 
 4. [幕布](https://mubu.com/)  国产WorkFlowy，拓张了一些功能，添加图片，添加文件夹，可以转成导图，还有一些用户的展示，觉得是借鉴了Processon有木有~
 
-### Infomation Handle
+### Email
 
 1. [Spark](https://sparkmailapp.com/)  Beautiful & Intelligent Email App
+
+2. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
+
 
 ### Writing
 
@@ -353,6 +356,11 @@ Turn drawings into code with PaintCode ~
 
 18. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
 19.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
+
+20. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
+
+21. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
+![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
 
 #### 油猴Pool
 1.  [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解 - 少数派](https://sspai.com/post/40485)
