@@ -334,6 +334,8 @@ Turn drawings into code with PaintCode ~
 
 9. [Diigo](https://www.diigo.com/index)  会不会是最好用的web知识工具╮(✪ω✪)╭
 
+10. [Raindrop](https://raindrop.io/app/) Rss工具
+
 ========================
 
 9. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
