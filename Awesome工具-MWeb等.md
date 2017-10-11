@@ -159,6 +159,20 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 说来惭愧的，从去年下了后，一直没有好好的去研究，很多功能没有很好地利用，从使用率上可以看到，今天是好好的去研究了一下，所以使用的比较多.
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971926107042.jpg)
 
+## TextExpander
+
+[解决中文输入法无法调用 TextExpander 6 的问题丨一日一技 - 少数派](https://sspai.com/post/35502)
+
+[解决 TextExpander 5 在中文环境下输入问题](https://medium.com/@oscargong1995/%E8%A7%A3%E5%86%B3-textexpander-5-%E5%9C%A8%E4%B8%AD%E6%96%87%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BE%93%E5%85%A5%E9%97%AE%E9%A2%98-e0a2237e2609)
+
+TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
+退出TextExpander
+再次运行TEIMPrefsetter
+将中文删除即可。
+![](http://oc98nass3.bkt.clouddn.com/15077128291686.jpg)
+
+![](http://oc98nass3.bkt.clouddn.com/15077128657833.jpg)
+这时再运行 TEIMPrefSetter.app 便不会再报错，删除 zh-中文这项，保存，重新运行 TextExpander 就 OK 了。
 
 ##  Sublime Text 3 
 
@@ -443,6 +457,174 @@ CMD+ALT+/
 [1Password for Mac 使用指南](https://jbguide.me/2014/09/03/1password-35/)
 
 ![](http://oc98nass3.bkt.clouddn.com/2017-08-07-15020711016494.jpg)
+
+
+## LaunchCenterPro
+
+[iOS 8 Widget Customisations using Launcher | MacRumors Forums](https://forums.macrumors.com/threads/ios-8-widget-customisations-using-launcher.1782093/)
+
+### 自定义iOS11设置的UrlSchemes
+>Unfortunately, Apple blocked apps from opening the Settings app to specific settings (such as WiFi, Hotspot, Battery, etc.). We’ve requested that Apple re-enable these shortcuts, but it’s unlikely they will.
+
+#### iOS11 Settings URL schemes (source topic by @CoolRick):
+```
+Settings
+App-Prefs:root
+Settings -> About
+App-Prefs:root=General&path=About
+Settings -> Accessibility
+App-Prefs:root=General&path=ACCESSIBILITY
+Settings -> Autolock
+App-Prefs:root=DISPLAY&path=AUTOLOCK
+Settings -> Background App Refresh
+App-Prefs:root=General&path=AUTO_CONTENT_DOWNLOAD
+Settings -> Battery Usage
+App-Prefs:root=BATTERY_USAGE
+Settings -> Bluetooth
+App-Prefs:root=Bluetooth
+Settings -> CallerID
+App-Prefs:root=Phone&path=CallerID
+Settings -> Cellular/Mobile
+App-Prefs:root=MOBILE_DATA_SETTINGS_ID
+Settings -> Compass
+App-Prefs:root=COMPASS
+Settings -> Control Center
+App-Prefs:root=ControlCenter
+Settings -> Date/Time
+App-Prefs:root=General&path=DATE_AND_TIME
+Settings -> Dictionary
+App-Prefs:root=General&path=DICTIONARY
+Settings -> Display/Brightness
+App-Prefs:root=DISPLAY
+Settings -> Do Not Disturb
+App-Prefs:root=DO_NOT_DISTURB
+Settings -> Facebook
+App-Prefs:root=FACEBOOK
+Settings -> Facetime
+App-Prefs:root=FACETIME
+Settings -> Flickr
+App-Prefs:root=FLICKR
+Settings -> Game Center
+App-Prefs:root=GAMECENTER
+Settings -> General
+App-Prefs:root=General
+Settings -> iCloud
+App-Prefs:root=CASTLE
+Settings -> iCloud Backup
+App-Prefs:root=CASTLE&path=BACKUP
+Settings -> iCloud Storage
+App-Prefs:root=CASTLE&path=STORAGE_AND_BACKUP
+Settings -> International
+App-Prefs:root=General&path=INTERNATIONAL
+Settings -> iTunes & App Store
+App-Prefs:root=STORE
+Settings -> Keyboard
+App-Prefs:root=General&path=Keyboard
+Settings -> Keyboard -> Keyboards
+App-Prefs:root=General&path=Keyboard/KEYBOARDS
+Settings -> Location Services
+App-Prefs:root=Privacy&path=LOCATION
+Settings -> Mail, Contacts, Calendars
+App-Prefs:root=ACCOUNT_SETTINGS
+Settings -> Manage Storage
+App-Prefs:root=General&path=STORAGE_ICLOUD_USAGE/DEVICE_STORAGE
+Settings -> Maps
+App-Prefs:root=MAPS
+Settings -> Messages
+App-Prefs:root=MESSAGES
+Settings -> Multitasking
+App-Prefs:root=General&path=MULTITASKING
+Settings -> Music
+App-Prefs:root=MUSIC
+Settings -> Music EQ
+App-Prefs:root=MUSIC&path=com.apple.Music:EQ
+Settings -> Notes
+App-Prefs:root=NOTES
+Settings -> Notifications
+App-Prefs:root=NOTIFICATIONS_ID
+Settings -> Passcode
+App-Prefs:root=PASSCODE
+Settings -> Personal Hotspot
+App-Prefs:root=INTERNET_TETHERING
+Settings -> Phone
+App-Prefs:root=Phone
+Settings -> Photos
+App-Prefs:root=Photos
+Settings -> Privacy
+App-Prefs:root=Privacy
+Settings -> Profiles
+App-Prefs:root=General&path=ManagedConfigurationList
+Settings -> Reminders
+App-Prefs:root=REMINDERS
+Settings -> Reset
+App-Prefs:root=General&path=Reset
+Settings -> Ringtone
+App-Prefs:root=Sounds&path=Ringtone
+Settings -> Safari
+App-Prefs:root=SAFARI
+Settings -> SIM/PIN
+App-Prefs:root=Phone&path=SIM%20PIN
+Settings -> Siri
+App-Prefs:root=SIRI
+Settings -> Sounds
+App-Prefs:root=Sounds
+Settings -> Software Update
+App-Prefs:root=General&path=SOFTWARE_UPDATE_LINK
+Settings -> Storage & iCloud Usage
+App-Prefs:root=General&path=STORAGE_ICLOUD_USAGE
+Settings -> Touch ID & Passcode
+App-Prefs:root=TOUCHID_PASSCODE
+Settings -> Twitter
+App-Prefs:root=TWITTER
+Settings -> Usage
+App-Prefs:root=General&path=USAGE
+Settings -> Videos
+App-Prefs:root=VIDEO
+Settings -> Vimeo
+App-Prefs:root=VIMEO
+Settings -> Volume Limit
+App-Prefs:root=MUSIC&path=com.apple.Music:VolumeLimit
+Settings -> VPN
+App-Prefs:root=General&path=VPN
+Settings -> Wallet & Apple Pay
+App-Prefs:root=PASSBOOK
+Settings -> Wallpaper
+App-Prefs:root=Wallpaper
+Settings -> Weibo
+App-Prefs:root=WEIBO
+Settings -> Wi-Fi
+App-Prefs:root=WIFI
+```
+#### Apple apps & shortcuts (are available within the app at 'App Launchers' at Settings):
+
+
+```
+- Calendar: calshow:// (current standard in Launcher, but shows 1/1/2011 as start date) I'm using calinvite://eventid=id (this does open the app, not an appointment on the current day)
+- Siri: Prefs:root=General&path=SIRI
+- Personal Hotspot: Prefs:root=INTERNET_TETHERING
+- Location Services: Prefs:root=LOCATION_SERVICES (iOS8/9)
+Prefs:root=Privacy&path=LOCATION (iOS10)
+- Cellular/Mobile Data: Prefs:root=MOBILE_DATA_SETTINGS_ID
+- Sounds: Prefs:root=Sounds
+- Notifications: Prefs:root=NOTIFICATIONS_ID
+- Background App Refresh: Prefs:root=General&path=AUTO_CONTENT_DOWNLOAD
+- Battery (iOS8): Prefs:root=General&path=USAGE/BATTERY_USAGE
+- Battery (updated for iOS 9): Prefs:root=BATTERY_USAGE
+- VPN: Prefs:root=General&path=VPN
+- Settings App: Prefs:root
+- SIM Apps: Prefs:root=Phone&path=SIMToolkit
+- Display & Brightness: Prefs:root=Display&Brightness
+- CallerID : Prefs:root=Phone&path=CallerID
+
+The use of app-Prefs:root=... allows you to launch from the app as well (besides the widget).
+
+- Apple News app: Applenews:// (iOS9 only)
+- Phone App: Mobilephone://
+- TestFlight App: itms-beta://
+- Notes: mobilenotes://
+- Clock: Clock-worldclock:// | Clock-alarm:// | Clock-stopwatch:// | Clock-timer://
+
+```
 
 
 ## Gmail
