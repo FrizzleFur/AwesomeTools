@@ -54,19 +54,19 @@
 23. [CloudConvert](https://cloudconvert.com/) 
 convert anything to anything~
 
-23. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
+24. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
 
-24. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
+25. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
 
-25. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致
+26. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致
 
-26. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+27. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
 
-27. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+28. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
 
-28. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+29. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
-29. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
+30. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
 
 ### Developing
 
@@ -130,7 +130,6 @@ convert anything to anything~
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
 
-
 ##### Xcode 
 
 1. [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) Xcode打包脚本╮(✪ω✪)╭
@@ -151,7 +150,6 @@ convert anything to anything~
 
 9. [App Icon Gear ](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html)  创建App图标、启动图LaunchImage，还可以生成自定义尺寸的图标集（Image Set）
 
-
 10.  [UIDebuggingInformationOverlay - Low Level](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/)  UIDebuggingInformationOverlay是UIWindow由苹果创建的私有子类，大概是帮助开发人员和设计师调试苹果自己的iOS应用程序。
 
 11. [PaintCodeApp](https://www.paintcodeapp.com/)
@@ -161,7 +159,7 @@ Turn drawings into code with PaintCode ~
 
 13. [Core-Animator](http://xclient.info/s/core-animator.html?_=7f6b20915b1318a0839df0a326a089e5)Core Animator 是一款能够帮助iOS或OS X开发者进行动画制作的工具,支持导出Swift和Objective-C代码，从而大量节省编码时间
 
-12. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) 将绘图转为代码
+14. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) 将绘图转为代码
 
 ##### Postman
 
@@ -196,12 +194,11 @@ Turn drawings into code with PaintCode ~
 
 ### Cloud
 
-1. [CloudApp](https://www.getcloudapp.com/)
+1. [CloudApp](https://www.getcloudapp.com/)The World's First Visual Search for Screenshots!
 
 ### Backup
 
 1. [imazing](https://imazing.com/?gclid=Cj0KCQjwruPNBRCKARIsAEYNXIh2EHR900QAkKSf8oqbjGWUies09TsHpi4Q4002qPQozdkYkqJ-UUsaAqrdEALw_wcB) Manage your iPhone. Your way.
-
 
 ### Schedule
 
@@ -218,7 +215,6 @@ Turn drawings into code with PaintCode ~
 1. [Spark](https://sparkmailapp.com/)  Beautiful & Intelligent Email App
 
 2. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
-
 
 ### Writing
 
@@ -245,6 +241,8 @@ Turn drawings into code with PaintCode ~
 11. [氢 ](http://origingroup.tech/index.zh.html)基于 Git 的 笔记、任务、待办 管理工具
 
 12. [Notion](https://www.notion.so/product)A unified & collaborative workspace for your notes, wikis, and tasks.
+
+13. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
 
 ### Statistics
 
@@ -279,7 +277,7 @@ Turn drawings into code with PaintCode ~
 
 4. [MOZE](https://www.mozeapp.com/) 挺好用记账App,作者很用心
 
-5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 拯救手指 = = 
+5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 拯救复制黏贴的手指 = = 
 
 6. [Life Cycle](https://itunes.apple.com/us/app/life-cycle-track-your-time-automatically/id1064955217?mt=8) 记录你的时间花销
 
@@ -295,14 +293,15 @@ Turn drawings into code with PaintCode ~
 
 12. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
 
-13.  [扫描王](https://itunes.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B%E5%85%8D%E8%B4%B9%E7%89%88/id388627783?mt=8) 扫描Tool
+13.  [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) OCR文字识别与翻译工具 开发者：Xinle Tao
+
 14. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
 
 15. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
 
 ### Reading
 
-[WeRead](https://weread.qq.com/)    微信读书，腾讯精心打磨的一款社交读书应用，可以听书是很不错的，看来对用户的痛点很熟悉。兑换书币也是发扬了TX一贯的创新方式。
+1. [WeRead](https://weread.qq.com/)    微信读书，腾讯精心打磨的一款社交读书应用，可以听书是很不错的，看来对用户的痛点很熟悉。兑换书币也是发扬了TX一贯的创新方式。
 
 ### Data
 
@@ -324,6 +323,7 @@ Turn drawings into code with PaintCode ~
 
 
 #### RSS Read
+
 5. [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)   开启阅读模式，一般般吧
 
 6. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
@@ -338,39 +338,44 @@ Turn drawings into code with PaintCode ~
 
 ========================
 
-9. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
-10. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
+11. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
+12. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
 
-11. [Ublock-origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)    有过滤器的Ad killer.
+13. [Ublock-origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)    有过滤器的Ad killer.
 
-12. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
+14. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
 
-13. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
+15. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
 
-14. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
+16. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
 
-15. [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf/related?hl=en) 好用`Gist`工具
+17. [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf/related?hl=en) 好用`Gist`工具
 
-16. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
+18. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
 
-17. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+19.  [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
 
-18. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
+20. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
 
-19.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
+21. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
 
-20. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
+22.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
 
-21. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
+23. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
+
+24. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
+
 ### Security
 
-22. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
+25. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
 
-23. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
+26. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
 
 #### 油猴Pool
+
 1.  [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解 - 少数派](https://sspai.com/post/40485)
+
 ### WebSite
 
 #### 资源
@@ -379,7 +384,7 @@ Turn drawings into code with PaintCode ~
 
 #### Schedule
 
-[Trello](https://trello.com/guide) 看板，`[SCRUM](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/task-boards)`工具
+1. [Trello](https://trello.com/guide) 看板，`[SCRUM](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/task-boards)`工具
 
 ### Web Helper
 
@@ -530,7 +535,7 @@ Turn drawings into code with PaintCode ~
 4. [一览](http://www.yilan.io/home/?category=_recommend)  国产RSS
 
 #### Feed Rss
-[Feedity](https://feedity.com/default.aspx) RSS feed神器
+1. [Feedity](https://feedity.com/default.aspx) RSS feed神器
 [知乎专栏RSS](https://rss.lilydjwg.me/)
 
 ### Tools
@@ -540,7 +545,6 @@ Turn drawings into code with PaintCode ~
 #### OldDriver
 
 1. [jdlingyu](http://www.jdlingyu.moe/)
-
 
 ### BodyBuilding
 
@@ -556,11 +560,11 @@ Turn drawings into code with PaintCode ~
 
 1. [jiushixing](http://www.jiushixing.com/html/hufu/meibai/)
 
-
 ### Shopping
 
 ### Sea Amoy
 
 1. [海淘族](https://www.haitaozu.org/base/17134.html)挺丰富的海淘站
+
 2. [Rakuten](http://global.rakuten.com/zh-cn/?siteID=5UNe5hkl3dM-1_Vtj7WDbFFoT2PK3Bewmg) 乐天
 
