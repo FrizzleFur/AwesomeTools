@@ -522,12 +522,19 @@ Settings -> Keyboard
 App-Prefs:root=General&path=Keyboard
 Settings -> Keyboard -> Keyboards
 App-Prefs:root=General&path=Keyboard/KEYBOARDS
+
+//定位
 Settings -> Location Services
 App-Prefs:root=Privacy&path=LOCATION
+
+
 Settings -> Mail, Contacts, Calendars
 App-Prefs:root=ACCOUNT_SETTINGS
+
+//存储空间
 Settings -> Manage Storage
 App-Prefs:root=General&path=STORAGE_ICLOUD_USAGE/DEVICE_STORAGE
+
 Settings -> Maps
 App-Prefs:root=MAPS
 Settings -> Messages
@@ -540,8 +547,10 @@ Settings -> Music EQ
 App-Prefs:root=MUSIC&path=com.apple.Music:EQ
 Settings -> Notes
 App-Prefs:root=NOTES
+
 Settings -> Notifications
 App-Prefs:root=NOTIFICATIONS_ID
+
 Settings -> Passcode
 App-Prefs:root=PASSCODE
 Settings -> Personal Hotspot
@@ -604,7 +613,9 @@ App-Prefs:root=WIFI
 - Personal Hotspot: Prefs:root=INTERNET_TETHERING
 - Location Services: Prefs:root=LOCATION_SERVICES (iOS8/9)
 Prefs:root=Privacy&path=LOCATION (iOS10)
+
 - Cellular/Mobile Data: Prefs:root=MOBILE_DATA_SETTINGS_ID
+- 
 - Sounds: Prefs:root=Sounds
 - Notifications: Prefs:root=NOTIFICATIONS_ID
 - Background App Refresh: Prefs:root=General&path=AUTO_CONTENT_DOWNLOAD
