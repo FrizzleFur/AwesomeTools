@@ -1,4 +1,4 @@
-# Awesome工具-MWeb等
+# Awesome工具
 
 ## Mweb
 
@@ -8,50 +8,54 @@
 
  名称 | 快捷键
  --- | --- | --- 
-1.  外部模式      |      `Cmd + E`
-2.  文档库模式   |     `Cmd + L`
+1.  外部模式      |      `⌘ + E`
+2.  文档库模式   |     `⌘ + L`
 
-#### 编辑器设置
-
- 名称 | 快捷键
- --- | --- | --- 
-3.  切换主题     | `Cmd + Option + L`
-4.  显示编辑器    |       `Cmd + 1`
-5.  显示文件夹目录  |     `Cmd + 2`
-6.  文档预览     |        `Cmd + 4`
-7.  文档目录     |      `Cmd + 7`
-8.  文档导出     |      `Cmd + 9`
-9.  文档属性     |      `Cmd + 8`
-10. 标签切换      |      `Cmd + Shift + { / }`
-11. 焦点于编辑器    |     `Cmd + Shift + E`
-12. 焦点于搜索框    |     `Cmd + Shift + F`
-
-#### 编辑设置
+#### 编辑器
 
  名称 | 快捷键
  --- | --- | --- 
-13. 行内代码   |        `Cmd + K`
-14. 代码块    |         `Cmd + Shift + K`
-15. 设置标题    |      `Ctr + 1~6`
-16. 无序列表   |       `Ctr + U`
-17. 加粗      |       `Cmd + B`
-18. 高亮       |     `Cmd + =`
-19. 注释       |      `Cmd + /`
-20. 注释More   |      `Cmd + .`
-21. 新段落     |   `Cmd + Enter`
+3.  切换主题     | `⌘ + ⌥ + L`
+4.  显示编辑器    |       `⌘ + 1`
+5.  显示文件夹目录  |     `⌘ + 2`
+6.  文档预览     |        `⌘ + 4`
+7.  文档目录     |      `⌘ + 7`
+8.  文档导出     |      `⌘ + 9`
+9.  文档属性     |      `⌘ + 8`
+10. 标签切换      |      `⌘ + ⇧ + { / }`
+11. 焦点于编辑器    |     `⌘ + ⇧ + E`
+12. 焦点于搜索框    |     `⌘ + ⇧ + F`
+
+#### 文本编辑
+
+ 名称 | 快捷键
+ --- | --- | --- 
+13. 行内代码   |        `⌘ + K`
+14. 代码块    |         `⌘ + ⇧ + K`
+15. 设置标题    |      `⌃ + 1~6`
+16. 无序列表   |       `⌃ + U`
+17. 加粗      |       `⌘ + B`
+18. 高亮       |     `⌘ + =`
+19. 注释       |      `⌘ + /`
+20. 注释More   |      `⌘ + .`
+21. 新段落     |   `⌘ + ↵`
+22. 表格       |    `⌃ + ⇧ + T`
+23. 引用         |   `⇧ + ⌘ + B`⌃
+24. 表情符号  |   `⌃ + ⌘ + 空格`
 
 #### 图片链接
 
  名称 | 快捷键
  --- | --- | --- 
-22. 添加图片   |     `Ctr + Shift + I`
-23. 上传图片   |    `Cmd + Option + I`
-24. 链接       |     `Ctr + Shift + L`
-25. 表格       |   `Ctr + Shift + T`
+22. 添加图片   |     `⌃ + ⇧ + I`
+23. 上传图片   |    `⌘ + ⌥ + I`
+24. 链接       |     `⌃ + ⇧ + L`
+25. 表格       |   `⌃ + ⇧ + T`
 
 
 ### 附`Markdown`空格和换行
->在用Markdown有时候需要额外添加空格和换行,怎么办呢？使用`Html`的代码吧。
+
+在用Markdown有时候需要额外添加空格和换行,怎么办呢？使用`Html`的代码吧。
 
 #### 换行
 `&nbsp;`
@@ -111,7 +115,7 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 
 
 ### 使用`Alfred`
-最方便的使用就是使用`double Cmd`唤起`Alfred`啦~
+最方便的使用就是使用`double ⌘`唤起`Alfred`啦~
 
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971930469078.jpg)
 
@@ -129,11 +133,11 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 还提供了`in`、`find`、`open`命令，`in`可以在文件中查找内容，╮(✪ω✪)╭这不就是finder的搜索吗？
 `find`查找文件所在目录，`open`打开文件
 
-可以设置模糊搜索`Fuzzy Search`， 建议打开使用方向键切换文件层次，灰常方便︿(￣︶￣)︿， 而且，直接可以使用`previous`或者`Cmd + Option + /`来调起之前的文件路径~
+可以设置模糊搜索`Fuzzy Search`， 建议打开使用方向键切换文件层次，灰常方便︿(￣︶￣)︿， 而且，直接可以使用`previous`或者`⌘ + ⌥ + /`来调起之前的文件路径~
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971944102207.jpg)
 
 
-当然，你还可以通过`Option + 上/下`来选择多个常用路径╮(✪ω✪)╭，然后使用`Option + <-`进行处理（打开,删除,拷贝路径等），或者`Option + ->`删除路径
+当然，你还可以通过`⌥ + ⇣/⇡`来选择多个常用路径╮(✪ω✪)╭，然后使用`⌥ + <-`进行处理（打开,删除,拷贝路径等），或者`⌥ + ->`删除路径
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971947576784.jpg)
 
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971947493583.jpg)
@@ -149,15 +153,23 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 
 ### 黏贴板
 常用信息，不过，`Paste`也是非常好用
-`Cmd + Option + C`
+`⌘ + ⌥ + C`
 ### Snippets
 
-`Cmd + Option + S`
+`⌘ + ⌥ + S`
 
 ### 使用情况
 
 说来惭愧的，从去年下了后，一直没有好好的去研究，很多功能没有很好地利用，从使用率上可以看到，今天是好好的去研究了一下，所以使用的比较多.
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971926107042.jpg)
+
+## Surfingkeys
+
+>快捷键
+
+
+
+
 
 ## TextExpander
 
@@ -180,36 +192,38 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 
 ### 主要快捷键
 
-`Command + Shift + P`
+``⌘ + ⇧ + P`
 
 刚才已经介绍过了，打开 Package Control 命令面板，支持模糊搜索。
 
-`Command + P`
+`⌘ + P`
 
 根据文件名打开文件。比如想打开`~/Sites/index.html`，你只要在输入框中输入`~/Sites/index.html`即可，支持模糊匹配，比如~/index。
 
-`Command + R`
+`⌘ + R`
 
 查找函数。比如输入log，能找到所有名带 log 的方法，输入 loginout，则能定位到 loginout()。输入框中自动出现的 @ 符号，就是要匹配方法的意思。
 
-定位到行：`Command + G`，或Command + P后，在框中输入:行数，如:58，则要跳转到58行去。
+定位到行：`⌘ + G`，或`⌘ + P`后，在框中输入:行数，如:58，则要跳转到58行去。
 
-查找标识:`Command + P`后，#标识。
+查找标识:`⌘ + P`后，#标识。
 
-`Command + D`
+`⌘ + D`
 
-同时修改多个相同代码。先选中一段要修改的代码，然后`Command + D`，会向下连选相同的那段代码，重复，直到满意为止。虽然「查找/替换」功能可以做到同样的效果，不过此种操作方法更直观和可控。
+同时修改多个相同代码。先选中一段要修改的代码，然后`⌘ + D`，会向下连选相同的那段代码，重复，直到满意为止。虽然「查找/替换」功能可以做到同样的效果，不过此种操作方法更直观和可控。
 
-`Command + F`
-
+`⌘ + F`
+`⌘
 查找搜索。这个就不多介绍了吧：
 
-回车查找下一个，`Shift + 回车`，查找上一个。
-`Command + H`，查找替换。
-`Command + Shift + F`，可以叫全项目查找，就是在当前打开的项目中，根据所输入的字符进行查找搜索。
+回车查找下一个，`⇧ + ↵`，查找上一个。
+`⌘ + H`，查找替换。
+`⌘ + ⇧ + F`，可以叫全项目查找，就是在当前打开的项目中，根据所输入的字符进行查找搜索。
 
 
 基本编辑（Basic Editing）
+
+```
 ⇣⇡⇠⇢ 就是 ⇣⇡⇠⇢，不是 KJHL。
 
 ⌘ Command() 
@@ -218,237 +232,238 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 ⇧ Shift 
 ⇪ Caps Lock(大写) 
 fn 功能键就是fn 
-↩︎ return/Enter
+↩︎ return/↵
+```
 
-⌃ + ↩︎ or ↩︎ 当前行下面新增一行然后跳至该行； 
-⌃ + ⇧ + ↩︎ 当前行上面增加一行并跳至该行； 
-⌥ + ⇠/⇢ 进行逐词移动，相应的； 
-⌥ + ⇧ + ⇠/⇢ 进行逐词选择； 
-⌘ + ⇣/⇡ 移动到首行/尾行； 
-⌘ + U 返回到历史光标位置(撤销)； 
-⌃ + M 可以快速的在起始括号和结尾括号间切换； 
-⌃ + ⇧ + M 则可以快速选择括号间的内容； 
-⌃ + ⇧ + J 对于缩进型语言(例如Python)则可以使用； 
-⌃ + ⌘ + D 复制整行；
+`⌃ + ↩︎ or ↩︎` 当前行下面新增一行然后跳至该行； 
+`⌃ + ⇧ + ↩︎` 当前行上面增加一行并跳至该行； 
+`⌥ + ⇠/⇢` 进行逐词移动，相应的； 
+`⌥ + ⇧ + ⇠/⇢` 进行逐词选择； 
+`⌘ + ⇣/⇡` 移动到首行/尾行； 
+`⌘ + U` 返回到历史光标位置(撤销)； 
+`⌃ + M` 可以快速的在起始括号和结尾括号间切换； 
+`⌃ + ⇧ + M` 则可以快速选择括号间的内容； 
+`⌃ + ⇧ + J` 对于缩进型语言(例如Python)则可以使用； 
+`⌃ + ⌘ + D` 复制整行；
 
 选择（Selecting）
-⌘ + D 选择当前光标所在的词并高亮该词出现的所有位置； 
-再次 ⌘ + D 选择该词出现的下一个位置； 
-使用 ⌘ + U 进行回退，使用Esc退；
+`⌘ + D` 选择当前光标所在的词并高亮该词出现的所有位置； 
+再次 `⌘ + D` 选择该词出现的下一个位置； 
+使用 `⌘ + U` 进行回退，使用Esc退；
 
-⌘ + K + K 从光标处删除到行末尾； 
-⌃ + K 同上 ⌘ + KK
+`⌘ + K + K` 从光标处删除到行末尾； 
+`⌃ + K` 同上 `⌘ + KK`
 
-进行同时编辑，⌃ + ⇧ + L 可以将光标移动到每行的结束
+进行同时编辑，`⌃ + ⇧ + L` 可以将光标移动到每行的结束
 
-⌘ + ⇧ + ⇠ 选择光标到这一行第一个字符出现的位置 
-⌃ + ⇧ + A 选择光标到这一行最前面的(包括缩进)位置
+`⌘ + ⇧ + ⇠` 选择光标到这一行第一个字符出现的位置 
+`⌃ + ⇧ + A` 选择光标到这一行最前面的(包括缩进)位置
 
 代码展开
-⌃ + K0 代码展开
+`⌃ + K0` 代码展开
 
 改为大写或者小写
-⌃ + KL 改为小写 
-⌃ + UK 改为大写
+`⌃ + KL` 改为小写 
+`⌃ + UK` 改为大写
 
 合并
-⌘ + J 可以把当前选中区域合并为一行
+`⌘ + J` 可以把当前选中区域合并为一行
 
 跳转指定行
-⌃ + G 然后输入行号以跳转到指定行：
+`⌃ + G `然后输入行号以跳转到指定行：
 
 组合跳转
-⌘ + P 我们可以进行后续输入以跳转到更精确的位置： 
+`⌘ + P` 我们可以进行后续输入以跳转到更精确的位置： 
 @ 符号跳转：输入 @symbol 跳转到symbol符号所在的位置 
 # 关键字跳转：输入 #keyword 跳转到keyword所在的位置 
 : 行号跳转：输入 :12 跳转到文件的第12行。
 
 启动终端(Terminal插件)
-⌃ + ⌘ + T
+`⌃ + ⌘ + T`
 
 设置启动 iTerm 
-打开配置文件 preferences > Package Setting > Terminal > Setting - Default 
+打开配置文件 `preferences > Package Setting > Terminal > Setting - Default `
 设置 "terminal": "iTerm.sh"
 
 默认打开侧边栏
-cmd(ctrl) + k -> b。 
+`⌘(⌃) + k -> b`。 
 
 
 
 ### 安装Package Control插件
 [Mac OS上sublime text 3的安装与配置 - tabalt的博客](http://tabalt.net/blog/install-sublime-text-3-on-mac/)
-安装Package Control是扩展你的sublime的第一步，可以通过Package Control很方便的安装其他插件。最简单的安装方式是按 ctrl + ` ，然后在下方弹出的输入框中输入如下代码并回车：
+安装`Package Control`是扩展你的sublime的第一步，可以通过Package Control很方便的安装其他插件。最简单的安装方式是按 ⌃ + ` ，然后在下方弹出的输入框中输入如下代码并回车：
 
+```
   import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)
-不出意外的话，Package Control就会安装成功。如果你不知道是否安装成功，可以查看是否存在菜单 Preferences > Package Control，存在则已经正确安装；或者按shift + command + p。 如果你的版本不是 3，或者安装有问题，可以查看Package Control的官网上的安装教程：
+```
+不出意外的话，`Package Control`就会安装成功。如果你不知道是否安装成功，可以查看是否存在菜单 `Preferences > Package Control`，存在则已经正确安装；或者按`⇧ + ⌘ + p`。 如果你的版本不是 3，或者安装有问题，可以查看Package Control的官网上的安装教程：
+[Installation - Package Control](https://sublime.wbond.net/installation)  
 
-  https://sublime.wbond.net/installation
-安装markdown preview插件
+#### 安装`markdown preview`插件
 
-markdown preview是sublime下预览markdown文件的插件，按shift + command + p打开我们前面安装的Package Control插件的面板，输入install然后回车，在弹出的面板输入markdown preview再回车，即可完成安装。
-
-安装SidebarEnhancements插件
-
-SidebarEnhancements是增强侧边栏的插件，安装方法同上。
+`markdown preview`是sublime下预览markdown文件的插件，按⇧ + command + p打开我们前面安装的Package Control插件的面板，输入install然后回车，在弹出的面板输入markdown preview再回车，即可完成安装。
+安装`SidebarEnhancements`插件
+`SidebarEnhancements`是增强侧边栏的插件，安装方法同上。
 
 
 ##  iTerm2
 
 ```
 Editing
-CMD+;
+⌘+;
 
 Autocomplete
-CMD+SHIFT+H
+⌘+⇧+H
 
 Paste history
-CMD+ALT+B
+⌘+ALT+B
 
 Instant replay
-CTRL+A
+⌃+A
 
 To the begining of line
-CTRL+E
+⌃+E
 
 To the end of line
-CTRL+F
+⌃+F
 
 Forward one character
-CTRL+B
+⌃+B
 
 Backward one character
-CTRL+D
+⌃+D
 
 Delete current character
-CTRL+H
+⌃+H
 
 Delete previous character
-CTRL+W
+⌃+W
 
 Kill the word behind the point
-CTRL+K
+⌃+K
 
 Kill text from the point to the end of the line
-CTRL+P
+⌃+P
 
 Previous history
 
-CTRL+R
+⌃+R
 History reverse search
 
 Tab Navigation
-CMD+T
+⌘+T
 
 Open new tab
 
-CMD+W
+⌘+W
 Close current tab
 
-CMD+1-9
+⌘+1-9
 Go to tab
 
-CMD+SHIFT+]
-CMD+N
+⌘+⇧+]
+⌘+N
 
-CMD+Arrow Left
+⌘+Arrow Left
 
 Next tab
-CMD+SHIFT+[
+⌘+⇧+[
 
-CMD+P
+⌘+P
 
-CMD+Arrow Right
+⌘+Arrow Right
 
 Previous tab
-CMD+ALT+E
+⌘+ALT+E
 
 Expose feature, showing all tabs
 Pane Navigation
-CMD+D
+⌘+D
 
 Split pane left-right
-CMD+SHIFT+D
+⌘+⇧+D
 
 Split pane top-bottom
-CMD+ALT+H
+⌘+ALT+H
 
 Split pane left-right with new profile
-CMD+ALT+V
+⌘+ALT+V
 
 Split pane top-bottom with new profile
-CMD+W
+⌘+W
 
 Close current pane
-CMD+]
+⌘+]
 
 Next pane
-CMD+[
+⌘+[
 
 Previous pane
-CMD+ALT+I
+⌘+ALT+I
 
 Input to all panes in current tab
 Search
-CMD+F
+⌘+F
 
 Open search bar
-CMD+G
+⌘+G
 
 Find next
 Mark
-CMD+SHIFT+M
+⌘+⇧+M
 
 Set Mark
-CMD+SHIFT+J
+⌘+⇧+J
 
 Jump to Mark
 Clear Screen
-CMD+K
+⌘+K
 
 Clear buffer
-CTRL+L
+⌃+L
 
 Move current line to the top
 Font Resizing & Zooming
-CMD+ALT+=
+⌘+ALT+=
 
 Toggle maximize window
-CMD+Return
+⌘+Return
 
 Toggle full screen
-CMD+SHIFT+Return
+⌘+⇧+Return
 
 Maximize current pane
-CMD+W
+⌘+W
 
 Close current pane
-CMD+"+"
+⌘+"+"
 
 Make font larger
-CMD+"-"
+⌘+"-"
 
 Make font smaller
 Broadcast Input
-CMD+SHIFT+I
+⌘+⇧+I
 
 Broadcast input to all panes in all tabs
-CMD+ALT+I
+⌘+ALT+I
 
 Broadcast input to all panes in current tab
 Shell Integration
-CMD+SHIFT+Arrow Up
+⌘+⇧+ ⇡
 
 Go to previous mark
-CMD+SHIFT+Arrow Down
+⌘+⇧+⇣
 
 Go to next mark
-CMD+ALT+A
+⌘+ALT+A
 
 Alert on next mark
-CMD+SHIFT+;
+⌘+⇧+;
 
 Show command history
-CMD+ALT+/
+⌘+ALT+/
 
 ```
 
@@ -666,21 +681,21 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 1
 清理所有已读邮件
 以Clean out Your Gmail Inbox Step 1 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
 1
 登录你的Gmail账户。
 以Clean out Your Gmail Inbox Step 2 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
 2
 接下来，在Gmail搜索框里输入“in:inbox is:read”（不包括引号），然后点击蓝色的邮件搜索按钮。你将能看到你最近已读的一些邮件。
 以Clean out Your Gmail Inbox Step 3 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
@@ -690,7 +705,7 @@ spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chro
 4
 点击列表顶部的“搜索所有匹配的邮件”链接。这会确保你选中所有匹配的结果，即使它不在第一页上。
 以Clean out Your Gmail Inbox Step 5 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
@@ -702,28 +717,28 @@ spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chro
 1
 确定为了避免错失重要信息，而查看的未读邮件的最早日期。这可能会取决于你在上面花费的时间，以及未读邮件的积累速度。1到3个月是很好的时间。超过这个时间的邮件，如果很重要的话，发送者会重新发送一遍，不重要的话，也就没有必要看了。假设，我们选择2009年八月一日。
 以Clean out Your Gmail Inbox Step 6 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
 2
 在搜索栏中输入“in:inbox before:2012/01/01”（日期可以任选），然后点击“搜索”。日期的格式很重要，它必须是“YYYY/MM/DD”格式，第一个四位数字代表年份，然后是月份，最后是日。
 以Clean out Your Gmail Inbox Step 7 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
 3
 点击“全部”，然后选择“选择所有符合条件的邮件”，就像你之前做的一样。
 以Clean out Your Gmail Inbox Step 8 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
 4
 深吸一口气，然后选择“删除”，删除所有邮件。在确认框中选择“确定”，所有邮件都会移到垃圾桶里。
 以Clean out Your Gmail Inbox Step 9 preview为标题的图片
-spaceplay / pause escstop ffullscreen shift + ←→slower / faster (latest Chrome and Safari)
+spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
 ↑↓volume mmute
 ←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
 
