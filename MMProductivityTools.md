@@ -106,6 +106,8 @@ convert anything to anything~
 
 17. [3 Minute Mindfulness](https://itunes.apple.com/us/app/3-minute-mindfulness-meditation-and-breathing/id982502810?mt=8)Meditation and Breathing
 
+18. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 网易云音乐会员纯净版 😜
+
 #### Developing Tools
 
 ##### Objective-C
