@@ -436,6 +436,9 @@ Turn drawings into code with PaintCode ~
 
 #### Alfred Pool
 
+
+0. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
+
 1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
 
 2. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
