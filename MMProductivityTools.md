@@ -436,7 +436,7 @@ Turn drawings into code with PaintCode ~
 
 #### Alfred Pool
 
-1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool
+1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
 
 2. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
 
