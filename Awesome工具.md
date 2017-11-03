@@ -287,6 +287,19 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 说来惭愧的，从去年下了后，一直没有好好的去研究，很多功能没有很好地利用，从使用率上可以看到，今天是好好的去研究了一下，所以使用的比较多.
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971926107042.jpg)
 
+
+### Alfred问题
+
+[和谐版的Alfred 3 在每次开机后，都会提示“是否允许访问通讯录”的弹窗，让人不胜其烦。](http://xclient.info/a/761216bf-0737-5592-0ba8-8fbc5f31b3e6.html?_=75ebe0a762462e5265640b26094a4fdb)
+
+#### 处理方法
+打开终端（或iTerm2）
+
+```
+sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Alfred\ Framework
+```
+
+
 ## TextExpander
 
 [解决中文输入法无法调用 TextExpander 6 的问题丨一日一技 - 少数派](https://sspai.com/post/35502)
