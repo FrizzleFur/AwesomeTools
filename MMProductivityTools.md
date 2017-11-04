@@ -68,6 +68,9 @@ convert anything to anything~
 
 30. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
 
+31. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
+
+
 ### Developing
 
 #### Developing Helper
@@ -257,6 +260,12 @@ Turn drawings into code with PaintCode ~
 ### Automator
 [automator-workflows](https://github.com/sparanoid/automator-workflows)
 
+###  Fun
+
+1. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+
+
+
 ------
 
 ## PC
@@ -377,6 +386,26 @@ Turn drawings into code with PaintCode ~
 #### 油猴Pool
 
 1.  [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解 - 少数派](https://sspai.com/post/40485)
+
+2. [百度网盘直接下载助手](https://greasyfork.org/zh-CN/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)直接下载百度网盘和百度网盘分享的文件,避免下载文件时调用百度网盘客户端,获取网盘文件的直接下载地址 ╮(✪ω✪)╭解决了我的需求
+3. 
+###### 下载助手无法显示
+方法一： [临时解决显示下载助手（一星期测试报告）](https://greasyfork.org/zh-CN/forum/discussion/23133/x)
+
+把百度助手脚本第490行
+```
+$('div.'+wordMap['default-dom']+' div.'+wordMap['bar']+' div.'+wordMap['list-tools']).append($dropdownbutton); 
+```
+改成
+```
+$('div.'+wordMap['list-tools']).append($dropdownbutton);
+```
+方法2 ：
+[【亲测可用】针对下载助手无法显示 - Greasy Forum](https://greasyfork.org/zh-CN/forum/discussion/27094/x)
+把脚本编辑器490行替换成：
+```
+- $('div.'+wordMap['default-dom']+' div.'+wordMap['bar']+' div.'+wordMap['list-tools']).append($dropdownbutton); + $('div.'+wordMap['list-tools']).append($dropdownbutton)
+```
 
 ### WebSite
 

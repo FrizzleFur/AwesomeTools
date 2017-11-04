@@ -299,7 +299,6 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Alfred\ Framework
 ```
 
-
 ## TextExpander
 
 [解决中文输入法无法调用 TextExpander 6 的问题丨一日一技 - 少数派](https://sspai.com/post/35502)
