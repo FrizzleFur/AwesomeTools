@@ -70,6 +70,8 @@ convert anything to anything~
 
 31. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
+32. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
+
 
 ### Developing
 
@@ -110,7 +112,6 @@ convert anything to anything~
 17. [3 Minute Mindfulness](https://itunes.apple.com/us/app/3-minute-mindfulness-meditation-and-breathing/id982502810?mt=8)Meditation and Breathing
 
 18. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 网易云音乐会员纯净版 😜
-
 
 19. [Prism](https://github.com/12207480/Prism)Application Performance Management & Monitoring for iOS (APM) iOS应用程序性能管理
 
