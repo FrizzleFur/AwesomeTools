@@ -79,6 +79,13 @@ convert anything to anything~
 打开后会看到一个钥匙 🔑的形状
 双击要是🔑，然后可能会显示已激活（反正我是这样）然后点击上方的大大的黑色的锁 🔒，
 ```
+
+33. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
+参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
+
+34. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
+
+
 ### Developing
 
 #### Developing Helper
