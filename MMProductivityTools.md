@@ -71,8 +71,14 @@ convert anything to anything~
 31. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
 32. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
-
-
+[【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
+```
+粘贴上帖提到的一键激活工具 百度云盘链接: <https://pan.baidu.com/s/1hsv6JL6> 密码: `rt2h`
+下载成功之后，记得重新安装office2016 不要登陆。
+然后打开刚下载的破解程序
+打开后会看到一个钥匙 🔑的形状
+双击要是🔑，然后可能会显示已激活（反正我是这样）然后点击上方的大大的黑色的锁 🔒，
+```
 ### Developing
 
 #### Developing Helper
@@ -223,7 +229,9 @@ Turn drawings into code with PaintCode ~
 
 1. [Spark](https://sparkmailapp.com/)  Beautiful & Intelligent Email App
 
-2. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
+2. [Boxy](https://itunes.apple.com/cn/app/boxy.-inbox-by-gmail-email/id1053031090?mt=12) Inbox For mac
+
+3. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
 
 ### Writing
 
