@@ -33,44 +33,46 @@
 
 13. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
 
-14. [Flux](https://justgetflux.com/) 拯救你的视力
+14.  [轻松便捷爱截图](http://jietu.qq.com/) 轻松便捷爱截图,和`snip`都是腾讯下的截图工具，多了录屏功能
 
-15. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
+15. [Flux](https://justgetflux.com/) 拯救你的视力
 
-16. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
+16. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
 
-17. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
+17. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
 
-18. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
+18. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
 
-19. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
+19. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
 
-20. [Surge](https://nssurge.com/) 未使用过
+20. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
 
-21. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
+21. [Surge](https://nssurge.com/) 未使用过
 
-22. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+22. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
 
-23. [CloudConvert](https://cloudconvert.com/) 
+23. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+
+24. [CloudConvert](https://cloudconvert.com/) 
 convert anything to anything~
 
-24. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
+25. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
 
-25. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
+26. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
 
-26. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致
+27. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致
 
-27. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+28. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
 
-28. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+29. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
 
-29. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+30. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
-30. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
+31. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
 
-31. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
+32. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
-32. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
+33. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
 [【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 ```
 粘贴上帖提到的一键激活工具 百度云盘链接: <https://pan.baidu.com/s/1hsv6JL6> 密码: `rt2h`
@@ -80,10 +82,10 @@ convert anything to anything~
 双击要是🔑，然后可能会显示已激活（反正我是这样）然后点击上方的大大的黑色的锁 🔒，
 ```
 
-33. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
+34. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
 
-34. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
+35. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
 
 
 ### Developing
@@ -127,6 +129,8 @@ convert anything to anything~
 18. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 网易云音乐会员纯净版 😜
 
 19. [Prism](https://github.com/12207480/Prism)Application Performance Management & Monitoring for iOS (APM) iOS应用程序性能管理
+
+20. [图标工厂](http://icon.wuruihong.com/icon/5Dldw1M9#/ios) 图标生成工厂，一键生成所需尺寸
 
 #### Developing Tools
 
