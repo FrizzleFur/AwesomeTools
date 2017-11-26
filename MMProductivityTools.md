@@ -132,6 +132,9 @@ convert anything to anything~
 
 20. [图标工厂](http://icon.wuruihong.com/icon/5Dldw1M9#/ios) 图标生成工厂，一键生成所需尺寸
 
+21. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, an open-source keystroke visualizer.
+![](https://github.com/keycastr/keycastr/raw/master/assets/preview.png)
+
 #### Developing Tools
 
 ##### Objective-C
@@ -286,8 +289,6 @@ Turn drawings into code with PaintCode ~
 ###  Fun
 
 1. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
-
-
 
 ------
 
