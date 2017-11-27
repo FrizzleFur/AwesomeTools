@@ -489,7 +489,6 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 #### Alfred Pool
 
-
 0. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
 
 1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
@@ -517,6 +516,9 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 12. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
 
 13.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
+
+14.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
+
 
 ### Career
 
