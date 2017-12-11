@@ -275,6 +275,8 @@ Turn drawings into code with PaintCode ~
 
 13. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
 
+14.  [Typora](https://www.typora.io/) 极简MarkDown
+
 ### Statistics
 
 1. [TimeRescue](https://www.rescuetime.com/)
