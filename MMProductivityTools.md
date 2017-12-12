@@ -277,6 +277,8 @@ Turn drawings into code with PaintCode ~
 
 14.  [Typora](https://www.typora.io/) 极简MarkDown
 
+15. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字
+
 ### Statistics
 
 1. [TimeRescue](https://www.rescuetime.com/)
