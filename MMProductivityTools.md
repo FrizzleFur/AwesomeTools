@@ -485,13 +485,15 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 1. [Xclient](xclient.info) Tool Pool
 
-2. [Waitsun](https://www.waitsun.com/) Tool Pool
+2. [数字逻辑](https://www.softosx.com/) Tool Pool
 
-3. [Sdifen](http://www.sdifen.com/) Small Tool Pool
+3. [Waitsun](https://www.waitsun.com/) Tool Pool
 
-4. [Sspai.com](https://sspai.com/) Tool Guide
+4. [Sdifen](http://www.sdifen.com/) Small Tool Pool
 
-5. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本
+5. [Sspai.com](https://sspai.com/) Tool Guide
+
+6. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本
 
 #### Alfred Pool
 
