@@ -371,7 +371,7 @@ Turn drawings into code with PaintCode ~
 
 8. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；[SimpRead 简悦 - 让你瞬间进入沉浸式阅读的 Chrome extension](http://ksria.com/simpread/gallery/)简悦有更新啦，加入了对`Instapaper`的支持，作者很高效
 
-9. [Linnk](https://linnk.net/) 全能书签管家
+9. [Linnk](https://linnk.net/) 全能书签管家[Chrome拓展](https://chrome.google.com/webstore/detail/linnk/bflmgpechpeohjfomgfdkkfcbhfcjohl)
 
 10. [Diigo](https://www.diigo.com/index)  会不会是最好用的web知识工具╮(✪ω✪)╭
 
