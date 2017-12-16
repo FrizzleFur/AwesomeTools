@@ -446,6 +446,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 1. [周读](http://www.ireadweek.com/)电子书资源
 2. [you-get](soimort/you-get: Dumb downloader that scrapes the web) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
+3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
 
 #### Schedule
 
