@@ -132,7 +132,7 @@ convert anything to anything~
 
 20. [图标工厂](http://icon.wuruihong.com/icon/5Dldw1M9#/ios) 图标生成工厂，一键生成所需尺寸
 
-21. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, an open-source keystroke visualizer.
+21. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, 快捷键图示an open-source keystroke visualizer.
 ![](https://github.com/keycastr/keycastr/raw/master/assets/preview.png)
 
 #### Developing Tools
