@@ -327,7 +327,7 @@ Turn drawings into code with PaintCode ~
 
 8. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 作者开发的过程方法值得学习
 
-9. [Shadowrocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀
+9. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)
 
 10. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) Habit Manager
 
