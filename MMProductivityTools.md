@@ -132,7 +132,7 @@ convert anything to anything~
 
 20. [图标工厂](http://icon.wuruihong.com/icon/5Dldw1M9#/ios) 图标生成工厂，一键生成所需尺寸
 
-21. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, an open-source keystroke visualizer.
+21. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, 快捷键图示an open-source keystroke visualizer.
 ![](https://github.com/keycastr/keycastr/raw/master/assets/preview.png)
 
 #### Developing Tools
@@ -445,6 +445,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 #### 资源
 
 1. [周读](http://www.ireadweek.com/)电子书资源
+2. [you-get](soimort/you-get: Dumb downloader that scrapes the web) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
+3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
 
 #### Schedule
 
