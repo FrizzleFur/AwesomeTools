@@ -389,6 +389,30 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 
 需要注意的是，中文自然语句输入只在中文系统下生效。如果将 iOS 系统语言设置为英文的话，「相对时间」的中文自然语句会失效，「绝对时间」则不会。
 
+##  TotalFinder
+
+[TotalFinder Compatibility](https://totalfinder.binaryage.com/compatibility)
+
+注意最新的`10.12`和`10.13`安装时，需要在启动终端中修改系统的安全性才能安装。
+这里提供一个注册码：
+
+```
+Name: Kevin Kelley
+Key:  GAWAE-FBZK3-X4M62-5L9UJ-JLGUL-A6LCG-MBLQT-S9HQC-CRN99-JC7GB-FRFDZ-WCDYZ-DFPRA-5LD2R-CLLM
+```
+
+Compatibility
+Here you can find latest TotalFinder releases compatible with individual OS versions:
+
+OS X 10.13 (High Sierra)install the latest version, but needs a system tweak
+OS X 10.12 (Sierra)install the latest version, but needs a system tweak
+OS X 10.11 (El Capitan)install the latest version, but needs a system tweak
+OS X 10.10 (Yosemite) install version 1.9.3
+OS X 10.9 (Mavericks) install version 1.9.3
+OS X 10.8 (Mountain Lion) install version 1.6.27
+OS X 10.7 (Lion) install version 1.5.38
+OS X 10.6 (Snow Leopard) install version 1.3.4
+
 ## TextExpander
 
 [解决中文输入法无法调用 TextExpander 6 的问题丨一日一技 - 少数派](https://sspai.com/post/35502)
@@ -492,9 +516,9 @@ fn 功能键就是fn
 
 组合跳转
 `⌘ + P` 我们可以进行后续输入以跳转到更精确的位置： 
-@ 符号跳转：输入 @symbol 跳转到symbol符号所在的位置 
-# 关键字跳转：输入 #keyword 跳转到keyword所在的位置 
-: 行号跳转：输入 :12 跳转到文件的第12行。
+`@` 符号跳转：输入 @symbol 跳转到symbol符号所在的位置 
+ `#` 关键字跳转：输入 #keyword 跳转到keyword所在的位置 
+`:` 行号跳转：输入 :12 跳转到文件的第12行。
 
 启动终端(Terminal插件)
 `⌃ + ⌘ + T`
