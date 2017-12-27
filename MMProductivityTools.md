@@ -312,6 +312,10 @@ Turn drawings into code with PaintCode ~
 ### Productivity
 
 1. [WorkFlow](https://workflow.is/) 重复的Flow交给我！
+    - 1.1 [计算到达时间](https://workflow.is/workflows/d5a58dfbea024811ae39b69e1cc9ace0)
+    - 1.2 [网页转MarkDown](https://workflow.is/workflows/a4b12846564a400d970574916770f57e)
+    - 1.3 [AppStore 地区切换](https://workflow.is/workflows/c0159db5a2f84595bad0fbe88b376834)
+
 
 2. [IFTTT](https://ifttt.com/discover) 条件触发交给我！
 
