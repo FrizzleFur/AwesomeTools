@@ -145,9 +145,10 @@ convert anything to anything~
 [WWDC for mac](https://wwdc.io/) [Best iOS Learning Resource](https://github.com/insidegui/WWDC)
 
 
-##### iOS Demo Pool
+##### iOS Resource Pool
 
 1. [awesome-ios](https://github.com/vsouza/awesome-ios)
+2. [The best FRP iOS resources.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 
 ##### Git
 
@@ -316,7 +317,6 @@ Turn drawings into code with PaintCode ~
     - 1.2 [网页转MarkDown](https://workflow.is/workflows/a4b12846564a400d970574916770f57e)
     - 1.3 [AppStore 地区切换](https://workflow.is/workflows/c0159db5a2f84595bad0fbe88b376834)
 
-
 2. [IFTTT](https://ifttt.com/discover) 条件触发交给我！
 
 3. [涂手](http://www.toshow.com/) 
@@ -449,6 +449,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 #### 资源
 
 1. [周读](http://www.ireadweek.com/)电子书资源
+2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
 2. [you-get](soimort/you-get: Dumb downloader that scrapes the web) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
 3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
 
