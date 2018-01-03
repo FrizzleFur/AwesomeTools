@@ -424,8 +424,10 @@ Turn drawings into code with PaintCode ~
 
 1.  [用 Chrome 的人都需要知道的「神器」扩展：「油猴」使用详解 - 少数派](https://sspai.com/post/40485)
 
-2. [百度网盘直接下载助手](https://greasyfork.org/zh-CN/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)直接下载百度网盘和百度网盘分享的文件,避免下载文件时调用百度网盘客户端,获取网盘文件的直接下载地址 ╮(✪ω✪)╭解决了我的需求
-3. 
+2. [Userscript+: 显示当前网站所有可用的UserJS脚本](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs) 打开一个网站不知道该什么脚本合适？交给它来给你建议吧！
+
+3. [百度网盘直接下载助手](https://greasyfork.org/zh-CN/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)直接下载百度网盘和百度网盘分享的文件,避免下载文件时调用百度网盘客户端,获取网盘文件的直接下载地址 ╮(✪ω✪)╭解决了我的需求
+
 ###### 下载助手无法显示
 方法一： [临时解决显示下载助手（一星期测试报告）](https://greasyfork.org/zh-CN/forum/discussion/23133/x)
 
