@@ -87,6 +87,7 @@ convert anything to anything~
 
 35. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
 
+36. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 ### Developing
 
