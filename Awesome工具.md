@@ -1068,4 +1068,53 @@ spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome
 小提示
 Gmail有很多筛选选项，比如只归档超过一定大小的邮件。阅读Gmail的其他筛选条件（下方的链接），使用它们进行搜索，然后对相应的邮件进行操作。
 
+### Boostnote
+[Boostnote：为程序员量身定做的笔记应用](https://www.waerfa.com/boostnote-review)
+
+>Boostnote 是一款专门为程序员朋友量身打造的笔记软件，除了日常笔记记录，最大的用处就是帮你记录无数的代码资源，你甚至可以以一个单个笔记为单位，在里面创建多个 Tab，以组成一个独立的 Code 项目。软件支持收藏、标签、分组、搜索、栏目切换等笔记应用应有的功能。
+
+
+
+在笔记编辑区底部，你可以快速选择代码书写环境、选择缩进操作方式以及字号。
+
+Boostnote 官网
+
+Fork on Github
+
+Boostnote 使用 Electron、React + Redux、Webpack、CSSModules 等最新技术开发，支持 Latex 这样的小众语法格式。用户在分组下新建笔记时有 Markdown 和 Snippet 两种模式可选，Markdown 模式下会自动支持各种 MD 语法以及 Latex 格式，而 Snippet 模式则会为用户提供 N 多种代码书写环境。
+
+
+
+分组存储笔记很有趣
+Boostnote 设立了名为「Storage」的笔记分组功能，未来版本还会加入 Google Drive、Dropbox 的云目录分组功能。
+
+
+
+UI 自定义让你的桌面更加丰富多彩
+软件提供了黑白两色主题，并有数十种文本配色可选，你还能设置文本的字体、字号、行距、预览切换方式、Keymap 以及预览窗口的样式自定义。
+
+
+
+Dev Track
+独有的 Dev Track 功能可以让你在笔记中列出自己的开发进度列表，每完成一项功能挑勾后即代表对应进度已完成，上方的进度栏还能同步显示进度比例，非常的 Geek。
+
+
+
+ 
+
+Finder Popup
+除了主窗口，Boostnote 还独立配备了一个 Finder Popup 窗口，供用户直接在应用内查找历史文档。同时你还能通过「收藏」、「分组」等条件事先过滤一下文档。
+
+
+
+ 
+
+快速拷贝代码
+Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率。
+
+
+
+ 
+
+未来这款软件还将推出 Team 协作版本，让我们拭目以待吧！Boostnote 目前可在其官网免费下载，另外这个工具还提供 Windows、Linux 两个版本的客户端。
 
