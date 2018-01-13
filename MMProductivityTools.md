@@ -459,6 +459,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
 2. [you-get](soimort/you-get: Dumb downloader that scrapes the web) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
 3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
+4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
 
 #### Schedule
 
