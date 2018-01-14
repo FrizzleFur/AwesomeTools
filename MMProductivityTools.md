@@ -81,6 +81,9 @@ convert anything to anything~
 打开后会看到一个钥匙 🔑的形状
 双击要是🔑，然后可能会显示已激活（反正我是这样）然后点击上方的大大的黑色的锁 🔒，
 ```
+另一个[office2016下载地址](https://link.jianshu.com/?t=http%3A%2F%2Fofficecdn.microsoft.com%2Fpr%2FC1297A47-86C4-4C1F-97FA-950631F94777%2FOfficeMac%2FMicrosoft_Office_2016_Installer.pkg)
+[破解提取码：a89r](https://link.jianshu.com/?t=https%3A%2F%2Fpan.baidu.com%2Fs%2F1bEw4cY)
+参考[【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 
 34. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
