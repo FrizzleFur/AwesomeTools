@@ -5,7 +5,6 @@
 
 ## Mac
 
-
 ### Pool
 
 [Awesome Mac](http://wangchujiang.com/awesome-mac/) 前辈整理的，学习~
@@ -96,6 +95,8 @@ convert anything to anything~
 35. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
 
 36. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+
+37. [Zeplin](https://zeplin.io/)标注工具，可以通过`brew`安装
 
 ### Developing
 
@@ -203,6 +204,7 @@ Turn drawings into code with PaintCode ~
 13. [Core-Animator](http://xclient.info/s/core-animator.html?_=7f6b20915b1318a0839df0a326a089e5)Core Animator 是一款能够帮助iOS或OS X开发者进行动画制作的工具,支持导出Swift和Objective-C代码，从而大量节省编码时间
 
 14. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) 将绘图转为代码
+15. [Sketch](https://www.jianshu.com/p/3590f089e500) `Sketch` Crack版本
 
 ##### Postman
 
@@ -234,6 +236,7 @@ Turn drawings into code with PaintCode ~
 11. [SublimeText](https://www.sublimetext.com/)  据说是神奇，还没充分用
 
 12. [Crashlytics](https://fabric.io/kits/ios/crashlytics/features) iOS Crash崩溃记录
+13. [IconJar](https://geticonjar.com/)App图标管理器
 
 ### Cloud
 
@@ -265,33 +268,35 @@ Turn drawings into code with PaintCode ~
 
 1. [Mweb](https://www.mweb.im)  据说是现在最好用的`MarkDown`写作工具
 
-2. [Gitbook Editor](https://www.gitbook.com)[Gitbook配置教程](http://gitbook.zhangjikai.com/plugins.html#github)
+2. [Yu Writer ](https://ivarptr.github.io/yu-writer.site/index.html) 看起来不错的跨平台的 Markdown 文本编辑器
 
-3. [Maxing](https://maxiang.io/)    算是Evernote"插件"吧
+3. [氢 ](http://origingroup.tech/index.zh.html)基于 Git 的 笔记、任务、待办 管理工具
 
-4. [CmdMarkdown](https://www.zybuluo.com/)  有点小众，还不是很火的Cmd~
+4. [Gitbook Editor](https://www.gitbook.com)[Gitbook配置教程](http://gitbook.zhangjikai.com/plugins.html#github)
 
-5. [Github](https://github.com/)    比如像我一样把东西放在这里 = = 
+5. [Maxing](https://maxiang.io/)    算是Evernote"插件"吧
 
-6. [DayOne](http://dayoneapp.com/)  用心记日记~
+6. [CmdMarkdown](https://www.zybuluo.com/)  有点小众，还不是很火的Cmd~
 
-7. [Wiz](http://www.wiz.cn/)    解决大象太笨重的问题
+7. [Github](https://github.com/)    比如像我一样把东西放在这里 = = 
 
-8. [AlterNote](http://alternoteapp.com/)    你知道，大象逼得开发者不得不自己开发一款EverNote ╮(╯▽╰)╭
+8. [DayOne](http://dayoneapp.com/)  用心记日记~
 
-9. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload)markdown图片实用工具
+9. [Wiz](http://www.wiz.cn/)    解决大象太笨重的问题
 
-10. [QuickLook Plugins List](https://github.com/toland/qlmarkdown) [QuickLook Plugins MarkDown](https://sspai.com/post/31927)
+10. [AlterNote](http://alternoteapp.com/)    你知道，大象逼得开发者不得不自己开发一款EverNote ╮(╯▽╰)╭
 
-11. [氢 ](http://origingroup.tech/index.zh.html)基于 Git 的 笔记、任务、待办 管理工具
+11. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload)markdown图片实用工具
 
-12. [Notion](https://www.notion.so/product)A unified & collaborative workspace for your notes, wikis, and tasks.
+12. [QuickLook Plugins List](https://github.com/toland/qlmarkdown) [QuickLook Plugins MarkDown](https://sspai.com/post/31927)
 
-13. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
+13. [Notion](https://www.notion.so/product)A unified & collaborative workspace for your notes, wikis, and tasks.
 
-14.  [Typora](https://www.typora.io/) 极简MarkDown
+14. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
 
-15. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
+15.  [Typora](https://www.typora.io/) 极简MarkDown
+
+16. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
 
 ### Statistics
 
@@ -307,9 +312,27 @@ Turn drawings into code with PaintCode ~
 
 2. [automator-workflows](https://github.com/sparanoid/automator-workflows)
 
+### QuickLook插件
+
+>使用 `Homebrew Cask` 将通过命令安装即为简单。开发人员使用的Quick Look插件列表。如果手动安装，你可将下载的 .qlgenerator 文件移动到 ~/Library/QuickLook 运行 `qlmanage -r`
+
+* QuicklookStephen - 可以让您查看没有文件扩展名的纯文本文件，如README、INSTALL、Capfile、CHANGELOG...brew cask install qlstephen
+* QLColorCode - 在预览源代码文件，高亮代码。brew cask install qlcolorcode
+* QLMarkdown - Markdown文件转换成静态页面预览。brew cask install qlmarkdown
+* QuickLookJSON - 格式化预览JSON文件。brew cask install quicklook-json
+* QuickLookCSV - 预览.CSV文件。brew cask install quicklook-csv
+* qlImageSize - 显示图像大小和分辨率。brew cask install qlimagesize
+* WebP - 预览WebP图像。brew cask install webpquicklook
+* Suspicious Package - 预览Apple安装程序包的标准内容。brew cask install suspicious-package
+* QLVideo - 预览大多数类型的视频文件，以及它们的缩略图，封面和元数据。brew cask install qlvideo
+* ProvisionQL - 预览 iOS/macOS 应用和配置信息。brew cask install provisionql
+* quicklook-pat - 预览Adobe Photoshop图案文件。brew cask install quicklook-pat
+
+
 ###  Fun
 
 1. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+2. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
 
 ------
 
@@ -367,6 +390,10 @@ Turn drawings into code with PaintCode ~
 1. [QQ同步助手](https://itunes.apple.com/cn/app/id389481236)    大陆用户换机备份神器~
 
 ------
+## Win
+
+### Win Helper
+1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
 
 ## Web
 
