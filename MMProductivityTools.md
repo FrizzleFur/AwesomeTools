@@ -149,6 +149,8 @@ convert anything to anything~
 
 23. [iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) ipa图标导出
 
+24  `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
+
 #### Developing Tools
 
 ##### Objective-C
@@ -319,7 +321,6 @@ Turn drawings into code with PaintCode ~
 * QuicklookStephen - 可以让您查看没有文件扩展名的纯文本文件，如README、INSTALL、Capfile、CHANGELOG...brew cask install qlstephen
 * QLColorCode - 在预览源代码文件，高亮代码。brew cask install qlcolorcode
 * QLMarkdown - Markdown文件转换成静态页面预览。brew cask install qlmarkdown
-* QuickLookJSON - 格式化预览JSON文件。brew cask install quicklook-json
 * QuickLookCSV - 预览.CSV文件。brew cask install quicklook-csv
 * qlImageSize - 显示图像大小和分辨率。brew cask install qlimagesize
 * WebP - 预览WebP图像。brew cask install webpquicklook
