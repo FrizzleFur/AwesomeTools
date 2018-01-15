@@ -894,13 +894,18 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 
 ```
 ## 欧陆词典
+可以通过账户登录来同步手机端的学习记录，很Nice~有条件的还是支持一下吧。
 
-欧路词典 3.6 破解 mac版 涵盖所有版本
+本人的一些配置（调教）：
+![](http://oc98nass3.bkt.clouddn.com/15159839251696.jpg)
 
-亲测有效 针对目前 欧路词典的任意版本 （建议官网下载最新版本）
+
+### 延长试用期
+建议官网下载最新版本
 1 找到 plist文件
-
 ![](http://oc98nass3.bkt.clouddn.com/15133950232119.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15159839872215.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15159840462422.jpg)
 
 ```
 /users/用户名/Library/Preferences/com.eusoft.plist
@@ -914,8 +919,6 @@ plist 文件用编辑器打开即可。
 3 锁定plist 文件
 右键显示 简介 锁定 文件
 4 重启 词典
-
-[欧陆词典破解](http://www.360doc.com/content/15/0404/00/20545288_460469764.shtml)
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-e430da409396a3a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
