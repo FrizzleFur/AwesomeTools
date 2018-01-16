@@ -912,12 +912,14 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 ```
 2 设置 两个参数
 plist 文件用编辑器打开即可。
-    - MAIN_TimesLeft 参数 改为 820711
+    - MAIN_TimesLeft 参数 改为 `820711`
     - MAIN_ProductID 参数 任意填写
 保存 即可
 
 3 锁定plist 文件
 右键显示 简介 锁定 文件
+![](http://oc98nass3.bkt.clouddn.com/15160009301637.jpg)
+
 4 重启 词典
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-e430da409396a3a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)

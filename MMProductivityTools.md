@@ -13,7 +13,7 @@
 
 1. [Alfred](https://www.alfredapp.com/) 给你另一种Mac~
 
-2. [1Password](https://1password.com/)
+2. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
 
 3. [Evernote](https://evernote.com/intl/zh-cn/) Notes Platform
 
@@ -92,11 +92,14 @@ convert anything to anything~
 34. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
 
-35. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
+35. [1Password](https://1password.com/)  非常专业的密码管理器
+
+36. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
 36. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 37. [Zeplin](https://zeplin.io/)标注工具，可以通过`brew`安装
+
 
 ### Developing
 
@@ -303,6 +306,7 @@ Turn drawings into code with PaintCode ~
 ### Statistics
 
 1. [TimeRescue](https://www.rescuetime.com/)
+2. [Excel-FunFun](https://www.funfun.io/1/#/edit/5a2d762e61242f75d94052db) Excel表格的JavaScript编程图示,保留交互性和动态效果
 
 ### MenuBar
 
@@ -507,6 +511,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 2. [注册码大全youserials](http://www.youserials.com/) Registration Keys
 
+3. [云盘万能钥匙 - 你的云盘智能助手](http://ypsuperkey.meek.com.cn/)
+
 #### Greasyfork Pool
 
 3. [护眼脚本](https://greasyfork.org/zh-CN/scripts/14716-%E6%8A%A4%E7%9C%BC%E8%84%9A%E6%9C%AC)
@@ -547,7 +553,9 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 5. [Sspai.com](https://sspai.com/) Tool Guide
 
-6. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本
+6. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
+
+. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本
 
 #### Alfred Pool
 
