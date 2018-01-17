@@ -186,6 +186,14 @@ y复制一个单词(w)／行(l)／句子(s)／段落(p)
 #### 空格
 `&emsp;`
 
+## IINA
+
+[IINA](https://lhc70000.github.io/iina/zh-cn/)
+通过 Homebrew Cask 安装:`brew cask install iina`
+![](http://oc98nass3.bkt.clouddn.com/15161588048779.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15161588526427.jpg)
+
+
 ## Bilibili-mac-client
 [流媒体NB工具](http://vp-hub.eqoe.cn/)
 [typcn/bilibili-mac-client](https://github.com/typcn/bilibili-mac-client)
