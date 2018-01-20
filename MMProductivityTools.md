@@ -386,6 +386,8 @@ Turn drawings into code with PaintCode ~
 
 15. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
 
+16. [Picsew - Screenshot Stitching on the App Store](https://itunes.apple.com/app/id1208145167?ign-mpt=uo%3D4)长图拼接
+
 ### Reading
 
 1. [WeRead](https://weread.qq.com/)    微信读书，腾讯精心打磨的一款社交读书应用，可以听书是很不错的，看来对用户的痛点很熟悉。兑换书币也是发扬了TX一贯的创新方式。
@@ -394,11 +396,21 @@ Turn drawings into code with PaintCode ~
 
 1. [QQ同步助手](https://itunes.apple.com/cn/app/id389481236)    大陆用户换机备份神器~
 
+2. [Pillow: Smart sleep tracking](https://itunes.apple.com/cn/app/pillow-smart-sleep-tracking/id878691772?mt=8)对于担心手机辐射的人来说，可以在睡觉时打开飞行模式，这样一来可以使自己更安心，二来也避免了电话短信等方面的打扰，足以专心睡个好觉。
+
+
+### 收集
+
+1. [一闪 3.0](https://sspai.com/post/42117)加入了短视频剪辑功能的「一闪 3.0」，想让你成为一名创造者
+
+
 ------
 ## Win
 
 ### Win Helper
 1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
+
+2. [小鹤双拼输入法 - 官方网站](http://www.flypy.com/)· 小鹤双拼，以轻松舒适为追求
 
 ## Web
 
@@ -555,7 +567,9 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 6. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
 
-. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本
+7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网站
+
+8.  [越狱指南](https://www.jbguide.me/)hum大神的指南
 
 #### Alfred Pool
 

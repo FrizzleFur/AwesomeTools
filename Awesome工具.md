@@ -1,5 +1,11 @@
 # Awesome工具
 
+[少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
+
+[从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
+
+![](http://oc98nass3.bkt.clouddn.com/15161925609832.png)
+
 ## Surfingkeys
 >[Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)是Chrome上的一个神器，开发者将Chrome上常用的操作封装成快捷键，使用后，感觉比[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)还要好用。
 >
@@ -326,6 +332,18 @@ Steward 是个人的第一个开源项目，因而从开源社区学习到了很
 
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-11-14971930173372.jpg)
 
+[Workflow 教程（三）：Workflow 本身能做什么？ - 少数派](https://sspai.com/post/30903)
+
+ `Workflow` 比较重要的用法有：
+
+* Filter
+* Split Text
+* Repeat
+* Get Variable
+* 在 Text 里将变量和字符结合
+* Combine Text
+* View Content Graph
+
 
 ### 黏贴板
 常用信息，不过，`Paste`也是非常好用
@@ -350,6 +368,45 @@ Steward 是个人的第一个开源项目，因而从开源社区学习到了很
 ```
 sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Alfred\ Framework
 ```
+
+## Things 3
+
+![](http://oc98nass3.bkt.clouddn.com/15161872521491.jpg)
+[焕然一新的Things 3 - 少数派](https://sspai.com/post/40248)
+![](http://oc98nass3.bkt.clouddn.com/15162451517496.jpg)
+
+### 使用Siri快速创建日程
+
+如何让 Siri 准确判断你创建的是日程还是提醒事项？ 可以采用下面的公式来套用，用 Siri 能准确识别的关键词结合时间和事项描述，提醒事项可以忽略时间，日程时间要素则是必须的。
+
+提醒我 + 什么时间 + 什么事 = 提醒事项
+创建日程（行程）+ 什么时间 + 什么事 = 日历日程
+
+
+[Things 3 项目中不能建立子项目的解决方法 - 少数派](https://sspai.com/post/39653)
+
+方法1
+子项目完成后，将子项目的任务都拖入到主项目中去，然后删除或者点击完成子项目，这样方便在主项目中查阅存档。
+
+方法2
+不建立子项目，但是在主项目中通过“标题”来划开项目里的待办事项，用来区分需要不止要一步才能完成的任务。
+
+如下图，“离线模式”其实应该是一个子项目。
+
+通过“标题”来划开项目里的待办事项
+通过“标题”来划开项目里的待办事项
+方法五
+不使用主项目，所有不能一步完成的任务都建立成一个一个的小项目。那些耗时长、固定的、长期的主项目做成一个个对应的“标签”来过滤。创建每一个小项目或者不输入任何项目的任务时，给它们指定能标记它们归属于哪个主项目的“标签”。查找主项目时，就可以使用“标签”来查找了。
+
+用标签来过滤
+上面的每种方法有利有弊，我很希望 Things 3 能提供在项目中能建立子项目的功能，但即使这个需求被满足，也同样有利有弊。
+
+比如，上面提到的方法，很多也只能处理主项目下有一级子项目的情况，并不能分出无限层级。但实际使用中，如果一个项目足够大，子项目自己也是可能有子项目的。但这样也许就和Things 3 的定位相矛盾了，Things 3 是一个比较简洁的轻量级任务管理软件。
+
+最后，在我能想到的上面几个方法中，我选择了方法五。Things 3 是比较依赖标签的，官方也推荐我们更多的使用标签。另外上面说到的无限层级的问题，如果你不怕麻烦，其实用标签也是也可以实现的。
+
+Q: 给「区域」绑上一个标签，在「日志簿」中按此标签筛选可看到此区域下已完成的项目；Things 3 的五层级基本是 hierarchy 的极致了，不喜欢用最小的那一级 Checklist？
+A: 是指在“方法一”的基础上，也可以做到用标签在日志簿中查阅对应的待办事项吗，这个我倒没有想到，挺好的。多谢提醒。
 
 ## 2Do 的简单任务
 
@@ -1111,23 +1168,30 @@ UI 自定义让你的桌面更加丰富多彩
 Dev Track
 独有的 Dev Track 功能可以让你在笔记中列出自己的开发进度列表，每完成一项功能挑勾后即代表对应进度已完成，上方的进度栏还能同步显示进度比例，非常的 Geek。
 
-
-
  
 
 Finder Popup
 除了主窗口，Boostnote 还独立配备了一个 Finder Popup 窗口，供用户直接在应用内查找历史文档。同时你还能通过「收藏」、「分组」等条件事先过滤一下文档。
 
 
-
- 
-
 快速拷贝代码
 Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率。
 
-
-
- 
-
 未来这款软件还将推出 Team 协作版本，让我们拭目以待吧！Boostnote 目前可在其官网免费下载，另外这个工具还提供 Windows、Linux 两个版本的客户端。
+
+
+
+## 问题
+
+1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
+
+方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：sudo spctl --master-disable ，重新进入安全与隐私就会有。
+
+![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
+```
+//先禁止
+❯ sudo spctl --master-disable
+//后恢复
+❯ sudo spctl --master-enable
+```
 
