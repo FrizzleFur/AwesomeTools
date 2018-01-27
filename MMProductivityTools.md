@@ -160,6 +160,13 @@ convert anything to anything~
 
 [iSwift for Mac](https://www.waitsun.com/iswift-3-0.html) Objective-C转换Swift代码工具
 
+###### [Carthage](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application)
+
+1. [Carthage使用心得-让自己的项目支持Carthage](https://www.jianshu.com/p/bf263c596538)
+2. [Carthage：去中心化的Cocoa依赖管理](http://www.cocoachina.com/ios/20141204/10528.html)
+3. [如何使用Carthage管理iOS依赖库 - 简书](https://www.jianshu.com/p/5ccde5f22a17)
+
+
 ##### WWDC
 [WWDC for mac](https://wwdc.io/) [Best iOS Learning Resource](https://github.com/insidegui/WWDC)
 
