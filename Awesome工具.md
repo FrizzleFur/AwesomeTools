@@ -974,6 +974,7 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 
 ```
 /users/用户名/Library/Preferences/com.eusoft.plist
+/Users/michaelmao/Library/Preferences/
 ```
 2 设置 两个参数
 plist 文件用编辑器打开即可。

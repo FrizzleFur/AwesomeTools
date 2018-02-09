@@ -185,6 +185,8 @@ convert anything to anything~
 4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
+7.  [Gitscout](https://gitscout.com/)Gitscout is a beautiful GitHub Issues experience for macOS
+
 
 ##### Xcode 
 
@@ -714,6 +716,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 1. [万方医学网](http://med.wanfangdata.com.cn/Paper/Detail/PeriodicalPaper_ysgx201610013) 医学期刊
 
 ### Shopping
+
 
 ### Sea Amoy
 
