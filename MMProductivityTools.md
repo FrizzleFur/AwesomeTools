@@ -186,6 +186,8 @@ convert anything to anything~
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
 7.  [Gitscout](https://gitscout.com/)Gitscout is a beautiful GitHub Issues experience for macOS
+8. [Bee](http://www.neat.io/bee/) Simple. Fast. Native.
+Issue tracking made fun on your Mac.
 
 
 ##### Xcode 
@@ -514,13 +516,6 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 ### WebSite
 
-#### 资源
-
-1. [周读](http://www.ireadweek.com/)电子书资源
-2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
-2. [you-get](soimort/you-get: Dumb downloader that scrapes the web) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
-3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
-4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
 
 #### Schedule
 
@@ -533,6 +528,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 2. [注册码大全youserials](http://www.youserials.com/) Registration Keys
 
 3. [云盘万能钥匙 - 你的云盘智能助手](http://ypsuperkey.meek.com.cn/)
+
+4. [talking-web ](https://chrome.google.com/webstore/detail/talking-web/hdeikpphnbclpacdjdjjkpmbcacopnog) Chrome文字朗读——如果想自动全部读可以尝试用Mac的`voiceover`，使用`⌘ + F5`开关
 
 #### Greasyfork Pool
 
@@ -570,15 +567,24 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 3. [Waitsun](https://www.waitsun.com/) Tool Pool
 
-4. [Sdifen](http://www.sdifen.com/) Small Tool Pool
+4. [Issuu](https://issuu.com/)  Ebook Pool
 
-5. [Sspai.com](https://sspai.com/) Tool Guide
+5. [Sdifen](http://www.sdifen.com/) Small Tool Pool
 
-6. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
+6. [Sspai.com](https://sspai.com/) Tool Guide
+
+7. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
 
 7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网站
 
-8.  [越狱指南](https://www.jbguide.me/)hum大神的指南
+#### Pool 资源
+
+1. [周读](http://www.ireadweek.com/)电子书资源
+2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
+2. [you-get](soimort/you-get: Dumb downloader that scrapes the web) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
+3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
+4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
+
 
 #### Alfred Pool
 
