@@ -1196,3 +1196,20 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 ❯ sudo spctl --master-enable
 ```
 
+### TextExpander
+
+
+1. [Five Ways to Automate Your Day One Journal with TextExpander | Day One](http://dayoneapp.com/2017/01/five-ways-to-automate-your-day-one-journal-with-textexpander/)
+
+![](http://oc98nass3.bkt.clouddn.com/15182603864500.jpg)
+
+
+![](http://oc98nass3.bkt.clouddn.com/15182604041517.jpg)
+
+
+### 简悦
+
+[simpread](https://github.com/kenshin/simpread/wiki)
+
+
+
