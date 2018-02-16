@@ -100,6 +100,8 @@ convert anything to anything~
 
 37. [Zeplin](https://zeplin.io/)标注工具，可以通过`brew`安装
 
+38. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+
 
 ### Developing
 
@@ -155,6 +157,10 @@ convert anything to anything~
 24  `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
 
 #### Developing Tools
+
+##### Code helper
+
+1. [dawnlabs/carbon: 🎨 Create and share beautiful images of your source code](https://github.com/dawnlabs/carbon) 代码转化图片神器，高亮，分享你的代码！可以Import from GitHub gist
 
 ##### Objective-C
 
