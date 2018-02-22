@@ -191,8 +191,7 @@ convert anything to anything~
 4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
-7.  [Gitscout](https://gitscout.com/)Gitscout is a beautiful GitHub Issues experience for macOS
-8. [Bee](http://www.neat.io/bee/) Simple. Fast. Native.
+7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native.
 Issue tracking made fun on your Mac.
 
 
@@ -277,6 +276,8 @@ Turn drawings into code with PaintCode ~
 3. [WorkFlowy](https://workflowy.com/) 结合导图和笔记，挺有创意的Organize your brain.[任何您想要个人工作流程的背景颜色：调整“Painter For WorkFlowy”Chrome扩展 - WorkFlowy博客](https://blog.workflowy.com/2016/03/24/painter-for-workflowy/)
 
 4. [幕布](https://mubu.com/)  国产WorkFlowy，拓张了一些功能，添加图片，添加文件夹，可以转成导图，还有一些用户的展示，觉得是借鉴了Processon有木有~
+
+5. [Life-commit](https://github.com/ByronHsu/life-commit)🏃📆 Life as a git. Commit on your life, 使用`npm run start`查看视图
 
 ### Email
 
@@ -443,6 +444,7 @@ Turn drawings into code with PaintCode ~
 
 5. [IE-On-Chrome](https://chrome.google.com/webstore/detail/ie-on-chrome/kmomimblkpkjeilfbkinoonalgiejlcl)  兼容IE的Chrome插件
 
+6. [Oscnews](https://github.com/jaywcjlove/oscnews)开源中国
 
 #### RSS Read
 
@@ -471,7 +473,7 @@ Turn drawings into code with PaintCode ~
 
 17. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
 
-18. [GistBox](https://chrome.google.com/webstore/detail/gistbox/caoihfibgoiiakncomhccbflmlgjaohf/related?hl=en) 好用`Gist`工具
+18. [Cacher](https://www.cacher.io/) 好用`Gist`工具, gistbox no longer maintain~
 
 19. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
 
@@ -587,7 +589,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 1. [周读](http://www.ireadweek.com/)电子书资源
 2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
-2. [you-get](soimort/you-get: Dumb downloader that scrapes the web) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
+2. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
 3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
 4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
 

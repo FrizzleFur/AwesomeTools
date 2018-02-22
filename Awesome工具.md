@@ -198,6 +198,16 @@
 #### 空格
 `&emsp;`
 
+## HomeBrew
+
+[Brew](https://brew.sh/)
+[brew和brew cask有什么区别？](https://www.zhihu.com/question/22624898/answer/)
+
+brew主要用来下载一些不带界面的命令行下的工具和第三方库来进行二次开发brew cask主要用来下载一些带界面的应用软件，下载好后会自动安装，并能在mac中直接运行使用举个例子，brew install curl可以安装curl第三方库，这样你在开发时就可以使用它的库来进行开发brew cask install chrome可以安装谷歌浏览器应用程序，可直接运行brew偏管理第三方库和命令行工具方面的东东brew cask可以看作是苹果官方app store的补充，是一个众多贡献者们维护的非苹果官方软件商店，你也可以在这里下mac软件用一些免费好用的mac软件没有在苹果官方app store商店上架，我们就可以在brew cask中下载。如果我要下载10个免费小软件，而这些软件没有在苹果商店上架，我们不需要一个一个去谷歌它们的官方网站，再去这些软件的官网去下载，我们统一在brew cask中下载。使用brew cask来进行包管理还有一个好处，这10个免费软件如果自身不带升级功能，但现在它们有更新，我只能去官网重新下载？不，直接在brew cask里就可以统一升级。这也是你问的那句“为何网路上跟推荐用brew cask呢？”的原因。如果安装mac图形界面软件，推荐先在苹果官方商店里搜索下载，没有的话去brew cask试试，如果还没有，只能去这个软件的官方网站去下载了。
+
+
+brew 装的主要是 command line tool。brew cask装的大多是有gui界面的app以及驱动，brew cask是brew的一个官方源。二者并无竞争关系，所以也不存在你说的更推荐brew cask。brew装的东西比较偏向开发，而brew cask装的东西会相对生活化一些。
+
 ## IINA
 
 [IINA](https://lhc70000.github.io/iina/zh-cn/)
