@@ -1229,3 +1229,12 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 
 
+## 开发工具
+
+
+1. iOS资源大全
+[AwesomeiOS](http://awesomeios.com/)
+
+1. 内存泄漏检查
+1. [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
+
