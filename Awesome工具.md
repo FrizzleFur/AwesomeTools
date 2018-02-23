@@ -1228,13 +1228,24 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 [simpread](https://github.com/kenshin/simpread/wiki)
 
 
+### Sublimetext
+
+1. [Sublimetext-markdown-preview:](https://github.com/revolunet/sublimetext-markdown-preview)
+2. [SublimeText-Markdown/MarkdownEditing.](https://github.com/SublimeText-Markdown/MarkdownEditing#package-control): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes
 
 ## 开发工具
 
 
-1. iOS资源大全
+
+1. 学习资源大全
+[Awesome](https://github.com/sindresorhus/awesome)
+
+2. iOS资源大全中文版
+[iOS资源大全中文版](https://love2.io/@ayamefing/doc/awesome-ios-cn/README.md)
+
+3. iOS资源大全
 [AwesomeiOS](http://awesomeios.com/)
 
-1. 内存泄漏检查
-1. [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
+4. iOS，App内存泄漏检查
+[Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
 
