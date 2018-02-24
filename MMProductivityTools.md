@@ -279,6 +279,10 @@ Turn drawings into code with PaintCode ~
 
 5. [Life-commit](https://github.com/ByronHsu/life-commit)🏃📆 Life as a git. Commit on your life, 使用`npm run start`查看视图
 
+6. [Quip](https://quip.com/about/home-1) 具有超级威力的文档
+![](http://oc98nass3.bkt.clouddn.com/15194568910818.jpg)
+
+
 ### Email
 
 1. [Spark](https://sparkmailapp.com/)  Beautiful & Intelligent Email App
@@ -429,6 +433,8 @@ Turn drawings into code with PaintCode ~
 1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
 
 2. [小鹤双拼输入法 - 官方网站](http://www.flypy.com/)· 小鹤双拼，以轻松舒适为追求
+
+3. [Wox](https://github.com/Wox-launcher/Wox) `Wox`, win上的`Alfred`
 
 ## Web
 
