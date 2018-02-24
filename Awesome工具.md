@@ -1,7 +1,7 @@
 # Awesome工具
 
 [少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
-[小众软件](https://www.appinn.com/)
+[小众软件](https://www.appinn.com/)ƒ
 
 [从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
 
@@ -1198,7 +1198,7 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 
 
-## MacOS 问题
+## MacOS 常见问题
 
 1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
 
@@ -1222,9 +1222,7 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 ![](http://oc98nass3.bkt.clouddn.com/15182604041517.jpg)
 
-
 ### 简悦
-
 [simpread](https://github.com/kenshin/simpread/wiki)
 
 
@@ -1234,8 +1232,6 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 2. [SublimeText-Markdown/MarkdownEditing.](https://github.com/SublimeText-Markdown/MarkdownEditing#package-control): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes
 
 ## 开发工具
-
-
 
 1. 学习资源大全
 [Awesome](https://github.com/sindresorhus/awesome)
