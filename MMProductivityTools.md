@@ -295,7 +295,7 @@ Turn drawings into code with PaintCode ~
 
 1. [Mweb](https://www.mweb.im)  据说是现在最好用的`MarkDown`写作工具
 
-2. [Yu Writer ](https://ivarptr.github.io/yu-writer.site/index.html) 看起来不错的跨平台的 Markdown 文本编辑器
+2. [Yu Writer ](https://ivarptr.github.io/yu-writer.site/index.html) 看起来不错的跨平台的 Markdown 文本编辑器,有个特点就是从网页拷贝`Markdown`格式可以直接保存`Markdown`格式，很方便
 
 3. [氢 ](http://origingroup.tech/index.zh.html)基于 Git 的 笔记、任务、待办 管理工具
 

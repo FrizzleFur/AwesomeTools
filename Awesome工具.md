@@ -1026,9 +1026,6 @@ plist 文件用编辑器打开即可。
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-9e740dce186adb81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
-
-
 ## Gmail
 [收发Gmail 必学12招，善用邮件分类、前端管理当Gmail 达人 - 简书](http://www.jianshu.com/p/4807f87ee1a5)
 
