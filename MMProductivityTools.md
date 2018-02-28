@@ -297,7 +297,7 @@ Turn drawings into code with PaintCode ~
 
 2. [Yu Writer ](https://ivarptr.github.io/yu-writer.site/index.html) 看起来不错的跨平台的 Markdown 文本编辑器,有个特点就是从网页拷贝`Markdown`格式可以直接保存`Markdown`格式，很方便
 
-3. [氢 ](http://origingroup.tech/index.zh.html)基于 Git 的 笔记、任务、待办 管理工具
+3. [氢 ](http://origingroup.tech/index.zh.html)基于 Git 的 笔记、任务、待办 管理工具， 添加了`scrum` 任务模型中的看板，将任务分为计划，冲刺，完成
 
 4. [Gitbook Editor](https://www.gitbook.com)[Gitbook配置教程](http://gitbook.zhangjikai.com/plugins.html#github)
 
