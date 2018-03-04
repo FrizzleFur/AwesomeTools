@@ -493,6 +493,7 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 [TotalFinder Compatibility](https://totalfinder.binaryage.com/compatibility)
 
 注意最新的`10.12`和`10.13`安装时，需要在启动终端中修改系统的安全性才能安装。
+
 这里提供一个注册码：
 
 ```
@@ -500,17 +501,13 @@ Name: Kevin Kelley
 Key:  GAWAE-FBZK3-X4M62-5L9UJ-JLGUL-A6LCG-MBLQT-S9HQC-CRN99-JC7GB-FRFDZ-WCDYZ-DFPRA-5LD2R-CLLM
 ```
 
-Compatibility
-Here you can find latest TotalFinder releases compatible with individual OS versions:
-
 OS X 10.13 (High Sierra)install the latest version, but needs a system tweak
-OS X 10.12 (Sierra)install the latest version, but needs a system tweak
-OS X 10.11 (El Capitan)install the latest version, but needs a system tweak
-OS X 10.10 (Yosemite) install version 1.9.3
-OS X 10.9 (Mavericks) install version 1.9.3
-OS X 10.8 (Mountain Lion) install version 1.6.27
-OS X 10.7 (Lion) install version 1.5.38
-OS X 10.6 (Snow Leopard) install version 1.3.4
+
+In the window that opens, type `csrutil disable` and press return. This turns off System Integrity Protection so that TotalFinder can be installed.
+
+To do this, reboot and hold Command+R until the Apple logo appears once more. Go to Utilities->Terminal and type `csrutil enable` and press return. Reboot, and you are done.
+
+
 
 ## TextExpander
 
