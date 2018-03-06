@@ -105,6 +105,8 @@ convert anything to anything~
 
 ### Developing
 
+[free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
+
 #### Developing Helper
 
 1. [pomotodo番茄土豆](https://pomotodo.com/app/)    同步iCalendar哦✪ω✪
@@ -631,6 +633,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 13.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
 
 14.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
+
+15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
 
 ### Career

@@ -10,7 +10,6 @@
 
 > 在工作中，现在公司大多数使用MacBook进行办公，不仅仅是MacBook设计简洁，方便携带，OS X上有一些很多优秀的开发者，经过长期的开发迭代，有一些很Nice的效率工具，能够给你平常的工作和开发提速。神器很多，这里就介绍几款我效率工具箱中平常使用最多的几款工具吧。
 
-
 ## Alfred 
 ![image](http://upload-images.jianshu.io/upload_images/225323-9241e9deef92a341.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -232,6 +231,10 @@ Mac下有外部模式和文档库模式
 
 `Tomorrow`的主题很好看
 ![](http://oc98nass3.bkt.clouddn.com/15194631656182.jpg)
+
+### Mweb Alfred WorkFlow
+
+[alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
 ### 常用快捷键（整理）
 
