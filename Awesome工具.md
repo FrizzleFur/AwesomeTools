@@ -79,14 +79,19 @@ Alfred 3 的剪贴板扩展支持所有类型文件的复制历史保存，从�
 
 ### 常见问题
 
-[和谐版的Alfred 3 在每次开机后，都会提示“是否允许访问通讯录”的弹窗，让人不胜其烦。](http://xclient.info/a/761216bf-0737-5592-0ba8-8fbc5f31b3e6.html?_=75ebe0a762462e5265640b26094a4fdb)
+1. [和谐版的Alfred 3 在每次开机后，都会提示“是否允许访问通讯录”的弹窗，让人不胜其烦。](http://xclient.info/a/761216bf-0737-5592-0ba8-8fbc5f31b3e6.html?_=75ebe0a762462e5265640b26094a4fdb)
 
-#### 处理方法
 打开终端（或iTerm2）
 
 ```
 sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Alfred\ Framework
 ```
+
+2. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Doesn't work on OSX 10.13 #19
+解决方法：
+下载fixed[Top.Processes.v2.2.alfredworkflow](https://github.com/singhprd/alfred2-top-workflow/releases/download/v2.2/Top.Processes.v2.2.alfredworkflow)
+参考[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
+
 
 ## Surfingkeys
 >[Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)是Chrome上的一个神器，开发者将Chrome上常用的操作封装成快捷键，使用后，感觉比[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)还要好用。
