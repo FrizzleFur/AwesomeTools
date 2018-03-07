@@ -218,7 +218,10 @@ sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\
 
 
 ## Mweb
+
 [Mweb](http://www.mweb.im/)
+
+
 ![](http://oc98nass3.bkt.clouddn.com/15194631251558.jpg)
 
 在Mac上无疑是`markdown`书写的利器，搭配上图床和快捷键，让你的文章书写的非常好看。
@@ -231,6 +234,10 @@ Mac下有外部模式和文档库模式
 
 `Tomorrow`的主题很好看
 ![](http://oc98nass3.bkt.clouddn.com/15194631656182.jpg)
+
+#### 参考文档： 
+[Mweb使用文档 - MWeb](http://zh.mweb.im/docs.html)
+[Mweb-iOS使用文档 ](http://zh.mweb.im/introducing-mweb-for-ios.html)
 
 ### Mweb Alfred WorkFlow
 
@@ -1215,7 +1222,7 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
 
-方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：sudo spctl --master-disable ，重新进入安全与隐私就会有。
+方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
 
 ![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
 ```
