@@ -3,11 +3,74 @@
 
 > My productivity tools of Mac, Phone, and Web in developing and schedule.
 
+## Pool
+
+1. [Awesome Mac](http://wangchujiang.com/awesome-mac/) 前辈整理的，学习~
+
+2. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
+
+### Tools Pool
+
+1. [Xclient](xclient.info) Tool Pool
+
+2. [数字逻辑](https://www.softosx.com/) Tool Pool
+
+3. [Waitsun](https://www.waitsun.com/) Tool Pool
+
+4. [Issuu](https://issuu.com/)  Ebook Pool
+
+5. [Sdifen](http://www.sdifen.com/) Small Tool Pool
+
+6. [Sspai.com](https://sspai.com/) Tool Guide
+
+7. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
+
+7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网站
+
+#### Pool 资源
+
+1. [周读](http://www.ireadweek.com/)电子书资源
+2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
+2. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
+3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
+4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
+
+
+#### Alfred Pool
+
+0. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
+
+1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
+
+2. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
+
+3. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
+
+4. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
+
+5. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
+
+6. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
+
+ 7. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
+ 
+8. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+
+9. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 
+
+10. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
+
+11. [Github Search](http://www.packal.org/workflow/github-search) Search Github
+
+12. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
+
+13.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
+
+14.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
+
+15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+
 ## Mac
-
-### Pool
-
-[Awesome Mac](http://wangchujiang.com/awesome-mac/) 前辈整理的，学习~
 
 ### Mac Helper
 
@@ -574,67 +637,6 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 5. [StarUml](http://staruml.io/)  UML神器
 
 6. [Mermaid](https://github.com/knsv/mermaid) Mermaid 是一个从文本生成各类图形如类图／时序图的工具
-
-### Tools Pool
-
-1. [Xclient](xclient.info) Tool Pool
-
-2. [数字逻辑](https://www.softosx.com/) Tool Pool
-
-3. [Waitsun](https://www.waitsun.com/) Tool Pool
-
-4. [Issuu](https://issuu.com/)  Ebook Pool
-
-5. [Sdifen](http://www.sdifen.com/) Small Tool Pool
-
-6. [Sspai.com](https://sspai.com/) Tool Guide
-
-7. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
-
-7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网站
-
-#### Pool 资源
-
-1. [周读](http://www.ireadweek.com/)电子书资源
-2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
-2. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
-3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
-4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
-
-
-#### Alfred Pool
-
-0. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
-
-1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
-
-2. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
-
-3. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
-
-4. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
-
-5. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
-
-6. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
-
- 7. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
- 
-8. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
-
-9. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 
-
-10. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
-
-11. [Github Search](http://www.packal.org/workflow/github-search) Search Github
-
-12. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
-
-13.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
-
-14.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
-
-15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
 
 ### Career
