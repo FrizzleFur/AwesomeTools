@@ -1,7 +1,7 @@
 # Awesome工具
 
 [少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
-[小众软件](https://www.appinn.com/)ƒ
+[小众软件](https://www.appinn.com/)
 
 [从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
 
@@ -522,6 +522,25 @@ In the window that opens, type `csrutil disable` and press return. This turns of
 
 To do this, reboot and hold Command+R until the Apple logo appears once more. Go to Utilities->Terminal and type `csrutil enable` and press return. Reboot, and you are done.
 
+## Keyboard Maestro
+
+[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
+
+1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
+2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
+
+## Keyboard Maestro
+
+[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
+
+1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
+2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
+
+## Karabiner
+
+### 参考
+1. [让键盘变成你想要的样子：改键利器 Karabiner-Elements - 少数派](https://sspai.com/post/42921)
+2. [Control + Option + Shift + Command：带你玩转 macOS 的修饰键 - 少数派](https://sspai.com/post/39331)
 
 
 ## TextExpander
@@ -1038,6 +1057,19 @@ plist 文件用编辑器打开即可。
 
 ![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-9e740dce186adb81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+##  DayOne
+
+现在Dayone付费订阅制了，下载`V2.1.8`的版本进行同步。
+[Day One 2 for Mac 2.1.8 激活版 - 最优秀的日记软件](https://www.waitsun.com/day-one-2-1-8.html#downlink)
+
+早期的 Day One 是我在 Mac 上最喜欢的软件，没有之一，尽管有家庭共享，我还是单独买了４套，结果我一买，它很快就升级了，非常令人无语。新版本令我非常失望，幸好还有老版本。
+我们厌恶订阅：
+　　但老版本的 DayOne 好多甚多，App 我个人非常喜欢买断，而不是订阅，日常用到的有200-400种，大多使用频率很低，如果订阅，则会像吸血鬼一样成为负担，我认为任何软件的订阅其重要性永远比不上水、电这些基本生存需要，既然不在一个等级，就不能使用同样的对待方式。买断的就不用考虑使用频率了（当然，我也被很多 App 伤害过，Mindnode 刚买网两套就重新付费了，Ulysess 300元左右，买过不久就免费加付费订阅了等等）。
+一代瑕不掩瑜：
+　　Day One 一代的安全问题是存盘文件未加密，而不是在哪存储的问题，一代使用的是 iCloud ，至少空间还掌握在用户自己手里，论厂商，苹果比 DayOne 可靠多了，有些私密的照片我用 Day One 2 也都是不敢开启同步的。iCloud 尽管免费的只有5G，其实大多够用。现在 iPhone 都是256G 了，备份到 iCloud 根本不够用，如果如苹果所说，照片存到 iCloud 相册不计空间，照片流不计空间，APP 仅仅备份“布局视图”（大家可以理解为快捷方式和排列位置），都需要重新下载，那根本不会占用什么空间，可是备份起来还是需要几个 GB，我很怀疑苹果到底干了什么。我干脆备份到 Mac ，且关闭 Mac 把桌面放到 iCloud 的做法，iCloud 只保留常用软件的交付物，5GB 空间绰绰有余。Day One 目前也就500MB 左右，还够用好多年。
+
+之前是软件收费，现在改成软件免费，账号付费了，所以这个版本没用了，因为你自己的账号没付费，就不能同步。2.1.8还属于软件付费的版本，所以可以同步。看看站长新版有办法没有。
+
 ## Gmail
 [收发Gmail 必学12招，善用邮件分类、前端管理当Gmail 达人 - 简书](http://www.jianshu.com/p/4807f87ee1a5)
 
@@ -1225,6 +1257,7 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 ## MacOS 常见问题
 
+### “Day One.app”已损坏，打不开。 您应该将它移到废纸篓。
 1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
 
 方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
@@ -1269,6 +1302,107 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 4. iOS，App内存泄漏检查
 [Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
+
+## Mac快捷键
+
+[Mac 键盘快捷键](https://support.apple.com/zh-cn/HT201236)
+
+### 剪切、拷贝、粘贴和其他常用快捷键
+
+|           快捷键           | 描述 |
+| :-: | :-: |
+| Command-X | **剪切**所选项并拷贝到剪贴板。 |
+| Command-C | 将所选项**拷贝**到剪贴板。这同样适用于“访达”中的文件。
+ |
+| Command-V | 将剪贴板的内容**粘贴**到当前文稿或应用中。这同样适用于“访达”中的文件。 |
+| Command-Z | **撤销**前一个命令。随后您可以按 Command-Shift-Z 来**重做**，从而反向执行撤销命令。在某些应用中，您可以撤销和重做多个命令。 |
+| Command-A | **全选**各项。 |
+| Command-F | **查找**文稿中的项目或打开“查找”窗口。 |
+| Command-G | **再次查找**：查找之前所找到项目出现的下一个位置。要查找出现的上一个位置，请按 Command-Shift-G。 |
+| Command-H | **隐藏**最前面的应用的窗口。要查看最前面的应用但隐藏所有其他应用，请按 Command-Option-H。 |
+| Command-M | 将最前面的窗口**最小化**至“程序坞”。要最小化最前面的应用的所有窗口，请按 Command-Option-M。 |
+| Command-N | **新建：**打开一个新文稿或窗口。 |
+| Command-O | **打开**所选项，或打开一个对话框以选择要打开的文件。 |
+| Command-P | **打印**当前文稿。 |
+| Command-S | **存储**当前文稿。 |
+| Command-W | **关闭**最前面的窗口。要关闭应用的所有窗口，请按下 Command-Option-W。 |
+| Command-Q | **退出**应用。 |
+| Option-Command-Esc | **强制退出**：选择要[强制退出](https://support.apple.com/zh-cn/HT201276)的应用。或者，按住 Command-Shift-Option-Esc 3 秒钟来仅强制最前面的应用退出。 |
+| Command–空格键 | **“聚焦”**：显示或隐藏 [“聚焦”](https://support.apple.com/zh-cn/HT201744) 搜索栏。要从“访达”窗口执行“聚焦”搜索，请按 Command–Option–空格键。如果您[使用多个输入源](https://support.apple.com/kb/PH21564?locale=zh_CN)以便用不同的语言键入内容，这些快捷键会[更改输入源而非显示“聚焦”](https://support.apple.com/kb/PH21554?locale=zh_CN)。 |
+| 空格键 | **快速查看**：使用[快速查看](https://support.apple.com/zh-cn/HT201067)来预览所选项。 |
+| Command-Tab | **切换应用**：在打开的应用中切换到下一个最近使用的应用。 |
+| Shift-Command-波浪号 (~) | **切换窗口**：切换到最前端应用中下一个最近使用的窗口。 |
+| Shift-Command-3 | **屏幕快照**：拍摄整个屏幕的屏幕快照。[了解更多屏幕快照快捷键](https://support.apple.com/zh-cn/HT201361)。 |
+| Command-逗号 (,) | **偏好设置**：打开最前面的应用的偏好设置。 |
+
+
+### “访达”快捷键
+
+|           快捷键           | 描述 |
+| :-: | :-: |
+| Command-D | 复制所选文件。 |
+| Command-E | 推出所选磁盘或宗卷。 |
+| Command-F | 在“访达”窗口中开始“聚焦”搜索。 |
+| Command-I | 显示所选文件的“显示简介”窗口。 |
+| Shift-Command-C | 打开“电脑”窗口。 |
+| Shift-Command-D | 打开“桌面”文件夹。 |
+| Shift-Command-F | 打开“我的所有文件”窗口。 |
+| Shift-Command-G | 打开“前往文件夹”窗口。 |
+| Shift-Command-H | 打开当前 macOS 用户帐户的个人文件夹。 |
+| Shift-Command-I | 打开 [iCloud 云盘](https://support.apple.com/zh-cn/HT201104)。 |
+| Shift-Command-K | 打开“网络”窗口。 |
+| Option-Command-L | 打开“下载”文件夹。 |
+| Shift-Command-O | 打开“文稿”文件夹。 |
+| Shift-Command-R | 打开“隔空投送”窗口。 |
+| Shift-Command-T | 将所选的“访达”项目添加到“程序坞”（OS X Mountain Lion 或更低版本） |
+| Control-Shift-Command-T | 将所选的“访达”项目添加到“程序坞”（OS X Mavericks 或更高版本） |
+| Shift-Command-U | 打开“实用工具”文件夹。 |
+| Option-Command-D | 显示或隐藏 [“程序坞”](https://support.apple.com/zh-cn/HT201730)。即使您未在“访达”窗口中，这个快捷键通常也有效。 |
+| Control-Command-T | 将所选项添加到边栏（OS X Mavericks 或更高版本）。 |
+| Option-Command-P | 隐藏或显示“访达”窗口中的路径栏。 |
+| Option-Command-S | 隐藏或显示“访达”窗口中的边栏。 |
+| Command–斜线 (/) | 隐藏或显示“访达”窗口中的状态栏。 |
+| Command-J | 显示“显示”选项。 |
+| Command-K | 打开“连接服务器”窗口。 |
+| Command-L | 为所选项制作替身。 |
+| Command-N | 打开一个新的“访达”窗口。 |
+| Shift-Command-N | 新建文件夹。 |
+| Option-Command-N | 新建智能文件夹。 |
+| Command-R | 显示所选替身的原始文件。 |
+| Command-T | 在当前“访达”窗口中有单个标签页开着的状态下显示或隐藏标签页栏。 |
+| Shift-Command-T | 显示或隐藏“访达”标签页。 |
+| Option-Command-T | 在当前“访达”窗口中有单个标签页开着的状态下显示或隐藏工具栏。 |
+| Option-Command-V | 移动：将剪贴板中的文件从原始位置移动到当前位置。 |
+| Option-Command-Y | 显示所选文件的[快速查看](https://support.apple.com/zh-cn/HT201067)幻灯片显示。 |
+| Command-Y | 使用“快速查看”预览所选文件。 |
+| Command-1 | 以图标方式显示“访达”窗口中的项目。 |
+| Command-2 | 以列表方式显示“访达”窗口中的项目。 |
+| Command-3 | 以分栏方式显示“访达”窗口中的项目。  |
+| Command-4 | 以封面流方式显示“访达”窗口中的项目。 |
+| Command–左中括号 ([) | 前往上一文件夹。 |
+| Command–右中括号 (]) | 前往下一文件夹。 |
+| Command–上箭头 | 打开包含当前文件夹的文件夹。 |
+| Command–Control–上箭头 | 在新窗口中打开包含当前文件夹的文件夹。 |
+| Command–下箭头 | 打开所选项。 |
+| Command–“调度中心” | 显示桌面。即使您未在“访达”窗口中，这个快捷键也有效。 |
+| Command–调高亮度 | 开启或关闭[目标显示器模式](https://support.apple.com/zh-cn/HT204592)。 |
+| Command–调低亮度 | 当 Mac 连接到多个显示器时打开或关闭显示器镜像功能。 |
+| 右箭头 | 打开所选文件夹。这个快捷键仅在列表视图中有效。 |
+| 左箭头 | 关闭所选文件夹。这个快捷键仅在列表视图中有效。 |
+| Option-连按 | 在单独的窗口中打开文件夹，并关闭当前窗口。 |
+| Command-连按 | 在单独的标签页或窗口中打开文件夹。 |
+| Command-Delete | 将所选项移到废纸篓。 |
+| Shift-Command-Delete | 清倒废纸篓。 |
+| Option-Shift-Command-Delete | 清倒废纸篓而不显示确认对话框。 |
+| Command-Y | 使用“快速查看”预览文件。 |
+| Option–调高亮度 | 打开“显示器”偏好设置。这个快捷键可与任一亮度键搭配使用。 |
+| Option–“调度中心” | 打开“调度中心”偏好设置。 |
+| Option–调高音量 | 打开“声音”偏好设置。这个快捷键可与任一音量键搭配使用。 |
+| _按住 Command 键拖移_ | 将拖移的项目移到其他宗卷或位置。拖移项目时指针会随之变化。 |
+| _按住 Option 键拖移_ | 拷贝拖移的项目。拖移项目时指针会随之变化。 |
+| _按住 Option-Command 键拖移_ | 为拖移的项目制作替身。拖移项目时指针会随之变化。 |
+| _按住 Option 键点按开合三角_ | 打开所选文件夹内的所有文件夹。这个快捷键仅在列表视图中有效。 |
+| _按住 Command 键点按窗口标题_ |
 
 ## 参考资料
 

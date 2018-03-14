@@ -17,11 +17,11 @@
 
 3. [Waitsun](https://www.waitsun.com/) Tool Pool
 
-4. [Issuu](https://issuu.com/)  Ebook Pool
+4. [Issuu](https://issuu.com/)  电子书 Pool
 
-5. [Sdifen](http://www.sdifen.com/) Small Tool Pool
+5. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
 
-6. [Sspai.com](https://sspai.com/) Tool Guide
+6. [Sspai.com](https://sspai.com/) 生产力教程 Guide
 
 7. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
 
@@ -32,7 +32,7 @@
 1. [周读](http://www.ireadweek.com/)电子书资源
 2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
 2. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
-3. [流媒体NB工具](http://vp-hub.eqoe.cn/)
+3. [流媒体NB工具](http://vp-hub.eqoe.cn/)Bili
 4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
 
 
@@ -165,6 +165,7 @@ convert anything to anything~
 
 38. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
+39. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ### Developing
 
