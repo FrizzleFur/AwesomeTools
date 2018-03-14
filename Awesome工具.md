@@ -24,7 +24,6 @@ Alfred已经更新到Alfred3了，其实很强大的东西，一直没有好好�
 `Alfred`常用的设置
 ![image](http://upload-images.jianshu.io/upload_images/225323-3c6ac45878576561.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-
 ## 功能特性
 
 包含了系统的命令，比如我需要重启Mac，只需要type: restart，就可以重启。
@@ -1253,23 +1252,6 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 未来这款软件还将推出 Team 协作版本，让我们拭目以待吧！Boostnote 目前可在其官网免费下载，另外这个工具还提供 Windows、Linux 两个版本的客户端。
 
-
-
-## MacOS 常见问题
-
-### “Day One.app”已损坏，打不开。 您应该将它移到废纸篓。
-1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
-
-方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
-
-![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
-```
-//先禁止
-❯ sudo spctl --master-disable
-//后恢复
-❯ sudo spctl --master-enable
-```
-
 ### TextExpander
 
 
@@ -1288,6 +1270,27 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 1. [Sublimetext-markdown-preview:](https://github.com/revolunet/sublimetext-markdown-preview)
 2. [SublimeText-Markdown/MarkdownEditing.](https://github.com/SublimeText-Markdown/MarkdownEditing#package-control): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes
+
+# MacOS 
+
+## 常见问题
+
+### “Day One.app”已损坏，打不开。 您应该将它移到废纸篓。
+1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
+
+方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
+
+![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
+```
+//先禁止
+❯ sudo spctl --master-disable
+//后恢复
+❯ sudo spctl --master-enable
+```
+
+### Snap和Chrome的标签问题
+
+`2018-03-14`在升级`MacOS high sierra`后,很多老的软件出现问题，今天出现之前安装的`Chrome`在使用snap切换的时候，每次会出新的tap页，因为我在mac上分了多个deskTop，这样每次来回切换`Chrome`的时候就会弹出很多的tab,增加了`Chrome`的内存消耗，还非常不方便，我还以为是snap的问题，后面想升级下`Chrome`，最后发现**把`Chrome`从Dock中移除并退出重新打开**，这种问题就解决了。可能是MacOS的问题吧。
 
 ## 开发工具
 
@@ -1334,7 +1337,6 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 | Shift-Command-波浪号 (~) | **切换窗口**：切换到最前端应用中下一个最近使用的窗口。 |
 | Shift-Command-3 | **屏幕快照**：拍摄整个屏幕的屏幕快照。[了解更多屏幕快照快捷键](https://support.apple.com/zh-cn/HT201361)。 |
 | Command-逗号 (,) | **偏好设置**：打开最前面的应用的偏好设置。 |
-
 
 ### “访达”快捷键
 
@@ -1421,7 +1423,7 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 ## Todo
 
- * [ ] `Mweb`的Mac和iOS之间同步
+ * [x] `Mweb`的Mac和iOS之间同步 （`2018-03-05`完成同步，设置好文档库）
  * [ ] Alfred功能详细介绍
  * [ ] Quip的功能详细介绍
  * [ ] LaunchCenterPro的iOS11UrlScheme
