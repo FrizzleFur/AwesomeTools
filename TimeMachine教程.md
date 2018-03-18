@@ -89,8 +89,10 @@ Time Machine 是 macOS 系统内置的备份工具，它可以为你的 Mac 自�
 ![](http://oc98nass3.bkt.clouddn.com/15137571035860.jpg)
 
 #### 删除整个 Time Machine 备份
-![](http://oc98nass3.bkt.clouddn.com/15137571278964.jpg)
 
+![](http://oc98nass3.bkt.clouddn.com/15212009637636.jpg)
+
+![](http://oc98nass3.bkt.clouddn.com/15137571278964.jpg)
 
 进入 Time Machine，打开备份磁盘，进入「Backups.backupdb」 - 「XXX的 Mac。。。」- 「以最近的日期命名的备份文件夹」，选中该文件夹，右键呼出菜单，选择「删除XXX的所有备份」并确认，确认之后可单击窗口下方的「取消」或者键盘左上角的 esc 键，以退出 Time Machine，你将看到备份正在被删除的提示，稍等片刻，备份将被删除；
 

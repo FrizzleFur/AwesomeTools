@@ -1,6 +1,5 @@
 [TOC]
 
-
 > My productivity tools of Mac, Phone, and Web in developing and schedule.
 
 ## Pool
@@ -34,7 +33,10 @@
 2. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
 3. [流媒体NB工具](http://vp-hub.eqoe.cn/)Bili
 4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
+5. [Pixabay](https://pixabay.com/)  免费高清图片~
 
+#### OldDriver
+1. [jdlingyu](http://www.jdlingyu.moe/)
 
 #### Alfred Pool
 
@@ -207,7 +209,7 @@ convert anything to anything~
 
 17. [3 Minute Mindfulness](https://itunes.apple.com/us/app/3-minute-mindfulness-meditation-and-breathing/id982502810?mt=8)Meditation and Breathing
 
-18. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 网易云音乐会员纯净版 😜
+18. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 云音乐会员纯净版 😜
 
 19. [Prism](https://github.com/12207480/Prism)Application Performance Management & Monitoring for iOS (APM) iOS应用程序性能管理
 
@@ -232,34 +234,19 @@ convert anything to anything~
 
 [iSwift for Mac](https://www.waitsun.com/iswift-3-0.html) Objective-C转换Swift代码工具
 
-###### [Carthage](https://github.com/Carthage/Carthage#adding-frameworks-to-an-application)
-
-1. [Carthage使用心得-让自己的项目支持Carthage](https://www.jianshu.com/p/bf263c596538)
-2. [Carthage：去中心化的Cocoa依赖管理](http://www.cocoachina.com/ios/20141204/10528.html)
-3. [如何使用Carthage管理iOS依赖库 - 简书](https://www.jianshu.com/p/5ccde5f22a17)
-
-
 ##### WWDC
 [WWDC for mac](https://wwdc.io/) [Best iOS Learning Resource](https://github.com/insidegui/WWDC)
-
-
-##### iOS Resource Pool
-
-1. [awesome-ios](https://github.com/vsouza/awesome-ios)
-2. [The best FRP iOS resources.](https://gist.github.com/JaviLorbada/4a7bd6129275ebefd5a6)
 
 ##### Git
 
 1. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
 2. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
-
 4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
 7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native.
 Issue tracking made fun on your Mac.
-
 
 ##### Xcode 
 
@@ -678,7 +665,6 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 3. [Codecov](https://codecov.io/) 
 
-
 ### Writing
 
 1. [Jianshu](http://www.jianshu.com/writer#/)
@@ -703,7 +689,6 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 3. [Zhihu](https://www.zhihu.com/)
 
-
 ### RSS
 
 1. [Instapaper](https://www.instapaper.com/u)   感觉最好用的RSS平台 = = 
@@ -715,16 +700,9 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 4. [一览](http://www.yilan.io/home/?category=_recommend)  国产RSS
 
 #### Feed Rss
+
 1. [Feedity](https://feedity.com/default.aspx) RSS feed神器
 [知乎专栏RSS](https://rss.lilydjwg.me/)
-
-### Tools
-
-1. [Pixabay](https://pixabay.com/)  免费高清图片~
-
-#### OldDriver
-
-1. [jdlingyu](http://www.jdlingyu.moe/)
 
 ### BodyBuilding
 
@@ -738,14 +716,14 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 5. [jiushixing](http://www.jiushixing.com/html/hufu/meibai/) 男人形体注意
 
-### BodyHealth
+#### BodyHealth
 
 1. [万方医学网](http://med.wanfangdata.com.cn/Paper/Detail/PeriodicalPaper_ysgx201610013) 医学期刊
 
 ### Shopping
 
 
-### Sea Amoy
+#### Sea Amoy
 
 1. [海淘族](https://www.haitaozu.org/base/17134.html)挺丰富的海淘站
 
