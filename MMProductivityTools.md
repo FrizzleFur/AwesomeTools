@@ -421,7 +421,7 @@ Turn drawings into code with PaintCode ~
 ### PC Helper
 
 1. [CleanMyPC](http://macpaw.com/cleanmypc)
-2. 
+
 ------
 
 ## Phone
@@ -532,28 +532,24 @@ Turn drawings into code with PaintCode ~
 
 17. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
 
-18. [Cacher](https://www.cacher.io/) 好用`Gist`工具, gistbox no longer maintain~
+18.  [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
 
-19. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
+19. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
 
-20.  [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
+20. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
 
-21. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+21.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
 
-22. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
+22. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
 
-23.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
-
-24. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
-
-25. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
+23. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
 
 ### Security
 
-26. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
+24. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
 
-27. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
+25. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
 
 #### 油猴Pool
 
@@ -643,7 +639,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 3. [JS Doc](https://nodelover.me/#/course/5835606ea22b9d006bc0b31e?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io) JS Guide
 
-4. [Gist](https://gist.github.com/) Code Snippet Manager
+4. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
 
 #### iOS Developing
 
@@ -728,4 +724,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 1. [海淘族](https://www.haitaozu.org/base/17134.html)挺丰富的海淘站
 
 2. [Rakuten](http://global.rakuten.com/zh-cn/?siteID=5UNe5hkl3dM-1_Vtj7WDbFFoT2PK3Bewmg) 乐天
+
+
+
+
 
