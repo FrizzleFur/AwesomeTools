@@ -641,6 +641,10 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 4. [GistBox Clipper](https://chrome.google.com/webstore/detail/gistbox-clipper/cejmhmbmafamjegaebkjhnckhepgmido/reviews)   代码片段剪切神器
 
+5. [Cacher](https://www.cacher.io/) 好用`Gist`工具, gistbox no longer maintain~
+
+6. [OhMyStar2](http://www.iiiyu.com/2017/11/08/Product-Q-A-with-OhMyStar2/index.html)GitHub Star 管理工具
+
 #### iOS Developing
 
 1. [Xcode help](http://help.apple.com/xcode/mac/8.0/#/dev466720061)

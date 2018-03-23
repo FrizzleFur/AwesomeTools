@@ -417,6 +417,27 @@ Steward 是个人的第一个开源项目，因而从开源社区学习到了很
 设计：不懂设计，怎么办呢？设置页面用的 ElementUI，图标大都来自 iconfont.cn
 产品：从简悦以及其它一些优秀的开源项目学习了怎么维护一个产品。当然目前 Steward 还做得不够
 
+## Bee For mac
+
+[Bee: GitHub Issues made Simpler, Faster and Fun](https://www.neat.io/bee/github-issues-client.html)
+
+Bee 是Mac上一款优秀的`Github Issue`跟踪软件，可以将日常的任务放入`Github Issue`中，使用Bee进行管理。
+
+### Bee的功能feature
+
+* Beautiful UI界面简洁
+* View relevant issues only，提供过滤
+* Images in issues and comments are viewed with Quicklook. 图片提供预览
+* Linked Issues 
+* Issue Short List 
+* Timesheets提供工作的计时
+* Markdown Editor 也是一个Markdown编辑器，可以直接使用Markdown编辑
+
+### Bee的快捷键
+    
+![](http://oc98nass3.bkt.clouddn.com/15217922741672.jpg)
+
+
 ## Things 3
 
 ![](http://oc98nass3.bkt.clouddn.com/15161872521491.jpg)
@@ -1035,8 +1056,8 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 ![](http://oc98nass3.bkt.clouddn.com/15159840462422.jpg)
 
 ```
-/users/用户名/Library/Preferences/com.eusoft.plist
-/Users/michaelmao/Library/Preferences/
+/users/用户名/Library/Preferences/com.eusoft.eudic.plist
+/Users/michaelmao/Library/Preferences/com.eusoft.eudic.plist
 ```
 2 设置 两个参数
 plist 文件用编辑器打开即可。
