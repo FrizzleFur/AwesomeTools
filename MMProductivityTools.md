@@ -28,6 +28,7 @@
 
 #### Pool 资源
 
+1. [电驴](http://www.verycd.com/)电驴，分布式的文件基于点对点原理传输，集成ed2k协议，配合Thuder下载快的飞起，注意，资源链接，在"www.verycd."后插入"gdajie"就可获取
 1. [周读](http://www.ireadweek.com/)电子书资源
 2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
 2. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
