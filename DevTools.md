@@ -1,70 +1,19 @@
+## DevTool
 
-## 开发调试工具
+### Debug
 
-### Peek
-
-[Peek](https://github.com/shaps80/Peek)
+1. [Peek](https://github.com/shaps80/Peek)
 All new design. Inspect your iOS application at runtime. 
 ![](http://oc98nass3.bkt.clouddn.com/15219076070141.jpg)
 ![](http://oc98nass3.bkt.clouddn.com/15219076481398.jpg)
 
 使用快捷键`Ctrl + Cmd + Z`唤起
 
-
 ### 1. [injectionforxcode](https://github.com/johnno1962/injectionforxcode) Injection Plugin for Xcode
 ### 2. [Xtrace](https://github.com/johnno1962/Xtrace)Trace Objective-C method calls by class or instance
-
-
-### UIDebuggingInformationOverlay
-
-> 什么UIDebuggingInformationOverlay可以做
-
-从上述屏幕截图可以看出，覆盖层提供了七个功能。我会简要介绍一下前六个。我无法获得“系统颜色审核”屏幕来显示任何内容，如果你有更好的运气，给我发消息。
-
-“查看层次结构”屏幕
-
-这个屏幕显示你可能会期待什么 所选窗口中的视图列表。从这里，您可以检查任何视图的细节，包括其框架和实例变量。如果您有多个窗口，还可以在窗口之间切换，或者只是想知道如何构建系统窗口。
-
-“查看层次结构”屏幕 “查看层次”信息屏幕
-
-“VC层次结构”屏幕
-
-您可以预测此屏幕的作用。它与“查看层次结构”屏幕非常相似，只是它显示了主动视图控制器的层次结构。从这里，您可以检查任何视图控制器的细节，包括其视图。您还可以看到视图控制器是呈现模态还是呈现。
-
-'VC层次'屏幕
-
-“Ivar Explorer”屏幕
-
-此屏幕可让您访问UIApplication实例的变量。更重要的是，还可以探索任何对象变量。这包括应用程序委托，根据应用程序的结构，可以为您的自定义对象提供一个方便的入口点。
-
-'Ivar Explorer'屏幕
-
-“测量”屏幕
-
-在我看来，这是叠加层的更酷功能之一。它可以测量屏幕元素的尺寸（以点为单位）。首先，选择是否要在“水平”或“垂直”轴上查看测量。然后在屏幕上拖动手指，使用控制台内的放大查看器来协助您。有两种模式：
-
-默认模式忽略视图边界。据我所知，此模式将屏幕视为单个光栅化图像，并将颜色变化用作潜在测量的边界。例如，在下面的截图中，我可以测量标签文本的末尾与屏幕边缘之间的距离：
-
-赖恩·彼得森
-
-另一方面，“查看模式”显示子视图的大小。将手指拖动到视图上以查看所选轴的尺寸。在这个屏幕截图中，我正在测量屏幕顶部的文本框的高度：
-
-赖恩·彼得森
-
-“规格比较”屏幕
-
-我可以看到这是开发和设计之间协作的一个非常有用的工具。将屏幕截图添加到设备，然后从“规格比较”屏幕中选择。所选屏幕截图将显示在实际应用程序的顶部。然后，您可以向下拖动以减少alpha，并将规范与实际实现进行比较。
-
-更新，2017年5月26日： 帕特里克·巴莱斯特拉提醒我，我没有重要的一步。您需要在Info.plist中包含NSPhotoLibraryUsageDescription键的值。点击“添加”按钮显示一个UIImagePickerController，并且不设置此值将导致您的应用程序崩溃。
-
-包起来
-
-我只玩了几天玩这个东西，但希望在下一个测试版中使用它。控制台有一些粗糙的边缘，但它似乎是许多开放源代码工具的有前途的替代品。如果您有机会使用它并注意到我错过的任何事情，请随时联系。我会更多的了解更多信息。
-
-参考 [UIDebuggingInformationOverlay - Low Level](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/)
+### 3. [UIDebuggingInformationOverlay - Low Level](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/)
 
 ### Easy APNs Provider
-s
 [使用Easy APNs Provider测试推送](http://www.jianshu.com/p/134e3dfd1cdc)
 
 #### 推送消息收不到
@@ -81,11 +30,9 @@ Easy APNs Provider - 推送测试工具
 
 ![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972327333218.jpg)
 
-
 我试了一下第三种直接发送的，但是要么获取不到，要么一下子获取到几十条，我怎么知道哪个是我的deviceToken呢？果断放弃选择手动获取。
 
 连接真机运行，打Log获取deviceToken
-
 
 ```
 #pragma mark 注册通知
@@ -178,9 +125,7 @@ Debug模式选择sandbox，Release模式选择push
 开篇说过，我重新上传了p12，但是没用。到这里，其实我应该立即用小米推送再测试一下的，如果能收到，就说明是小米的bug。 但是我傻傻的又生成并上传了p12，然后就收到了，至此，我也不能证明是不是小米偷偷改了bug。
 我做客户端时，不管是因为服务器挂了还是接口数据格式不对导致解析失败，都弹吐司提示“网络连接失败”，反正不说自己错了。只能说，套路深的难免会进入别人的套路中。
 
-
-
-## Gitsome- Git工具
+### Gitsome- Git工具
 
 [Gitsome](https://github.com/donnemartin/gitsome)
 
@@ -192,7 +137,6 @@ $ gh <command> [param] [options]
 
 ```
 $ gh search-repos "created:>=2015-01-01 stars:>=1000 language:python" --sort stars -p
-
 ```
 
 ### The view command
@@ -213,7 +157,6 @@ $ gh view [#] [-b/--browser]
 $ gh trending [language] [-w/--weekly] [-m/--monthly] [-d/--devs] [-b/--browser]
 ```
 ![](http://oc98nass3.bkt.clouddn.com/2017-08-31-15041463551665.jpg)
-
 
 ### 命令
 
