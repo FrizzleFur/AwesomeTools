@@ -92,7 +92,40 @@ sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\
 参考[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
 
 
+## Aria2
+
+ [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+堪比迅雷的下载神器，破解百度云的下载速度很好用
+![](http://oc98nass3.bkt.clouddn.com/15233734067615.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15233734324565.jpg)
+
+### Aria2+Chrome+BaiduExporter破解百度云下载速度
+
+需要搭配[BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+
+[YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+
+### 下载路径配置
+
+#### 方法 1
+
+* 在`StartAria2c.sh`文件中修改, 我尝试在`Aria2.conf`文件中修改，无效。
+![](http://oc98nass3.bkt.clouddn.com/15233766309641.jpg)
+
+* `StartAria2c.sh`文件路径 `~/Library/Application Support/com.Aria2GUI/sh/`
+但是重启`Aria2`后，下载路径会reset所以建议使用方法2
+
+#### 方法 2
+
+* [请问如何将aria2gui的下载路径改成移动硬盘 · Issue #27 · yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui/issues/27)
+
+![step1](http://oc98nass3.bkt.clouddn.com/15233769519238.jpg)
+
+![step2](http://oc98nass3.bkt.clouddn.com/15233769336959.jpg)
+### 当然浏览器重启后也会reset插件的下载路径 。。。
+
 ## Surfingkeys
+
 >[Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)是Chrome上的一个神器，开发者将Chrome上常用的操作封装成快捷键，使用后，感觉比[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)还要好用。
 
 #### 可视模式
@@ -306,6 +339,59 @@ Mac下有外部模式和文档库模式
 `<br />`
 #### 空格
 `&emsp;`
+##  TotalFinder
+
+[TotalFinder Compatibility](https://totalfinder.binaryage.com/compatibility)
+
+注意最新的`10.12`和`10.13`安装时，需要在启动终端中修改系统的安全性才能安装。
+
+这里提供一个注册码：
+
+```
+Name: Kevin Kelley
+Key:  GAWAE-FBZK3-X4M62-5L9UJ-JLGUL-A6LCG-MBLQT-S9HQC-CRN99-JC7GB-FRFDZ-WCDYZ-DFPRA-5LD2R-CLLM
+```
+
+OS X 10.13 (High Sierra)install the latest version, but needs a system tweak
+
+In the window that opens, type `csrutil disable` and press return. This turns off System Integrity Protection so that TotalFinder can be installed.
+
+To do this, reboot and hold Command+R until the Apple logo appears once more. Go to Utilities->Terminal and type `csrutil enable` and press return. Reboot, and you are done.
+
+## Keyboard Maestro
+
+[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
+
+1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
+2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
+
+## Keyboard Maestro
+
+[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
+
+1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
+2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
+
+## Karabiner
+
+### 参考
+1. [让键盘变成你想要的样子：改键利器 Karabiner-Elements - 少数派](https://sspai.com/post/42921)
+2. [Control + Option + Shift + Command：带你玩转 macOS 的修饰键 - 少数派](https://sspai.com/post/39331)
+
+
+## TextExpander
+
+[TextExpander](http://smilesoftware.com/TextExpander/index.html) 已算是 Mac 平台必装的一款效率类软件，它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。而 [Markdown](http://zh.wikipedia.org/wiki/Markdown) 这种轻量级的「标记语言」也越来越多的被写作爱好者、撰稿者广泛使用。
+
+TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
+退出TextExpander
+再次运行TEIMPrefsetter
+将中文删除即可。
+![](http://oc98nass3.bkt.clouddn.com/15077128291686.jpg)
+
+![](http://oc98nass3.bkt.clouddn.com/15077128657833.jpg)
+这时再运行 TEIMPrefSetter.app 便不会再报错，删除 zh-中文这项，保存，重新运行 TextExpander 就 OK 了。
+
 
 ## HomeBrew
 
@@ -522,59 +608,6 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 在之前发布的 2.0.2 版本中，Due 终于支持了中文的「相对时间」自然语句。比如你可以用中文输入**三小时后**打电话给李小明，Due 就会自动将提醒时间设置到三小时后，非常方便。
 
 需要注意的是，中文自然语句输入只在中文系统下生效。如果将 iOS 系统语言设置为英文的话，「相对时间」的中文自然语句会失效，「绝对时间」则不会。
-
-##  TotalFinder
-
-[TotalFinder Compatibility](https://totalfinder.binaryage.com/compatibility)
-
-注意最新的`10.12`和`10.13`安装时，需要在启动终端中修改系统的安全性才能安装。
-
-这里提供一个注册码：
-
-```
-Name: Kevin Kelley
-Key:  GAWAE-FBZK3-X4M62-5L9UJ-JLGUL-A6LCG-MBLQT-S9HQC-CRN99-JC7GB-FRFDZ-WCDYZ-DFPRA-5LD2R-CLLM
-```
-
-OS X 10.13 (High Sierra)install the latest version, but needs a system tweak
-
-In the window that opens, type `csrutil disable` and press return. This turns off System Integrity Protection so that TotalFinder can be installed.
-
-To do this, reboot and hold Command+R until the Apple logo appears once more. Go to Utilities->Terminal and type `csrutil enable` and press return. Reboot, and you are done.
-
-## Keyboard Maestro
-
-[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
-
-1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
-2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
-
-## Keyboard Maestro
-
-[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
-
-1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
-2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
-
-## Karabiner
-
-### 参考
-1. [让键盘变成你想要的样子：改键利器 Karabiner-Elements - 少数派](https://sspai.com/post/42921)
-2. [Control + Option + Shift + Command：带你玩转 macOS 的修饰键 - 少数派](https://sspai.com/post/39331)
-
-
-## TextExpander
-
-[TextExpander](http://smilesoftware.com/TextExpander/index.html) 已算是 Mac 平台必装的一款效率类软件，它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。而 [Markdown](http://zh.wikipedia.org/wiki/Markdown) 这种轻量级的「标记语言」也越来越多的被写作爱好者、撰稿者广泛使用。
-
-TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
-退出TextExpander
-再次运行TEIMPrefsetter
-将中文删除即可。
-![](http://oc98nass3.bkt.clouddn.com/15077128291686.jpg)
-
-![](http://oc98nass3.bkt.clouddn.com/15077128657833.jpg)
-这时再运行 TEIMPrefSetter.app 便不会再报错，删除 zh-中文这项，保存，重新运行 TextExpander 就 OK 了。
 
 ##  Sublime Text 3 
 
@@ -1041,19 +1074,6 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 - Clock: Clock-worldclock:// | Clock-alarm:// | Clock-stopwatch:// | Clock-timer://
 
 ```
-
-
-
-## Aria2+Chrome+BaiduExporter破解百度云下载速度
-
- [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
-堪比迅雷的下载神器，破解百度云的下载速度很好用
-![](http://oc98nass3.bkt.clouddn.com/15233734067615.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15233734324565.jpg)
-
-需要搭配[BaiduExporter](https://github.com/acgotaku/BaiduExporter)
-
-[YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
 
 
 ## 欧陆词典
