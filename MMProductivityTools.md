@@ -37,6 +37,7 @@
 5. [Pixabay](https://pixabay.com/)  免费高清图片~
 
 #### OldDriver
+
 1. [jdlingyu](http://www.jdlingyu.moe/)
 
 #### Alfred Pool
@@ -117,7 +118,7 @@
 
 20. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
 
-21. [Surge](https://nssurge.com/) 未使用过
+21. [Surge](https://nssurge.com/)  还未使用过的网络调试神器
 
 22. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
 
@@ -138,9 +139,13 @@ convert anything to anything~
 
 30. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
-31. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
+#### 下载
+31. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
-32. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
+32. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+堪比迅雷的下载神器，破解百度云的下载速度很好用
+
+#### 办公
 
 33. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
 [【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
@@ -158,17 +163,25 @@ convert anything to anything~
 34. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
 
+#### 密码
+
 35. [1Password](https://1password.com/)  非常专业的密码管理器
 
 36. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
-36. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+37. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
-37. [Zeplin](https://zeplin.io/)标注工具，可以通过`brew`安装
+38. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
-38. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+####  播放器
 
-39. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+1. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+
+2. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+
+#### Fun
+
+1. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
 
 ### Developing
 
@@ -212,8 +225,6 @@ convert anything to anything~
 
 18. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 云音乐会员纯净版 😜
 
-19. [Prism](https://github.com/12207480/Prism)Application Performance Management & Monitoring for iOS (APM) iOS应用程序性能管理
-
 20. [图标工厂](http://icon.wuruihong.com/icon/5Dldw1M9#/ios) 图标生成工厂，一键生成所需尺寸
 
 21. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, 快捷键图示an open-source keystroke visualizer.
@@ -226,6 +237,12 @@ convert anything to anything~
 24  `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
 
 #### Developing Tools
+
+1. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
+
+2. [Zeplin](https://zeplin.io/)标注工具，可以通过`brew`安装
+
+3. [Prism](https://github.com/12207480/Prism)Application Performance Management & Monitoring for iOS (APM) iOS应用程序性能管理
 
 ##### Code helper
 
@@ -408,12 +425,6 @@ Turn drawings into code with PaintCode ~
 * QLVideo - 预览大多数类型的视频文件，以及它们的缩略图，封面和元数据。brew cask install qlvideo
 * ProvisionQL - 预览 iOS/macOS 应用和配置信息。brew cask install provisionql
 * quicklook-pat - 预览Adobe Photoshop图案文件。brew cask install quicklook-pat
-
-
-###  Fun
-
-1. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
-2. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
 
 ------
 
