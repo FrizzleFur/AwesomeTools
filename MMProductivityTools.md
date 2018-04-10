@@ -140,11 +140,15 @@ convert anything to anything~
 30. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
 #### 下载
+
 31. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
 32. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
 
+33. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+
+34. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
 #### 办公
 
 33. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件

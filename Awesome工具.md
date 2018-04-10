@@ -1041,7 +1041,23 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 - Clock: Clock-worldclock:// | Clock-alarm:// | Clock-stopwatch:// | Clock-timer://
 
 ```
+
+
+
+## Aria2+Chrome+BaiduExporter破解百度云下载速度
+
+ [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+堪比迅雷的下载神器，破解百度云的下载速度很好用
+![](http://oc98nass3.bkt.clouddn.com/15233734067615.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15233734324565.jpg)
+
+需要搭配[BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+
+[YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+
+
 ## 欧陆词典
+
 可以通过账户登录来同步手机端的学习记录，很Nice~有条件的还是支持一下吧。
 
 本人的一些配置（调教）：
