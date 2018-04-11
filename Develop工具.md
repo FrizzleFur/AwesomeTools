@@ -158,7 +158,7 @@ $ gh trending [language] [-w/--weekly] [-m/--monthly] [-d/--devs] [-b/--browser]
 ```
 ![](http://oc98nass3.bkt.clouddn.com/2017-08-31-15041463551665.jpg)
 
-### 命令
+### Github命令
 
 ```
 GitHub Integration Commands Listing

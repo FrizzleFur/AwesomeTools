@@ -1,4 +1,18 @@
-## Mac技巧
+## Mac的奇赢技巧
+### 一个好用的信息黏贴Flow
+`2017-04-01`
+
+#### 需要工具： 
+
+1. [Paste](http://pasteapp.me/)
+2. `Chrome` && `Vimium`
+
+#### Flow
+
+* 使用[Paste](http://pasteapp.me/)将常用的网址分好类，
+* 使用快捷键调用`Cmd+Shift+V`调用起[Paste](http://pasteapp.me/)，选择需要访问的url。
+* 然后切换到`Chrome`，调用`Vimium`快捷键`P`在新的页面中打开目标url。
+
 
 ### 在`Dock`中隐藏`App`图标
 
@@ -10,11 +24,9 @@
 
 参考[MAC系统中如何隐藏Dock上的程序图标_苹果MAC_操作系统_脚本之家](http://www.jb51.net/os/MAC/170274.html)
 
-
 ### Mac快捷键
 
 「显示表情与符号」  `⌘ + ⌃ +  Space `
-
 
 1. 交换上下行代码：  `⌘ + ⌥ + [` or `⌘ + ⌥ + ]`
 
