@@ -36,9 +36,6 @@
 4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
 5. [Pixabay](https://pixabay.com/)  免费高清图片~
 
-#### OldDriver
-
-1. [jdlingyu](http://www.jdlingyu.moe/)
 
 #### Alfred Pool
 
@@ -489,6 +486,11 @@ Turn drawings into code with PaintCode ~
 
 2. [Pillow: Smart sleep tracking](https://itunes.apple.com/cn/app/pillow-smart-sleep-tracking/id878691772?mt=8)对于担心手机辐射的人来说，可以在睡觉时打开飞行模式，这样一来可以使自己更安心，二来也避免了电话短信等方面的打扰，足以专心睡个好觉。
 
+### Relax
+
+* [小睡眠](http://www.psy-1.com/)
+
+* [心潮减压](http://www.psy-1.com/)
 
 ### 收集
 
@@ -721,6 +723,13 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 1. [Feedity](https://feedity.com/default.aspx) RSS feed神器
 [知乎专栏RSS](https://rss.lilydjwg.me/)
 
+### entertainment
+
+1. [每日美剧](http://www.meirimeiju.com/)
+
+2. [jdlingyu](http://www.jdlingyu.moe/)
+
+
 ### BodyBuilding
 
 1. [牛男网](https://www.neonan.com/)
@@ -745,8 +754,4 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 1. [海淘族](https://www.haitaozu.org/base/17134.html)挺丰富的海淘站
 
 2. [Rakuten](http://global.rakuten.com/zh-cn/?siteID=5UNe5hkl3dM-1_Vtj7WDbFFoT2PK3Bewmg) 乐天
-
-
-
-
 

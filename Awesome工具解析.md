@@ -1,14 +1,8 @@
 # Awesome工具
 
-[少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
-[小众软件](https://www.appinn.com/)
-
-[从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
-
-![](http://oc98nass3.bkt.clouddn.com/15161925609832.png)
-
 
 > 在工作中，现在公司大多数使用MacBook进行办公，不仅仅是MacBook设计简洁，方便携带，OS X上有一些很多优秀的开发者，经过长期的开发迭代，有一些很Nice的效率工具，能够给你平常的工作和开发提速。神器很多，这里就介绍几款我效率工具箱中平常使用最多的几款工具吧。
+![](http://oc98nass3.bkt.clouddn.com/15161925609832.png)
 
 ## Alfred 
 ![image](http://upload-images.jianshu.io/upload_images/225323-9241e9deef92a341.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
@@ -412,6 +406,62 @@ brew主要用来下载一些不带界面的命令行下的工具和第三方库�
 
 brew 装的主要是 command line tool。brew cask装的大多是有gui界面的app以及驱动，brew cask是brew的一个官方源。二者并无竞争关系，所以也不存在你说的更推荐brew cask。brew装的东西比较偏向开发，而brew cask装的东西会相对生活化一些。
 
+##  iTerm2
+
+iTerm2 是 MAC 下最好的终端工具。可以简单的认为，iTerm2 是配置完毕开箱即用的 tmux。但 tmux 有以下一些缺点：
+
+查找 terminal 的输出历史内容需要切换到 vim 模式。在该模式下复制使用的是 vim 的查找，增加了认知负担；
+和各种工具兼容性比较差，尤其是 vim 和 emacs 的 powerline；
+自有样式，与系统的样式冲突。
+iTerm2 的一些特色功能如下：
+
+标签变色
+iTerm2 的标签的颜色会变化，以指示该 tab 当前的状态。当该标签有新输出的时候，标签会变成洋红色；新的输出长时间没有查看，标签会变成红色。可在设置中关掉该功能。
+
+智能选中
+在 iTerm2 中，双击选中，三击选中整行，四击智能选中（智能规则可配置），可以识别网址，引号引起的字符串，邮箱地址等。（很多时候双击的选中就已经很智能了）
+
+在 iTerm2 中，选中即复制。即任何选中状态的字符串都被放到了系统剪切板中。
+
+巧用 Command 键
+按住⌘键:
+
+可以拖拽选中的字符串；
+点击 url：调用默认浏览器访问该网址；
+点击文件：调用默认程序打开文件；
+如果文件名是filename:42，且默认文本编辑器是 Macvim、Textmate或BBEdit，将会直接打开到这一行；
+点击文件夹：在 finder 中打开该文件夹；
+同时按住option键，可以以矩形选中，类似于vim中的ctrl v操作。
+Meta 键
+在emacs中，meta键的使用非常频繁，而 OSX 系统没有提供meta键。在 iTerm2 中可以选择左右两个的Option键作为meta键。官方推荐的配置如下图所示。右Option键依然是 OSX 的默认功能（输入特殊字符）。
+
+![](http://oc98nass3.bkt.clouddn.com/15236296756727.jpg)
+
+[你应该知道的 iTerm2 使用方法--MAC终端工具](http://wulfric.me/2015/08/iterm2/)
+
+快捷命令说明：
+
+| 命令 | 说明 |
+| --- | --- |
+| command + t | 新建标签 |
+| command + w | 关闭标签 |
+| command + 数字 command + 左右方向键 | 切换标签 |
+| command + enter | 切换全屏 |
+| command + f | 查找 |
+| command + d | 垂直分屏 |
+| command + shift + d | 水平分屏 |
+| command + option + 方向键 command + [ 或 command + ] | 切换屏幕 |
+| command + ; | 查看历史命令 |
+| command + shift + h | 查看剪贴板历史 |
+| ctrl + u | 清除当前行 |
+| ctrl + l | 清屏 |
+| ctrl + a | 到行首 |
+| ctrl + e | 到行尾 |
+| ctrl + f/b | 前进后退 |
+| ctrl + p | 上一条命令 |
+| ctrl + r | 搜索命令历史 |
+
+
 ## IINA
 
 [IINA](https://lhc70000.github.io/iina/zh-cn/)
@@ -437,8 +487,8 @@ brew 装的主要是 command line tool。brew cask装的大多是有gui界面的
 * "Z" 和 "X" 调整字幕延迟， F 键窗口置顶， CMD+F 键全屏
 * 另外，你可以通过 Input.conf 来自定义快捷键
 
-
 #### 使用说明
+
 * 点击屏幕顶部菜单栏中的 Bilibili - 设置 可以调整弹幕速度，弹幕字体大小，透明度，画质，下载格式等选项
 * 点击 设置 - 弹幕屏蔽 可以对弹幕进行关键词屏蔽，也可以使用智能屏幕模式，一键屏蔽吵架，剧透等弹幕
 * 点击浏览器右上角的菜单 刷新/复制当前页面地址，可以查看历史记录
@@ -737,167 +787,6 @@ fn 功能键就是fn
 `markdown preview`是sublime下预览markdown文件的插件，按⇧ + command + p打开我们前面安装的Package Control插件的面板，输入install然后回车，在弹出的面板输入markdown preview再回车，即可完成安装。
 安装`SidebarEnhancements`插件
 `SidebarEnhancements`是增强侧边栏的插件，安装方法同上。
-
-
-##  iTerm2
-
-```
-Editing
-⌘+;
-
-Autocomplete
-⌘+⇧+H
-
-Paste history
-⌘+ALT+B
-
-Instant replay
-⌃+A
-
-To the begining of line
-⌃+E
-
-To the end of line
-⌃+F
-
-Forward one character
-⌃+B
-
-Backward one character
-⌃+D
-
-Delete current character
-⌃+H
-
-Delete previous character
-⌃+W
-
-Kill the word behind the point
-⌃+K
-
-Kill text from the point to the end of the line
-⌃+P
-
-Previous history
-
-⌃+R
-History reverse search
-
-Tab Navigation
-⌘+T
-
-Open new tab
-
-⌘+W
-Close current tab
-
-⌘+1-9
-Go to tab
-
-⌘+⇧+]
-⌘+N
-
-⌘+Arrow Left
-
-Next tab
-⌘+⇧+[
-
-⌘+P
-
-⌘+Arrow Right
-
-Previous tab
-⌘+ALT+E
-
-Expose feature, showing all tabs
-Pane Navigation
-⌘+D
-
-Split pane left-right
-⌘+⇧+D
-
-Split pane top-bottom
-⌘+ALT+H
-
-Split pane left-right with new profile
-⌘+ALT+V
-
-Split pane top-bottom with new profile
-⌘+W
-
-Close current pane
-⌘+]
-
-Next pane
-⌘+[
-
-Previous pane
-⌘+ALT+I
-
-Input to all panes in current tab
-Search
-⌘+F
-
-Open search bar
-⌘+G
-
-Find next
-Mark
-⌘+⇧+M
-
-Set Mark
-⌘+⇧+J
-
-Jump to Mark
-Clear Screen
-⌘+K
-
-Clear buffer
-⌃+L
-
-Move current line to the top
-Font Resizing & Zooming
-⌘+ALT+=
-
-Toggle maximize window
-⌘+Return
-
-Toggle full screen
-⌘+⇧+Return
-
-Maximize current pane
-⌘+W
-
-Close current pane
-⌘+"+"
-
-Make font larger
-⌘+"-"
-
-Make font smaller
-Broadcast Input
-⌘+⇧+I
-
-Broadcast input to all panes in all tabs
-⌘+ALT+I
-
-Broadcast input to all panes in current tab
-Shell Integration
-⌘+⇧+ ⇡
-
-Go to previous mark
-⌘+⇧+⇣
-
-Go to next mark
-⌘+ALT+A
-
-Alert on next mark
-⌘+⇧+;
-
-Show command history
-⌘+ALT+/
-
-```
 
 ## 1PassWord
 
@@ -1567,10 +1456,17 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 2. [解决 TextExpander 5 在中文环境下输入问题](https://medium.com/@oscargong1995/%E8%A7%A3%E5%86%B3-textexpander-5-%E5%9C%A8%E4%B8%AD%E6%96%87%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BE%93%E5%85%A5%E9%97%AE%E9%A2%98-e0a2237e2609)
 
+### 其他
+
+[少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
+[小众软件](https://www.appinn.com/)
+
+[从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
+
 ## Todo
 
  * [x] `Mweb`的Mac和iOS之间同步 （`2018-03-05`完成同步，设置好文档库）
- * [ ] Alfred功能详细介绍
+ * [x] Alfred功能详细介绍
  * [ ] Quip的功能详细介绍
  * [ ] LaunchCenterPro的iOS11UrlScheme
 
