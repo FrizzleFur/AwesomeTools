@@ -20,11 +20,17 @@
 
 5. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
 
-6. [Sspai.com](https://sspai.com/) 生产力教程 Guide
+6. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网站
 
-7. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
+####  Tool Guide
 
-7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网站
+1. [Sspai.com](https://sspai.com/) 生产力教程 Guide
+
+2. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
+
+3. [2018 iPad review: Drawn on an iPad! And edited, composed, and designed... - YouTube](2018 iPad review: Drawn on an iPad! And edited, composed, and designed... - YouTube)
+
+4. [iPhone, iPad, Mac Buyer's Guide: Know When to Buy](https://buyersguide.macrumors.com/)
 
 #### Pool 资源
 
@@ -37,39 +43,39 @@
 5. [Pixabay](https://pixabay.com/)  免费高清图片~
 
 
-#### Alfred Pool
+#### Alfred Workflow Pool
 
-0. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
+1. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
 
-1. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
+2. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
 
-2. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
+3. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
 
-3. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
+4. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
 
-4. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
+5. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
 
-5. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
+6. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
 
-6. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
+7. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
 
- 7. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
+ 8. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
  
-8. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+9. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
 
-9. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 
+10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 
 
-10. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
+11. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
 
-11. [Github Search](http://www.packal.org/workflow/github-search) Search Github
+12. [Github Search](http://www.packal.org/workflow/github-search) Search Github
 
-12. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
+13. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
 
-13.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
+14.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
 
-14.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
+15.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
 
-15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+16. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
 ## Mac
 
@@ -83,6 +89,8 @@
 
 4. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
 
+#### 系统清理
+
 5. [CleanMyMac](http://macpaw.com/cleanmymac) Mac必备吧
 
 6. [Gemini](http://macpaw.com/gemini) Detect and delete duplicates.
@@ -93,62 +101,67 @@
 
 9. [MacBooster](http://xclient.info/s/mac-booster.html) 长得有点像CleanMyMac，Who can tell the difference?
 
-10. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
+10. [DrCleaner](https://www.drcleaner.com/)
 
-11. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
+11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html)维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
 
-12. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
+11. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
 
-13. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
+12. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
 
-14.  [轻松便捷爱截图](http://jietu.qq.com/) 轻松便捷爱截图,和`snip`都是腾讯下的截图工具，多了录屏功能
+13. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
 
-15. [Flux](https://justgetflux.com/) 拯救你的视力
+14. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
 
-16. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
+15.  [轻松便捷爱截图](http://jietu.qq.com/) 轻松便捷爱截图,和`snip`都是腾讯下的截图工具，多了录屏功能
 
-17. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
+16. [Flux](https://justgetflux.com/) 拯救你的视力
 
-18. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
+17. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
 
-19. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
+18. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
 
-20. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
+19. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
 
-21. [Surge](https://nssurge.com/)  还未使用过的网络调试神器
+20. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
 
-22. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
+21. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
 
-23. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+22. [Surge](https://nssurge.com/)  还未使用过的网络调试神器
 
-24. [CloudConvert](https://cloudconvert.com/) 
+23. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
+
+24. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+
+25. [CloudConvert](https://cloudconvert.com/) 
 convert anything to anything~
 
-25. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
+26. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
 
-26. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
+27. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
 
-27. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
+28. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
 
-28. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+29. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
 
-29. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+30. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
 
-30. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+31. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
 #### 下载
 
-31. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
+32. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
-32. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+33. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
 
-33. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+34. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 
-34. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+35. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+
 #### 办公
 
-33. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
+36. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
 [【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 ```
 粘贴上帖提到的一键激活工具 百度云盘链接: <https://pan.baidu.com/s/1hsv6JL6> 密码: `rt2h`
@@ -161,28 +174,30 @@ convert anything to anything~
 [破解提取码：a89r](https://link.jianshu.com/?t=https%3A%2F%2Fpan.baidu.com%2Fs%2F1bEw4cY)
 参考[【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 
-34. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
+37. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
+
+38. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
 
 #### 密码
 
-35. [1Password](https://1password.com/)  非常专业的密码管理器
+39. [1Password](https://1password.com/)  非常专业的密码管理器
 
-36. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
+40. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
-37. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+41. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
-38. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+42. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
 
-1. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+43. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
 
-2. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+44. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 #### Fun
 
-1. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
+45. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
 
 ### Developing
 
@@ -354,14 +369,17 @@ Turn drawings into code with PaintCode ~
 6. [Quip](https://quip.com/about/home-1) 具有超级威力的文档
 ![](http://oc98nass3.bkt.clouddn.com/15194568910818.jpg)
 
-
 ### Email
 
 1. [Spark](https://sparkmailapp.com/)  Beautiful & Intelligent Email App
 
-2. [Boxy](https://itunes.apple.com/cn/app/boxy.-inbox-by-gmail-email/id1053031090?mt=12) Inbox For mac
+2. [Shift - The Best Desktop Email Client for Gmail and Outlook.com](https://tryshift.com/) Shift Switch between Gmail accounts like a boss.
+3. [Kiwiforgmail](https://www.kiwiforgmail.com/index.php)
 
-3. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
+4. [Boxy](https://itunes.apple.com/cn/app/boxy.-inbox-by-gmail-email/id1053031090?mt=12) Inbox For mac
+
+5. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
+
 
 ### Writing
 
@@ -498,9 +516,12 @@ Turn drawings into code with PaintCode ~
 
 
 ------
+
+
 ## Win
 
 ### Win Helper
+
 1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
 
 2. [小鹤双拼输入法 - 官方网站](http://www.flypy.com/)· 小鹤双拼，以轻松舒适为追求
@@ -598,6 +619,10 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 4. [简书掘金等目录树导航](https://greasyfork.org/zh-CN/scripts/34479-%E7%9B%AE%E5%BD%95%E6%A0%91%E5%AF%BC%E8%88%AA)🚀
 
 ### WebSite
+
+#### Pic
+
+[泼辣修图](http://www.polaxiong.com/editor)
 
 #### Schedule
 

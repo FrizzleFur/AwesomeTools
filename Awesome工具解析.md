@@ -1,33 +1,36 @@
 # Awesome工具
 
+[TOC]
 
 > 在工作中，现在公司大多数使用MacBook进行办公，不仅仅是MacBook设计简洁，方便携带，OS X上有一些很多优秀的开发者，经过长期的开发迭代，有一些很Nice的效率工具，能够给你平常的工作和开发提速。神器很多，这里就介绍几款我效率工具箱中平常使用最多的几款工具吧。
 ![](http://oc98nass3.bkt.clouddn.com/15161925609832.png)
 
-## Alfred 
+## 神器
+
+### Alfred 
+
 ![image](http://upload-images.jianshu.io/upload_images/225323-9241e9deef92a341.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
- Alfred 就是 Mac 上最强大的工具台，一个图形化的终端，只有你想不到，没有它做不到。
-Alfred已经更新到Alfred3了，其实很强大的东西，一直没有好好的去使用它，这次来总结一下吧.
+`Alfred` 就是 `Mac` 上最强大的工具台，一个图形化的终端，只有你想不到，没有它做不到。
+ 
+#### Alfred的使用
 
-
-### 使用`Alfred`
-最方便的使用就是使用`double ⌘`唤起`Alfred`啦~
+最方便的使用就是设置`double ⌘`唤起`Alfred`啦~
 ![image](http://upload-images.jianshu.io/upload_images/225323-376fbeab62b6fb09.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-`Alfred`常用的设置
+#### Alfred功能特性
+
 ![image](http://upload-images.jianshu.io/upload_images/225323-3c6ac45878576561.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-## 功能特性
+Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用重启 restart。
 
-包含了系统的命令，比如我需要重启Mac，只需要type: restart，就可以重启。
 ![image.png](http://upload-images.jianshu.io/upload_images/225323-ab4eab6746203c55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 搜索
+#### Alfred搜索
 
-`Alfred` 有些通用的设置基本都是关于文件操作的：搜索，拷贝路径，预览，在Finder中显示
+Alfred 有些通用的设置基本都是关于文件操作的：搜索，拷贝路径，预览，在Finder中显示等
 
-#### 网页搜索
+##### 网页搜索
 
 1. 利用常用网站的`API`可以自定义web搜索.
 ![](http://oc98nass3.bkt.clouddn.com/15234355436697.jpg)
@@ -35,7 +38,7 @@ Alfred已经更新到Alfred3了，其实很强大的东西，一直没有好好�
 2. 可以搜索浏览器标签，我主要使用`Chrome`所以这边搜索的是`Chrome`的标签
 ![](http://oc98nass3.bkt.clouddn.com/15234354592741.jpg)
 
-#### 文件搜索
+##### 文件搜索
 
 ![](http://oc98nass3.bkt.clouddn.com/15194620236262.jpg)
 
@@ -44,8 +47,7 @@ Alfred已经更新到Alfred3了，其实很强大的东西，一直没有好好�
 还提供了`in`、`find`、`open`命令，`in`可以在文件中查找内容，╮(✪ω✪)╭这不就是finder的搜索吗？
 `find`查找文件所在目录，`open`打开文件
 
-可以设置模糊搜索`Fuzzy Search`， 建议打开使用方向键切换文件层次，灰常方便︿(￣︶￣)︿， 而且，直接可以使用`previous`或者`⌘ + ⌥ + /`来调起之前的文件路径~
-
+可以设置模糊搜索`Fuzzy Search`， 建议打开使用方向键切换文件层次，灰常方便， 而且，直接可以使用`previous`或者`⌘ + ⌥ + /`来调起之前的文件路径~
 
 当然，你还可以通过`⌥ + ⇣/⇡`来选择多个常用路径╮(✪ω✪)╭，然后使用`⌥ + <-`进行处理（打开,删除,拷贝路径等），或者`⌥ + ->`删除路径
 
@@ -53,18 +55,12 @@ Alfred已经更新到Alfred3了，其实很强大的东西，一直没有好好�
 
 ![image](http://upload-images.jianshu.io/upload_images/225323-7935c99c626172b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-### 强大的`Workflow`
-
-`Alfred`真正强大之处是它的核心思想：把重复的工作抽象成一个`Workflow`,作为一个`Workflow`,一些开发者不断开发出一些常用的，解决他们自身需求的`Workflow`，可以说极大的方便了我们这些用户，这里给出我一些常用的吧。
-
-![image](http://upload-images.jianshu.io/upload_images/225323-6e18493c6db67bb7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
 ### 黏贴板
 
-对于一些文案在App间频繁的切换的需求，`Alfred`提供了黏贴板
-我设置的快捷键：`⌘ + ⌥ + C`
+对于一些文案在App间频繁的切换的需求，`Alfred`提供了实用的黏贴板功能：
+我设置的快捷键为：`⌘ + ⌥ + C`
 
-Alfred 3 的剪贴板扩展支持所有类型文件的复制历史保存，从文字到 Doc 文档，从 Gif 图片到 .dmg 文件，你的所有复制历史都会被忠实的记录下来。
+Alfred的剪贴板扩展支持所有类型文件的复制历史保存，从文字到 Doc 文档，从 Gif 图片到 .dmg 文件，你的所有复制历史都会被忠实的记录下来。
 
 ### Snippets
 
@@ -78,6 +74,11 @@ Alfred 3 的剪贴板扩展支持所有类型文件的复制历史保存，从�
 `Alfred`提供了使用频率的报表，可以看到使用`Alfred`的频率
 ![image](http://upload-images.jianshu.io/upload_images/225323-9ba66d965b5acd3a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
+### 强大的`Workflow`
+
+`Alfred`真正强大之处是它的核心思想：把重复的工作抽象成一个`Workflow`,作为一个`Workflow`,一些开发者不断开发出一些常用的，解决他们自身需求的`Workflow`，可以说极大的方便了我们这些用户，这里给出我一些常用的吧。
+
+![image](http://upload-images.jianshu.io/upload_images/225323-6e18493c6db67bb7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 常见问题
 
@@ -125,137 +126,51 @@ sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\
 ![step1](http://oc98nass3.bkt.clouddn.com/15233769519238.jpg)
 
 ![step2](http://oc98nass3.bkt.clouddn.com/15233769336959.jpg)
-### 当然浏览器重启后也会reset插件的下载路径 。。。
 
-## Surfingkeys
+当然浏览器重启后也会reset插件的下载路径 。。。
 
->[Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)是Chrome上的一个神器，开发者将Chrome上常用的操作封装成快捷键，使用后，感觉比[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)还要好用。
-
-#### 可视模式
-
- 名称 | 快捷键 
-  :-: | :-: 
-进入可视模式，并全选指定文本 |  zv
-选择复制多个指定文本 | ymv
-选择复制指定文本 | yv
-切换可视模式 | v
-恢复可视模式 | V
-跳到行首 | 0
-前进一个字符 | l
-后退一个字符 | h
-下一行 | j
-上一行 | k
-前进一个单词 | w
-前进一个单词 | e
-后退一个单词 | b
-前进一个句子 | )
-后退一个句子 | (
-前进一个段落 | }
-后退一个段落 | {
-跳到行尾 | $
-跳到页面结尾 | G
-跳到页面开头 | gg
-跳到页面结尾 |  o
-点击光标下的元素 | <'Enter'>
-把光标所在的位置放在屏幕中间 | zz
-选中一个单词(w)／行(l)／句子(s)／段落(p) | V
-复制一个单词(w)／行(l)／句子(s)／段落(p) | y
-往上20行 | <'Ctrl-u'>
-向下20行 | <'Ctrl-d'>
-| **查找** |  |
-在当前页查找 | /
-在当前页查找选中文本 | *
-下一处 | n
-上一处 | N
-查找光标下的单词 | *
-重复相应的f/F | ;
-往前查找字符 | f
-往后查找字符 | F
-反向重复相应的f/F | ,
-| **其他** |  |
-电脑语音阅读选中文本 | gr
-翻译光标下的单词 | q
-
-
-#### 插入模式
+## Eudic 欧陆词典
 
 ```
-插入模式
-<Ctrl-e>把光标放到行尾
-<Ctrl-f>把光标放到行首
-<Ctrl-u>删除光标前的所有字符
-<Alt-b>把光标往后移一个单词
-<Alt-f>把光标往前移一个单词
-<Alt-w>删除光标前一个单词
-<Alt-d>删除光标后一个单词
-<Esc>退出插入模式
-:输入字符表情
-<Ctrl-'>给当前输入加双引号
-<Ctrl-i>打开VIM编辑器编辑当前输入
-<Ctrl-'>给当前输入加双引号
+/Users/michaelmao/Library/Preferences/com.eusoft.eudic.plist
+/users/用户名/Library/Preferences/com.eusoft.eudic.plist
 ```
+MAIN_TimesLeft 参数 改为 `820711`
 
-### 快捷键
+可以通过账户登录来同步手机端的学习记录，很Nice~有条件的还是支持一下吧。
 
-| 名称 | 快捷键 |
-| :-: | :-: |
-| **打开连接** |  |
-| 在新标签页后台打开链接 | gf |
-| 在新标签页打开多个链接 | cf |
-| 在新标签页打开链接 | af |
-| 打开链接，如果拨号键有重叠按SHIFT | f |
-|  打开文字中的超级链接  | O |
-| 打开选中的网址或系统剪贴板里的网址 | cc |
-| 复制链接 | ya |
-| 复制当前页标题 | yl |
-| 选择复制制定文本 | yv|
-| 复制当前地址 | yy |
-| 当前页后退 | S | 
-| 当前页前进 | D | 
-| 刷新当前页 | r | 
-| 跳到当前地址的根路径 | gU |
-| **标签页** |  |
-| 跳到最早的那个标签页 | gT |
-| 跳到最新的那个标签页 | gt |
-| 选择标签页 | T |
-| 复制当前标签页 | yt |
-| 打开新标签 | on |
-| 把当前标签页移入新窗口 | W |
-|  往左移动当前标签页 | << |
-| 往右移动当前标签页 |  >> |
-| **搜索** |  | 
-| 打开网页 | t | 
-| 打开搜索栏查找当前标签页访问过的所有网址 | H | 
-|  跳到第一个输入框 | gi |
-| **文本** |  |
-| 用stackoverflow搜索选中文本 | ss |
-| 用百度搜索选中文本 | sb |
-| 用谷歌搜索选中文本 | sg |
-| **滚动** |  |
-| 切换滚动目标 |  |
-| 滚到最上边 | gg |
-| 滚到最下边 | G |
-| **其他** |  |
-| 用谷歌翻译选中文本 | ;t |
-|  电脑语音阅读选中文本或剪贴板里的文本  | gr |
-| 删除30天前的所有访问历史记录  | ;dh | 
-| 截屏 | yg | 
-| 截长屏 | yG | 
-| 退出Chrome | ZQ |
-| 保存会话并退出 | ZZ |
-| 恢复最近一次会话 | ZR |
-| 显示最近一次操作 | sql |
-| 重复最近一次操作 | . |
-| **Chrome内置功能** |  |
-| 打开收藏夹 | gb |
-| 打开下载 | gd |
-| 打开历史记录 |  gh |
-打开扩展 | ge |
+本人的一些配置（调教）：
+![](http://oc98nass3.bkt.clouddn.com/15159839251696.jpg)
 
-非常高效有木有，心里禁不住为作者喝彩，感谢作者~
-还有可视模式，和插入模式，还没有深入的使用
+### 延长试用期
 
+建议官网下载最新版本
 
+1. 找到 plist文件
+
+![](http://oc98nass3.bkt.clouddn.com/15133950232119.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15159839872215.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15159840462422.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15237711172483.jpg)
+
+2. 设置 两个参数
+    - plist 文件用编辑器打开即可。
+    - MAIN_TimesLeft 参数 改为 `820711`
+    - MAIN_ProductID 参数 任意填写
+    - 保存 即可
+
+3. 锁定plist 文件
+
+右键显示 简介 锁定 文件
+![](http://oc98nass3.bkt.clouddn.com/15160009301637.jpg)
+
+4. 重启词典
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-e430da409396a3a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-03766669485a6314.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-9e740dce186adb81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## Mweb
 
@@ -275,7 +190,7 @@ Mac下有外部模式和文档库模式
 `Tomorrow`的主题很好看
 ![](http://oc98nass3.bkt.clouddn.com/15194631656182.jpg)
 
-#### 参考文档： 
+### 参考文档： 
 [Mweb使用文档 - MWeb](http://zh.mweb.im/docs.html)
 [Mweb-iOS使用文档 ](http://zh.mweb.im/introducing-mweb-for-ios.html)
 
@@ -333,33 +248,58 @@ Mac下有外部模式和文档库模式
 25. 表格       |   `⌃ + ⇧ + T`
 
 
-### 附`Markdown`空格和换行
+### `Markdown`空格和换行
 
 在用Markdown有时候需要额外添加空格和换行,怎么办呢？使用`Html`的代码吧。
 
-#### 换行
+* 换行
 `&nbsp;`
 `<br />`
-#### 空格
+*  空格
 `&emsp;`
-##  TotalFinder
 
-[TotalFinder Compatibility](https://totalfinder.binaryage.com/compatibility)
+##  Due
 
-注意最新的`10.12`和`10.13`安装时，需要在启动终端中修改系统的安全性才能安装。
+[5 个 Due 的使用技巧和心得 - 少数派](https://sspai.com/post/30471)
+Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来有点类似闹钟，不过它并不像闹钟那样持续响铃，而是每隔一段时间就提醒你一次，间隔可以在一分钟到一小时之间设置。
 
-这里提供一个注册码：
+ Due确实帮助我完成了很多事情, 而是人们总会因为各种各样的原因忘记或错过一些事情，Due 的重复提醒则在这里起到了很大的作用。经过一段时间的使用，我总结了 5 个使用技巧和心得与大家分享。
 
-```
-Name: Kevin Kelley
-Key:  GAWAE-FBZK3-X4M62-5L9UJ-JLGUL-A6LCG-MBLQT-S9HQC-CRN99-JC7GB-FRFDZ-WCDYZ-DFPRA-5LD2R-CLLM
-```
+### 1. 在任务名称里输入电话号码
 
-OS X 10.13 (High Sierra)install the latest version, but needs a system tweak
+比如你可以添加一个内容为 联系李小明 186-0000-0000 的任务，当你将这个任务标记完成时，Due 会弹出这样的界面：
+![](https://cdn.sspai.com/attachment/origin/2015/08/02/270941.png?origin?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
+选择 呼叫 186-0000-0000 可以直接拨通李小明的电话，选择 发信息给 186-0000-0000则会弹出编写短信的界面。
 
-In the window that opens, type `csrutil disable` and press return. This turns off System Integrity Protection so that TotalFinder can be installed.
+更进一步的用法：如果你对 iOS 的 URL Scheme 稍微有所了解，就会知道打电话的 URL Scheme 是 tel://。所以我们可以添加一个 打电话给李小明 tel://186-0000-0000 的任务，当任务标记完成时，就会弹出只有「拨打电话」一个按钮的菜单。同理添加 发信息给李小明 sms://186-0000-0000 的任务就只会弹出发送短信的菜单。
 
-To do this, reboot and hold Command+R until the Apple logo appears once more. Go to Utilities->Terminal and type `csrutil enable` and press return. Reboot, and you are done.
+### 2. 用换行作为备注
+
+有时候我们的任务不只是一句话，我们会需要给任务添加一些备注，比如 打电话给李小明，关于周末聚会的事情，吃饭唱 K 或者游泳烧烤。这个时候我们就可以用「换行」来分隔任务本身和备注内容，变成：
+![](http://oc98nass3.bkt.clouddn.com/15063942473742.jpg)
+打电话给李小明
+
+当然你不换行也不是不行，只是我认为换行后可以让我们更直观地区分任务本身和备注内容。不过需要注意的是，Due 的主界面最多只能显示三行内容，超过三行的必须点进任务详情才能查看。
+
+### 3. 设置不同的重复提醒时间(小睡功能)
+
+不同的任务有不同的紧急程度，所以应当设置不同的重复提醒时间（小睡功能）。
+
+对于一些紧急程度不是很高的任务，尽量把重复提醒时间设置得长一点，否则会因为过分打扰而觉得烦躁。比如我有一个叫 记账 的任务，会在每天晚上十点三十分的时候提醒我。我一般在这个时间点后不会有消费，隔天记账的话容易忘。但我也不是说非得在十点三十分的时候记账，因为对于我来说只要在今天结束前记好账就好了。有可能十点三十分的时候我刚好在忙，又或者当时没注意到提醒通知。所以我将重复提醒时间设置为 三十分钟，这样我在十二点前就能获得四次的提醒（一直忽略或者错过的情况下），提醒次数刚好，也不至于过烦。
+
+### 4. 协调好 Due 与其它任务管理软件
+
+我在之前两篇测评中 [1] 都讨论过 Due 无法单独成为一个任务管理软件的原因，[2] 所以对于要将任务放到 Due 还是其它任务管理软件，必须有一个非常明确的区分规则。Due 的特点**是必须给任务设置提醒时间，并且提醒功能极其强大**。**所以我的区分规则是：在提醒来之前，我完全不需要关心这件事，也不需要在提醒之前完成这件事。这样的任务，我会放到 Due 里。**
+
+你最好也有自己的区分规则，尽量简单，不要让自己产生过多的犹豫。
+
+### 5. 使用中文自然语句输入
+在之前发布的 2.0.2 版本中，Due 终于支持了中文的「相对时间」自然语句。比如你可以用中文输入**三小时后**打电话给李小明，Due 就会自动将提醒时间设置到三小时后，非常方便。
+
+需要注意的是，中文自然语句输入只在中文系统下生效。如果将 iOS 系统语言设置为英文的话，「相对时间」的中文自然语句会失效，「绝对时间」则不会。
+
+
+
 
 ## Keyboard Maestro
 
@@ -377,10 +317,8 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 ## Karabiner
 
-### 参考
 1. [让键盘变成你想要的样子：改键利器 Karabiner-Elements - 少数派](https://sspai.com/post/42921)
 2. [Control + Option + Shift + Command：带你玩转 macOS 的修饰键 - 少数派](https://sspai.com/post/39331)
-
 
 ## TextExpander
 
@@ -547,6 +485,7 @@ Meta 键
 ## Steward
 
 [Steward 简介](http://oksteward.com/steward-document-zh/plugins/browser/Top%20Sites.html)
+
 说到启动器，最有名的当属 Mac 上的神器 Alfred ，以及 Windows 上的 Wox。那什么是启动器呢，它是由一个命令输入框，以及一个查询结果下拉列表组成。只需要一个命令就能让电脑去完成一系列操作，如同你的管家一样，自然是很多人心目中的神器。
 
 比如我输入 Chrome 然后回车，启动器会自动帮我找到 Chrome 并打开它；又如遇到命令 yd steward 后，启动器立刻去查询有道词典然后把 管家 的释义列出来。
@@ -629,46 +568,138 @@ A: 是指在“方法一”的基础上，也可以做到用标签在日志簿�
 ### 参考
 [2Do 的简单任务 – Cheng – Medium](https://medium.com/@scomper/2do-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BB%BB%E5%8A%A1-5e34fce73020)
 
-##  Due
 
-[5 个 Due 的使用技巧和心得 - 少数派](https://sspai.com/post/30471)
-Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来有点类似闹钟，不过它并不像闹钟那样持续响铃，而是每隔一段时间就提醒你一次，间隔可以在一分钟到一小时之间设置。
+## Surfingkeys
 
- Due确实帮助我完成了很多事情, 而是人们总会因为各种各样的原因忘记或错过一些事情，Due 的重复提醒则在这里起到了很大的作用。经过一段时间的使用，我总结了 5 个使用技巧和心得与大家分享。
+> [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)是Chrome上的一个神器，开发者将Chrome上常用的操作封装成快捷键，使用后，感觉比[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)还要好用。
 
-### 1. 在任务名称里输入电话号码
+### 可视模式
 
-比如你可以添加一个内容为 联系李小明 186-0000-0000 的任务，当你将这个任务标记完成时，Due 会弹出这样的界面：
-![](https://cdn.sspai.com/attachment/origin/2015/08/02/270941.png?origin?imageView2/2/w/1120/q/90/interlace/1/ignore-error/1)
-选择 呼叫 186-0000-0000 可以直接拨通李小明的电话，选择 发信息给 186-0000-0000则会弹出编写短信的界面。
+ 名称 | 快捷键 
+  :-: | :-: 
+进入可视模式，并全选指定文本 |  zv
+选择复制多个指定文本 | ymv
+选择复制指定文本 | yv
+切换可视模式 | v
+恢复可视模式 | V
+跳到行首 | 0
+前进一个字符 | l
+后退一个字符 | h
+下一行 | j
+上一行 | k
+前进一个单词 | w
+前进一个单词 | e
+后退一个单词 | b
+前进一个句子 | )
+后退一个句子 | (
+前进一个段落 | }
+后退一个段落 | {
+跳到行尾 | $
+跳到页面结尾 | G
+跳到页面开头 | gg
+跳到页面结尾 |  o
+点击光标下的元素 | <'Enter'>
+把光标所在的位置放在屏幕中间 | zz
+选中一个单词(w)／行(l)／句子(s)／段落(p) | V
+复制一个单词(w)／行(l)／句子(s)／段落(p) | y
+往上20行 | <'Ctrl-u'>
+向下20行 | <'Ctrl-d'>
+| **查找** |  |
+在当前页查找 | /
+在当前页查找选中文本 | *
+下一处 | n
+上一处 | N
+查找光标下的单词 | *
+重复相应的f/F | ;
+往前查找字符 | f
+往后查找字符 | F
+反向重复相应的f/F | ,
+| **其他** |  |
+电脑语音阅读选中文本 | gr
+翻译光标下的单词 | q
 
-更进一步的用法：如果你对 iOS 的 URL Scheme 稍微有所了解，就会知道打电话的 URL Scheme 是 tel://。所以我们可以添加一个 打电话给李小明 tel://186-0000-0000 的任务，当任务标记完成时，就会弹出只有「拨打电话」一个按钮的菜单。同理添加 发信息给李小明 sms://186-0000-0000 的任务就只会弹出发送短信的菜单。
+### 插入模式
 
-### 2. 用换行作为备注
+```
+插入模式
+<Ctrl-e>把光标放到行尾
+<Ctrl-f>把光标放到行首
+<Ctrl-u>删除光标前的所有字符
+<Alt-b>把光标往后移一个单词
+<Alt-f>把光标往前移一个单词
+<Alt-w>删除光标前一个单词
+<Alt-d>删除光标后一个单词
+<Esc>退出插入模式
+:输入字符表情
+<Ctrl-'>给当前输入加双引号
+<Ctrl-i>打开VIM编辑器编辑当前输入
+<Ctrl-'>给当前输入加双引号
+```
 
-有时候我们的任务不只是一句话，我们会需要给任务添加一些备注，比如 打电话给李小明，关于周末聚会的事情，吃饭唱 K 或者游泳烧烤。这个时候我们就可以用「换行」来分隔任务本身和备注内容，变成：
-![](http://oc98nass3.bkt.clouddn.com/15063942473742.jpg)
-打电话给李小明
+### 快捷键
 
-当然你不换行也不是不行，只是我认为换行后可以让我们更直观地区分任务本身和备注内容。不过需要注意的是，Due 的主界面最多只能显示三行内容，超过三行的必须点进任务详情才能查看。
+| 名称 | 快捷键 |
+| :-: | :-: |
+| **打开连接** |  |
+| 在新标签页后台打开链接 | gf |
+| 在新标签页打开多个链接 | cf |
+| 在新标签页打开链接 | af |
+| 打开链接，如果拨号键有重叠按SHIFT | f |
+|  打开文字中的超级链接  | O |
+| 打开选中的网址或系统剪贴板里的网址 | cc |
+| 复制链接 | ya |
+| 复制当前页标题 | yl |
+| 选择复制制定文本 | yv|
+| 复制当前地址 | yy |
+| 当前页后退 | S | 
+| 当前页前进 | D | 
+| 刷新当前页 | r | 
+| 跳到当前地址的根路径 | gU |
+| **标签页** |  |
+| 跳到最早的那个标签页 | gT |
+| 跳到最新的那个标签页 | gt |
+| 选择标签页 | T |
+| 复制当前标签页 | yt |
+| 打开新标签 | on |
+| 把当前标签页移入新窗口 | W |
+|  往左移动当前标签页 | << |
+| 往右移动当前标签页 |  >> |
+| **搜索** |  | 
+| 打开网页 | t | 
+| 打开搜索栏查找当前标签页访问过的所有网址 | H | 
+|  跳到第一个输入框 | gi |
+| **文本** |  |
+| 用stackoverflow搜索选中文本 | ss |
+| 用百度搜索选中文本 | sb |
+| 用谷歌搜索选中文本 | sg |
+| **滚动** |  |
+| 切换滚动目标 |  |
+| 滚到最上边 | gg |
+| 滚到最下边 | G |
+| **其他** |  |
+| 用谷歌翻译选中文本 | ;t |
+|  电脑语音阅读选中文本或剪贴板里的文本  | gr |
+| 删除30天前的所有访问历史记录  | ;dh | 
+| 截屏 | yg | 
+| 截长屏 | yG | 
+| 退出Chrome | ZQ |
+| 保存会话并退出 | ZZ |
+| 恢复最近一次会话 | ZR |
+| 显示最近一次操作 | sql |
+| 重复最近一次操作 | . |
+| **Chrome内置功能** |  |
+| 打开收藏夹 | gb |
+| 打开下载 | gd |
+| 打开历史记录 |  gh |
+打开扩展 | ge |
 
-### 3. 设置不同的重复提醒时间(小睡功能)
-
-不同的任务有不同的紧急程度，所以应当设置不同的重复提醒时间（小睡功能）。
-
-对于一些紧急程度不是很高的任务，尽量把重复提醒时间设置得长一点，否则会因为过分打扰而觉得烦躁。比如我有一个叫 记账 的任务，会在每天晚上十点三十分的时候提醒我。我一般在这个时间点后不会有消费，隔天记账的话容易忘。但我也不是说非得在十点三十分的时候记账，因为对于我来说只要在今天结束前记好账就好了。有可能十点三十分的时候我刚好在忙，又或者当时没注意到提醒通知。所以我将重复提醒时间设置为 三十分钟，这样我在十二点前就能获得四次的提醒（一直忽略或者错过的情况下），提醒次数刚好，也不至于过烦。
-
-### 4. 协调好 Due 与其它任务管理软件
-我在之前两篇测评中 [1] 都讨论过 Due 无法单独成为一个任务管理软件的原因，[2] 所以对于要将任务放到 Due 还是其它任务管理软件，必须有一个非常明确的区分规则。Due 的特点**是必须给任务设置提醒时间，并且提醒功能极其强大**。**所以我的区分规则是：在提醒来之前，我完全不需要关心这件事，也不需要在提醒之前完成这件事。这样的任务，我会放到 Due 里。**
-
-你最好也有自己的区分规则，尽量简单，不要让自己产生过多的犹豫。
-
-### 5. 使用中文自然语句输入
-在之前发布的 2.0.2 版本中，Due 终于支持了中文的「相对时间」自然语句。比如你可以用中文输入**三小时后**打电话给李小明，Due 就会自动将提醒时间设置到三小时后，非常方便。
-
-需要注意的是，中文自然语句输入只在中文系统下生效。如果将 iOS 系统语言设置为英文的话，「相对时间」的中文自然语句会失效，「绝对时间」则不会。
+非常高效有木有，心里禁不住为作者喝彩，感谢作者~
+还有可视模式，和插入模式，还没有深入的使用
 
 ##  Sublime Text 3 
+
+1. [Sublimetext-markdown-preview:](https://github.com/revolunet/sublimetext-markdown-preview)
+2. [SublimeText-Markdown/MarkdownEditing.](https://github.com/SublimeText-Markdown/MarkdownEditing#package-control): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes
 
 [Sublime Text 3 for Mac 安装和插件配置说明 – 老柴的宅](http://chaishiwei.com/blog/892.html)
 
@@ -695,15 +726,14 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 同时修改多个相同代码。先选中一段要修改的代码，然后`⌘ + D`，会向下连选相同的那段代码，重复，直到满意为止。虽然「查找/替换」功能可以做到同样的效果，不过此种操作方法更直观和可控。
 
 `⌘ + F`
-`⌘
+
 查找搜索。这个就不多介绍了吧：
 
 回车查找下一个，`⇧ + ↵`，查找上一个。
 `⌘ + H`，查找替换。
 `⌘ + ⇧ + F`，可以叫全项目查找，就是在当前打开的项目中，根据所输入的字符进行查找搜索。
 
-
-基本编辑（Basic Editing）
+#### 基本编辑（Basic Editing）
 
 ```
 ⇣⇡⇠⇢ 就是 ⇣⇡⇠⇢，不是 KJHL。
@@ -770,10 +800,10 @@ fn 功能键就是fn
 默认打开侧边栏
 `⌘(⌃) + k -> b`。 
 
-
-
 ### 安装Package Control插件
+
 [Mac OS上sublime text 3的安装与配置 - tabalt的博客](http://tabalt.net/blog/install-sublime-text-3-on-mac/)
+
 安装`Package Control`是扩展你的sublime的第一步，可以通过Package Control很方便的安装其他插件。最简单的安装方式是按 ⌃ + ` ，然后在下方弹出的输入框中输入如下代码并回车：
 
 ```
@@ -781,12 +811,45 @@ fn 功能键就是fn
 ```
 不出意外的话，`Package Control`就会安装成功。如果你不知道是否安装成功，可以查看是否存在菜单 `Preferences > Package Control`，存在则已经正确安装；或者按`⇧ + ⌘ + p`。 如果你的版本不是 3，或者安装有问题，可以查看Package Control的官网上的安装教程：
 [Installation - Package Control](https://sublime.wbond.net/installation)  
+Manual
+If for some reason the console installation instructions do not work for you (such as having a proxy on your network), perform the following steps to manually install Package Control:
 
-#### 安装`markdown preview`插件
+* Click the Preferences > Browse Packages… menu
+* Browse up a folder and then into the Installed Packages/ folder
+* Download Package Control.sublime-package and copy it into the Installed Packages/ directory
+* Restart Sublime Text
 
-`markdown preview`是sublime下预览markdown文件的插件，按⇧ + command + p打开我们前面安装的Package Control插件的面板，输入install然后回车，在弹出的面板输入markdown preview再回车，即可完成安装。
+### 安装`markdown preview`插件
+
+`markdown preview`是sublime下预览markdown文件的插件，按`⇧ + command + p`打开我们前面安装的Package Control插件的面板，输入install然后回车，在弹出的面板输入markdown preview再回车，即可完成安装。
 安装`SidebarEnhancements`插件
 `SidebarEnhancements`是增强侧边栏的插件，安装方法同上。
+## Reeder
+
+教程
+
+## Trailer
+
+教程
+
+##  TotalFinder
+
+[TotalFinder Compatibility](https://totalfinder.binaryage.com/compatibility)
+
+注意最新的`10.12`和`10.13`安装时，需要在启动终端中修改系统的安全性才能安装。
+
+这里提供一个注册码：
+
+```
+Name: Kevin Kelley
+Key:  GAWAE-FBZK3-X4M62-5L9UJ-JLGUL-A6LCG-MBLQT-S9HQC-CRN99-JC7GB-FRFDZ-WCDYZ-DFPRA-5LD2R-CLLM
+```
+
+OS X 10.13 (High Sierra)install the latest version, but needs a system tweak
+
+In the window that opens, type `csrutil disable` and press return. This turns off System Integrity Protection so that TotalFinder can be installed.
+
+To do this, reboot and hold Command+R until the Apple logo appears once more. Go to Utilities->Terminal and type `csrutil enable` and press return. Reboot, and you are done.
 
 ## 1PassWord
 
@@ -800,7 +863,8 @@ fn 功能键就是fn
 [iOS 8 Widget Customisations using Launcher | MacRumors Forums](https://forums.macrumors.com/threads/ios-8-widget-customisations-using-launcher.1782093/)
 
 ### 自定义iOS11设置的UrlSchemes
->Unfortunately, Apple blocked apps from opening the Settings app to specific settings (such as WiFi, Hotspot, Battery, etc.). We’ve requested that Apple re-enable these shortcuts, but it’s unlikely they will.
+
+> Unfortunately, Apple blocked apps from opening the Settings app to specific settings (such as WiFi, Hotspot, Battery, etc.). We’ve requested that Apple re-enable these shortcuts, but it’s unlikely they will.
 
 #### iOS11 Settings URL schemes (source topic by @CoolRick):
 ```
@@ -970,46 +1034,7 @@ The use of app-Prefs:root=... allows you to launch from the app as well (besides
 - TestFlight App: itms-beta://
 - Notes: mobilenotes://
 - Clock: Clock-worldclock:// | Clock-alarm:// | Clock-stopwatch:// | Clock-timer://
-
 ```
-
-
-## 欧陆词典
-
-可以通过账户登录来同步手机端的学习记录，很Nice~有条件的还是支持一下吧。
-
-本人的一些配置（调教）：
-![](http://oc98nass3.bkt.clouddn.com/15159839251696.jpg)
-
-
-### 延长试用期
-建议官网下载最新版本
-1 找到 plist文件
-![](http://oc98nass3.bkt.clouddn.com/15133950232119.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15159839872215.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15159840462422.jpg)
-
-```
-/users/用户名/Library/Preferences/com.eusoft.eudic.plist
-/Users/michaelmao/Library/Preferences/com.eusoft.eudic.plist
-```
-2 设置 两个参数
-plist 文件用编辑器打开即可。
-    - MAIN_TimesLeft 参数 改为 `820711`
-    - MAIN_ProductID 参数 任意填写
-保存 即可
-
-3 锁定plist 文件
-右键显示 简介 锁定 文件
-![](http://oc98nass3.bkt.clouddn.com/15160009301637.jpg)
-
-4 重启 词典
-
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-e430da409396a3a2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-03766669485a6314.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![Paste_Image.png](http://upload-images.jianshu.io/upload_images/225323-9e740dce186adb81.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ##  DayOne
 
@@ -1024,8 +1049,7 @@ plist 文件用编辑器打开即可。
 
 之前是软件收费，现在改成软件免费，账号付费了，所以这个版本没用了，因为你自己的账号没付费，就不能同步。2.1.8还属于软件付费的版本，所以可以同步。看看站长新版有办法没有。
 
-
-## 油猴
+## Tampermonkey 油猴
 
 1. [简书实时生成侧边目录 - CSDN博客](https://blog.csdn.net/Wonder233/article/details/78558307)
 查看简书文章页面的源码，可以发现所有的标题行都放在h1,h2,h3,h4,h5,h6 标签内，所以将页面设计成在文章左侧插入列表, 按标题层级进行缩进，点击进行跳转。 
@@ -1104,178 +1128,62 @@ function appendMenuItem(tagName,id,content){
 })();
 ```
 
+## Chrome
+
+发现Chrome的拓展除了
+```
+chrome://extensions/
+```
+还有个
+```
+chrome://apps/
+```
+
+### PWA
+
+PWA（Progressive Web Apps）是由 Google 提出的下一代 Web 应用模型，让你能在网页中获得不亚于原生 App 的体验。目前，包括 iOS、Android、Chrome、Firefox 等在内的各主流平台均已添加了相关支持。
+
+
+如果你经常访问的网站支持 PWA 技术，添加到 Launchpad 后就与普通应用无异，不会显示地址栏、工具按钮等，且能即时推送通知，轻量简洁。
+
+
+据我所知，国内目前支持 PWA 的主流服务有 [微博](https://m.weibo.cn/beta "微博")、[豆瓣](https://m.douban.com/ "豆瓣")、[哔哩哔哩](https://m.bilibili.com/ "哔哩哔哩")、[腾讯新闻](https://xw.qq.com/ "腾讯新闻")、[饿了么](https://h5.ele.me/ "饿了么")、[飞猪](https://h5.m.taobao.com/trip/home-pwa/index.html "飞猪")、[百度糯米](https://mdianying.baidu.com/ "百度糯米")、[百度天气](https://weatherpwa.baidu.com/ "百度天气") 等。关于国外服务的适配情况，你可以参照 GitHub 的 [awesome-pwa](https://github.com/hemanth/awesome-pwa "awesome-pwa") 项目。
+
+#### 配置Chrome
+
+首先更新你的Chrome版本到64或以上。
+
+然后在地址栏输入`chrome://flags`，找到`Desktop PWAs`的选项将其`Enabled`了，然后Chrome会提示你重启浏览器。
+![](http://oc98nass3.bkt.clouddn.com/15238171164510.jpg)
+
+
 ## Gmail
 
 [收发Gmail 必学12招，善用邮件分类、前端管理当Gmail 达人 - 简书](http://www.jianshu.com/p/4807f87ee1a5)
 
-### 搜索条件
-
-
-在哪个文件，
-` in: inbox`
-日期
-` before:YYYY/MM/DD`
-`after:YYYY/MM/DD`
-是否已读
-`is:unread`
-
-范例格式: "验证"OR"激活"
-解析: 在每一个关键字必须以分号包括，在多个字词后加入OR (必须是大写字母!)
-
-### 使用过滤器
-
-[如何清理Gmail收件箱](https://zh.wikihow.com/%E6%B8%85%E7%90%86Gmail%E6%94%B6%E4%BB%B6%E7%AE%B1)
-
-5 种方法:清理所有已读邮件清理超过一定时间的未读邮件使用封锁寄件者拦截邮件使用Unroll.me取消订阅一键删除所有邮件
-打开Gmail的收件箱，结果发现里面已经堆积了成百上千的邮件？这时你将会面临一个艰难的选择：删掉所有的邮件，包括有重要信息的邮件，或者将它们归档，然后留下一堆可能永远都不会阅读的邮件？幸好，Gmail提供了一些简单有效的工具，可以帮助你搜索并管理大量的邮件。
-方法
-1
-清理所有已读邮件
-以Clean out Your Gmail Inbox Step 1 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-1
-登录你的Gmail账户。
-以Clean out Your Gmail Inbox Step 2 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-2
-接下来，在Gmail搜索框里输入“in:inbox is:read”（不包括引号），然后点击蓝色的邮件搜索按钮。你将能看到你最近已读的一些邮件。
-以Clean out Your Gmail Inbox Step 3 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-3
-找到搜索结果左上角的复选框，点击它来选择邮件。点击复选框后会出现一个下拉框，其中包括“全选、已读、未读、星标邮件、非星标邮件”等选项。点击“全选”来选择符合搜索条件的所有邮件，那么页面上的所有邮件就会被选中，突出出来。
-以Clean out Your Gmail Inbox Step 4 preview为标题的图片
-4
-点击列表顶部的“搜索所有匹配的邮件”链接。这会确保你选中所有匹配的结果，即使它不在第一页上。
-以Clean out Your Gmail Inbox Step 5 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-5
-点击邮件区顶部的“归档”按钮。这样所有已读邮件就都保存到档案里了，你可以搜索档案里的内容，并且保存到档案里的邮件不再出现在收件箱里，收件箱就不会显得很乱了。
-方法
-2
-清理超过一定时间的未读邮件
-1
-确定为了避免错失重要信息，而查看的未读邮件的最早日期。这可能会取决于你在上面花费的时间，以及未读邮件的积累速度。1到3个月是很好的时间。超过这个时间的邮件，如果很重要的话，发送者会重新发送一遍，不重要的话，也就没有必要看了。假设，我们选择2009年八月一日。
-以Clean out Your Gmail Inbox Step 6 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-2
-在搜索栏中输入“in:inbox before:2012/01/01”（日期可以任选），然后点击“搜索”。日期的格式很重要，它必须是“YYYY/MM/DD”格式，第一个四位数字代表年份，然后是月份，最后是日。
-以Clean out Your Gmail Inbox Step 7 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-3
-点击“全部”，然后选择“选择所有符合条件的邮件”，就像你之前做的一样。
-以Clean out Your Gmail Inbox Step 8 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-4
-深吸一口气，然后选择“删除”，删除所有邮件。在确认框中选择“确定”，所有邮件都会移到垃圾桶里。
-以Clean out Your Gmail Inbox Step 9 preview为标题的图片
-spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome and Safari)
-↑↓volume mmute
-←→seek  . seek to previous 12…6 seek to 10%, 20%, …60%
-
-5
-点击邮件列表旁边的“收件箱”。这样里面就只有最近的未读邮件了。
-查看未读邮件，找到你错过的重要信息。回复、归档或者删除它们。
-重复上面的步骤，但是在搜索栏里输入“in:inbox is:unread”（没有引号）。用上面的方法选择全部并删除。
-以Clean Out Your Gmail   Last Step为标题的图片
-6
-所有删除的邮件都会在垃圾桶里保存一个月。如果你想恢复删除的邮件，使用“in:trash”命令并在后面加上你要搜索的内容，搜索垃圾桶。找到邮件之后，从列表中点击“移动”，然后选择“收件箱”，邮件就会回到收件箱里。
-7
-恭喜你完成清理，你还要想办法以后不让收件箱爆满。从现在开始，及时查看邮件，回复、归档或删除，或者使用上面的方法避免邮件再度爆满。
-方法
-3
-使用封锁寄件者拦截邮件
-以Create a Filter Gmail Step Filter Button为标题的图片
-1
-启用Gmail的拦截插件，“封锁寄件者”。在你阅读邮件时，就会出现拦截选项。(Add to Google Chrome) (Add to Firefox)
-以Create Filters in Gmail 4 Options为标题的图片
-2
-点击“拦截”按钮上的箭头，从4个选项里挑选一个。
-以Clean Out Gmail Step 1为标题的图片
-3
-这样系统就会自动创建一个过滤器，同时发送一条确认信息，你可以通过信息撤销操作。
-方法
-4
-使用Unroll.me取消订阅
-以Clean Out Your Inbox Unroll Step 1为标题的图片
-1
-注册“Unroll.me”服务，清理收件箱里旧的订阅邮件。你需要给予这个应用权限。
-以Clean Out Your Inbox Unroll Step 2 1为标题的图片
-2
-它会在你的收件箱中搜索订阅邮件，等待它完成。
-以Clean Out Your Inbox Unroll Step 3为标题的图片
-3
-然后，选择你想保留或删除的订阅邮件。
-以Clean Out Your Inbox Unroll Step 4为标题的图片
-4
-最后，你每天都会收到一个所有订阅邮件的合集邮件，而不是分别收到不同的邮件。
-方法
-5
-一键删除所有邮件
-1
-点击这里下载 “Techntips gmail eraser”。
-它是一款可以每天自动删除所有邮件的工具，你可以在 techntips.net中，免费获得它。
-2
-下载完成后，打开它。它会要求你输入Gmail的用户名和密码。
-3
-它会自动开始删除收件箱里的邮件，然后显示收件箱里余下的邮件。
-4
-你什么都不要做，你只需要坐在那里，然后等待结果。
-5
-不要担心，清理完邮件后，工具会自动登出。
-小提示
-Gmail有很多筛选选项，比如只归档超过一定大小的邮件。阅读Gmail的其他筛选条件（下方的链接），使用它们进行搜索，然后对相应的邮件进行操作。
-
-### Boostnote
+## Boostnote
 [Boostnote：为程序员量身定做的笔记应用](https://www.waerfa.com/boostnote-review)
 
->Boostnote 是一款专门为程序员朋友量身打造的笔记软件，除了日常笔记记录，最大的用处就是帮你记录无数的代码资源，你甚至可以以一个单个笔记为单位，在里面创建多个 Tab，以组成一个独立的 Code 项目。软件支持收藏、标签、分组、搜索、栏目切换等笔记应用应有的功能。
-
+> Boostnote 是一款专门为程序员朋友量身打造的笔记软件，除了日常笔记记录，最大的用处就是帮你记录无数的代码资源，你甚至可以以一个单个笔记为单位，在里面创建多个 Tab，以组成一个独立的 Code 项目。软件支持收藏、标签、分组、搜索、栏目切换等笔记应用应有的功能。
 
 
 在笔记编辑区底部，你可以快速选择代码书写环境、选择缩进操作方式以及字号。
 
 Boostnote 官网
 
-Fork on Github
-
 Boostnote 使用 Electron、React + Redux、Webpack、CSSModules 等最新技术开发，支持 Latex 这样的小众语法格式。用户在分组下新建笔记时有 Markdown 和 Snippet 两种模式可选，Markdown 模式下会自动支持各种 MD 语法以及 Latex 格式，而 Snippet 模式则会为用户提供 N 多种代码书写环境。
-
 
 
 分组存储笔记很有趣
 Boostnote 设立了名为「Storage」的笔记分组功能，未来版本还会加入 Google Drive、Dropbox 的云目录分组功能。
 
 
-
 UI 自定义让你的桌面更加丰富多彩
 软件提供了黑白两色主题，并有数十种文本配色可选，你还能设置文本的字体、字号、行距、预览切换方式、Keymap 以及预览窗口的样式自定义。
 
 
-
 Dev Track
 独有的 Dev Track 功能可以让你在笔记中列出自己的开发进度列表，每完成一项功能挑勾后即代表对应进度已完成，上方的进度栏还能同步显示进度比例，非常的 Geek。
-
  
 
 Finder Popup
@@ -1287,8 +1195,7 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 未来这款软件还将推出 Team 协作版本，让我们拭目以待吧！Boostnote 目前可在其官网免费下载，另外这个工具还提供 Windows、Linux 两个版本的客户端。
 
-### TextExpander
-
+## TextExpander
 
 1. [Five Ways to Automate Your Day One Journal with TextExpander | Day One](http://dayoneapp.com/2017/01/five-ways-to-automate-your-day-one-journal-with-textexpander/)
 
@@ -1297,16 +1204,16 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 ![](http://oc98nass3.bkt.clouddn.com/15182604041517.jpg)
 
-### 简悦
+## 简悦
 [simpread](https://github.com/kenshin/simpread/wiki)
 
 
-### Sublimetext
-
-1. [Sublimetext-markdown-preview:](https://github.com/revolunet/sublimetext-markdown-preview)
-2. [SublimeText-Markdown/MarkdownEditing.](https://github.com/SublimeText-Markdown/MarkdownEditing#package-control): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes
-
 # MacOS 
+
+## 技巧
+
+
+打开终端，键入` sudo du -sh *`，按下回车后系统就会自动统计该目录下所有文件的占用情况，一般等待一两分钟后就能得到结果了。
 
 ## 常见问题
 
