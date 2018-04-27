@@ -6,7 +6,9 @@
 
 1. [Awesome Mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
 
-2. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
+2. [Amazing Apps](http://amazingapps.org/)前辈整理的，学习~
+
+3. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
 
 ### Tools Pool
 
@@ -76,6 +78,8 @@
 15.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
 
 16. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+
+
 
 ## Mac
 
@@ -416,6 +420,8 @@ Turn drawings into code with PaintCode ~
 15.  [Typora](https://www.typora.io/) 极简MarkDown
 
 16. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
+
+17. [nvALT](http://notational.net/)Mac 上的草稿处理中心：nvALT
 
 ### Statistics
 
