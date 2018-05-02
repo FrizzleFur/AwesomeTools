@@ -152,20 +152,22 @@ convert anything to anything~
 
 31. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
+32. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
+
 #### 下载
 
-32. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
+33. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
-33. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+34. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
 
-34. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+35. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 
-35. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+36. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
 
 #### 办公
 
-36. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
+37. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
 [【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 ```
 粘贴上帖提到的一键激活工具 百度云盘链接: <https://pan.baidu.com/s/1hsv6JL6> 密码: `rt2h`
@@ -178,30 +180,30 @@ convert anything to anything~
 [破解提取码：a89r](https://link.jianshu.com/?t=https%3A%2F%2Fpan.baidu.com%2Fs%2F1bEw4cY)
 参考[【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 
-37. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
+38. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
 
-38. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
+39. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
 
 #### 密码
 
-39. [1Password](https://1password.com/)  非常专业的密码管理器
+40. [1Password](https://1password.com/)  非常专业的密码管理器
 
-40. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
+41. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
-41. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+42. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
-42. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+43. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
 
-43. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+44. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
 
-44. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+45. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 #### Fun
 
-45. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
+46. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
 
 ### Developing
 
