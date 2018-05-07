@@ -107,7 +107,7 @@
 
 10. [DrCleaner](https://www.drcleaner.com/)
 
-11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html)维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
+11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
 
 11. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
 
@@ -287,8 +287,7 @@ convert anything to anything~
 4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
-7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native.
-Issue tracking made fun on your Mac.
+7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native. Issue tracking made fun on your Mac.
 
 ##### Xcode 
 
