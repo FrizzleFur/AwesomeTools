@@ -80,7 +80,6 @@
 16. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
 
-
 ## Mac
 
 ### Mac Helper
@@ -523,6 +522,11 @@ Turn drawings into code with PaintCode ~
 
 1. [一闪 3.0](https://sspai.com/post/42117)加入了短视频剪辑功能的「一闪 3.0」，想让你成为一名创造者
 
+### VPN
+
+1. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience)
+2. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
+3. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 
 ------
 
