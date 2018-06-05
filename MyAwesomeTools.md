@@ -405,23 +405,27 @@ Turn drawings into code with PaintCode ~
 
 8. [DayOne](http://dayoneapp.com/)  用心记日记~
 
-9. [Wiz](http://www.wiz.cn/)    解决大象太笨重的问题
+9. [Wiz为知笔记](http://www.wiz.cn/)  简洁的为知笔记，要付费
 
-10. [AlterNote](http://alternoteapp.com/)    你知道，大象逼得开发者不得不自己开发一款EverNote ╮(╯▽╰)╭
+10. [Quiver](程序猿的笔记本) 程序猿的笔记本
 
-11. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload)markdown图片实用工具
+11. [AlterNote](http://alternoteapp.com/)    你知道，大象逼得开发者不得不自己开发一款EverNote ╮(╯▽╰)╭
 
-12. [QuickLook Plugins List](https://github.com/toland/qlmarkdown) [QuickLook Plugins MarkDown](https://sspai.com/post/31927)
+12. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload)markdown图片实用工具
 
-13. [Notion](https://www.notion.so/product)A unified & collaborative workspace for your notes, wikis, and tasks.
+13. [QuickLook Plugins List](https://github.com/toland/qlmarkdown) [QuickLook Plugins MarkDown](https://sspai.com/post/31927)
 
-14. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
+14. [Notion](https://www.notion.so/product)A unified & collaborative workspace for your notes, wikis, and tasks.
 
 15.  [Typora](https://www.typora.io/) 极简MarkDown
+
+### 文字处理
 
 16. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
 
 17. [nvALT](http://notational.net/)Mac 上的草稿处理中心：nvALT
+
+18. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
 
 ### Statistics
 
