@@ -16,13 +16,16 @@
 
 2. [数字逻辑](https://www.softosx.com/) Tool Pool
 
-3. [Waitsun](https://www.waitsun.com/) Tool Pool
+3.  [知您网(zhinin.com) - Mac软件下载 | Mac游戏下载 | 破解软件 | 破解游戏 | Crack](http://www.zhinin.com/)
 
-4. [Issuu](https://issuu.com/)  电子书 Pool
+4. [Waitsun](https://www.waitsun.com/) Tool Pool
 
-5. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
+5. [Issuu](https://issuu.com/)  电子书 Pool
 
-6. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网站
+6. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
+
+7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
+
 
 ####  Tool Guide
 
@@ -91,6 +94,10 @@
 3. [Evernote](https://evernote.com/intl/zh-cn/) Notes Platform
 
 4. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
+
+#### 系统
+
+1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
 
 #### 系统清理
 
@@ -255,7 +262,10 @@ convert anything to anything~
 
 23. [iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) ipa图标导出
 
-24  `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
+24.  `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
+
+25. [SnippetsLab](http://xclient.info/s/snippetslab.html?t=95a715ea86ae9bb6a50e6acf3f3318aca7640761#versions) SnippetsLab是一个易于使用的代码片断管理工具。它可以帮助你收集和组织有价值的代码片段,并确保你容易获取他们。
+
 
 #### Developing Tools
 
@@ -276,6 +286,7 @@ convert anything to anything~
 [iSwift for Mac](https://www.waitsun.com/iswift-3-0.html) Objective-C转换Swift代码工具
 
 ##### WWDC
+
 [WWDC for mac](https://wwdc.io/) [Best iOS Learning Resource](https://github.com/insidegui/WWDC)
 
 ##### Git
@@ -419,6 +430,12 @@ Turn drawings into code with PaintCode ~
 
 15.  [Typora](https://www.typora.io/) 极简MarkDown
 
+16. [Findings](http://www.zhinin.com/findings-mac.html) Findings专为科学家开发的笔记本电脑软件。在实验室进行实验时，记录每一个实验步骤非常重要，其有利于重复实验，以及发布实验结论。包括成果存储、数据分析、搜索、复用、分享、维护等等。
+
+17. [Highland2](https://www.waitsun.com/highland-2-0-5.html) Mac平台的剧本写作软件，该剧本创作软件可以帮助我们将注意力集中在创作上面，保证我们的创作不受其他因素的干扰。
+
+18. [AGENDA](https://itunes.apple.com/cn/app/agenda-a-new-take-on-notes/id1287445660?l=en&mt=12) The date-focused note taking app. Both plan and document your projects driving them forward.
+
 ### 文字处理
 
 16. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
@@ -535,8 +552,12 @@ Turn drawings into code with PaintCode ~
 2. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
 3. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 
-------
 
+### iOS ipsw 
+
+1. [ipsw](https://ipsw.me/) iOS固件
+
+------
 
 ## Win
 
