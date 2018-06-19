@@ -141,6 +141,9 @@ MAIN_TimesLeft 参数 改为 `820711`
 
 本人的一些配置（调教）：
 ![](http://oc98nass3.bkt.clouddn.com/15159839251696.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15159839872215.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15159840462422.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15237711172483.jpg)
 
 ### 延长试用期
 
@@ -149,9 +152,6 @@ MAIN_TimesLeft 参数 改为 `820711`
 1. 找到 plist文件
 
 ![](http://oc98nass3.bkt.clouddn.com/15133950232119.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15159839872215.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15159840462422.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15237711172483.jpg)
 
 2. 设置 两个参数
     - plist 文件用编辑器打开即可。
@@ -1180,7 +1180,7 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 
 ## 常见问题
 
-### “Day One.app”已损坏，打不开。 您应该将它移到废纸篓。
+### “XXX.app”已损坏，打不开。 您应该将它移到废纸篓。
 1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
 
 方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项

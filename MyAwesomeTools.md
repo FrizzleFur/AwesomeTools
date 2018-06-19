@@ -92,6 +92,10 @@
 
 4. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
 
+#### 系统
+
+1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
+
 #### 系统清理
 
 5. [CleanMyMac](http://macpaw.com/cleanmymac) Mac必备吧
@@ -276,6 +280,7 @@ convert anything to anything~
 [iSwift for Mac](https://www.waitsun.com/iswift-3-0.html) Objective-C转换Swift代码工具
 
 ##### WWDC
+
 [WWDC for mac](https://wwdc.io/) [Best iOS Learning Resource](https://github.com/insidegui/WWDC)
 
 ##### Git
@@ -535,8 +540,12 @@ Turn drawings into code with PaintCode ~
 2. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
 3. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 
-------
 
+### iOS ipsw 
+
+1. [ipsw](https://ipsw.me/) iOS固件
+
+------
 
 ## Win
 
