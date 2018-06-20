@@ -278,6 +278,26 @@ Mac下有外部模式和文档库模式
 
 - 简单的大写字母。移回变换线大写的完美场景标题字符
 
+## MicroSoft word for mac
+
+一个弹窗问题：
+
+在Mac上使用word过程中，有时候经常出现这种弹窗:
+
+![](http://oc98nass3.bkt.clouddn.com/15294901445351.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15294901483362.jpg)
+
+
+这是模板的问题，在设置中找到模板文件路径
+
+![](http://oc98nass3.bkt.clouddn.com/15294900549396.jpg)
+
+![](http://oc98nass3.bkt.clouddn.com/15294900170729.jpg)
+
+删除这个文件，然后重启Word,这个文件会重新生成。（估计模板文件出了问题）
+
+参考[Word 无法打开现有共用模板 (Normal.dotm)](https://bbs.feng.com/read-htm-tid-10206026.html)
+
 ##  Due
 
 [5 个 Due 的使用技巧和心得 - 少数派](https://sspai.com/post/30471)
