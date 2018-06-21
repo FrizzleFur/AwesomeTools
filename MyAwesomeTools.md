@@ -191,25 +191,27 @@ convert anything to anything~
 
 39. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
 
+40. [Quitter](https://marco.org/apps)  他可以幫我們自動關閉或隱藏不需要的 App, 参考[Quitter for Mac 降低分心頻率，出自我敬佩的開發者](https://www.playpcesor.com/2016/05/quitter-for-mac.html)
+
 #### 密码
 
-40. [1Password](https://1password.com/)  非常专业的密码管理器
+41. [1Password](https://1password.com/)  非常专业的密码管理器
 
-41. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
+42. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
-42. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+43. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
-43. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+44. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
 
-44. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+45. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
 
-45. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+46. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 #### Fun
 
-46. [WeiboForMac](http://weiboformac.sinaapp.com/)weibo for mac~
+47. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
 
 ### Developing
 
@@ -217,9 +219,9 @@ convert anything to anything~
 
 #### Developing Helper
 
-1. [pomotodo番茄土豆](https://pomotodo.com/app/)    同步iCalendar哦✪ω✪
+1. [pomotodo番茄土豆](https://pomotodo.com/app/)  同步iCalendar哦✪ω✪
 
-2. [Noizio](http://noiz.io/)    工作安心点
+2. [Noizio](http://noiz.io/) 白噪音，让你的工作安心点
 
 3. [Calm](https://www.calm.com/meditate) 类似 Noizio，但是web更轻~
 
@@ -455,6 +457,9 @@ Turn drawings into code with PaintCode ~
 ### MenuBar
 
 ![](http://oc98nass3.bkt.clouddn.com/14937761631295.jpg)
+
+1. [CmdTap](http://www.yingdev.com/projects/cmdtap) 任务切换器增强 for Mac
+![](http://oc98nass3.bkt.clouddn.com/15295855893499.jpg)
 
 ### WorkFlow
 
