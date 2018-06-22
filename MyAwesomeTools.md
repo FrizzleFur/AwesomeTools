@@ -10,6 +10,16 @@
 
 3. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
 
+### 逆向Pool
+
+4. [iOSRE](http://bbs.iosre.com/)
+
+5. [看雪安全论坛](https://bbs.pediy.com/)
+
+6. [飘云阁安全论坛-PYG|软件安全|破解软件|内购破解|移动安全|chinapyg.com - Powered by Discuz!](http://www.chinapyg.com/) 逆向论坛
+
+7. [吾爱破解 - LCG - LSG|安卓破解|病毒分析|破解软件|www.52pojie.cn](https://www.52pojie.cn/) 逆向论坛
+
 ### Tools Pool
 
 1. [Xclient](xclient.info) Tool Pool
