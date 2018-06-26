@@ -594,7 +594,7 @@ Turn drawings into code with PaintCode ~
 
 3. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
 
-4. [一键管理所有扩展](https://chrome.google.com/webstore/detail/niemebbfnfbjfojajlmnbiikmcpjkkja)   你当然需要Extension Manager
+4. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
 
 5. [IE-On-Chrome](https://chrome.google.com/webstore/detail/ie-on-chrome/kmomimblkpkjeilfbkinoonalgiejlcl)  兼容IE的Chrome插件
 
