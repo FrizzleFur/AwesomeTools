@@ -350,6 +350,7 @@ Turn drawings into code with PaintCode ~
 - 2.1 [Newman](https://github.com/postmanlabs/newman) The cli companion for postman
 
 - 2.2 [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo/)  Sends requests fired through the Postman chrome app.
+
 3. [Charles](https://www.charlesproxy.com/) request抓包~
 
 4. [Paw](https://paw.cloud/) API请求利器
@@ -364,16 +365,19 @@ Turn drawings into code with PaintCode ~
     * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) Best Zsh framework
     * [thefuck](https://github.com/nvbn/thefuck) 忘记命令?fuck就行。
 
-8. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
+8. [Hyper](https://hyper.is/) 一个轻量简洁的终端
 
-9. [HopperDisassembler](https://www.hopperapp.com/)     Reveal~
+9. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
 
-10. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
+10. [HopperDisassembler](https://www.hopperapp.com/) Reveal~
 
-11. [SublimeText](https://www.sublimetext.com/)  据说是神奇，还没充分用
+11. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
 
-12. [Crashlytics](https://fabric.io/kits/ios/crashlytics/features) iOS Crash崩溃记录
-13. [IconJar](https://geticonjar.com/)App图标管理器
+12. [SublimeText](https://www.sublimetext.com/) 据说是神奇，还没充分用
+
+13. [Crashlytics](https://fabric.io/kits/ios/crashlytics/features) iOS Crash崩溃记录
+
+14. [IconJar](https://geticonjar.com/) App图标管理器
 
 ### Cloud
 
@@ -655,6 +659,7 @@ Turn drawings into code with PaintCode ~
 3. [百度网盘直接下载助手](https://greasyfork.org/zh-CN/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)直接下载百度网盘和百度网盘分享的文件,避免下载文件时调用百度网盘客户端,获取网盘文件的直接下载地址 ╮(✪ω✪)╭解决了我的需求
 
 ###### 下载助手无法显示
+
 方法一： [临时解决显示下载助手（一星期测试报告）](https://greasyfork.org/zh-CN/forum/discussion/23133/x)
 
 把百度助手脚本第490行
@@ -838,7 +843,6 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 2. [Rakuten](http://global.rakuten.com/zh-cn/?siteID=5UNe5hkl3dM-1_Vtj7WDbFFoT2PK3Bewmg) 乐天
 
 ## HardWare
-
 
 ### HardWare-Mac
 
