@@ -176,7 +176,6 @@ MAIN_TimesLeft 参数 改为 `820711`
 
 [Mweb](http://www.mweb.im/)
 
-
 ![](http://oc98nass3.bkt.clouddn.com/15194631251558.jpg)
 
 在Mac上无疑是`markdown`书写的利器，搭配上图床和快捷键，让你的文章书写的非常好看。
@@ -190,9 +189,16 @@ Mac下有外部模式和文档库模式
 `Tomorrow`的主题很好看
 ![](http://oc98nass3.bkt.clouddn.com/15194631656182.jpg)
 
+### ## Mweb Mac
+
+![](http://oc98nass3.bkt.clouddn.com/15301825676551.jpg)
+
 ### 参考文档： 
-[Mweb使用文档 - MWeb](http://zh.mweb.im/docs.html)
-[Mweb-iOS使用文档 ](http://zh.mweb.im/introducing-mweb-for-ios.html)
+
+* [MWeb 3.0 测试版终于发布了！欢迎大家试用！](http://zh.mweb.im/mweb3.0-on-test.html)
+* [Mweb使用文档 - MWeb](http://zh.mweb.im/docs.html)
+* [Mweb-iOS使用文档 ](http://zh.mweb.im/introducing-mweb-for-ios.html)
+
 
 ### Mweb Alfred WorkFlow
 
