@@ -11,155 +11,8 @@
 
 `Alfred` 就是 `Mac` 上最强大的工具台，一个图形化的终端，只有你想不到，没有它做不到。
  
-
-最方便的使用就是设置`double ⌘`唤起`Alfred`啦~
-![image](http://upload-images.jianshu.io/upload_images/225323-376fbeab62b6fb09.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-### Alfred功能特性
-
-![image](http://upload-images.jianshu.io/upload_images/225323-3c6ac45878576561.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用重启 restart。
-
-![image.png](http://upload-images.jianshu.io/upload_images/225323-ab4eab6746203c55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-### Alfred搜索
-
-Alfred 有些通用的设置基本都是关于文件操作的：搜索，拷贝路径，预览，在Finder中显示等
-
-#### 网页搜索
-
-1. 利用常用网站的`API`可以自定义web搜索.
-![](http://oc98nass3.bkt.clouddn.com/15234355436697.jpg)
-
-2. 可以搜索浏览器标签，我主要使用`Chrome`所以这边搜索的是`Chrome`的标签
-![](http://oc98nass3.bkt.clouddn.com/15234354592741.jpg)
-
-#### 文件搜索
-
-![](http://oc98nass3.bkt.clouddn.com/15194620236262.jpg)
-
-有了`Alfred`，不用去到桌面用鼠标打开`finder`啦，勾选快速搜索文件选项，唤起`Alfred`，输入`~`或者空格就可以输入文件路径了，会给出智能匹配提示。
-![](http://oc98nass3.bkt.clouddn.com/15194620385807.jpg)
-还提供了`in`、`find`、`open`命令，`in`可以在文件中查找内容，╮(✪ω✪)╭这不就是finder的搜索吗？
-`find`查找文件所在目录，`open`打开文件
-
-可以设置模糊搜索`Fuzzy Search`， 建议打开使用方向键切换文件层次，灰常方便， 而且，直接可以使用`previous`或者`⌘ + ⌥ + /`来调起之前的文件路径~
-
-当然，你还可以通过`⌥ + ⇣/⇡`来选择多个常用路径╮(✪ω✪)╭，然后使用`⌥ + <-`进行处理（打开,删除,拷贝路径等），或者`⌥ + ->`删除路径
-
-选择文件后，可以通过`Shfit`预览~
-
-![image](http://upload-images.jianshu.io/upload_images/225323-7935c99c626172b6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-### 黏贴板
-
-对于一些文案在App间频繁的切换的需求，`Alfred`提供了实用的黏贴板功能：
-我设置的快捷键为：`⌘ + ⌥ + C`
-
-Alfred的剪贴板扩展支持所有类型文件的复制历史保存，从文字到 Doc 文档，从 Gif 图片到 .dmg 文件，你的所有复制历史都会被忠实的记录下来。
-
-### Snippets
-
-对于一些经常在登录网址时候需要输入的信息可以利用`Alfred`的Snippets,比如邮箱，电话等
-我设置的快捷键：`⌘ + ⌥ + S`
-
-附注：之前用过`Paster`相当于`Alfred`的这2个功能
-
-### 使用情况
-
-`Alfred`提供了使用频率的报表，可以看到使用`Alfred`的频率
-![image](http://upload-images.jianshu.io/upload_images/225323-9ba66d965b5acd3a.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-### 强大的`Workflow`
-
-`Alfred`真正强大之处是它的核心思想：把重复的工作抽象成一个`Workflow`,作为一个`Workflow`,一些开发者不断开发出一些常用的，解决他们自身需求的`Workflow`，可以说极大的方便了我们这些用户，这里给出我一些常用的吧。
-
-![image](http://upload-images.jianshu.io/upload_images/225323-6e18493c6db67bb7.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-### 常见问题
-
-1. [和谐版的Alfred 3 在每次开机后，都会提示“是否允许访问通讯录”的弹窗，让人不胜其烦。](http://xclient.info/a/761216bf-0737-5592-0ba8-8fbc5f31b3e6.html?_=75ebe0a762462e5265640b26094a4fdb)
-
-打开终端（或iTerm2）
-
-```
-sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\ Framework.framework/Versions/A/Alfred\ Framework
-```
-
-2. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Doesn't work on OSX 10.13 #19
-解决方法：
-下载fixed[Top.Processes.v2.2.alfredworkflow](https://github.com/singhprd/alfred2-top-workflow/releases/download/v2.2/Top.Processes.v2.2.alfredworkflow)
-参考[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
-
-
-3. Incompatible Python workflow library，更新Workflow
- 使用[Alfred Fixum](https://github.com/deanishe/alfred-fixum)更新`Workflow`
+ 参考[Alfred教程](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/Alfred%E6%95%99%E7%A8%8B.md)
  
-```
-Incompatible Python workflow library
-Due to an incompatibility between macOS 10.12.4+ and a 3rd party library, Alfred-Workflow, Alfred 3.4.1+ doesn't load workflows containing older, affected versions of this library.
-
-Disabling these workflows prevents the incompatibility from causing high CPU usage.
-```
-
-4. Alfred 3 升级后一些问题
-
-存放路径问题：
-```
-mkdir: /Users/USERNAME/Library/Application Support/Alfred 2/Workflow Data: No such file or directory
-```
-
-解决方法:
-新建数据和缓存目录
-
-```
-mkdir -p "$HOME/Library/Application Support/Alfred 2/Workflow Data/"
-mkdir -p "$HOME/Library/Caches/com.runningwithcrayons.Alfred-2/Workflow Data/"
-```
-
-
-参考[`No such file or directory` when running the updater · Issue #9 · shawnrice/packal-updater](https://github.com/shawnrice/packal-updater/issues/9)
-
-#### 斗图神器 
-
-收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情[KilluaChen/Dou-figure-alfred-workflow: 斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
-
-##### 下载
-
-[下载斗图神器](斗图神器.alfredworkflow)
-
-##### 检索
-
-检索关键字: `dt`
-
-检索快捷键:`Option+Shift+D`
-
-下载所有图片关键字: `dadt` ,近10个进程同时下载(慎用!会造成服务器压力)
-
->  第一次检索的关键字只会显示第一页预览,搜过的关键字图片会自动缓
-
-##### 查阅
-
-查看已下载图片数:`ls ~/Pictures/.DouTu | wc -w`
-
-##### 配置
-
-图片默认保存在`~/Pictures/.DouTu/`下面,不要了可以直接删掉`rm -rf ~/Pictures/.DouTu`
-
-想修改图片保存路径可以修改`src/Base.php`文件中的第`33`行
-
-##### 效果图
-
-![效果图](preview.gif)
-
-
-#### 参考 
-
-1. [Incompatible Python workflow library](https://www.alfredapp.com/help/troubleshooting/incompatible-python-workflow-library/)
-2. [Alfred Fixum](https://github.com/deanishe/alfred-fixum)
-3. [KilluaChen/Dou-figure-alfred-workflow: 斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
-
 ## Aria2
 
  [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
@@ -1409,8 +1262,42 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 ![](http://oc98nass3.bkt.clouddn.com/15182604041517.jpg)
 
 ## 简悦
-[simpread](https://github.com/kenshin/simpread/wiki)
 
+`Chrome`的阅读模式
+[simpread](https://github.com/kenshin/simpread/wiki)    
+![](http://oc98nass3.bkt.clouddn.com/15303554126923.jpg)
+
+
+### 阅读模式与聚焦模式
+
+![](http://oc98nass3.bkt.clouddn.com/15303549034647.jpg)
+
+* 阅读模式:独有功能，自动提取适配页面的标题、描述、正文、媒体等资源。支持临时阅读模式. TXT阅读模式.主动适配模式.智能适配模式.论坛类页面/分页。
+
+* 聚焦模式:高亮鼠标所在的文章段落，不改变当前页面的结构，适合未适配的网站。
+
+### 连接工具
+
+* 支持下载HTML . PDF . Markdown . PNG . Epub到本地以及发送到Kindle。
+* 支持输出到Dropbox，印象笔记. Evernote . Onenote . Google云端硬盘。
+* 发送页面链接到Pocket . Instapaper . Linnk, 详细请看这里[授权服务 · Kenshin/simpread Wiki](https://github.com/Kenshin/simpread/wiki/%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1)
+
+![](http://oc98nass3.bkt.clouddn.com/15303548876578.jpg)
+
+### 站点编辑器
+
+站点编辑器.站点适配源.站点管理器
+页面上任意元素均可隐藏，更支持编程，详细请看站点编辑器
+更灵活、社区化的多种站点适配源。
+内置了站点管理器，方便管理全部的适配站点。
+
+[站点编辑器 · Kenshin/simpread Wiki](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E7%BC%96%E8%BE%91%E5%99%A8)
+
+##  F.lux
+
+Mac上的一款护眼软件，还有独特的`Darkroom`模式
+
+![](http://oc98nass3.bkt.clouddn.com/15303515515539.jpg)
 
 # MacOS 
 
