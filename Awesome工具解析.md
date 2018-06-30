@@ -11,7 +11,6 @@
 
 `Alfred` 就是 `Mac` 上最强大的工具台，一个图形化的终端，只有你想不到，没有它做不到。
  
-### Alfred的使用
 
 最方便的使用就是设置`double ⌘`唤起`Alfred`啦~
 ![image](http://upload-images.jianshu.io/upload_images/225323-376fbeab62b6fb09.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
