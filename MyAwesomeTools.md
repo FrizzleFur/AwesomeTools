@@ -64,9 +64,9 @@
 
 2. [Packal——Alfred Workflows](http://www.packal.org/) WorkFlow Pool [packal-workflow-search](http://www.packal.org/workflow/packal-workflow-search)
 
-3. [Alfred-Workflows-Zhihu](https://zhuanlan.zhihu.com/AlfredWorkflow)
+3.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
 
-4. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
+4. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)Top Process Workflow
 
 5. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
 
@@ -77,8 +77,10 @@
  8. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
  
 9. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+![](http://oc98nass3.bkt.clouddn.com/15302609850440.jpg)
 
-10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 
+10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 可以直接使用Dash的设置集成
+![](http://oc98nass3.bkt.clouddn.com/15303347565431.jpg)
 
 11. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
 
@@ -88,9 +90,7 @@
 
 14.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
 
-15.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
-
-16. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
 
 ## Mac
@@ -231,7 +231,7 @@ convert anything to anything~
 
 1. [pomotodo番茄土豆](https://pomotodo.com/app/)  同步iCalendar哦✪ω✪
 
-2. [Noizio](http://noiz.io/) 白噪音，让你的工作安心点
+2. [Noizio](https://www.waitsun.com/noizio-1-5.html) 白噪音，让你的工作安心点
 
 3. [Calm](https://www.calm.com/meditate) 类似 Noizio，但是web更轻~
 

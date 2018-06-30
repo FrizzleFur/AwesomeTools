@@ -5,20 +5,18 @@
 > 在工作中，现在公司大多数使用MacBook进行办公，不仅仅是MacBook设计简洁，方便携带，OS X上有一些很多优秀的开发者，经过长期的开发迭代，有一些很Nice的效率工具，能够给你平常的工作和开发提速。神器很多，这里就介绍几款我效率工具箱中平常使用最多的几款工具吧。
 ![](http://oc98nass3.bkt.clouddn.com/15161925609832.png)
 
-## 神器
-
-### Alfred 
+## Alfred 
 
 ![image](http://upload-images.jianshu.io/upload_images/225323-9241e9deef92a341.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 `Alfred` 就是 `Mac` 上最强大的工具台，一个图形化的终端，只有你想不到，没有它做不到。
  
-#### Alfred的使用
+### Alfred的使用
 
 最方便的使用就是设置`double ⌘`唤起`Alfred`啦~
 ![image](http://upload-images.jianshu.io/upload_images/225323-376fbeab62b6fb09.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### Alfred功能特性
+### Alfred功能特性
 
 ![image](http://upload-images.jianshu.io/upload_images/225323-3c6ac45878576561.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -26,11 +24,11 @@ Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用�
 
 ![image.png](http://upload-images.jianshu.io/upload_images/225323-ab4eab6746203c55.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-#### Alfred搜索
+### Alfred搜索
 
 Alfred 有些通用的设置基本都是关于文件操作的：搜索，拷贝路径，预览，在Finder中显示等
 
-##### 网页搜索
+#### 网页搜索
 
 1. 利用常用网站的`API`可以自定义web搜索.
 ![](http://oc98nass3.bkt.clouddn.com/15234355436697.jpg)
@@ -38,7 +36,7 @@ Alfred 有些通用的设置基本都是关于文件操作的：搜索，拷贝�
 2. 可以搜索浏览器标签，我主要使用`Chrome`所以这边搜索的是`Chrome`的标签
 ![](http://oc98nass3.bkt.clouddn.com/15234354592741.jpg)
 
-##### 文件搜索
+#### 文件搜索
 
 ![](http://oc98nass3.bkt.clouddn.com/15194620236262.jpg)
 
@@ -95,6 +93,73 @@ sudo codesign -f -d -s - /Applications/Alfred\ 3.app/Contents/Frameworks/Alfred\
 下载fixed[Top.Processes.v2.2.alfredworkflow](https://github.com/singhprd/alfred2-top-workflow/releases/download/v2.2/Top.Processes.v2.2.alfredworkflow)
 参考[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)
 
+
+3. Incompatible Python workflow library，更新Workflow
+ 使用[Alfred Fixum](https://github.com/deanishe/alfred-fixum)更新`Workflow`
+ 
+```
+Incompatible Python workflow library
+Due to an incompatibility between macOS 10.12.4+ and a 3rd party library, Alfred-Workflow, Alfred 3.4.1+ doesn't load workflows containing older, affected versions of this library.
+
+Disabling these workflows prevents the incompatibility from causing high CPU usage.
+```
+
+4. Alfred 3 升级后一些问题
+
+存放路径问题：
+```
+mkdir: /Users/USERNAME/Library/Application Support/Alfred 2/Workflow Data: No such file or directory
+```
+
+解决方法:
+新建数据和缓存目录
+
+```
+mkdir -p "$HOME/Library/Application Support/Alfred 2/Workflow Data/"
+mkdir -p "$HOME/Library/Caches/com.runningwithcrayons.Alfred-2/Workflow Data/"
+```
+
+
+参考[`No such file or directory` when running the updater · Issue #9 · shawnrice/packal-updater](https://github.com/shawnrice/packal-updater/issues/9)
+
+#### 斗图神器 
+
+收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情[KilluaChen/Dou-figure-alfred-workflow: 斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+
+##### 下载
+
+[下载斗图神器](斗图神器.alfredworkflow)
+
+##### 检索
+
+检索关键字: `dt`
+
+检索快捷键:`Option+Shift+D`
+
+下载所有图片关键字: `dadt` ,近10个进程同时下载(慎用!会造成服务器压力)
+
+>  第一次检索的关键字只会显示第一页预览,搜过的关键字图片会自动缓
+
+##### 查阅
+
+查看已下载图片数:`ls ~/Pictures/.DouTu | wc -w`
+
+##### 配置
+
+图片默认保存在`~/Pictures/.DouTu/`下面,不要了可以直接删掉`rm -rf ~/Pictures/.DouTu`
+
+想修改图片保存路径可以修改`src/Base.php`文件中的第`33`行
+
+##### 效果图
+
+![效果图](preview.gif)
+
+
+#### 参考 
+
+1. [Incompatible Python workflow library](https://www.alfredapp.com/help/troubleshooting/incompatible-python-workflow-library/)
+2. [Alfred Fixum](https://github.com/deanishe/alfred-fixum)
+3. [KilluaChen/Dou-figure-alfred-workflow: 斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
 
 ## Aria2
 
@@ -523,7 +588,6 @@ Bee 是Mac上一款优秀的`Github Issue`跟踪软件，可以将日常的任�
 ### Bee的快捷键
     
 ![](http://oc98nass3.bkt.clouddn.com/15217922741672.jpg)
-
 
 ## Things3
 
@@ -1503,6 +1567,19 @@ Boostnote 支持快速拷贝代码到剪贴板帮助程序员提高工作效率�
 1. [解决中文输入法无法调用 TextExpander 6 的问题丨一日一技 - 少数派](https://sspai.com/post/35502)
 
 2. [解决 TextExpander 5 在中文环境下输入问题](https://medium.com/@oscargong1995/%E8%A7%A3%E5%86%B3-textexpander-5-%E5%9C%A8%E4%B8%AD%E6%96%87%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BE%93%E5%85%A5%E9%97%AE%E9%A2%98-e0a2237e2609)
+
+
+### Githup Desktop
+
+本来我是不想把`Githup Desktop`加进来的，没想到它今天抽了一个错误，为了记录一下我还是写一下。
+
+报的错误：
+![](http://oc98nass3.bkt.clouddn.com/15303368203935.jpg)
+
+估计是钥匙串的访问权限问题
+找到一篇文章：[GitHub Desktop was unable to store the account token in the keychain · Issue #4614 · desktop/desktop](https://github.com/desktop/desktop/issues/4614)
+![](http://oc98nass3.bkt.clouddn.com/15303369966352.jpg)
+参考[desktop/known-issues.md at master · desktop/desktop](desktop/known-issues.md at master · desktop/desktop)
 
 ### 其他
 
