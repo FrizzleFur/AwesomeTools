@@ -260,7 +260,6 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 ![](http://oc98nass3.bkt.clouddn.com/15077128657833.jpg)
 这时再运行 TEIMPrefSetter.app 便不会再报错，删除 zh-中文这项，保存，重新运行 TextExpander 就 OK 了。
 
-
 ## HomeBrew
 
 [Brew](https://brew.sh/)
@@ -336,10 +335,10 @@ Meta 键
 
 
 ## Bilibili-mac-client
+
 [流媒体NB工具](http://vp-hub.eqoe.cn/)
 [typcn/bilibili-mac-client](https://github.com/typcn/bilibili-mac-client)
 [Bilibili-mac-client FAQ](http://vp-hub.eqoe.cn/faq.html)
-
 
 *  点击屏幕顶部菜单栏中的 Bilibili - 设置 可以调整弹幕速度，弹幕字体大小，透明度，画质，下载格式等选项
 * 点击 设置 - 弹幕屏蔽 可以对弹幕进行关键词屏蔽，也可以使用智能屏幕模式，一键屏蔽吵架，剧透等弹幕
@@ -935,7 +934,22 @@ If for some reason the console installation instructions do not work for you (su
 教程
 
 快捷键
+![](http://oc98nass3.bkt.clouddn.com/15304367190074.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15304367388538.jpg)
 
+
+ 命令 | 说明 
+ --- | --- 
+⌘ ，      | Preferences...
+⌥ ⇧ ⌘ 9   | Add to Things
+⌃ ⌥ ⇧ ⌘ C | Convert Text to Simplified Chinese
+ ⌘ ，      | Preferences...
+⌥ ⇧ ⌘ 9   | Add to Things
+ ⇧ ⌘ Y | Make New Sticky note
+
+ 
+ 
+ 
 ## Trailer
 
 教程
@@ -965,7 +979,6 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 ![](http://oc98nass3.bkt.clouddn.com/2017-08-07-15020711016494.jpg)
 
-
 ## LaunchCenterPro
 
 [iOS 8 Widget Customisations using Launcher | MacRumors Forums](https://forums.macrumors.com/threads/ios-8-widget-customisations-using-launcher.1782093/)
@@ -973,176 +986,6 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 ### 自定义iOS11设置的UrlSchemes
 
 > Unfortunately, Apple blocked apps from opening the Settings app to specific settings (such as WiFi, Hotspot, Battery, etc.). We’ve requested that Apple re-enable these shortcuts, but it’s unlikely they will.
-
-#### iOS11 Settings URL schemes (source topic by @CoolRick):
-```
-Settings
-App-Prefs:root
-Settings -> About
-App-Prefs:root=General&path=About
-Settings -> Accessibility
-App-Prefs:root=General&path=ACCESSIBILITY
-Settings -> Autolock
-App-Prefs:root=DISPLAY&path=AUTOLOCK
-Settings -> Background App Refresh
-App-Prefs:root=General&path=AUTO_CONTENT_DOWNLOAD
-Settings -> Battery Usage
-App-Prefs:root=BATTERY_USAGE
-Settings -> Bluetooth
-App-Prefs:root=Bluetooth
-Settings -> CallerID
-App-Prefs:root=Phone&path=CallerID
-Settings -> Cellular/Mobile
-App-Prefs:root=MOBILE_DATA_SETTINGS_ID
-Settings -> Compass
-App-Prefs:root=COMPASS
-Settings -> Control Center
-App-Prefs:root=ControlCenter
-Settings -> Date/Time
-App-Prefs:root=General&path=DATE_AND_TIME
-Settings -> Dictionary
-App-Prefs:root=General&path=DICTIONARY
-Settings -> Display/Brightness
-App-Prefs:root=DISPLAY
-Settings -> Do Not Disturb
-App-Prefs:root=DO_NOT_DISTURB
-Settings -> Facebook
-App-Prefs:root=FACEBOOK
-Settings -> Facetime
-App-Prefs:root=FACETIME
-Settings -> Flickr
-App-Prefs:root=FLICKR
-Settings -> Game Center
-App-Prefs:root=GAMECENTER
-Settings -> General
-App-Prefs:root=General
-Settings -> iCloud
-App-Prefs:root=CASTLE
-Settings -> iCloud Backup
-App-Prefs:root=CASTLE&path=BACKUP
-Settings -> iCloud Storage
-App-Prefs:root=CASTLE&path=STORAGE_AND_BACKUP
-Settings -> International
-App-Prefs:root=General&path=INTERNATIONAL
-Settings -> iTunes & App Store
-App-Prefs:root=STORE
-Settings -> Keyboard
-App-Prefs:root=General&path=Keyboard
-Settings -> Keyboard -> Keyboards
-App-Prefs:root=General&path=Keyboard/KEYBOARDS
-
-//定位
-Settings -> Location Services
-App-Prefs:root=Privacy&path=LOCATION
-
-
-Settings -> Mail, Contacts, Calendars
-App-Prefs:root=ACCOUNT_SETTINGS
-
-//存储空间
-Settings -> Manage Storage
-App-Prefs:root=General&path=STORAGE_ICLOUD_USAGE/DEVICE_STORAGE
-
-Settings -> Maps
-App-Prefs:root=MAPS
-Settings -> Messages
-App-Prefs:root=MESSAGES
-Settings -> Multitasking
-App-Prefs:root=General&path=MULTITASKING
-Settings -> Music
-App-Prefs:root=MUSIC
-Settings -> Music EQ
-App-Prefs:root=MUSIC&path=com.apple.Music:EQ
-Settings -> Notes
-App-Prefs:root=NOTES
-
-Settings -> Notifications
-App-Prefs:root=NOTIFICATIONS_ID
-
-Settings -> Passcode
-App-Prefs:root=PASSCODE
-Settings -> Personal Hotspot
-App-Prefs:root=INTERNET_TETHERING
-Settings -> Phone
-App-Prefs:root=Phone
-Settings -> Photos
-App-Prefs:root=Photos
-Settings -> Privacy
-App-Prefs:root=Privacy
-Settings -> Profiles
-App-Prefs:root=General&path=ManagedConfigurationList
-Settings -> Reminders
-App-Prefs:root=REMINDERS
-Settings -> Reset
-App-Prefs:root=General&path=Reset
-Settings -> Ringtone
-App-Prefs:root=Sounds&path=Ringtone
-Settings -> Safari
-App-Prefs:root=SAFARI
-Settings -> SIM/PIN
-App-Prefs:root=Phone&path=SIM%20PIN
-Settings -> Siri
-App-Prefs:root=SIRI
-Settings -> Sounds
-App-Prefs:root=Sounds
-Settings -> Software Update
-App-Prefs:root=General&path=SOFTWARE_UPDATE_LINK
-Settings -> Storage & iCloud Usage
-App-Prefs:root=General&path=STORAGE_ICLOUD_USAGE
-Settings -> Touch ID & Passcode
-App-Prefs:root=TOUCHID_PASSCODE
-Settings -> Twitter
-App-Prefs:root=TWITTER
-Settings -> Usage
-App-Prefs:root=General&path=USAGE
-Settings -> Videos
-App-Prefs:root=VIDEO
-Settings -> Vimeo
-App-Prefs:root=VIMEO
-Settings -> Volume Limit
-App-Prefs:root=MUSIC&path=com.apple.Music:VolumeLimit
-Settings -> VPN
-App-Prefs:root=General&path=VPN
-Settings -> Wallet & Apple Pay
-App-Prefs:root=PASSBOOK
-Settings -> Wallpaper
-App-Prefs:root=Wallpaper
-Settings -> Weibo
-App-Prefs:root=WEIBO
-Settings -> Wi-Fi
-App-Prefs:root=WIFI
-```
-#### Apple apps & shortcuts (are available within the app at 'App Launchers' at Settings):
-
-
-```
-- Calendar: calshow:// (current standard in Launcher, but shows 1/1/2011 as start date) I'm using calinvite://eventid=id (this does open the app, not an appointment on the current day)
-- Siri: Prefs:root=General&path=SIRI
-- Personal Hotspot: Prefs:root=INTERNET_TETHERING
-- Location Services: Prefs:root=LOCATION_SERVICES (iOS8/9)
-Prefs:root=Privacy&path=LOCATION (iOS10)
-
-- Cellular/Mobile Data: Prefs:root=MOBILE_DATA_SETTINGS_ID
-- 
-- Sounds: Prefs:root=Sounds
-- Notifications: Prefs:root=NOTIFICATIONS_ID
-- Background App Refresh: Prefs:root=General&path=AUTO_CONTENT_DOWNLOAD
-- Battery (iOS8): Prefs:root=General&path=USAGE/BATTERY_USAGE
-- Battery (updated for iOS 9): Prefs:root=BATTERY_USAGE
-- VPN: Prefs:root=General&path=VPN
-- Settings App: Prefs:root
-- SIM Apps: Prefs:root=Phone&path=SIMToolkit
-- Display & Brightness: Prefs:root=Display&Brightness
-- CallerID : Prefs:root=Phone&path=CallerID
-
-The use of app-Prefs:root=... allows you to launch from the app as well (besides the widget).
-
-- Apple News app: Applenews:// (iOS9 only)
-- Phone App: Mobilephone://
-- TestFlight App: itms-beta://
-- Notes: mobilenotes://
-- Clock: Clock-worldclock:// | Clock-alarm:// | Clock-stopwatch:// | Clock-timer://
-```
 
 ##  DayOne
 
