@@ -5,13 +5,20 @@
 > 在工作中，现在公司大多数使用MacBook进行办公，不仅仅是MacBook设计简洁，方便携带，OS X上有一些很多优秀的开发者，经过长期的开发迭代，有一些很Nice的效率工具，能够给你平常的工作和开发提速。神器很多，这里就介绍几款我效率工具箱中平常使用最多的几款工具吧。
 ![](http://oc98nass3.bkt.clouddn.com/15161925609832.png)
 
+## Todo
+
+ * [ ] [定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单 - 少数派](https://sspai.com/post/43265)
+ * [ ] Quip的功能详细介绍
+ * [x] `Mweb`的Mac和iOS之间同步 （`2018-03-05`完成同步，设置好文档库）
+ * [x] `Alfred3`功能详细介绍 （`2018-06-30`完成同步，设置好文档库）
+
 ## Alfred 
+
+`Alfred` 就是 `Mac` 上最强大的工具台，一个图形化的终端，只有你想不到，没有它做不到。
 
 ![image](http://upload-images.jianshu.io/upload_images/225323-9241e9deef92a341.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-`Alfred` 就是 `Mac` 上最强大的工具台，一个图形化的终端，只有你想不到，没有它做不到。
- 
- 参考[Alfred教程](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/Alfred%E6%95%99%E7%A8%8B.md)
+详情请查看 [Alfred教程](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/Alfred%E6%95%99%E7%A8%8B.md)
  
 ## Aria2
 
@@ -629,8 +636,31 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 ## Surfingkeys
 
 > [Surfingkeys](https://chrome.google.com/webstore/detail/surfingkeys/gfbliohnnapiefjpjlpjnehglfpaknnc)是Chrome上的一个神器，开发者将Chrome上常用的操作封装成快捷键，使用后，感觉比[Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb?hl=en)还要好用。
+> Map your keys for web surfing, expand your browser with javascript and keyboard.
+
+文档：[Surfingkeys/README_CN.md at master · brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md)
+
+Surfingkeys有三种模式：normal，visual和insert。
+
+* Normal mode，默认模式,当你打开一个页面时，自动进入该模式。通过函数mapkey添加的所有按键都只在这种模式下有用。
+* Visual mode，用于选中文本，以及各种针对选中文本的操作
+* Insert mode，当输入焦点定位到各类输入框时（无论你是通过i或f选择定位还是鼠标点击定位的），就进入该模式。 通过函数imapkey添加的所有按键都只在这种模式下有用。
 
 ### 可视模式
+
+可视模式步骤：
+
+1. 通过`v`进入可视模式,确认你能看到`Caret`提示和光标
+2. 选择切入文本, 使用`j` `k` `h` `l` `b` `w``0` `$`试试移动光标。
+3. 通过`v`进行选择文本
+4. 其实选择文本可以通过`ymv`进行多个文本的复制
+
+*   `zz` 让光标位于窗口中间行。
+*   `f` 往前查找下一个字符。
+*   `F` 往后查找下一个字符。
+*   `;` 重复最后的`f`/`F`操作。
+*   `,` 反向重复最后的`f`/`F`操作。
+
 
  名称 | 快捷键 
   :-: | :-: 
@@ -677,23 +707,23 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 
 ### 插入模式
 
-```
-插入模式
-<Ctrl-e>把光标放到行尾
-<Ctrl-f>把光标放到行首
-<Ctrl-u>删除光标前的所有字符
-<Alt-b>把光标往后移一个单词
-<Alt-f>把光标往前移一个单词
-<Alt-w>删除光标前一个单词
-<Alt-d>删除光标后一个单词
-<Esc>退出插入模式
-:输入字符表情
-<Ctrl-'>给当前输入加双引号
-<Ctrl-i>打开VIM编辑器编辑当前输入
-<Ctrl-'>给当前输入加双引号
-```
+ 名称 | 快捷键 
+  :-: | :-: 
+把光标放到行尾 | <Ctrl-e>
+把光标放到行首 | <Ctrl-f>
+删除光标前的所有字符 | <Ctrl-u>
+把光标往后移一个单词 | <Alt-b>
+把光标往前移一个单词 | <Alt-f>
+删除光标前一个单词 | <Alt-w>
+删除光标后一个单词 | <Alt-d>
+退出插入模式 | <Esc>
+输入字符表情: | <Ctrl-'>
+给当前输入加双引号 | <Ctrl-'>
+打开VIM编辑器编辑当前输入 | <Ctrl-i>
+给当前输入加双引号 | <Ctrl-'>
 
-### 快捷键
+
+### 普通模式
 
 | 名称 | 快捷键 |
 | :-: | :-: |
@@ -752,6 +782,24 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 
 非常高效有木有，心里禁不住为作者喝彩，感谢作者~
 还有可视模式，和插入模式，还没有深入的使用
+
+
+### 打开连接
+
+默认的拨号键有asdfgqwertzxcvb，如果按了一个非拨号键，会自动退出拨号。下面的设置可以改成右手习惯：
+
+
+```
+Hints.characters = 'yuiophjklnm'; // for right hand
+
+```
+
+**当拨号盘有重叠上，可以按Shift翻转重叠的拨号盘。按住空格键可隐藏拨号盘，松开恢复。**
+
+
+### vim编辑器
+
+用vim编辑器编辑textarea
 
 ##  Sublime Text 3 
 
@@ -881,9 +929,12 @@ If for some reason the console installation instructions do not work for you (su
 `markdown preview`是sublime下预览markdown文件的插件，按`⇧ + command + p`打开我们前面安装的Package Control插件的面板，输入install然后回车，在弹出的面板输入markdown preview再回车，即可完成安装。
 安装`SidebarEnhancements`插件
 `SidebarEnhancements`是增强侧边栏的插件，安装方法同上。
+
 ## Reeder
 
 教程
+
+快捷键
 
 ## Trailer
 
@@ -1473,13 +1524,4 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 [小众软件](https://www.appinn.com/)
 
 [从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
-
-## Todo
-
- * [x] `Mweb`的Mac和iOS之间同步 （`2018-03-05`完成同步，设置好文档库）
- * [x] Alfred功能详细介绍
- * [ ] Quip的功能详细介绍
- * [ ] LaunchCenterPro的iOS11UrlScheme
-
-
 

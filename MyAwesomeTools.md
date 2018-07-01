@@ -128,62 +128,63 @@
 11. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
 
 12. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
+13. [Mosaic](https://www.lightpillar.com/mosaic.html)Effortlessly resize and reposition macOS apps，还可以自定义，比Moon好用。
 
-13. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
+14. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
 
-14. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
+15. [jietu](http://jietu.qq.com/) 轻松便捷爱截图和`snip`都是腾讯下的截图工具，添加了录屏功能，可以二维码分享，感觉更方便。
 
-15.  [轻松便捷爱截图](http://jietu.qq.com/) 轻松便捷爱截图,和`snip`都是腾讯下的截图工具，多了录屏功能
+16. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
 
-16. [Flux](https://justgetflux.com/) 拯救你的视力
+17. [Flux](https://justgetflux.com/) 拯救你的视力
 
-17. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
+18. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
 
-18. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
+19. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
 
-19. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
+20. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
 
-20. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
+21. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
 
-21. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
+22. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
 
-22. [Surge](https://nssurge.com/)  还未使用过的网络调试神器
+23. [Surge](https://nssurge.com/)  还未使用过的网络调试神器
 
-23. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
+24. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
 
-24. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+25. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
 
-25. [CloudConvert](https://cloudconvert.com/) 
+26. [CloudConvert](https://cloudconvert.com/) 
 convert anything to anything~
 
-26. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
+27. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
 
-27. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
+28. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
 
-28. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
+29. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
 
-29. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+30. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
 
-30. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+31. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
 
-31. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+32. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
-32. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
+33. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
 
 #### 下载
 
-33. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
+34. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
-34. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+35. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
 
-35. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+36. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 
-36. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+37. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
 
 #### 办公
 
-37. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
+38. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
 [【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 ```
 粘贴上帖提到的一键激活工具 百度云盘链接: <https://pan.baidu.com/s/1hsv6JL6> 密码: `rt2h`
@@ -196,34 +197,34 @@ convert anything to anything~
 [破解提取码：a89r](https://link.jianshu.com/?t=https%3A%2F%2Fpan.baidu.com%2Fs%2F1bEw4cY)
 参考[【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 
-38. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
+39. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
 
-39. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
+40. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
 
-40. [Quitter](https://marco.org/apps)  他可以幫我們自動關閉或隱藏不需要的 App, 参考[Quitter for Mac 降低分心頻率，出自我敬佩的開發者](https://www.playpcesor.com/2016/05/quitter-for-mac.html)
+41. [Quitter](https://marco.org/apps)  他可以幫我們自動關閉或隱藏不需要的 App, 参考[Quitter for Mac 降低分心頻率，出自我敬佩的開發者](https://www.playpcesor.com/2016/05/quitter-for-mac.html)
 
-41. [Send Anywhere (File Transfer)](https://send-anywhere.com/file-transfer)"发送任何位置" 是一个文件共享应用程序, 它
+42. [Send Anywhere (File Transfer)](https://send-anywhere.com/file-transfer)"发送任何位置" 是一个文件共享应用程序, 它
 
 #### 密码
 
-41. [1Password](https://1password.com/)  非常专业的密码管理器
+43. [1Password](https://1password.com/)  非常专业的密码管理器
 
-42. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
+44. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
-43. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+45. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
-44. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+46. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
 
-45. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+47. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
 
-46. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+48. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 #### Fun
 
-47. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
+49. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
 
 ### Developing
 
