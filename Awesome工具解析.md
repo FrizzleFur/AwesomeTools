@@ -55,6 +55,8 @@
 
 ## Eudic 欧陆词典
 
+最好使用老版本`V 3.5.4 `
+
 ```
 /Users/michaelmao/Library/Preferences/com.eusoft.eudic.plist
 /users/用户名/Library/Preferences/com.eusoft.eudic.plist
@@ -232,17 +234,64 @@ Mac下有外部模式和文档库模式
 
 [Keyboard Maestro](http://www.keyboardmaestro.com/main/)
 
+> 宏（Macro，港澳台作巨集），是一种批量处理的称谓。
+> 计算机科学里的宏是一种抽象（Abstraction），它根据一系列预定义的规则替换一定的文本模式。绝大多数情况下，「宏」这个词的使用暗示着将小命令或动作转化为一系列指令。
+
+那么 Keyboard Maestro（下文简称 KM）属于什么类型的软件？我个人偏向于把它视作一个增强型 Automator。大家看截图也能发现，它的用户界面同 Automator 相似，也是传统的三栏式设计，从左到右依次是「Action 类别 > Action 名称 > Action 编辑」的有序区域切割，让用户能比较舒适地进行操作。
+
+管理方面，KM 主要分为三个选项：+ 添加、- 删除、√ 允许/禁止。在第一次启动软件的时候，KM 会给出一个示例教程，教你去执行这三个操作，读者届时尝试的时候，只需按照提示完成所有步骤，就能大致有个「操作」的概念了。
+
+此外，还有两个关于 KM 的名词需要大家掌握。一个叫 Macro 宏文件，我们可以将它理解为独立的 Workflow 工作流程，例如，打开 Finder 就是一个工作流程，只是概念上它仅有一个步骤罢了。另外一个名词叫做 Action 行为，例如，执行一段 AppleScript 脚本语言，或是点击一个 Button 按钮，都属于「行为」的一种。Macro 与 Action 的关系为父与子，Macro 为父，由其子 Action 组成，并最终以 Macro 的命名区分，通过用户拟定的 Trigger 触发，并按照有序的 Script 脚本语法特性，执行所有的 Action 行为。
+
+![1](http://oc98nass3.bkt.clouddn.com/1.jpg)
+
+比如我之前用`karabiner-Elements`的时候，把Mac的`F10`的静音键盘改成了默认的`F10`，就无法静音了。则可以用`Keyboard Maestro`添加一个覆盖快捷键
+
+![](http://oc98nass3.bkt.clouddn.com/15305168306061.jpg)
+
+使用过`Keyboard Maestro`后，我们需要经常问自己: 我在 Mac 上经常重复的事情是什么？有没有办法把它分解成一步步动作？这些动作有没有可能通过 `Keyboard Maestro` 来实现？
+
 1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
-2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
+2. [Keyboard Maestro 和它的 Macro 们丨2016 与我的数字生活 - 少数派](https://sspai.com/post/37708#%E5%89%8D%E8%A8%80)
+3. [Keyboard Maestro 和它的 Macro 们 | 2016与我的数字生活 - 少数派](https://sspai.com/post/36707)
+[Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
+3. [利用 Keyboard Maestro 做轻量级的网速监控小脚本 - 少数派](https://sspai.com/post/44793)
+4. [Keyboard Maestro 小试牛刀——自动转移指定文件夹至移动硬盘 - 少数派](https://sspai.com/post/43334)
+5. [我如何用 Keyboard Maestro 替代 TextExpander - 少数派](https://sspai.com/post/39495#%E5%85%B6%E5%AE%83%E5%B8%B8%E7%94%A8%E6%93%8D%E4%BD%9C)
 
-## Keyboard Maestro
+### 快速打开常用App
 
-[Keyboard Maestro](http://www.keyboardmaestro.com/main/)
+对于常驻后台的 App：
+ ⌥ + 字母 快捷键，精准定位到每个 App（这里替代了 Manico 和 Snap 的功能），使用习惯后，快、准且不打断思路。
+ 
+![](http://oc98nass3.bkt.clouddn.com/15305213939492.jpg)
 
-1. [Keyboard Maestro 入门指南 - 少数派](https://sspai.com/post/36442#01)
-2. [Keyboard Maestro 奇巧淫技之定期运行 - 少数派](https://sspai.com/post/43320)
+### 打开特定的 Finder 目录：
 
-## Karabiner
+
+
+### 并行使用
+
+习惯用「键盘快捷键」这块功能的用户还要留意，Keyboard Maestro 不存在「按键重叠导致失效」这一说，因为它会自动将同一快捷键下的所有 Macro 都归纳至一个独立的窗口中，用户在敲击键盘快捷键时，这个窗口就会显示，然后再按照排列顺序，点击数字键就可以运行对应的 Macro。而不是像很多快速启动类应用那样，同时执行该快捷键下的所有功能。
+
+
+### Alfred插件调用
+
+1. [Alfred-maestro:](https://github.com/iansinnott/alfred-maestro) An Alfred workflow to execute Keyboard Maestro macros.
+Type km followed by the name of any of your defined macros.
+
+
+## Karabiner-Elements
+
+### 改建
+
+Karabiner-Elements 允许你设置多个 Profile（配置），每个 Profile 里可以有不同的键位，从而适应各异的任务。点击菜单栏图标还能快速切换配置文件，非常方便。
+
+![](http://oc98nass3.bkt.clouddn.com/15305186914657.png)
+
+### 与 Keyboard Maestro 的联动
+
+实例：Hyper 键与 Keyboard Maestro 的联动
 
 1. [让键盘变成你想要的样子：改键利器 Karabiner-Elements - 少数派](https://sspai.com/post/42921)
 2. [Control + Option + Shift + Command：带你玩转 macOS 的修饰键 - 少数派](https://sspai.com/post/39331)
@@ -1197,12 +1246,14 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 
 ## 技巧
 
+### 统计该目录下所有文件的占用
 
-打开终端，键入` sudo du -sh *`，按下回车后系统就会自动统计该目录下所有文件的占用情况，一般等待一两分钟后就能得到结果了。
+打开终端，键入`sudo du -sh *`，按下回车后系统就会自动统计该目录下所有文件的占用情况，一般等待一两分钟后就能得到结果了。
 
 ## 常见问题
 
-### “XXX.app”已损坏，打不开。 您应该将它移到废纸篓。
+### “XXX.app”已损坏，打不开。 您应该将它移到废纸篓
+
 1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
 
 方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
@@ -1336,6 +1387,7 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 ## 参考资料
 
 ### `Alfred`参考资料
+
 1. [OS X 效率启动器 Alfred 详解与使用技巧 - 少数派](https://sspai.com/post/27900)
 2. [使用 AppleScript、Tags 和 Alfred 重新打造文件管理和搜索系统 - 少数派](https://sspai.com/post/42859)
 3. [从零开始学习 Alfred：基础功能及设置 - 少数派](https://sspai.com/post/32979)
@@ -1363,8 +1415,7 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 
 ### 其他
 
-[少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
-[小众软件](https://www.appinn.com/)
-
-[从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
+* [少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
+* [小众软件](https://www.appinn.com/)
+* [从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
 

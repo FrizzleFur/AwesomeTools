@@ -206,25 +206,28 @@ convert anything to anything~
 
 42. [Send Anywhere (File Transfer)](https://send-anywhere.com/file-transfer)"发送任何位置" 是一个文件共享应用程序, 它
 
+43. [Hazel](https://sspai.com/post/35225#%E7%90%86%E6%B8%85%E6%95%B4%E7%90%86%E6%80%9D%E8%B7%A)
+自动整理文件，让你的 Mac 井井有条
+
 #### 密码
 
-43. [1Password](https://1password.com/)  非常专业的密码管理器
+44. [1Password](https://1password.com/)  非常专业的密码管理器
 
-44. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
+45. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
-45. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+46. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
-46. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+47. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
 
-47. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+48. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
 
-48. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+49. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 #### Fun
 
-49. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
+50. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
 
 ### Developing
 
@@ -437,7 +440,8 @@ Turn drawings into code with PaintCode ~
 
 9. [Wiz为知笔记](http://www.wiz.cn/)  简洁的为知笔记，要付费
 
-10. [Quiver](程序猿的笔记本) 程序猿的笔记本
+10. [Quiver](程序猿的笔记本) 程序猿的笔记本,更新到3.13了可以结合
+`SnippetsLab`使用。
 
 11. [AlterNote](http://alternoteapp.com/)    你知道，大象逼得开发者不得不自己开发一款EverNote ╮(╯▽╰)╭
 

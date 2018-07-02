@@ -288,9 +288,12 @@ Alfred-fixum可以说是Workflow的Manager了，监测和更新Workflow
 15:50:25 fixum.py:373 INFO     [DONE] updated 1 workflow(s) with a newer version of Alfred-Workflow
 ```
 
-#### Packal——Alfred Workflows
+#### Packal —— Workflows
 
 Search Packal.org from the comfort of Alfred
+什么是 Packal？简而言之，它就是一个集成了 Workflows 工作流程和 Themes 主题的平台。由于它专为 Alfred 服务，所以相关开发者会更加选择在这里发布自己的作品（及更新），用户也能获得最新的插件版本，而不是被动地关注来源地。因此建议每位 Alfred 用户都使用 Packal。
+
+Packal Workflow 的作用就是帮助用户直接在 Alfred 中快速搜索，代替了「打开浏览器 - 输入网址 - 输入关键词 - 搜索」的过程。对于这类操作方式，笔者习惯将它们成为「代步工具」。另外，你也可以用 Packal Updater 时刻保持其它的 Workflows 处于最新版本
 
 [deanishe/alfred-packal-search: Search Packal.org's collection of Alfred workflows from Alfred](https://github.com/deanishe/alfred-packal-search)最新[Packal-Search-1.4.1.alfredworkflow](https://github.com/deanishe/alfred-packal-search/blob/master/Packal-Search-1.4.1.alfredworkflow)
 
@@ -314,7 +317,6 @@ Search Packal.org from the comfort of Alfred
 
     *   `↩` or `⇥` — View/search workflows compatible with selected OS X version
 *   `packal status` — Show a list of workflows that are out-of-date (❗) or are available on Packal.org, but were installed from elsewhere (❓)
-
 
 #### Top-workflow
 
@@ -368,6 +370,12 @@ cp $1 ~/Desktop/斗图神器.jpg
 3. [vino-workflows/V2ex.alfredworkflow at master · wuchangfeng/vino-workflows](https://github.com/wuchangfeng/vino-workflows/blob/master/v2ex/V2ex.alfredworkflow)
 
 4. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+
+5. [Menu Search - Share your Workflows - Alfred App Community Forum](https://www.alfredforum.com/topic/10231-faster-menu-search/)
+
+需要在安全性设置的隐私中添加`Alfred`.
+![](http://oc98nass3.bkt.clouddn.com/15305378386470.jpg)
+
 
 ### 制作Workflow
 
@@ -446,7 +454,12 @@ mkdir -p "$HOME/Library/Caches/com.runningwithcrayons.Alfred-2/Workflow Data/"
 1. [Incompatible Python workflow library](https://www.alfredapp.com/help/troubleshooting/incompatible-python-workflow-library/)
 2. [Alfred Fixum](https://github.com/deanishe/alfred-fixum)
 3. [KilluaChen/Dou-figure-alfred-workflow: 斗图神器 收集了成千上万的撕逼斗图表情包，在这里你可以快速找到想要的表情](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+4. [OS X 效率启动器 Alfred 详解与使用技巧 - 少数派](https://sspai.com/post/27900)
+5. [使用 AppleScript、Tags 和 Alfred 重新打造文件管理和搜索系统 - 少数派](https://sspai.com/post/42859)
+6. [从零开始学习 Alfred：基础功能及设置 - 少数派](https://sspai.com/post/32979)
+7. [它已不仅仅是一款 Mac 效率启动器：Alfred 3.0 新版详解 - 少数派](https://sspai.com/post/34468)
+8. [使用 Alfred 提高你的工作效率 ](https://sspai.com/post/35927)
 
 ## Todo
 
-1. 制作Workflow
+- [ ] 制作Workflow
