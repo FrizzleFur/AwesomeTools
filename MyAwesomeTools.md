@@ -10,6 +10,8 @@
 
 3. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
 
+4. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
+
 ### 逆向Pool
 
 4. [iOSRE](http://bbs.iosre.com/)
@@ -494,7 +496,7 @@ Turn drawings into code with PaintCode ~
 
 * QuicklookStephen - 可以让您查看没有文件扩展名的纯文本文件，如README、INSTALL、Capfile、CHANGELOG...brew cask install qlstephen
 * QLColorCode - 在预览源代码文件，高亮代码。brew cask install qlcolorcode
-* QLMarkdown - Markdown文件转换成静态页面预览。brew cask install qlmarkdown
+* QLMarkdown - Markdown文件转换成静态页面预览。  
 * QuickLookCSV - 预览.CSV文件。brew cask install quicklook-csv
 * qlImageSize - 显示图像大小和分辨率。brew cask install qlimagesize
 * WebP - 预览WebP图像。brew cask install webpquicklook

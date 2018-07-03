@@ -7,10 +7,11 @@
 
 ## Todo
 
- * [ ] [定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单 - 少数派](https://sspai.com/post/43265)
+ * [ ] 整理文档的App
  * [ ] Quip的功能详细介绍
  * [x] `Mweb`的Mac和iOS之间同步 （`2018-03-05`完成同步，设置好文档库）
  * [x] `Alfred3`功能详细介绍 （`2018-06-30`完成同步，设置好文档库）
+ * [x] [定期自动云备份 macOS 软件列表，维护一份属于自己的必备 App 清单 - 少数派](https://sspai.com/post/43265)
 
 ## Alfred 
 
@@ -115,7 +116,7 @@ Mac下有外部模式和文档库模式
 `Tomorrow`的主题很好看
 ![](http://oc98nass3.bkt.clouddn.com/15194631656182.jpg)
 
-### ## Mweb Mac
+###  Mweb Mac
 
 ![](http://oc98nass3.bkt.clouddn.com/15301825676551.jpg)
 
@@ -158,24 +159,25 @@ Mac下有外部模式和文档库模式
 
  名称 | 快捷键
  --- | ---
- 13. 行内代码   |        `⌘ + K`
-14. 代码块    |         `⌘ + ⇧ + K`
-15. 设置标题    |      `⌃ + 1~6`
-16. 无序列表   |       `⌃ + U`
-17. 加粗      |       `⌘ + B`
+13. 行内代码      |      `⌘ + K`
+14. 代码块      |      `⌘ + ⇧ + K`
+15. 设置标题      |      `⌃ + 1~6`
+16. 无序列表      |       `⌃ + U`
+17. 加粗       |       `⌘ + B`
 18. 高亮       |     `⌘ + =`
 19. 注释       |      `⌘ + /`
 20. 注释More   |      `⌘ + .`
 21. 新段落     |   `⌘ + ↵`
 22. 表格       |    `⌃ + ⇧ + T`
-23. 引用         |   `⇧ + ⌘ + B`
-24. 表情符号  |   `⌃ + ⌘ + 空格`
+23. 引用       |   `⇧ + ⌘ + B`
+24. 表情符号    |   `⌃ + ⌘ + 空格`
 
 #### 图片链接
+
  名称 | 快捷键
  --- | ---
-22. 添加图片   |     `⌃ + ⇧ + I`
-23. 上传图片   |    `⌘ + ⌥ + I`
+22. 添加图片    |     `⌃ + ⇧ + I`
+23. 上传图片    |    `⌘ + ⌥ + I`
 24. 链接       |     `⌃ + ⇧ + L`
 25. 表格       |   `⌃ + ⇧ + T`
 
@@ -189,46 +191,6 @@ Mac下有外部模式和文档库模式
 `<br />`
 *  空格
 `&emsp;`
-
-## HighlandMac
-
-> 平台的剧本写作软件，该剧本创作软件可以帮助我们将注意力集中在创作上面，保证我们的创作不受其他因素的干扰。
-
-- 黑暗模式。深夜的灵感没有眼睛疲劳。
-
-- 全屏幕模式。最终的无干扰的编剧经验。
-
-- 在线路的笔记和摘要。保持你的笔记，你需要他们。
-
-- 智能节。通过行为和序列组织你的剧本，没有场景标题。
-
-- 语法高亮。高原表示部分，大纲，笔记，和格式精美。
-
-- 智能分页。高原知道如何打破页恰到好处，保持句子。
-
-- 架构。把那些碎片和部分场景方便参考。
-
-- 简单的大写字母。移回变换线大写的完美场景标题字符
-
-## MicroSoft word for mac
-
-一个弹窗问题：
-
-在Mac上使用word过程中，有时候经常出现这种弹窗:
-
-![](http://oc98nass3.bkt.clouddn.com/15294901445351.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15294901483362.jpg)
-
-
-这是模板的问题，在设置中找到模板文件路径
-
-![](http://oc98nass3.bkt.clouddn.com/15294900549396.jpg)
-
-![](http://oc98nass3.bkt.clouddn.com/15294900170729.jpg)
-
-删除这个文件，然后重启Word,这个文件会重新生成。（估计模板文件出了问题）
-
-参考[Word 无法打开现有共用模板 (Normal.dotm)](https://bbs.feng.com/read-htm-tid-10206026.html)
 
 ## Keyboard Maestro
 
@@ -312,12 +274,20 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 ## HomeBrew
 
 [Brew](https://brew.sh/)
-[brew和brew cask有什么区别？](https://www.zhihu.com/question/22624898/answer/)
+[brew和brew cask有什么区别？](https://zhidao.baidu.com/question/396566841548150965.html)
 
-brew主要用来下载一些不带界面的命令行下的工具和第三方库来进行二次开发brew cask主要用来下载一些带界面的应用软件，下载好后会自动安装，并能在mac中直接运行使用举个例子，brew install curl可以安装curl第三方库，这样你在开发时就可以使用它的库来进行开发brew cask install chrome可以安装谷歌浏览器应用程序，可直接运行brew偏管理第三方库和命令行工具方面的东东brew cask可以看作是苹果官方app store的补充，是一个众多贡献者们维护的非苹果官方软件商店，你也可以在这里下mac软件用一些免费好用的mac软件没有在苹果官方app store商店上架，我们就可以在brew cask中下载。如果我要下载10个免费小软件，而这些软件没有在苹果商店上架，我们不需要一个一个去谷歌它们的官方网站，再去这些软件的官网去下载，我们统一在brew cask中下载。使用brew cask来进行包管理还有一个好处，这10个免费软件如果自身不带升级功能，但现在它们有更新，我只能去官网重新下载？不，直接在brew cask里就可以统一升级。这也是你问的那句“为何网路上跟推荐用brew cask呢？”的原因。如果安装mac图形界面软件，推荐先在苹果官方商店里搜索下载，没有的话去brew cask试试，如果还没有，只能去这个软件的官方网站去下载了。
+* brew主要用来下载一些不带界面的命令行下的工具和第三方库来进行二次开发
+* brew cask主要用来下载一些带界面的应用软件，下载好后会自动安装，并能在mac中直接运行。
 
+* 使用举个例子，brew install curl可以安装curl第三方库，这样你在开发时就可以使用它的库来进行开发brew cask install chrome可以安装谷歌浏览器应用程序，可直接运行brew偏管理第三方库和命令行工具方面的东东
 
-brew 装的主要是 command line tool。brew cask装的大多是有gui界面的app以及驱动，brew cask是brew的一个官方源。二者并无竞争关系，所以也不存在你说的更推荐brew cask。brew装的东西比较偏向开发，而brew cask装的东西会相对生活化一些。
+* brew cask可以看作是苹果官方app store的补充，是一个众多贡献者们维护的非苹果官方软件商店，你也可以在这里下mac软件用一些免费好用的mac软件没有在苹果官方app store商店上架，我们就可以在brew cask中下载。如果我要下载10个免费小软件，而这些软件没有在苹果商店上架，我们不需要一个一个去谷歌它们的官方网站，再去这些软件的官网去下载，我们统一在brew cask中下载。
+
+* 使用brew cask来进行包管理还有一个好处，这10个免费软件如果自身不带升级功能，但现在它们有更新，我只能去官网重新下载？不，直接在brew cask里就可以统一升级。这也是你问的那句“为何网路上跟推荐用brew cask呢？”的原因。
+
+* 如果安装mac图形界面软件，推荐先在苹果官方商店里搜索下载，没有的话去brew cask试试，如果还没有，只能去这个软件的官方网站去下载了。
+
+* brew 装的主要是 command line tool。brew cask装的大多是有gui界面的app以及驱动，brew cask是brew的一个官方源。二者并无竞争关系，所以也不存在你说的更推荐brew cask。brew装的东西比较偏向开发，而brew cask装的东西会相对生活化一些。
 
 ##  iTerm2
 
@@ -374,14 +344,14 @@ Meta 键
 | ctrl + p | 上一条命令 |
 | ctrl + r | 搜索命令历史 |
 
-
 ## IINA
 
 [IINA](https://lhc70000.github.io/iina/zh-cn/)
+
 通过 Homebrew Cask 安装:`brew cask install iina`
+
 ![](http://oc98nass3.bkt.clouddn.com/15161588048779.jpg)
 ![](http://oc98nass3.bkt.clouddn.com/15161588526427.jpg)
-
 
 ## Bilibili-mac-client
 
@@ -1250,39 +1220,12 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 
 打开终端，键入`sudo du -sh *`，按下回车后系统就会自动统计该目录下所有文件的占用情况，一般等待一两分钟后就能得到结果了。
 
-## 常见问题
+### 迁移助理
 
-### “XXX.app”已损坏，打不开。 您应该将它移到废纸篓
-
-1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
-
-方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
-
-![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
-```
-//先禁止
-❯ sudo spctl --master-disable
-//后恢复
-❯ sudo spctl --master-enable
-```
-
-### Snap和Chrome的标签问题
-
-`2018-03-14`在升级`MacOS high sierra`后,很多老的软件出现问题，今天出现之前安装的`Chrome`在使用snap切换的时候，每次会出新的tap页，因为我在mac上分了多个deskTop，这样每次来回切换`Chrome`的时候就会弹出很多的tab,增加了`Chrome`的内存消耗，还非常不方便，我还以为是snap的问题，后面想升级下`Chrome`，最后发现**把`Chrome`从Dock中移除并退出重新打开**，这种问题就解决了。可能是MacOS的问题吧。
-
-## 开发工具
-
-1. 学习资源大全
-[Awesome](https://github.com/sindresorhus/awesome)
-
-2. iOS资源大全中文版
-[iOS资源大全中文版](https://love2.io/@ayamefing/doc/awesome-ios-cn/README.md)
-
-3. iOS资源大全
-[AwesomeiOS](http://awesomeios.com/)
-
-4. iOS，App内存泄漏检查
-[Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
+使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
+[如何将内容移至新 Mac - Apple 支持](https://support.apple.com/zh-cn/ht204350)
+使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
+![](http://oc98nass3.bkt.clouddn.com/15305817383130.jpg)
 
 ## Mac快捷键
 
@@ -1384,26 +1327,30 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 | _按住 Option 键点按开合三角_ | 打开所选文件夹内的所有文件夹。这个快捷键仅在列表视图中有效。 |
 | _按住 Command 键点按窗口标题_ |
 
-## 参考资料
 
-### `Alfred`参考资料
+# 常见问题
 
-1. [OS X 效率启动器 Alfred 详解与使用技巧 - 少数派](https://sspai.com/post/27900)
-2. [使用 AppleScript、Tags 和 Alfred 重新打造文件管理和搜索系统 - 少数派](https://sspai.com/post/42859)
-3. [从零开始学习 Alfred：基础功能及设置 - 少数派](https://sspai.com/post/32979)
-4. [它已不仅仅是一款 Mac 效率启动器：Alfred 3.0 新版详解 - 少数派](https://sspai.com/post/34468)
-5. [使用 Alfred 提高你的工作效率 | Matrix 精选 - 少数派](https://sspai.com/post/35927)
+## “XXX.app”已损坏，打不开。 您应该将它移到废纸篓
 
-### `TextExpander`参考资料
+1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
 
-1. [解决中文输入法无法调用 TextExpander 6 的问题丨一日一技 - 少数派](https://sspai.com/post/35502)
+方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
 
-2. [解决 TextExpander 5 在中文环境下输入问题](https://medium.com/@oscargong1995/%E8%A7%A3%E5%86%B3-textexpander-5-%E5%9C%A8%E4%B8%AD%E6%96%87%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BE%93%E5%85%A5%E9%97%AE%E9%A2%98-e0a2237e2609)
+![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
+```
+//先禁止
+❯ sudo spctl --master-disable
+//后恢复
+❯ sudo spctl --master-enable
+```
 
+## Snap和Chrome的标签问题
 
-### Githup Desktop
+`2018-03-14`在升级`MacOS high sierra`后,很多老的软件出现问题，今天出现之前安装的`Chrome`在使用snap切换的时候，每次会出新的tap页，因为我在mac上分了多个deskTop，这样每次来回切换`Chrome`的时候就会弹出很多的tab,增加了`Chrome`的内存消耗，还非常不方便，我还以为是snap的问题，后面想升级下`Chrome`，最后发现**把`Chrome`从Dock中移除并退出重新打开**，这种问题就解决了。可能是MacOS的问题吧。
 
-本来我是不想把`Githup Desktop`加进来的，没想到它今天抽了一个错误，为了记录一下我还是写一下。
+## Github Desktop问题
+
+本来我是不想把`Github Desktop`加进来的，没想到它今天抽了一个错误，为了记录一下我还是写一下。
 
 报的错误：
 ![](http://oc98nass3.bkt.clouddn.com/15303368203935.jpg)
@@ -1413,9 +1360,56 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 ![](http://oc98nass3.bkt.clouddn.com/15303369966352.jpg)
 参考[desktop/known-issues.md at master · desktop/desktop](desktop/known-issues.md at master · desktop/desktop)
 
-### 其他
+## MicroSoft Word 弹窗问题
+
+在Mac上使用word过程中，有时候经常出现这种弹窗:
+
+![](http://oc98nass3.bkt.clouddn.com/15294901445351.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15294901483362.jpg)
+
+这是模板的问题，在设置中找到模板文件路径
+
+![](http://oc98nass3.bkt.clouddn.com/15294900549396.jpg)
+
+![](http://oc98nass3.bkt.clouddn.com/15294900170729.jpg)
+
+删除这个文件，然后重启Word,这个文件会重新生成。（估计模板文件出了问题）
+
+参考[Word 无法打开现有共用模板 (Normal.dotm)](https://bbs.feng.com/read-htm-tid-10206026.html)
+
+
+# 参考资料
+
+## 开发工具
+
+1. 学习资源大全
+[Awesome](https://github.com/sindresorhus/awesome)
+
+2. iOS资源大全中文版
+[iOS资源大全中文版](https://love2.io/@ayamefing/doc/awesome-ios-cn/README.md)
+
+3. iOS资源大全
+[AwesomeiOS](http://awesomeios.com/)
+
+4. iOS，App内存泄漏检查
+[Tencent/OOMDetector](https://github.com/Tencent/OOMDetector): OOMDetector is a memory monitoring component for iOS which provides you with OOM monitoring, memory allocation monitoring, memory leak detection and other functions.
+
+## `Alfred`参考资料
+
+1. [OS X 效率启动器 Alfred 详解与使用技巧 - 少数派](https://sspai.com/post/27900)
+2. [使用 AppleScript、Tags 和 Alfred 重新打造文件管理和搜索系统 - 少数派](https://sspai.com/post/42859)
+3. [从零开始学习 Alfred：基础功能及设置 - 少数派](https://sspai.com/post/32979)
+4. [它已不仅仅是一款 Mac 效率启动器：Alfred 3.0 新版详解 - 少数派](https://sspai.com/post/34468)
+5. [使用 Alfred 提高你的工作效率 | Matrix 精选 - 少数派](https://sspai.com/post/35927)
+
+## `TextExpander`参考资料
+
+1. [解决中文输入法无法调用 TextExpander 6 的问题丨一日一技 - 少数派](https://sspai.com/post/35502)
+
+2. [解决 TextExpander 5 在中文环境下输入问题](https://medium.com/@oscargong1995/%E8%A7%A3%E5%86%B3-textexpander-5-%E5%9C%A8%E4%B8%AD%E6%96%87%E7%8E%AF%E5%A2%83%E4%B8%8B%E8%BE%93%E5%85%A5%E9%97%AE%E9%A2%98-e0a2237e2609)
+ 
+## 其他
 
 * [少数派幕后](https://sspai.com/tag/%E5%B9%95%E5%90%8E)
 * [小众软件](https://www.appinn.com/)
 * [从事产品经理 3 年，我用这 8 款应用打造高效产品工作流 - 少数派](https://sspai.com/post/41918)
-
