@@ -403,7 +403,25 @@ Meta 键
 
 ####  Mac搭配SSR客户端实现终端走代理
 
-有时候你会发现git clone非常慢，或者brew install非常慢，但是你明明开了代理，即使设置全局代理也不行，那是因为终端或者iTerm2默认是不走代理的，这个时候，解决方法如下：
+
+
+
+有时候你会发现git clone非常慢，或者brew install非常慢，但是你明明开了代理，即使设置全局代理也不行，那是因为终端或者iTerm2默认是不走代理的，
+
+##### 切换镜像源方法
+
+借用豆瓣的镜像源：
+
+```
+pip install {PACKAGE_NAME} -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+```
+
+如果还有权限问题就加上`sudo`
+
+##### 配置方法
+
+
+这个时候，解决方法如下：
 终端输入
 
 ```
