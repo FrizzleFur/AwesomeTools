@@ -128,6 +128,7 @@
 11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
 
 11. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
+![](http://oc98nass3.bkt.clouddn.com/15307796714334.jpg)并且可以快捷键召唤Dock上的Apps
 
 12. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
 13. [Mosaic](https://www.lightpillar.com/mosaic.html)Effortlessly resize and reposition macOS apps，还可以自定义，比Moon好用。

@@ -116,16 +116,18 @@ Mac下有外部模式和文档库模式
 `Tomorrow`的主题很好看
 ![](http://oc98nass3.bkt.clouddn.com/15194631656182.jpg)
 
-###  Mweb Mac
+###  Mweb For Mac
 
 ![](http://oc98nass3.bkt.clouddn.com/15301825676551.jpg)
 
-### 参考文档： 
+#### Mweb3.0 For Mac 快速定位焦点
+ 
+1. 最新V3.1.1版本是通过快捷键 `⌘ + ⇧ + F` 把焦点切换至搜索框（外部模式切换到目录树）。只记这一个，基本就可以在 `目录树 - 列表 - 编辑器` 这三处随意切换了。
+这是因为，在搜索框按 `Tab 键` 可以切换到编辑器，按 `向下键` 可以切换到列表。焦点在列表时，按 `向左键` 切换到目录树，`向右键` 切换到编辑器；焦点在目录树时，可以按 `向右键` 切换到列表。另外切换 Tabs 可以使用 `⌃ + ⇥` 键，`⌘ + ⇧ + [` or `⌘ + ⇧ +]` 键，切换 Tab时焦点会切到编辑器。
 
-* [MWeb 3.0 测试版终于发布了！欢迎大家试用！](http://zh.mweb.im/mweb3.0-on-test.html)
-* [Mweb使用文档 - MWeb](http://zh.mweb.im/docs.html)
-* [Mweb-iOS使用文档 ](http://zh.mweb.im/introducing-mweb-for-ios.html)
+2. 另外还有快速搜索是 `⌘ + O`，外部模式没有搜索框时，可以使用这个来进行搜索。
 
+3. 有个小技巧，如果文章Markdown太长，**可以通过Mweb的目录进行定位**, 可以使用`⌘ + 7`调起目录，然后输入目录对应的搜字母，使用上下进行切换。
 
 ### Mweb Alfred WorkFlow
 
@@ -138,48 +140,48 @@ Mac下有外部模式和文档库模式
  名称 | 快捷键
  --- | ---
 1.  外部模式      |      `⌘ + E`
-2.  文档库模式   |     `⌘ + L`
+2.  文档库模式     |     `⌘ + L`
 
 #### 编辑器
 
  名称 | 快捷键
  --- | --- 
-3.  切换主题     | `⌘ + ⌥ + L`
-4.  显示编辑器    |       `⌘ + 1`
-5.  显示文件夹目录  |     `⌘ + 2`
-6.  文档预览     |        `⌘ + 4`
-7.  文档目录     |      `⌘ + 7`
-8.  文档导出     |      `⌘ + 9`
-9.  文档属性     |      `⌘ + 8`
-10. 标签切换      |      `⌘ + ⇧ + { / }`
-11. 焦点于编辑器    |     `⌘ + ⇧ + E`
-12. 焦点于搜索框    |     `⌘ + ⇧ + F`
+3.  切换主题        |       `⌘ + ⌥ + L`
+4.  显示编辑器       |       `⌘ + 1`
+5.  显示文件夹目录   |       `⌘ + 2`
+6.  文档预览        |      `⌘ + 4`
+7.  文档目录        |      `⌘ + 7`
+8.  文档属性        |      `⌘ + 8`
+9.  文档导出        |      `⌘ + 9`
+10. 标签切换        |      `⌘ + ⇧ + { or }`
+11. 焦点于编辑器     |      `⌘ + ⇧ + E`
+12. 焦点于搜索框     |      `⌘ + ⇧ + F`
 
 #### 文本编辑
 
  名称 | 快捷键
  --- | ---
-13. 行内代码      |      `⌘ + K`
-14. 代码块      |      `⌘ + ⇧ + K`
-15. 设置标题      |      `⌃ + 1~6`
-16. 无序列表      |       `⌃ + U`
-17. 加粗       |       `⌘ + B`
-18. 高亮       |     `⌘ + =`
-19. 注释       |      `⌘ + /`
-20. 注释More   |      `⌘ + .`
-21. 新段落     |   `⌘ + ↵`
-22. 表格       |    `⌃ + ⇧ + T`
-23. 引用       |   `⇧ + ⌘ + B`
-24. 表情符号    |   `⌃ + ⌘ + 空格`
+13. 行内代码      |         `⌘ + K`
+14. 代码块        |        `⌘ + ⇧ + K`
+15. 设置标题      |         `⌃ + 1~6`
+16. 无序列表      |         `⌃ + U`
+17. 加粗          |       `⌘ + B`
+18. 高亮          |       `⌘ + =`
+19. 注释          |       `⌘ + /`
+20. 注释More      |       `⌘ + .`
+21. 新段落        |        `⌘ + ↵`
+22. 表格          |       `⌃ + ⇧ + T`
+23. 引用          |       `⇧ + ⌘ + B`
+24. 表情符号       |      `⌃ + ⌘ + 空格`
 
 #### 图片链接
 
  名称 | 快捷键
  --- | ---
 22. 添加图片    |     `⌃ + ⇧ + I`
-23. 上传图片    |    `⌘ + ⌥ + I`
+23. 上传图片    |       `⌘ + ⌥ + I`
 24. 链接       |     `⌃ + ⇧ + L`
-25. 表格       |   `⌃ + ⇧ + T`
+25. 表格       |      `⌃ + ⇧ + T`
 
 
 ### `Markdown`空格和换行
@@ -191,6 +193,13 @@ Mac下有外部模式和文档库模式
 `<br />`
 *  空格
 `&emsp;`
+
+
+### Mweb参考文档： 
+
+* [MWeb 3.0 测试版终于发布了！欢迎大家试用！](http://zh.mweb.im/mweb3.0-on-test.html)
+* [Mweb使用文档 - MWeb](http://zh.mweb.im/docs.html)
+* [Mweb-iOS使用文档 ](http://zh.mweb.im/introducing-mweb-for-ios.html)
 
 ## Keyboard Maestro
 
@@ -242,6 +251,10 @@ Mac下有外部模式和文档库模式
 1. [Alfred-maestro:](https://github.com/iansinnott/alfred-maestro) An Alfred workflow to execute Keyboard Maestro macros.
 Type km followed by the name of any of your defined macros.
 
+### Keyboard Maestro  TODO 
+
+1. Keyboard Maestro设置常用App的快捷键
+2. Keyboard Maestro设置文件存放规则
 
 ## Karabiner-Elements
 
@@ -255,8 +268,23 @@ Karabiner-Elements 允许你设置多个 Profile（配置），每个 Profile �
 
 实例：Hyper 键与 Keyboard Maestro 的联动
 
-1. [让键盘变成你想要的样子：改键利器 Karabiner-Elements - 少数派](https://sspai.com/post/42921)
-2. [Control + Option + Shift + Command：带你玩转 macOS 的修饰键 - 少数派](https://sspai.com/post/39331)
+### Karabiner参考
+
+1. 官方文档: [Manual - Karabiner - Software for macOS](https://pqrs.org/osx/karabiner/document.html)
+2. [让键盘变成你想要的样子：改键利器 Karabiner-Elements - 少数派](https://sspai.com/post/42921)
+3. [Control + Option + Shift + Command：带你玩转 macOS 的修饰键 - 少数派](https://sspai.com/post/39331)
+
+### 安装问题
+
+现在`Karabiner-Elements`已经支持10.13了
+
+在初次安装`Karabiner-Elements`后注意允许系统载入`Karabiner-Elements`。
+
+![](http://oc98nass3.bkt.clouddn.com/15307715640054.jpg)
+并且在设置的`安全性与隐私`中添加`Karabiner-Elements`
+![](http://oc98nass3.bkt.clouddn.com/15307753758191.jpg)
+
+注意: 设置好键位后可能遇到没有立即生效的问题，重启Mac就可以了，具体原因尚不清楚。
 
 ## TextExpander
 
@@ -298,7 +326,8 @@ iTerm2 是 MAC 下最好的终端工具。可以简单的认为，iTerm2 是配�
 自有样式，与系统的样式冲突。
 iTerm2 的一些特色功能如下：
 
-标签变色
+### 标签变色
+
 iTerm2 的标签的颜色会变化，以指示该 tab 当前的状态。当该标签有新输出的时候，标签会变成洋红色；新的输出长时间没有查看，标签会变成红色。可在设置中关掉该功能。
 
 智能选中
@@ -306,7 +335,8 @@ iTerm2 的标签的颜色会变化，以指示该 tab 当前的状态。当该�
 
 在 iTerm2 中，选中即复制。即任何选中状态的字符串都被放到了系统剪切板中。
 
-巧用 Command 键
+### 巧用 Command 键
+
 按住⌘键:
 
 可以拖拽选中的字符串；
@@ -322,7 +352,7 @@ Meta 键
 
 [你应该知道的 iTerm2 使用方法--MAC终端工具](http://wulfric.me/2015/08/iterm2/)
 
-快捷命令说明：
+### 快捷命令
 
 | 命令 | 说明 |
 | --- | --- |
@@ -343,6 +373,10 @@ Meta 键
 | ctrl + f/b | 前进后退 |
 | ctrl + p | 上一条命令 |
 | ctrl + r | 搜索命令历史 |
+
+### iTerm2参考
+
+1. [Features - iTerm2 - macOS Terminal Replacement](https://iterm2.com/features.html)
 
 ## IINA
 
