@@ -607,7 +607,6 @@ Turn drawings into code with PaintCode ~
 2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器 [Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md#%E5%89%8D%E7%BC%80%E6%95%B0%E5%AD%97%E5%8F%AF%E5%A4%9A%E6%AC%A1%E9%87%8D%E5%A4%8D%E7%9B%B8%E5%BA%94%E6%93%8D%E4%BD%9C)
 
 3. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
-
 4. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
 
 5. [IE-On-Chrome](https://chrome.google.com/webstore/detail/ie-on-chrome/kmomimblkpkjeilfbkinoonalgiejlcl)  兼容IE的Chrome插件
@@ -637,28 +636,30 @@ Turn drawings into code with PaintCode ~
 
 15. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
 
-16. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
+16. [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)Stylus 是一个调整网页外观的用户样式管理器。它可让您轻松地为许多热门网站网站安装主题和皮肤。在Stylish的分支 1.5.2 版本基础上开发了 Stylus。Stylus 重写并优化了大部分的代码以提高性能。
 
-17. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
+17. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
 
-18.  [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
+18. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
 
-19. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+19.  [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
 
-20. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
+20. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
 
-21.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
+21. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
 
-22. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
+22.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
 
-23. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
+23. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
+
+24. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
 
 ### Security
 
-24. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
+25. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
 
-25. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
+26. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
 
 #### 油猴Pool
 
@@ -736,7 +737,6 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 5. [StarUml](http://staruml.io/)  UML神器
 
 6. [Mermaid](https://github.com/knsv/mermaid) Mermaid 是一个从文本生成各类图形如类图／时序图的工具
-
 
 ### Career
 

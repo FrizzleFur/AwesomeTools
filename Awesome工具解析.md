@@ -319,21 +319,43 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 
 ##  iTerm2
 
+
+[Features - iTerm2 - macOS Terminal Replacement](https://iterm2.com/features.html)
+
 iTerm2 是 MAC 下最好的终端工具。可以简单的认为，iTerm2 是配置完毕开箱即用的 tmux。但 tmux 有以下一些缺点：
 
-查找 terminal 的输出历史内容需要切换到 vim 模式。在该模式下复制使用的是 vim 的查找，增加了认知负担；
-和各种工具兼容性比较差，尤其是 vim 和 emacs 的 powerline；
-自有样式，与系统的样式冲突。
+* 查找 terminal 的输出历史内容需要切换到 vim 模式。在该模式下复制使用的是 vim 的查找，增加了认知负担；
+* 和各种工具兼容性比较差，尤其是 vim 和 emacs 的 powerline；
+* 自有样式，与系统的样式冲突。
+
 iTerm2 的一些特色功能如下：
+
+### 热键窗口
+
+注册一个热键，当您在另一个应用程序中时，它会将iTerm2置于前台。终端永远是一个关键的压力。您可以选择让热键打开一个专用窗口。这为您提供了一个随时可用的终端（如Visor，Guake或Yakuake）。
+![](http://oc98nass3.bkt.clouddn.com/15307837500327.jpg)
 
 ### 标签变色
 
 iTerm2 的标签的颜色会变化，以指示该 tab 当前的状态。当该标签有新输出的时候，标签会变成洋红色；新的输出长时间没有查看，标签会变成红色。可在设置中关掉该功能。
 
-智能选中
+### 智能选中
+
 在 iTerm2 中，双击选中，三击选中整行，四击智能选中（智能规则可配置），可以识别网址，引号引起的字符串，邮箱地址等。（很多时候双击的选中就已经很智能了）
 
 在 iTerm2 中，选中即复制。即任何选中状态的字符串都被放到了系统剪切板中。
+
+### 粘贴历史记录
+
+粘贴历史记录可让您重新访问最近复制或粘贴的文本。您甚至可以选择将历史记录保存到磁盘，以免永远丢失。
+
+![](http://oc98nass3.bkt.clouddn.com/15307836006100.jpg)
+
+### 无鼠标复制
+
+使用“查找”功能开始搜索文本。按Tab键将选择范围扩展到右侧，或按shift键将选择范围扩展到左侧。 Option-enter粘贴当前匹配。
+
+![](http://oc98nass3.bkt.clouddn.com/15307836058319.jpg)
 
 ### 巧用 Command 键
 
@@ -353,30 +375,74 @@ Meta 键
 [你应该知道的 iTerm2 使用方法--MAC终端工具](http://wulfric.me/2015/08/iterm2/)
 
 ### 快捷命令
-
-| 命令 | 说明 |
+| 说明 | 快捷键 |
 | --- | --- |
-| command + t | 新建标签 |
-| command + w | 关闭标签 |
-| command + 数字 command + 左右方向键 | 切换标签 |
-| command + enter | 切换全屏 |
-| command + f | 查找 |
-| command + d | 垂直分屏 |
-| command + shift + d | 水平分屏 |
-| command + option + 方向键 command + [ 或 command + ] | 切换屏幕 |
-| command + ; | 查看历史命令 |
-| command + shift + h | 查看剪贴板历史 |
-| ctrl + u | 清除当前行 |
-| ctrl + l | 清屏 |
-| ctrl + a | 到行首 |
-| ctrl + e | 到行尾 |
-| ctrl + f/b | 前进后退 |
-| ctrl + p | 上一条命令 |
-| ctrl + r | 搜索命令历史 |
+| 新建标签 | command + t |
+| 关闭标签 | command + w |
+| 切换标签 | command + 数字 command + 左右方向键 |
+| 切换全屏 | command + enter |
+| 查找 | command +f |
+| 垂直分屏 | command + d |
+| 水平分屏 | command + shift + d |
+| 切换屏幕 | command + option + 方向键 command + [ 或 command + ] |
+| 查看历史命令 | command + ; |
+| 查看剪贴板历史 | command + shift + h |
+| 清除当前行 | ctrl + u |
+| 到行首 | ctrl + a |
+| 到行尾 | ctrl + e |
+| 前进后退 | ctrl + f/b (相当于左右方向键) |
+| 上一条命令 | ctrl + p |
+| 搜索命令历史 | ctrl + r |
+| 删除当前光标的字符 | ctrl + d |
+| 删除光标之前的字符 | ctrl + h |
+| 删除光标之前的单词 | ctrl + w |
+| 删除到文本末尾 | ctrl + k |
+| 交换光标处文本 | ctrl + t |
+| 清屏1 | command + r |
+| 清屏2 | ctrl + l |
+
+####  Mac搭配SSR客户端实现终端走代理
+
+有时候你会发现git clone非常慢，或者brew install非常慢，但是你明明开了代理，即使设置全局代理也不行，那是因为终端或者iTerm2默认是不走代理的，这个时候，解决方法如下：
+终端输入
+
+```
+    // 让终端走代理，前提是你购买了SSR服务，或者自己搭建了SSR服务
+    // 这里的1087是大多数使用 ShadowsocksX-NG 版本 1.4.3-R8 (3) 的端口
+    // 少部分使使用其他版本的需要注意修改下
+    ➜  ~ export http_proxy=http://127.0.0.1:1087;export https_proxy=http://127.0.0.1:1087;
+    // 输入下面命令如果没什么信息输出，则开启成功
+    ➜  ~ curl pub.dartlang.org
+
+```
+
+如果想每次开机启动，那么执行如下面命令
+
+```
+   ➜  ~ open -e .bash_profile
+
+```
+
+打开文件后，将下面的命令复制到 .bash_profile 里面
+
+```
+   # iTerm2 proxy
+   export http_proxy=http://127.0.0.1:1087
+   export https_proxy=http://127.0.0.1:1087
+
+```
+
+然后再执行
+
+```
+  ➜  ~ source ~/.bash_profile
+```
+
 
 ### iTerm2参考
 
 1. [Features - iTerm2 - macOS Terminal Replacement](https://iterm2.com/features.html)
+2. [MAC上iTerm 2安装与使用 - 掘金](https://juejin.im/post/5a815edd5188251c85636034)
 
 ## IINA
 
