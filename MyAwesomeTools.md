@@ -155,39 +155,41 @@
 
 24. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
 
-25. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+25. [Quantumult](https://www.logcg.com/archives/2968.html)Quantumult 是类似ShadowsocksX的工具，新出不久[Quantumult](https://github.com/JasonLee-Go/Quantumult)
 
-26. [CloudConvert](https://cloudconvert.com/) 
+26. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+
+27. [CloudConvert](https://cloudconvert.com/) 
 convert anything to anything~
 
-27. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
+28. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
 
-28. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
+29. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
 
-29. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
+30. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
 
-30. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+31. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
 
-31. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+32. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
 
-32. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+33. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
 
-33. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
+34. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
 
 #### 下载
 
-34. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
+35. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 
-35. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+36. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
 
-36. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
+37. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 
-37. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+38. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
 
 #### 办公
 
-38. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
+39. [Microsoft Office](http://xclient.info/s/office-for-mac-2016.html?_=7a372c5fb239b94c77ad4868d63f8a67#history_versions) Office套件
 [【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 ```
 粘贴上帖提到的一键激活工具 百度云盘链接: <https://pan.baidu.com/s/1hsv6JL6> 密码: `rt2h`
@@ -200,37 +202,39 @@ convert anything to anything~
 [破解提取码：a89r](https://link.jianshu.com/?t=https%3A%2F%2Fpan.baidu.com%2Fs%2F1bEw4cY)
 参考[【10.17系统+网盘更新】Microsoft Office 2016 for Mac (15.26) 正式版下载+破解补,Mac 软件与游戏-MacX.cn -](https://www.macx.cn/thread-2166376-1-1.html?mod=viewthread&tid=2166376&extra=page%253D1&page=1)
 
-39. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
+40. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
 
-40. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
+41. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
 
-41. [Quitter](https://marco.org/apps)  他可以幫我們自動關閉或隱藏不需要的 App, 参考[Quitter for Mac 降低分心頻率，出自我敬佩的開發者](https://www.playpcesor.com/2016/05/quitter-for-mac.html)
+42. [Quitter](https://marco.org/apps)  他可以幫我們自動關閉或隱藏不需要的 App, 参考[Quitter for Mac 降低分心頻率，出自我敬佩的開發者](https://www.playpcesor.com/2016/05/quitter-for-mac.html)
 
-42. [Send Anywhere (File Transfer)](https://send-anywhere.com/file-transfer)"发送任何位置" 是一个文件共享应用程序, 它
+43. [Send Anywhere (File Transfer)](https://send-anywhere.com/file-transfer)"发送任何位置" 是一个文件共享应用程序, 它
 
-43. [Hazel](https://sspai.com/post/35225#%E7%90%86%E6%B8%85%E6%95%B4%E7%90%86%E6%80%9D%E8%B7%A)
+44. [Hazel](https://sspai.com/post/35225#%E7%90%86%E6%B8%85%E6%95%B4%E7%90%86%E6%80%9D%E8%B7%A)
 自动整理文件，让你的 Mac 井井有条
 
 #### 密码
 
-44. [1Password](https://1password.com/)  非常专业的密码管理器
+45. [1Password](https://1password.com/)  非常专业的密码管理器
 
-45. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
+46. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
 
-46. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+47. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
 
-47. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+48. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
 
-48. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+49. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
 
-49. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+50. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
 #### Fun
 
-50. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
+51. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
+
+52. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
 
 ### Developing
 
@@ -539,7 +543,8 @@ Turn drawings into code with PaintCode ~
 
 8. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 作者开发的过程方法值得学习
 
-9. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)
+9. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)[Shadowrocket-2.1.2
+](https://xuexi.hinwen.com/thread-14695-1-1.html)
 
 10. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) Habit Manager
 
@@ -547,7 +552,7 @@ Turn drawings into code with PaintCode ~
 
 12. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
 
-13.  [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) OCR文字识别与翻译工具 开发者：Xinle Tao
+13. [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) OCR文字识别与翻译工具 开发者：Xinle Tao
 
 14. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
 
@@ -581,6 +586,9 @@ Turn drawings into code with PaintCode ~
 2. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
 3. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 
+### 破解
+
+1. [微信大灰色](http://jabizb.cn/wechat/) 多开微信
 
 ### iOS ipsw 
 
@@ -709,6 +717,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 3. [云盘万能钥匙 - 你的云盘智能助手](http://ypsuperkey.meek.com.cn/)
 
 4. [talking-web ](https://chrome.google.com/webstore/detail/talking-web/hdeikpphnbclpacdjdjjkpmbcacopnog) Chrome文字朗读——如果想自动全部读可以尝试用Mac的`voiceover`，使用`⌘ + F5`开关
+
+5. [扎克比比](http://jabizb.cn/vip/index.html) 查看VIP视频
 
 #### Greasyfork Pool
 

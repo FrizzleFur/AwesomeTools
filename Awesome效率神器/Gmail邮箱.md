@@ -156,3 +156,26 @@ spaceplay / pause escstop ffullscreen ⇧ + ←→slower / faster (latest Chrome
 Gmail有很多筛选选项，比如只归档超过一定大小的邮件。阅读Gmail的其他筛选条件（下方的链接），使用它们进行搜索，然后对相应的邮件进行操作。
 
 
+### IMAP 和 POP
+
+* IMAP 和 POP 这两种方法都可用来在其他电子邮件客户端中阅读 Gmail 邮件。
+
+* IMAP 可在多个设备上使用。电子邮件会实时同步。
+
+* POP 只可用于一台计算机。电子邮件不会实时同步。系统会将这些电子邮件下载下来，并由您决定下载新电子邮件的频率。
+
+
+## 问题
+
+
+Mac的`Spark`突然一直访问不了
+![](http://oc98nass3.bkt.clouddn.com/15309444424409.jpg)
+
+后来查看到谷歌的帮助
+设置 IMAP 并更改您的 SMTP 设置，即可在其他邮件客户端（如 Microsoft Outlook 和 Apple Mail）中阅读 Gmail 邮件。使用 IMAP 时，您可以在多台设备上阅读 Gmail 邮件，而且邮件还会实时同步。您也可以使用 POP 阅读 Gmail 邮件。
+
+[使用 IMAP 在其他电子邮件客户端上查看 Gmail - Gmail帮助](https://support.google.com/mail/answer/7126229?hl=zh-Hans)
+
+![](http://oc98nass3.bkt.clouddn.com/15309443874362.jpg)
+
+需要启用 IMAP。  
