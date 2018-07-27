@@ -20,12 +20,9 @@
 3. [狡兔三窟——云备份软件列表与相应配置，补充 Time Machine](https://sspai.com/post/43479)
 
 
-
 本文分为 备份软件列表 和 备份配置文件 两部分。其中，Mackup 备份配置文件的原理为：将配置文件转移到iCloud、Dropbox、Google Drive 等云同步文件夹以实现备份和同步，在配置文件的原来位置生成一个软链接（相当于贴一张写有新位置的告示），从而让软件读取到新位置的配置。这种情况下，如果你删除了云同步文件夹中的配置文件，就什么都没有了！就什么都没有了！就什么都没有了！而且，mackup支持备份的软件有限（可自己配置以支持更多软件）。所以，小白慎用！感觉挺鸡肋的。
 
 
-
-[![涔C](https://cdn.sspai.com/2018/06/15/66eceba0642e3493a7c9b7d5570654e3.jpg?imageMogr2/quality/95/thumbnail/!60x60r/gravity/Center/crop/60x60)](https://sspai.com/user/742287) 
 
 #### [涔C](https://sspai.com/user/742287)
 

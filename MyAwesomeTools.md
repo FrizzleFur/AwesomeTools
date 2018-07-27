@@ -638,6 +638,7 @@ Turn drawings into code with PaintCode ~
 ========================
 
 12. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
+
 13. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
 
 14. [Ublock-origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)    有过滤器的Ad killer.
@@ -663,11 +664,20 @@ Turn drawings into code with PaintCode ~
 24. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
 
-### Security
+#### Security
 
 25. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
 
 26. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
+
+#### Bilibili
+
+27. [pakku :: 哔哩哔哩弹幕过滤器](http://s.xmcp.ml/pakkujs/)
+
+28. [哔哩哔哩助手 - Bilibili Helper - 咕咕好受](https://bilihelper.guguke.net/)
+
+29. [哔哩哔哩（bilibili.com）样式调整 | Userstyles.org](https://userstyles.org/styles/102179/bilibili-com)
+
 
 #### 油猴Pool
 

@@ -1519,6 +1519,22 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 ## iOS 
 
+
+### Xcode
+
+![](http://oc98nass3.bkt.clouddn.com/15326666022413.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15326666332024.jpg)
+
+发现一个Xcode链接iphone一直闪断的问题，提示说软件下载更新才能连接，但是下载失败，还以为是数据线接触不良或者是Xcode版本不支持，后来发现开启省电模式就可以了。
+[A software update is required to connect to your iOS device / iPhone - Ask Different](https://apple.stackexchange.com/questions/327310/a-software-update-is-required-to-connect-to-your-ios-device-iphone)
+
+```
+The problem can be fixed by installing XCode beta.
+This error occurs when the version of macOS (and iTunes) running on the computer is not compatible with the version of iOS on the device you're trying to connect.
+
+Normally, updating the macOS to its current version will solve the problem. However, this won't work if the iOS device is running a newer beta version, and the Mac is not.
+```
+
 ### 下载软件
 * Valley [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.appvalley.vip/#) 
 * tweakbox [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.tweakboxapp.com/)

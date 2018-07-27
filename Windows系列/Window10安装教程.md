@@ -25,9 +25,9 @@
  
 ![](http://oc98nass3.bkt.clouddn.com/15256836025370.jpg)
 
-等驱动安装完成后再安装BootCamp盘里的 Win10。
 
 ![](http://oc98nass3.bkt.clouddn.com/15256837461138.jpg)
+等驱动安装完成后再安装BootCamp盘里的 Win10。
 
 最后进入Win10后在`OSXRESERVED`盘里会出现`setup`的快捷方式，点击安装，就会将对应的驱动进行安装
 ![](http://oc98nass3.bkt.clouddn.com/15256837955116.jpg)
