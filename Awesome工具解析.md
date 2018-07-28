@@ -712,6 +712,62 @@ Mac下有外部模式和文档库模式
 ⌥ ⇧ ⌘ 9   | Add to Things
  ⇧ ⌘ Y | Make New Sticky note
 
+
+## Rime
+
+> 有关“Rime鼠须管”输入法，在各类MAC相关的论坛上都能看到“神级输入法”这样标题的推荐，必须承认仅仅就速度这个角度来说，确是非常优秀，输入过程非常流畅毫无卡钝，当然做为开源软件，作者的思路应该是：字库无需非常庞大，字库是靠用户用自己的输入习惯来“养成”的。
+
+### Rime安装
+
+[Github开源地址](https://link.jianshu.com?t=https://github.com/lotem/squirrel)
+
+Rime 官网：[http://rime.im/](https://link.jianshu.com?t=http://rime.im/)
+
+或者可以去官网下载 Homebrew Cask 来安装(我就是用这个来安装的)
+
+```
+brew cask install squirrel
+
+```
+
+ps:刚安装好，拼音输入是繁体的，在终端 Iterm 按组合键 Ctrl+` 呼出输入法方案选单（如下），切换为「汉字」就可以输入简体了
+
+#### 配置
+
+数据文件位置
+
+> 共享资料夹：”/Library/Input Methods/Squirrel.app/Contents/SharedSupport/”
+> 用户资料夹：”~/Library/Rime/”
+
+用户资料夹内的文件说明如下
+
+> 〔全局设定〕 default.yaml
+> 〔发行版设定〕 weasel.yaml
+> 〔预设输入方案副本〕 <方案标识>.schema.yaml
+> ※〔安装信息〕 installation.yaml
+> ※〔用户状态信息〕 user.yaml
+> 编译输入方案所产生的二进制文件：
+
+> 〔Rime 棱镜〕 <方案标识>.prism.bin
+> 〔Rime 固态词典〕 <词典名>.table.bin
+> 〔Rime 反查词典〕 <词典名>.reverse.bin
+> 记录用户写作习惯的文件：
+
+> ※〔用户词典〕 <词典名>.userdb.kct
+> ※〔用户词典快照〕 <词典名>.userdb.txt、<词典名>.userdb.kct.snapshot 见于同步文件夾
+> 以及用户自己设定的：
+
+※〔用户对全局设定的定制信息〕 default.custom.yaml
+※〔用户对预设输入方案的定制信息〕 <方案标识>.custom.yaml
+※〔用户自制输入方案〕及配套的词典源文件
+注：以上标有「※ 号」和「粗体」的文件，包含用户资料，您在清理文件时要注意备份！
+
+### 双拼
+
+[和我们一起学双拼，码字再快一点 - 少数派](https://sspai.com/post/40883)
+
+
+
 ## SimpleRead 简悦
 
 `Chrome`的阅读模式
