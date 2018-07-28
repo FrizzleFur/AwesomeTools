@@ -1571,6 +1571,15 @@ Valley jse://run?file=APPValley.js
 
 # 常见问题
 
+### 终端 命令行中文件路径有空格怎么办？
+
+如： 
+```
+sudo rm -rf "/Library/Input Methods/Squirrel.app" 
+```
+加上双引号就行
+
+
 ## “XXX.app”已损坏，打不开。 您应该将它移到废纸篓
 
 1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案

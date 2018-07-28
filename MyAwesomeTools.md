@@ -28,7 +28,7 @@
 
 2. [数字逻辑](https://www.softosx.com/) Tool Pool
 
-3.  [知您网(zhinin.com) - Mac软件下载 | Mac游戏下载 | 破解软件 | 破解游戏 | Crack](http://www.zhinin.com/)
+3. [知您网(zhinin.com) - Mac软件下载 | Mac游戏下载 | 破解软件 | 破解游戏 | Crack](http://www.zhinin.com/)
 
 4. [Waitsun](https://www.waitsun.com/) Tool Pool
 
@@ -111,6 +111,8 @@
 
 1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
 
+2. [Mos](https://github.com/Caldis/Mos/tree/8f4ef19a87f287afb4a50dacbad2c4a60b86610e) 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 
+
 #### 系统清理
 
 5. [CleanMyMac](http://macpaw.com/cleanmymac) Mac必备吧
@@ -131,7 +133,9 @@
 ![](http://oc98nass3.bkt.clouddn.com/15307796714334.jpg)并且可以快捷键召唤Dock上的Apps
 
 12. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
-13. [Mosaic](https://www.lightpillar.com/mosaic.html)Effortlessly resize and reposition macOS apps，还可以自定义，比Moon好用。
+
+
+13. [**HammerSpoon**](https://github.com/Hammerspoon/hammerspoon)是一个可以用来进行窗口管理的 App，开源免费。当然，功能也不仅限于此,Hammerspoon 使用脚本语言来操作 OS X 的系统 API。使很多自动化操作成为可能。[Hammerspoon, OS X 上的全能窗口管理器 – 宋辰文](https://songchenwen.com/tech/2015/04/02/hammerspoon-mac-window-manager/)[Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
 
 14. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
 
@@ -204,6 +208,11 @@ convert anything to anything~
 
 40. [鼠须管](http://www.ifanr.com/156409)鼠须管，“神级”输入法
 参考[安装及配置 Mac 上的 Rime 输入法——鼠鬚管 (Squirrel) | 明无梦](http://www.dreamxu.com/install-config-squirrel/)
+
+卸载Rime
+```
+sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
+```
 
 41. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
 
@@ -610,34 +619,36 @@ Turn drawings into code with PaintCode ~
 
 ### Chrome Extension
 
-1. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
+#### Productivity
 
+1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
 2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器 [Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md#%E5%89%8D%E7%BC%80%E6%95%B0%E5%AD%97%E5%8F%AF%E5%A4%9A%E6%AC%A1%E9%87%8D%E5%A4%8D%E7%9B%B8%E5%BA%94%E6%93%8D%E4%BD%9C)
 
-3. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
-4. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
+3. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
 
-5. [IE-On-Chrome](https://chrome.google.com/webstore/detail/ie-on-chrome/kmomimblkpkjeilfbkinoonalgiejlcl)  兼容IE的Chrome插件
+4. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
 
-6. [Oscnews](https://github.com/jaywcjlove/oscnews)开源中国
+5. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
+
+6. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
+
+7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
+
+8. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
+![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
 
 #### RSS Read
 
-6. [DOM Distiller Reading Mode](https://chrome.google.com/webstore/detail/dom-distiller-reading-mod/oiembdaoobijmdmeobkalaehgifealpl)   开启阅读模式，一般般吧
+9. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
 
-7. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
+10. [Linnk](https://linnk.net/) 全能书签管家[Chrome拓展](https://chrome.google.com/webstore/detail/linnk/bflmgpechpeohjfomgfdkkfcbhfcjohl)
 
-8. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；[SimpRead 简悦 - 让你瞬间进入沉浸式阅读的 Chrome extension](http://ksria.com/simpread/gallery/)简悦有更新啦，加入了对`Instapaper`的支持，作者很高效
+11. [Diigo](https://www.diigo.com/index)  会不会是最好用的web知识工具╮(✪ω✪)╭
 
-9. [Linnk](https://linnk.net/) 全能书签管家[Chrome拓展](https://chrome.google.com/webstore/detail/linnk/bflmgpechpeohjfomgfdkkfcbhfcjohl)
+12. [Raindrop](https://raindrop.io/app/) Rss工具
 
-10. [Diigo](https://www.diigo.com/index)  会不会是最好用的web知识工具╮(✪ω✪)╭
 
-11. [Raindrop](https://raindrop.io/app/) Rss工具
-
-========================
-
-12. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
+#### Ad
 
 13. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
 
@@ -645,24 +656,27 @@ Turn drawings into code with PaintCode ~
 
 15. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
 
+#### CSS
+
 16. [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)Stylus 是一个调整网页外观的用户样式管理器。它可让您轻松地为许多热门网站网站安装主题和皮肤。在Stylish的分支 1.5.2 版本基础上开发了 Stylus。Stylus 重写并优化了大部分的代码以提高性能。
 
-17. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
+17. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；[SimpRead 简悦 - 让你瞬间进入沉浸式阅读的 Chrome extension](http://ksria.com/simpread/gallery/)简悦有更新啦，加入了对`Instapaper`的支持，作者很高效
+18. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
 
-18. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
+19. [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related)这是一个护眼扩展程序，通过实时生成黑色主题，为每一个网站启用夜间模式。 Dark Reader反转明亮的颜色，使其网页内容具有高对比度并且在易于夜间阅读。
 
-19.  [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
+20.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
 
-20. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+#### Develop
 
-21. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
+21. [Oscnews](https://github.com/jaywcjlove/oscnews)开源中国
 
-22.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
+22. [Plus for trello](https://chrome.google.com/webstore/detail/plus-for-trello-time-trac/gjjpophepkbhejnglcmkdnncmaanojkf) Trello神器
 
-23. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
 
-24. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
-![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
+23. [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop) API Request Manager
+
+24. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
 
 #### Security
 
@@ -677,7 +691,6 @@ Turn drawings into code with PaintCode ~
 28. [哔哩哔哩助手 - Bilibili Helper - 咕咕好受](https://bilihelper.guguke.net/)
 
 29. [哔哩哔哩（bilibili.com）样式调整 | Userstyles.org](https://userstyles.org/styles/102179/bilibili-com)
-
 
 #### 油猴Pool
 
