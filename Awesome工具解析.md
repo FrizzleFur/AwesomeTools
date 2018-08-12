@@ -1592,6 +1592,7 @@ Normally, updating the macOS to its current version will solve the problem. Howe
 ```
 
 ### 下载软件
+
 * Valley [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.appvalley.vip/#) 
 * tweakbox [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.tweakboxapp.com/)
 * panda helper [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](http://m.pandahelp.vip/regular)
