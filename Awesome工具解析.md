@@ -1575,8 +1575,9 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 ## iOS 
 
-
 ### Xcode
+
+#### Xcode链接iphone一直闪断
 
 ![](http://oc98nass3.bkt.clouddn.com/15326666022413.jpg)
 ![](http://oc98nass3.bkt.clouddn.com/15326666332024.jpg)
@@ -1589,6 +1590,21 @@ The problem can be fixed by installing XCode beta.
 This error occurs when the version of macOS (and iTunes) running on the computer is not compatible with the version of iOS on the device you're trying to connect.
 
 Normally, updating the macOS to its current version will solve the problem. However, this won't work if the iOS device is running a newer beta version, and the Mac is not.
+```
+
+
+#### 关于使用Clang(LLVM)将OC文件转为C/C++文件报错的问题
+
+```objc
+
+main.m:9:9: fatal error: 'UIKit/UIKit.h' file not found
+#import <UIKit/UIKit.h>
+    ^
+1 error generated.
+```
+
+```objc
+clang -x objective-c -rewrite-objc -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk xxx.m
 ```
 
 ### 下载软件
