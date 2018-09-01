@@ -24,8 +24,17 @@
  
 ## Aria2
 
- [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+[itgoyo/Aria2: 支持迅雷、百度云无限制超速下载，另外附带Tampermonkey、Proxyee-down教程。从此云端女友从不断线，有了这个它，忘掉那个她!](https://github.com/itgoyo/Aria2#webui-aria2)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
+![](http://oc98nass3.bkt.clouddn.com/15343353123639.jpg)
+
+ [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
+
+### BaiduExporter
+
+![](http://oc98nass3.bkt.clouddn.com/15343352496848.jpg)
+
+[BaiduExporter.crx](https://github.com/acgotaku/BaiduExporter/blob/master/BaiduExporter.crx)
 ![](http://oc98nass3.bkt.clouddn.com/15233734067615.jpg)
 ![](http://oc98nass3.bkt.clouddn.com/15233734324565.jpg)
 
@@ -34,6 +43,23 @@
 需要搭配[BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 
 [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
+
+然后在所有的下载链接上右键选择ARIA2 RPC进行下载就可以了。
+
+##### 参考Aria2
+
+[Aria2+YAAW+Tampermonkey下载百度云文件](http://www.51yimo.com/2018/01/04/aria2-yaaw/)
+[Mac 上有什么比较好用的下载工具？ - 知乎](https://www.zhihu.com/question/19552868)
+
+#### 百度云大文件链接
+
+1. 安装油猴插件（插件商店搜索`Tampermonkey`并安装）
+2. 安装`EX-百度云盘`油猴脚本([EX-百度云盘](https://greasyfork.org/zh-CN/scripts/26638-ex-%E7%99%BE%E5%BA%A6%E4%BA%91%E7%9B%98))
+3. 百度云盘中的页面中会多一个`EX-下载`的选项
+4. 这时在`EX-下载`的下拉菜单中的`普通下载`右键还不能将任务发送aria2进行下载，需要将文件共享。
+5. 在共享页面的`EX-下载`的菜单中选择`普通下载`后，Chrome就可以下载大文件了。然后在下载的链接上右击，选择`ARIA2-RPC`就可以了。
+6. 按照上边的Aria2 Web可以查看下载的文件和进度。
+
 
 ### 下载路径配置
 
@@ -54,6 +80,15 @@
 ![step2](http://oc98nass3.bkt.clouddn.com/15233769336959.jpg)
 
 当然浏览器重启后也会reset插件的下载路径 。。。
+
+### axel
+
+Axel — Light command line download accelerator for Linux and Unix
+[axel-download-accelerator/axel: light command line download accelerator](https://github.com/axel-download-accelerator/axel)
+
+### proxyee-down
+
+[proxyee-down-org/proxyee-down: http下载工具，基于http代理，支持多连接分块下载](https://github.com/proxyee-down-org/proxyee-down)
 
 ## Bee For mac
 
@@ -767,6 +802,16 @@ ps:刚安装好，拼音输入是繁体的，在终端 Iterm 按组合键 Ctrl+`
 [和我们一起学双拼，码字再快一点 - 少数派](https://sspai.com/post/40883)
 
 
+
+## ShadowSocket
+
+打开[portfolio-preview](https://ss.freess.org/#portfolio-preview) ,然后你会看到这个界面
+
+随便点一个地址,然后会弹出个二维码，像下面这样，注意右上角，点那个纸飞机，找到那个从屏幕上扫描二维码，注意要选那个**自动代理模式**，windows 的就选 **系统代理模式**
+
+![](http://oc98nass3.bkt.clouddn.com/15343299529861.jpg)
+ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
+* [freeSS](https://get.ss8.fun/)
 
 ## SimpleRead 简悦
 
@@ -1605,6 +1650,11 @@ main.m:9:9: fatal error: 'UIKit/UIKit.h' file not found
 
 ```objc
 clang -x objective-c -rewrite-objc -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk xxx.m
+
+//__weak修饰变量，需要告知编译器使用ARC环境及版本号否则会报错，添加说明
+-fobjc-arc -fobjc-runtime=ios-8.0.0
+
+xcrun -sdk iphoneos clang -arch arm64 -rewrite-objc -fobjc-arc -fobjc-runtime=ios-8.0.0 main.m
 ```
 
 ### 下载软件
@@ -1662,9 +1712,9 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app"
 ![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
 ```
 //先禁止
-❯ sudo spctl --master-disable
+sudo spctl --master-disable
 //后恢复
-❯ sudo spctl --master-enable
+sudo spctl --master-enable
 ```
 
 ## Snap和Chrome的标签问题
