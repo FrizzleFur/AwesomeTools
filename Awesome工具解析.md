@@ -629,6 +629,15 @@ PWA（Progressive Web Apps）是由 Google 提出的下一代 Web 应用模型�
 
 ![](http://oc98nass3.bkt.clouddn.com/15308640901607.png)
 
+## Mubu 幕布
+
+
+### 幕布快捷键
+
+![](http://oc98nass3.bkt.clouddn.com/15358997976218.jpg)
+
+![](http://oc98nass3.bkt.clouddn.com/15358998067113.jpg)
+
 ## Mweb
 
 [Mweb](http://www.mweb.im/)
