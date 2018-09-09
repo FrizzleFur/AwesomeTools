@@ -220,6 +220,39 @@ chrome://extensions/
 chrome://apps/
 ```
 
+## CmdTap
+
+破解代码
+
+```objc
+def md5(str):
+    import hashlib
+    import types
+    if type(str) is types.StringType:
+        m = hashlib.md5()
+        m.update(str)
+        return m.hexdigest()
+    else:
+        return ''
+ 
+email = "mac@apple.com"
+ 
+m = md5(md5(email)[0:10]).upper()
+key = m[5:8]+'-'+ m[8:11]+'-'+m[11:14]+'-'+m[14:17]
+ 
+print key
+```
+
+
+
+```
+ffur@apple.com
+90B-915-B69-15A
+```
+
+参考  [飘云阁(PYG官方论坛) CmdTap | 任务切换器增强 for Mac | 算法分析及注册码一枚 - Powered by Discuz!](http://www.chinapyg.com/thread-83080-4-1.html)
+
+
 ##  DayOne
 
 现在Dayone付费订阅制了，下载`V2.1.8`的版本进行同步。
@@ -433,7 +466,6 @@ Type km followed by the name of any of your defined macros.
 
 ##  iTerm2
 
-
 [Features - iTerm2 - macOS Terminal Replacement](https://iterm2.com/features.html)
 
 iTerm2 是 MAC 下最好的终端工具。可以简单的认为，iTerm2 是配置完毕开箱即用的 tmux。但 tmux 有以下一些缺点：
@@ -576,6 +608,26 @@ pip install {PACKAGE_NAME} -i http://pypi.douban.com/simple/ --trusted-host pypi
   ➜  ~ source ~/.bash_profile
 ```
 
+
+I was just trying to do exactly the same :-). Here you go, using AppleScript and bit of bash if you like.
+
+```
+--this goes inside for example bgImgIterm.scpt--
+tell application "iTerm2"
+  tell current session of current window
+    set background image to "/path/to/img/img.jpg" 
+  end tell
+end tell
+then you can run it inside bash like
+
+```
+
+```
+#!/bin/bash
+osascript /path/to/scpt/bgImgIterm.scpt
+
+```
+[terminal - iTerm2 (OS X) change background image for current window from shell? - Super User](https://superuser.com/questions/1068105/iterm2-os-x-change-background-image-for-current-window-from-shell/1128149#1128149)
 
 ### iTerm2参考
 

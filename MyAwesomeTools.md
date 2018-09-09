@@ -239,11 +239,17 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 50. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
 
+51. [Downie](https://software.charliemonroe.net/downie.php)Downie是一款Mac下的视频抓取工具，将URL拖动或copy到工具中，工具就会解析页面并将页面中的视频下载到本地。可以用这个工具下载WWDC的视频，比在Safari上看舒服多了。
+
+#### GIF
+
+51. [Convertio](https://convertio.co/zh/mp4-gif/) Mp4转gif
+
 #### Fun
 
-51. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
+52. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
 
-52. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
+53. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
 
 ### Developing
 
@@ -310,6 +316,9 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 3. [Prism](https://github.com/12207480/Prism)Application Performance Management & Monitoring for iOS (APM) iOS应用程序性能管理
 
 4. [Sipapp](https://sipapp.io/) 取色神器
+
+5. [iconKit](http://xclient.info/s/iconkit.html?t=357608aacf0fa86424ca5ff22b0dc4b16931d34b) iconKit提供了生成不同尺寸的icon和LaunchImage的功能，可以选择直接导出为images.assets文件，拖到项目里就可以用。图片
+6. [ImageOptim - Mac 上最佳的图片优化无损压缩 APP 应用神器](https://imageoptim.com/howto.html)
 
 ##### Code helper
 
@@ -595,6 +604,27 @@ Turn drawings into code with PaintCode ~
 2. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
 3. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 
+
+#### 修改host翻墙
+输入sudo vi /etc/hosts
+它会提示你输入你的管理密码，才能进行下一步。
+之后按下i 才可以编辑文件。
+
+hosts文件可以到github或者百度上找
+正在用GitHub上的https://github.com/highsea/Hosts/blob/master/hosts
+
+复制hosts文件到空白处后，先按Esc 然后再按shift+： 冒号
+输入wq 保存并退出的意思。
+重启mac ，打开google 看看是否可以顺畅的使用谷歌了
+
+#### Tor浏览器
+
+官网（中文版下载）：https://www.torproject.org/dist/torbrowser/7.5.6/TorBrowser-7.5.6-osx64_zh-CN.dmg
+要先翻墙才能访问
+百度云：https://pan.baidu.com/s/1hnPncsXR5qUXmB-LqDqcyA
+
+#### chrome安装skyZIP Proxy插件（推荐）
+
 ### 破解
 
 1. [微信大灰色](http://jabizb.cn/wechat/) 多开微信
@@ -857,8 +887,33 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 1. [每日美剧](http://www.meirimeiju.com/)
 
-2. [jdlingyu](http://www.jdlingyu.moe/)
+2. [jdlingyu](http://www.jdlingyu.mobi/)
 
+### WallPaper
+
+ **个性风格：**
+
+* [Simple Desktops](https://link.zhihu.com/?target=http%3A//simpledesktops.com/)
+
+* [Vladstudio](https://link.zhihu.com/?target=http%3A//www.vladstudio.com/zh/home/)
+
+* [https://joer.ru/?id=23&start=42](https://link.zhihu.com/?target=https%3A//joer.ru/%3Fid%3D23%26start%3D42)
+
+* [FACETS](https://link.zhihu.com/?target=http%3A//www.facets.la/)
+
+* [Justin M. Maller](https://link.zhihu.com/?target=http%3A//justinmaller.com/)
+
+**优秀网站：**
+
+* [WallDevil - Awesome wallpapers for you!](https://link.zhihu.com/?target=https%3A//www.walldevil.com/)
+
+* [DesktopPapers.co - HD Desktop wallpapers](https://link.zhihu.com/?target=http%3A//desktoppapers.co/)
+
+* [Wallpaper Abyss](https://link.zhihu.com/?target=https%3A//wall.alphacoders.com/)
+
+* [Awesome Wallpapers](https://link.zhihu.com/?target=http%3A//alpha.wallhaven.cc/)
+
+* [壁紙：WEBに転がる「おもしろい」と「役に立つ」をまとめる雑食系ブログ：SwitchBox](https://link.zhihu.com/?target=http%3A//switch-box.net/category/wallpaper)
 
 ### BodyBuilding
 
