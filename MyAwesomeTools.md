@@ -600,9 +600,10 @@ Turn drawings into code with PaintCode ~
 
 ### VPN
 
-1. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience)
-2. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
-3. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
+1. [ss免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+2. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience)
+3. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
+4. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 
 
 #### 修改host翻墙
