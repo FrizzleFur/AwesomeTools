@@ -486,7 +486,6 @@ bindkey "[D" backward-word
 bindkey "[C" forward-word
 ```
 
-
 ### 热键窗口
 
 注册一个热键，当您在另一个应用程序中时，它会将iTerm2置于前台。终端永远是一个关键的压力。您可以选择让热键打开一个专用窗口。这为您提供了一个随时可用的终端（如Visor，Guake或Yakuake）。
