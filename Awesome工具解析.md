@@ -476,6 +476,16 @@ iTerm2 是 MAC 下最好的终端工具。可以简单的认为，iTerm2 是配�
 
 iTerm2 的一些特色功能如下：
 
+## option + left←（左箭头） 跨单词移动光标的教程
+
+在 `~/.zshrc` 中增加以下两行指令：
+或者直接敲入命令。
+
+```
+bindkey "[D" backward-word
+bindkey "[C" forward-word
+```
+
 ### 热键窗口
 
 注册一个热键，当您在另一个应用程序中时，它会将iTerm2置于前台。终端永远是一个关键的压力。您可以选择让热键打开一个专用窗口。这为您提供了一个随时可用的终端（如Visor，Guake或Yakuake）。
@@ -581,7 +591,6 @@ pip install {PACKAGE_NAME} -i http://pypi.douban.com/simple/ --trusted-host pypi
 如果还有权限问题就加上`sudo`
 
 ##### 配置方法
-
 
 这个时候，解决方法如下：
 终端输入

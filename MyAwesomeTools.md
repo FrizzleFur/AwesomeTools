@@ -107,6 +107,8 @@
 
 4. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
 
+5. [GhostTile – 隐藏 Dock 中不想看见的图标 - 数码荔枝](https://www.lizhi.io/review/72551612)
+
 #### 系统
 
 1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
@@ -360,7 +362,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 8. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12)  [苹果推送服务测试小工具](http://www.cocoachina.com/bbs/read.php?tid-290938.html)
 
-9. [App Icon Gear ](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html)  创建App图标、启动图LaunchImage，还可以生成自定义尺寸的图标集（Image Set）
+9. [App Icon Gear](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html)  创建App图标、启动图LaunchImage，还可以生成自定义尺寸的图标集（Image Set）
 
 10.  [UIDebuggingInformationOverlay - Low Level](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/)  UIDebuggingInformationOverlay是UIWindow由苹果创建的私有子类，大概是帮助开发人员和设计师调试苹果自己的iOS应用程序。
 
