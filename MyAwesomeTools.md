@@ -640,6 +640,12 @@ hosts文件可以到github或者百度上找
 
 ## Win
 
+
+### Win POOL
+
+1. [效率工具 · Windows Apps That Amaze Us](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/efficiency.html)
+2. [老殁 | 殁漂遥 | 互联网分享精神，专注收藏分享 | shaoit新址Laomoit.com](https://www.laomoit.com/?from=%E6%96%87%E7%AB%A0%E9%A1%B5%E5%86%85%E9%93%BE%E6%8E%A5)
+
 ### Win Helper
 
 1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
@@ -711,11 +717,13 @@ hosts文件可以到github或者百度上找
 
 24. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
 
+25. [JSON-handle](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)  JSON-handle
+
 #### Security
 
-25. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
+26. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
 
-26. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
+27. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
 
 #### Bilibili
 
