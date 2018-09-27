@@ -538,6 +538,16 @@ Meta 键
 
 [你应该知道的 iTerm2 使用方法--MAC终端工具](http://wulfric.me/2015/08/iterm2/)
 
+
+## 跨单词移动光标
+Mac os中，zsh + iTerm2 中 设置 option + left←（左箭头） 跨单词移动光标的教程
+在 ~/.zshrc 中增加以下两行指令：
+直接输入命令
+```
+bindkey "[D" backward-word
+bindkey "[C" forward-word
+```
+
 ### 快捷命令
 
 | 说明 | 快捷键 |
@@ -1571,6 +1581,138 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 ### 2Do参考文章
 
 [2Do 的简单任务 – Cheng – Medium](https://medium.com/@scomper/2do-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BB%BB%E5%8A%A1-5e34fce73020)
+
+## iOS 
+
+### Xcode
+
+#### Xcode链接iphone一直闪断
+
+![](http://oc98nass3.bkt.clouddn.com/15326666022413.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15326666332024.jpg)
+
+发现一个Xcode链接iphone一直闪断的问题，提示说软件下载更新才能连接，但是下载失败，还以为是数据线接触不良或者是Xcode版本不支持，后来发现开启省电模式就可以了。
+[A software update is required to connect to your iOS device / iPhone - Ask Different](https://apple.stackexchange.com/questions/327310/a-software-update-is-required-to-connect-to-your-ios-device-iphone)
+
+```
+The problem can be fixed by installing XCode beta.
+This error occurs when the version of macOS (and iTunes) running on the computer is not compatible with the version of iOS on the device you're trying to connect.
+
+Normally, updating the macOS to its current version will solve the problem. However, this won't work if the iOS device is running a newer beta version, and the Mac is not.
+```
+
+
+#### 关于使用Clang(LLVM)将OC文件转为C/C++文件报错的问题
+
+```objc
+
+main.m:9:9: fatal error: 'UIKit/UIKit.h' file not found
+#import <UIKit/UIKit.h>
+    ^
+1 error generated.
+```
+
+```objc
+clang -x objective-c -rewrite-objc -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk xxx.m
+
+//__weak修饰变量，需要告知编译器使用ARC环境及版本号否则会报错，添加说明
+-fobjc-arc -fobjc-runtime=ios-8.0.0
+
+xcrun -sdk iphoneos clang -arch arm64 -rewrite-objc -fobjc-arc -fobjc-runtime=ios-8.0.0 main.m
+```
+
+### 下载软件
+
+* Valley [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.appvalley.vip/#) 
+* tweakbox [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.tweakboxapp.com/)
+* panda helper [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](http://m.pandahelp.vip/regular)
+3. Pin。Pin里面是有Valley，它可以下载接近2000多个APP。有付费软件，付费游戏，破解版的社交平台软件和游戏。内容简单，没有广告，不过不能自定义搜索，只能自己一个个翻。而且是英文界面，你必须得找到你所要的软件的英文名字。
+3款软件版界面都比网页版简洁，但是前两款有广告。前两个已经介绍过了所以直接就介绍panda helper这款。
+
+4. 网页内安装下载
+[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://next.tweakboxapp.com/) 这个软件类似Valley。他里面的软件跟Valley差不多，也是2000来个，进入网页后，找到APPS这个选项，点一下就进入APP软件的里面了，然后找到 tweaked APPs这个是搜索软件，因为是英文界面，你需要找到你所要下载的软件的英文名字。你也可以在Appstore Apps里面找软件，基本上Valley差不多的软件。网页版无广告，等下介绍软件版
+```
+Valley jse://run?file=APPValley.js 
+```
+
+6. workflow规则
+[![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://workflow.is/workflows/5b681575dd944fca911d697d651cfadd)
+里面包含了上面网页安装方法的3款软件
+
+参考[攻略教程之免费下载付费软件](https://m.weibo.cn/status/4180725890666373?)
+
+
+### Safari问题
+
+* 设置Safari默认搜索为baidu
+
+发现以前设置的地区是米国，所以在iOS的Safari搜索引擎设置中没有找到baidu.
+切换回中国🇨🇳就可以了。
+![](http://oc98nass3.bkt.clouddn.com/15308987115979.jpg)
+
+* Safari的阅读模式
+
+发现Safari的阅读模式每次都自动进入，发现是长按可以唤起菜单设置的。
+![](http://oc98nass3.bkt.clouddn.com/15308987360120.jpg)
+
+
+# 常见问题
+
+### 终端 命令行中文件路径有空格怎么办？
+
+如： 
+```
+sudo rm -rf "/Library/Input Methods/Squirrel.app" 
+```
+加上双引号就行
+
+
+## “XXX.app”已损坏，打不开。 您应该将它移到废纸篓
+
+1. 在Mac电脑安装App提示App已损坏”xxxx已损坏，打不开。您应该推出磁盘映像”解决办法解决方案
+
+方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
+
+![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
+```
+//先禁止
+sudo spctl --master-disable
+//后恢复
+sudo spctl --master-enable
+```
+
+## Snap和Chrome的标签问题
+
+`2018-03-14`在升级`MacOS high sierra`后,很多老的软件出现问题，今天出现之前安装的`Chrome`在使用snap切换的时候，每次会出新的tap页，因为我在mac上分了多个deskTop，这样每次来回切换`Chrome`的时候就会弹出很多的tab,增加了`Chrome`的内存消耗，还非常不方便，我还以为是snap的问题，后面想升级下`Chrome`，最后发现**把`Chrome`从Dock中移除并退出重新打开**，这种问题就解决了。可能是MacOS的问题吧。
+
+## Github Desktop问题
+
+本来我是不想把`Github Desktop`加进来的，没想到它今天抽了一个错误，为了记录一下我还是写一下。
+
+报的错误：
+![](http://oc98nass3.bkt.clouddn.com/15303368203935.jpg)
+
+估计是钥匙串的访问权限问题
+找到一篇文章：[GitHub Desktop was unable to store the account token in the keychain · Issue #4614 · desktop/desktop](https://github.com/desktop/desktop/issues/4614)
+![](http://oc98nass3.bkt.clouddn.com/15303369966352.jpg)
+参考[desktop/known-issues.md at master · desktop/desktop](desktop/known-issues.md at master · desktop/desktop)
+
+## MicroSoft Word 弹窗问题
+
+在Mac上使用word过程中，有时候经常出现这种弹窗:
+
+![](http://oc98nass3.bkt.clouddn.com/15294901445351.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15294901483362.jpg)
+
+这是模板的问题，在设置中找到模板文件路径
+
+![](http://oc98nass3.bkt.clouddn.com/15294900549396.jpg)
+
+![](http://oc98nass3.bkt.clouddn.com/15294900170729.jpg)
+
+删除这个文件，然后重启Word,这个文件会重新生成。（估计模板文件出了问题）
+
+参考[Word 无法打开现有共用模板 (Normal.dotm)](https://bbs.feng.com/read-htm-tid-10206026.html)
 
 # 参考资料
 
