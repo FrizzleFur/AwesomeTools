@@ -1,5 +1,14 @@
 ## Xcode进阶
 
+
+
+### 快速记录问题
+
+* 使用`#warning `来定义问题，或者todo, fixme等
+* 使用`Cmd + 5`切换到issue模板
+* `Cmd + Option + J`跳转到fiter过滤，输入`user-defined`就可以查看到
+
+
 ### 快捷键
 
 ![](oc98nass3.bkt.clouddn.com/15376702477628.jpg)
