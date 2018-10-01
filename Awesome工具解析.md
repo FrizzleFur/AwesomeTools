@@ -754,6 +754,16 @@ Mac下有外部模式和文档库模式
 
 [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
+### MWeb问题
+
+1. 图片无法预览
+
+Q：最近版本的`Mweb`在图片成功上传的图床后，无法预览
+A: 检查后发现，上传成功后的url需要添加`http://`协议才行。
+于是我把图床的默认域名添加上`http://`
+![](http://oc98nass3.bkt.clouddn.com/15383768466706.jpg)
+
+
 ### 常用快捷键（整理）
 
 #### 模式
