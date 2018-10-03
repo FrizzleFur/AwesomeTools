@@ -208,7 +208,64 @@ Valley jse://run?file=APPValley.js
 
 # 常见问题
 
-### 终端 命令行中文件路径有空格怎么办？
+
+
+##  Mac：解决修改用户名导致的管理员丢失
+
+
+MAC OS怎样将普通成员改为管理员？
+1、先按住command+s，再按开机键。
+
+2、需先登录进系统，才能输入终端命令。
+
+```
+/sbin/mount -uaw 
+rm var/db/.applesetupdone 
+reboot 
+```
+![](oc98nass3.bkt.clouddn.com/15380565196686.jpg)
+
+* reboot完成后，创建一个新的用户，按照提示操作。
+* 新用户创建后，打开系统偏好设置-用户与群组
+* 点击原来的普通用户，右侧有个“允许用户管理这台电脑”，打勾
+* 然后重启。
+* 这样就可以以管理员的身份登录到你原来的系统，再把刚新创建的管理员账户删除就可以了。
+
+### 正确修改MAC用户名
+1.选择用户与群组
+
+![](https://img-blog.csdn.net/20171115150546465?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3VqYWtm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
+
+2.把锁打开
+
+![](https://img-blog.csdn.net/20171115150902713?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3VqYWtm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
+
+3.添加一个管理员账号，1.点击加号 2.账号选择管理员 3.创建用户
+
+![](https://img-blog.csdn.net/20171115151132221?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3VqYWtm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
+
+4.退出登录  然后选择你刚才添加的管理员账号再来到用户与群组的界面
+
+![](https://img-blog.csdn.net/20171115151306805?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3VqYWtm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
+
+5.鼠标右键，选择高级选项。
+
+![](https://img-blog.csdn.net/20171115151605005?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3VqYWtm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
+
+6.然后修改，再切换账户就可以了
+
+![](https://img-blog.csdn.net/20171115151922142?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3VqYWtm/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center) 
+
+
+## 参考
+
+1. [Mac：解决修改用户名导致的管理员丢失](https://www.jianshu.com/p/4e96a1b4d12d)
+2. [MAC OS怎样将普通成员改为管理员？ - 知乎](https://www.zhihu.com/question/30071627)
+3. [Mac电脑修改用户名丢失管理员权限问题修复 - CSDN博客](https://blog.csdn.net/wujakf/article/details/78539329)
+4. [正确修改MAC用户名 - CSDN博客](https://blog.csdn.net/wujakf/article/details/78540794)
+
+
+##  终端 命令行中文件路径有空格怎么办？
 
 如： 
 ```

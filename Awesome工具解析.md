@@ -478,9 +478,20 @@ iTerm2 的一些特色功能如下：
 
 ## option + left←（左箭头） 跨单词移动光标的教程
 
-在 `~/.zshrc` 中增加以下两行指令：
-或者直接敲入命令。
+方法一：
 
+首先，打开iTerm2的Preferences设置：
+然后，选择相应的Profile（默认为Default），选择“Keys”选项卡，然后可以在Key Mappings看到option+←和option+→这两组快捷键用作了其他功能，这里我们只需要重新绑定新的映射即可（下图是已经绑定之后的新映射）。
+![](oc98nass3.bkt.clouddn.com/15380112903232.jpg)
+![](oc98nass3.bkt.clouddn.com/15380112409124.jpg)
+
+分别修改option+←和option+→的映射如下图所示，选择Action为“Send Escape Sequence”，然后输入“b”和“f”即可。
+
+参考 [Mac下iTerm2光标按照单词快速移动设置 - CSDN博客](https://blog.csdn.net/skyyws/article/details/78480132)
+
+方法二： 
+~~在 `~/.zshrc` 中增加以下两行指令：~~
+不适用,废弃，会影响输入
 ```
 bindkey "[D" backward-word
 bindkey "[C" forward-word
@@ -742,6 +753,16 @@ Mac下有外部模式和文档库模式
 ### Mweb Alfred WorkFlow
 
 [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+
+### MWeb问题
+
+1. 图片无法预览
+
+Q：最近版本的`Mweb`在图片成功上传的图床后，无法预览
+A: 检查后发现，上传成功后的url需要添加`http://`协议才行。
+于是我把图床的默认域名添加上`http://`
+![](http://oc98nass3.bkt.clouddn.com/15383768466706.jpg)
+
 
 ### 常用快捷键（整理）
 

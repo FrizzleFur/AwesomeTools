@@ -642,6 +642,12 @@ hosts文件可以到github或者百度上找
 
 ## Win
 
+
+### Win POOL
+
+1. [效率工具 · Windows Apps That Amaze Us](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/efficiency.html)
+2. [老殁 | 殁漂遥 | 互联网分享精神，专注收藏分享 | shaoit新址Laomoit.com](https://www.laomoit.com/?from=%E6%96%87%E7%AB%A0%E9%A1%B5%E5%86%85%E9%93%BE%E6%8E%A5)
+
 ### Win Helper
 
 1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
@@ -713,11 +719,13 @@ hosts文件可以到github或者百度上找
 
 24. [Switchyomega](https://chrome.google.com/webstore/detail/proxy-switchyomega/padekgcemlokbadohgkifijomclgjgif)  Chrome 代理切换
 
+25. [JSON-handle](https://chrome.google.com/webstore/detail/json-handle/iahnhfdhidomcpggpaimmmahffihkfnj)  JSON-handle
+
 #### Security
 
-25. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
+26. [Disconnect](https://disconnect.me/disconnect/help) Disconnect lets you visualize and block the invisible websites that track your browsing history. Click the interactive items below to find out more!
 
-26. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
+27. [Clickclean](https://chrome.google.com/webstore/detail/clickclean/ghgabhipcejejjmhhchfonmamedcbeod) 当浏览器关闭时，这款应用程序删除你的浏览历史,防止他人跟踪你的网上活动。
 
 #### Bilibili
 
@@ -730,7 +738,7 @@ hosts文件可以到github或者百度上找
 #### 油猴Tampermonkey Greasyfork Pool
 
 1. [Userscript+: 显示当前网站所有可用的UserJS脚本](https://greasyfork.org/zh-CN/scripts/24508-userscript-show-site-all-userjs) 打开一个网站不知道该什么脚本合适？交给它来给你建议吧！🚀
-2. [目录树TreeBar](chrome-extension://dhdgffkkebhmkfjojejmpbldmpobfkfo/ask.html?aid=f55ca2f5-02c4-466c-94fd-6b26525b0b67)
+2. [目录树TreeBar](https://greasyfork.org/en/scripts/34479-%E7%9B%AE%E5%BD%95%E6%A0%91%E5%AF%BC%E8%88%AA)
 3. [Mouseover Popup Image Viewer](https://greasyfork.org/en/scripts/404-mouseover-popup-image-viewer) 大图预览
 4. [rarbg预览图变大图JS](https://greasyfork.org/zh-CN/scripts/27174-rarbg%E9%A2%84%E8%A7%88%E5%9B%BE%E5%8F%98%E5%A4%A7%E5%9B%BEjs)
 5. [百度网盘直接下载助手](https://greasyfork.org/zh-CN/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B)直接下载百度网盘和百度网盘分享的文件,避免下载文件时调用百度网盘客户端,获取网盘文件的直接下载地址 ╮(✪ω✪)╭解决了我的需求

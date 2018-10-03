@@ -331,7 +331,7 @@ The initial motive of this workflow is to avoid frequent visits to the Activity 
 
 ##### 下载
 
-[下载斗图神器](斗图神器.alfredworkflow)
+[下载斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
 
 ![CmdTap_和_Alfred_Preferences](http://oc98nass3.bkt.clouddn.com/CmdTap_和_Alfred_Preferences.png)
 
