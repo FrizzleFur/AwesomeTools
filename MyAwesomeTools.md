@@ -336,13 +336,15 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 ##### Git
 
-1. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
-2. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-3. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
-4. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
-5. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
-6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
-7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native. Issue tracking made fun on your Mac.
+1. [Tower for mac](https://www.git-tower.com) mac上最好用的Git GUI
+2. [Kaleidoscope](http://xclient.info/s/kaleidoscope.html?t=4264633a70139fdc6a66e422ec0af2d83f35ead3#versions) git 的合并和Diff工具
+3. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
+4. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
+5. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
+6. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
+7. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
+8. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
+9. [Bee](http://www.neat.io/bee/) Simple. Fast. Native. Issue tracking made fun on your Mac.
 
 ##### Xcode 
 
