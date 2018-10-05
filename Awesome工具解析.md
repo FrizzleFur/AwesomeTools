@@ -1588,23 +1588,6 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 教程
 
-
-## Tower for mac
-
-Git 工具
-[Getting Started with Tower - Tower Help](https://www.git-tower.com/help/mac/first-steps/get-started-with-tower)
-
-
-![](http://oc98nass3.bkt.clouddn.com/15385864644984.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864429386.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864283566.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864142362.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385863555970.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385863901342.jpg)
-
-### 设置Diff Tools
-[Diff & Merge Tools - Tower Help](https://www.git-tower.com/help/mac/integration/custom-diff-tools)
-
 ## 1PassWord
 
 [1Password for Mac 使用指南](https://jbguide.me/2014/09/03/1password-35/)

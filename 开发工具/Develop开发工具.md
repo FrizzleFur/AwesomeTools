@@ -131,6 +131,81 @@ Debug模式选择sandbox，Release模式选择push
 开篇说过，我重新上传了p12，但是没用。到这里，其实我应该立即用小米推送再测试一下的，如果能收到，就说明是小米的bug。 但是我傻傻的又生成并上传了p12，然后就收到了，至此，我也不能证明是不是小米偷偷改了bug。
 我做客户端时，不管是因为服务器挂了还是接口数据格式不对导致解析失败，都弹吐司提示“网络连接失败”，反正不说自己错了。只能说，套路深的难免会进入别人的套路中。
 
+### Tower for mac
+
+Git 工具
+[Getting Started with Tower - Tower Help](https://www.git-tower.com/help/mac/first-steps/get-started-with-tower)
+
+
+![](http://oc98nass3.bkt.clouddn.com/15385864644984.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15385864429386.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15385864283566.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15385864142362.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15385863555970.jpg)
+![](http://oc98nass3.bkt.clouddn.com/15385863901342.jpg)
+
+#### 设置Diff Tools
+
+[Diff & Merge Tools - Tower Help](https://www.git-tower.com/help/mac/integration/custom-diff-tools)
+
+create a file named "CompareTools.plist" and put it into "~/Library/Application Support/com.fournova.Tower3/CompareTools/".
+
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" 
+    "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>ApplicationIdentifier</key>
+        <string>com.madebysofa.Kaleidoscope</string>
+        <key>ApplicationName</key>
+        <string>Kaleidoscope</string>
+        <key>DisplayName</key>
+        <string>Kaleidoscope</string>
+        <key>LaunchScript</key>
+        <string>kaleidoscope.sh</string>
+        <key>Identifier</key>
+        <string>kaleidoscope</string>
+        <key>SupportsMergeTool</key>
+        <false/>
+        <key>SupportsDiffChangeset</key>
+        <true/>
+    </dict>
+</array>
+</plist>
+```
+
+
+#### 配置difftool
+
+我找到了配置它的方法。Kaleidoscope菜单下，有一个名为Integration的链接，它打开了几个版本控制解决方案的配置窗口。
+[comparison - Kaleidoscope for git difftool - Super User](https://superuser.com/questions/689853/kaleidoscope-for-git-difftool)
+After installing ksdiff clicking on Configure button will add the following lines to your .gitconfig file.
+
+```
+git config --global diff.tool kaleidoscope
+
+[diff]
+    tool = Kaleidoscope
+[difftool "Kaleidoscope"]
+  cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
+[merge]
+    tool = Kaleidoscope
+[mergetool "Kaleidoscope"]
+  cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
+  trustExitCode = true
+```
+
+then running the following command will open successively each different file
+
+
+```
+git difftool myBranch otherBranch  -y -t Kaleidoscope
+```
+-y stands to avoid prompting for asking if we want to use Kaleidoscope for difftool for each file. Default answer is "yes".
+-t Kaleidoscope is optionnal here as default difftool is already set to Kaleidoscope in our .gitconfig file.
+
 ### Gitsome- Git工具
 
 [Gitsome](https://github.com/donnemartin/gitsome)
