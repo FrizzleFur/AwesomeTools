@@ -24,6 +24,9 @@
  
 ## Aria2
 
+如果没有出现导出到Aria2，请下载`BaiduExporter`
+![](http://oc98nass3.bkt.clouddn.com/15388390581330.jpg)
+
 [itgoyo/Aria2: 支持迅雷、百度云无限制超速下载，另外附带Tampermonkey、Proxyee-down教程。从此云端女友从不断线，有了这个它，忘掉那个她!](https://github.com/itgoyo/Aria2#webui-aria2)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
 ![](http://oc98nass3.bkt.clouddn.com/15343353123639.jpg)
