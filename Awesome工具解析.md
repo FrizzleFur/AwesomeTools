@@ -756,6 +756,10 @@ Mac下有外部模式和文档库模式
 ### Mweb Alfred WorkFlow
 
 [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+![](http://oc98nass3.bkt.clouddn.com/15388743865138.jpg)
+2.打开MWeb偏好设置,复制对应路径到workflow变量中
+![](http://oc98nass3.bkt.clouddn.com/15388744283055.jpg)
+
 
 ### MWeb问题
 
