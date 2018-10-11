@@ -24,6 +24,9 @@
  
 ## Aria2
 
+如果没有出现导出到Aria2，请下载`BaiduExporter`
+![](http://oc98nass3.bkt.clouddn.com/15388390581330.jpg)
+
 [itgoyo/Aria2: 支持迅雷、百度云无限制超速下载，另外附带Tampermonkey、Proxyee-down教程。从此云端女友从不断线，有了这个它，忘掉那个她!](https://github.com/itgoyo/Aria2#webui-aria2)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
 ![](http://oc98nass3.bkt.clouddn.com/15343353123639.jpg)
@@ -753,6 +756,10 @@ Mac下有外部模式和文档库模式
 ### Mweb Alfred WorkFlow
 
 [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+![](http://oc98nass3.bkt.clouddn.com/15388743865138.jpg)
+2.打开MWeb偏好设置,复制对应路径到workflow变量中
+![](http://oc98nass3.bkt.clouddn.com/15388744283055.jpg)
+
 
 ### MWeb问题
 
@@ -1587,23 +1594,6 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 ## Trailer
 
 教程
-
-
-## Tower for mac
-
-Git 工具
-[Getting Started with Tower - Tower Help](https://www.git-tower.com/help/mac/first-steps/get-started-with-tower)
-
-
-![](http://oc98nass3.bkt.clouddn.com/15385864644984.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864429386.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864283566.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864142362.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385863555970.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385863901342.jpg)
-
-### 设置Diff Tools
-[Diff & Merge Tools - Tower Help](https://www.git-tower.com/help/mac/integration/custom-diff-tools)
 
 ## 1PassWord
 
