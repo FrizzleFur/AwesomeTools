@@ -582,6 +582,20 @@ Turn drawings into code with PaintCode ~
 
 16. [Picsew - Screenshot Stitching on the App Store](https://itunes.apple.com/app/id1208145167?ign-mpt=uo%3D4)长图拼接
 
+### JSBox
+
+1. [IPA安装器](https://xteko.com/redir?name=IPA%20Installer&icon=icon_052.png&author=Axel&version=1.0&url=https%3A%2F%2Fraw.githubusercontent.com%2Faxelburks%2FJSBox%2Fmaster%2FIPA%2520Installer.js)
+2. Safari-extensions Safari调试
+3. 快速预览
+4. 10010
+5. [Days Pro](https://xteko.com/redir?name=Days%20Pro&url=https%3A%2F%2Fraw.githubusercontent.com%2FZiGmaX809%2FJsBoxLib%2Fmaster%2FDays_Pro%2FDays%2520Pro.box) 查看倒计时
+6. [Light Scripts](https://xteko.com/install?id=70&lang=zh-Hans)这是一个脚本合辑，可以动态的加载一些别的脚本。此脚本的初衷是动态运行一些「较少用到，但又不可缺少」的小工具，类似「轻脚本」的概念。主要涉及工具一类脚本，请查阅 README.md 获得详细说明。
+
+
+### SiriShortCut
+
+
+
 ### Reading
 
 1. [WeRead](https://weread.qq.com/)    微信读书，腾讯精心打磨的一款社交读书应用，可以听书是很不错的，看来对用户的痛点很熟悉。兑换书币也是发扬了TX一贯的创新方式。
@@ -608,9 +622,10 @@ Turn drawings into code with PaintCode ~
 2. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience)
 3. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
 4. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
-
+5. [Potatso-Legacy](https://github.com/haxpor/Potatso) Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 10+.
 
 #### 修改host翻墙
+
 输入sudo vi /etc/hosts
 它会提示你输入你的管理密码，才能进行下一步。
 之后按下i 才可以编辑文件。
