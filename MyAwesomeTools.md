@@ -588,7 +588,7 @@ Turn drawings into code with PaintCode ~
 2. Safari-extensions Safari调试
 3. 快速预览
 4. 10010
-5. [Days Pro](https://xteko.com/redir?name=Days%20Pro&url=https%3A%2F%2Fraw.githubusercontent.com%2FZiGmaX809%2FJsBoxLib%2Fmaster%2FDays_Pro%2FDays%2520Pro.box) 查看倒计时
+5. [Days Pro](https://jsboxbbs.com/d/373-days-pro/17) 查看倒计时, 现在日期点不进去
 6. [Light Scripts](https://xteko.com/install?id=70&lang=zh-Hans)这是一个脚本合辑，可以动态的加载一些别的脚本。此脚本的初衷是动态运行一些「较少用到，但又不可缺少」的小工具，类似「轻脚本」的概念。主要涉及工具一类脚本，请查阅 README.md 获得详细说明。
 
 
