@@ -1,6 +1,7 @@
 {
   "name" : "AwesomeTools",
   "fileExtension" : ".md",
+  "autoUploadInsertedImageKey" : "SM-https:\/\/sm.ms\/api\/upload\nhttps:\/\/sm.ms\/api\/upload\/\n",
   "autoUploadInsertedImage" : true,
   "folderType" : 10,
   "mediaFloder" : "media",

@@ -770,6 +770,15 @@ A: 检查后发现，上传成功后的url需要添加`http://`协议才行。
 于是我把图床的默认域名添加上`http://`
 ![](http://oc98nass3.bkt.clouddn.com/15383768466706.jpg)
 
+### Mweb图床
+
+
+[MWeb Mac 版和 iOS 版图片及图床使用完全指南 - MWeb](https://zh.mweb.im/how_to_use_images_in_mweb.html)
+
+七牛的图床需要实名验证，小图推荐使用[上传 API 文档 - SM.MS - Simple Free Image Hosting](https://sm.ms/doc/)
+![](https://i.loli.net/2018/10/21/5bcc478a1d2ee.jpg)
+
+
 
 ### 常用快捷键（整理）
 
