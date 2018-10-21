@@ -839,6 +839,22 @@ A: 检查后发现，上传成功后的url需要添加`http://`协议才行。
 * [Mweb使用文档 - MWeb](http://zh.mweb.im/docs.html)
 * [Mweb-iOS使用文档 ](http://zh.mweb.im/introducing-mweb-for-ios.html)
 
+
+## Potatso-Legacy
+
+[Potatso-Legacy](https://github.com/haxpor/Potatso) Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 10+.
+
+注意一个编译问题pod的路径问题:
+[Error installing LibYAML · Issue #104 · haxpor/Potatso](https://github.com/haxpor/Potatso/issues/104)
+
+```
+open /Users/Your Name/.cocoapods/repos/master/Specs/5/b/9/LibYAML/0.1.4/LibYAML.podspec.json
+change the address "http://pyyaml.org/download/libyaml/yaml-0.1.4.tar.gz" to
+"https://pyyaml.org/download/libyaml/yaml-0.1.4.tar.gz"
+
+```
+
+
 ## Reeder
 
 ### Reeder快捷键
