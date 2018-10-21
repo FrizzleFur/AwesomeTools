@@ -90,7 +90,7 @@
 
 13. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
 
-14.  [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
+14. [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
 
 15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 
