@@ -74,6 +74,20 @@ ShadowsocksR (R)：http://omgib13x8.bkt.clouddn.com/ssr-win.7z
 
 同时，可以在脚本中对节点进行删除、重命名和设置为特殊代理操作，需要根据个人需求操作，自行尝试即可。
 
+
+## Shadowsocks免费账号 
+
+1. [Shadowsocks免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+* [freeSS](https://get.ss8.fun/)
+
+打开[portfolio-preview](https://ss.freess.org/#portfolio-preview) ,然后你会看到这个界面
+
+随便点一个地址,然后会弹出个二维码，像下面这样，注意右上角，点那个纸飞机，找到那个从屏幕上扫描二维码，注意要选那个**自动代理模式**，windows 的就选 **系统代理模式**
+
+![](http://oc98nass3.bkt.clouddn.com/15343299529861.jpg)
+ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
+* [freeSS](https://get.ss8.fun/)
+
 ## 参考
 
 1. [Overview · Surge Manual](https://manual.nssurge.com/) 官方文档
