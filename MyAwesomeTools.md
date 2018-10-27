@@ -59,11 +59,12 @@
 ![](http://oc98nass3.bkt.clouddn.com/15302609850440.jpg)
 10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 可以直接使用Dash的设置集成
 ![](http://oc98nass3.bkt.clouddn.com/15303347565431.jpg)
-11. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
-12. [Github Search](http://www.packal.org/workflow/github-search) Search Github
-13. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
-14. [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
-15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+1. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
+2. [Github Search](http://www.packal.org/workflow/github-search) Search Github
+3. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
+4. [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
+5. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
+6. [TKkk-iOSer/wechat-alfred-workflow: wechat workflow for Alfred：微信快速发送消息 & 打开聊天窗口 & 查看聊天记录 & more…](https://github.com/TKkk-iOSer/wechat-alfred-workflow)
 
 
 ## Mac
@@ -311,13 +312,15 @@ Turn drawings into code with PaintCode ~
 ### Email
 
 1. [Spark](https://sparkmailapp.com/)  Beautiful & Intelligent Email App
-
 2. [Shift - The Best Desktop Email Client for Gmail and Outlook.com](https://tryshift.com/) Shift Switch between Gmail accounts like a boss.
 3. [Kiwiforgmail](https://www.kiwiforgmail.com/index.php)
-
 4. [Boxy](https://itunes.apple.com/cn/app/boxy.-inbox-by-gmail-email/id1053031090?mt=12) Inbox For mac
-
 5. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
+
+### IM
+
+1. [TKkk-iOSer/WeChatPlugin-MacOS: 一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
+2. [TKkk-iOSer/QQPlugin-macOS: mac OS版 QQ 小助手, 功能: 消息防撤回 & 自动回复 & alfred扩展](https://github.com/TKkk-iOSer/QQPlugin-macOS)
 
 
 ### Writing
