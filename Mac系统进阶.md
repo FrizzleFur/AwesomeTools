@@ -33,6 +33,44 @@
 使用[GhostTile – 隐藏 Dock 中不想看见的图标 - 数码荔枝](https://www.lizhi.io/review/72551612)
 
 
+### 设置文件默认打开App
+
+第二步，找到打开方式的标签，点击当下默认打开的程序就可以看到所有可以打开此类型文件的所有程序。
+
+![](https://upload-images.jianshu.io/upload_images/4832020-dec1429ae4d29314.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+
+第三步，选择你理想的应用，然后点击“全部修改”。
+
+![](https://upload-images.jianshu.io/upload_images/4832020-e03901b2fa086075.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/790/format/webp)
+
+通过以上的修改，刚刚我们就可以把所有MP4类型的文件都使用射手影音打开了。
+
+### 统计该目录下所有文件的占用
+
+打开终端，键入`sudo du -sh *`，按下回车后系统就会自动统计该目录下所有文件的占用情况，一般等待一两分钟后就能得到结果了。
+
+### 迁移助理
+
+使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
+[如何将内容移至新 Mac - Apple 支持](https://support.apple.com/zh-cn/ht204350)
+使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
+![](http://oc98nass3.bkt.clouddn.com/15305817383130.jpg)
+
+
+### 一个好用的信息黏贴Flow
+`2017-04-01`
+
+#### 需要工具： 
+
+1. [Paste](http://pasteapp.me/)
+2. `Chrome` && `Vimium`
+
+#### Flow
+
+* 使用[Paste](http://pasteapp.me/)将常用的网址分好类，
+* 使用快捷键调用`Cmd+Shift+V`调用起[Paste](http://pasteapp.me/)，选择需要访问的url。
+* 然后切换到`Chrome`，调用`Vimium`快捷键`P`在新的页面中打开目标url。
+
 
 ## Mac快捷键
 
@@ -134,41 +172,15 @@
 | _按住 Option 键点按开合三角_ | 打开所选文件夹内的所有文件夹。这个快捷键仅在列表视图中有效。 |
 | _按住 Command 键点按窗口标题_ |
 
-## Xcode
+## 问题
 
-### Xcode链接iphone一直闪断
+1. xxx已损坏，打不开。你应该将它移到废纸篓。
 
-![](http://oc98nass3.bkt.clouddn.com/15326666022413.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15326666332024.jpg)
-
-发现一个Xcode链接iphone一直闪断的问题，提示说软件下载更新才能连接，但是下载失败，还以为是数据线接触不良或者是Xcode版本不支持，后来发现开启省电模式就可以了。
-[A software update is required to connect to your iOS device / iPhone - Ask Different](https://apple.stackexchange.com/questions/327310/a-software-update-is-required-to-connect-to-your-ios-device-iphone)
+修改系统配置：系统偏好设置... -> 安全性与隐私。修改为任何来源
+如果没有这个选项的话 （macOS Sierra 10.12） ,打开终端，执行 
 
 ```
-The problem can be fixed by installing XCode beta.
-This error occurs when the version of macOS (and iTunes) running on the computer is not compatible with the version of iOS on the device you're trying to connect.
-
-Normally, updating the macOS to its current version will solve the problem. However, this won't work if the iOS device is running a newer beta version, and the Mac is not.
-```
-
-
-#### 关于使用Clang(LLVM)将OC文件转为C/C++文件报错的问题
-
-```objc
-
-main.m:9:9: fatal error: 'UIKit/UIKit.h' file not found
-#import <UIKit/UIKit.h>
-    ^
-1 error generated.
-```
-
-```objc
-clang -x objective-c -rewrite-objc -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk xxx.m
-
-//__weak修饰变量，需要告知编译器使用ARC环境及版本号否则会报错，添加说明
--fobjc-arc -fobjc-runtime=ios-8.0.0
-
-xcrun -sdk iphoneos clang -arch arm64 -rewrite-objc -fobjc-arc -fobjc-runtime=ios-8.0.0 main.m
+sudo spctl --master-disable
 ```
 
 ### 下载软件
