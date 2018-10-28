@@ -34,6 +34,12 @@
 3. [2018 iPad review: Drawn on an iPad! And edited, composed, and designed... - YouTube](2018 iPad review: Drawn on an iPad! And edited, composed, and designed... - YouTube)
 4. [iPhone, iPad, Mac Buyer's Guide: Know When to Buy](https://buyersguide.macrumors.com/)
 
+#### Tool Shop
+
+1. [首页-数码荔枝正版软件-淘宝网](https://digitalychee.taobao.com/)
+2. [翻页软件商城（Turnpage.com）- 用正版 更安全](https://www.turnpage.com/)
+
+
 #### Pool 资源
 
 1. [电驴](http://www.verycd.com/)电驴，分布式的文件基于点对点原理传输，集成ed2k协议，配合Thuder下载快的飞起，注意，资源链接，在"www.verycd."后插入"gdajie"就可获取
@@ -66,17 +72,20 @@
 5. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 6. [TKkk-iOSer/wechat-alfred-workflow: wechat workflow for Alfred：微信快速发送消息 & 打开聊天窗口 & 查看聊天记录 & more…](https://github.com/TKkk-iOSer/wechat-alfred-workflow)
 7. [QQPlugin-macOS/QQ Plugin.alfredworkflow at master · TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS/blob/master/Other/QQ%20Plugin.alfredworkflow)
+8. [Hide Desktop | Packal](http://www.packal.org/workflow/hide-desktop)隐藏桌面文件
+9. [AlfredWorkflow-Recent-Documents/README_CN.md at master · mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents/blob/master/README_CN.md)解决了我反复查看最近打开文档的需求~nice
 
 
 ## Mac
 
 ### Mac Helper
 
-1. [Alfred](https://www.alfredapp.com/) 给你另一种Mac~
-2. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
-3. [Evernote](https://evernote.com/intl/zh-cn/) Notes Platform
-4. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
-5. [GhostTile – 隐藏 Dock 中不想看见的图标 - 数码荔枝](https://www.lizhi.io/review/72551612)
+1. [Alfred](https://www.alfredapp.com/) Mac搜索,工作流神器
+2. [KELiON/cerebro: Open-source productivity booster with a brain](https://github.com/KELiON/cerebro)Open-source productivity booster with a brain,类似Alfred
+3. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
+4. [Evernote](https://evernote.com/intl/zh-cn/) Notes Platform
+5. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
+6. [GhostTile – 隐藏 Dock 中不想看见的图标 - 数码荔枝](https://www.lizhi.io/review/72551612)
 
 #### 系统
 
@@ -425,36 +434,20 @@ Turn drawings into code with PaintCode ~
     - 1.1 [计算到达时间](https://workflow.is/workflows/d5a58dfbea024811ae39b69e1cc9ace0)
     - 1.2 [网页转MarkDown](https://workflow.is/workflows/a4b12846564a400d970574916770f57e)
     - 1.3 [AppStore 地区切换](https://workflow.is/workflows/c0159db5a2f84595bad0fbe88b376834)
-
-2. [IFTTT](https://ifttt.com/discover) 条件触发交给我！
-
-3. [涂手](http://www.toshow.com/) 
-
-4. [MOZE](https://www.mozeapp.com/) 挺好用记账App,作者很用心
-
+2. [IFTTT](https://ifttt.com/discover) 条件触发case交给它就行
+3. [涂手](http://www.toshow.com/) 涂鸦什么的最喜欢了
+4. [MOZE](https://www.mozeapp.com/) 国产记账App, 台湾的，作者很用心
 5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 拯救复制黏贴的手指 = = 
-
 6. [Life Cycle](https://itunes.apple.com/us/app/life-cycle-track-your-time-automatically/id1064955217?mt=8) 记录你的时间花销
-
 7. [LauchCenterPro](https://itunes.apple.com/us/app/launch-center-pro-shortcut-launcher-workflows/id532016360?mt=8) 解决App太多的问题
-
-8. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 作者开发的过程方法值得学习
-
-9. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)[Shadowrocket-2.1.2
-](https://xuexi.hinwen.com/thread-14695-1-1.html)
-
+8. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 独立开发的随记App,作者开发App的过程值得学习
+9. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)[Shadowrocket-2.1.2](https://xuexi.hinwen.com/thread-14695-1-1.html)
 10. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) Habit Manager
-
 11. [NaturalReader](https://www.naturalreaders.com/) “懒人听书”——Save your eyes
-
 12. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
-
 13. [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) OCR文字识别与翻译工具 开发者：Xinle Tao
-
 14. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
-
 15. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
-
 16. [Picsew - Screenshot Stitching on the App Store](https://itunes.apple.com/app/id1208145167?ign-mpt=uo%3D4)长图拼接
 
 ### JSBox
@@ -561,6 +554,7 @@ hosts文件可以到github或者百度上找
 7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
 8. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://oc98nass3.bkt.clouddn.com/15076239784340.jpg)
+9. [Kyle-Kyle/baidudl: Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned](https://github.com/Kyle-Kyle/baidudl)百度云直链下载
 
 #### RSS Read
 
