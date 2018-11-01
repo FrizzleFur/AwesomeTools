@@ -69,6 +69,55 @@ property (nonatomic, <#type#>) <#className#> *propertyName;/**< <#remark#> */
 
 4. [trawor/XToDo: Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`](https://github.com/trawor/XToDo)
 
+### XCode9 安装 alcatraz
+XCode8以后，Apple修改了XCode插件签名规则，要使用alcatraz需要update_xcode_plugins进行一次unsign操作。
+
+步骤如下：
+
+#### alcatraz
+
+1.  删除alcatraz
+
+```
+rm -rf ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin
+rm -rf ~/Library/Application\ Support/Alcatraz/
+
+```
+
+1.  安装alcatraz
+
+```
+curl -fsSL https://raw.github.com/supermarin/Alcatraz/master/Scripts/install.sh | sh
+
+```
+
+#### update_xcode_plugins
+
+```
+sudo gem install -n /usr/local/bin update_xcode_plugins
+
+```
+
+```
+ update_xcode_plugins
+
+```
+
+```
+update_xcode_plugins --unsign
+
+```
+
+遇到y/n，选择y
+
+```
+update_xcode_plugins --install-launch-agent
+
+```
+提示是否加载plugin，选择load bundles
+提示签名，输入系统密码即可。
+正常的话，能够看到package manager了
+
 
 
 ## Xocde辅助工具

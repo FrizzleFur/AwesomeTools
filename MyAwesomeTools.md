@@ -246,6 +246,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 #### GIF
 
 51. [Convertio](https://convertio.co/zh/mp4-gif/) Mp4转gif
+52. [GIF Brewery 3](http://gifbrewery.com/)
 
 #### Fun
 
