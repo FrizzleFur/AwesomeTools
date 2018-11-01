@@ -935,7 +935,6 @@ ps:刚安装好，拼音输入是繁体的，在终端 Iterm 按组合键 Ctrl+`
 [和我们一起学双拼，码字再快一点 - 少数派](https://sspai.com/post/40883)
 
 
-
 ## ShadowSocket
 
 打开[portfolio-preview](https://ss.freess.org/#portfolio-preview) ,然后你会看到这个界面
