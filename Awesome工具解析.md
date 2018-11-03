@@ -24,6 +24,9 @@
  
 ## Aria2
 
+> aria2 is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP,BitTorrent and Metalink. aria2 can be manipulated via built-inJSON-RPC and XML-RPC interfaces.
+> (Aria2是一个命令行下轻量级、多协议、多来源的下载工具（支持 HTTP/HTTPS、FTP、BitTorrent、Metalink），内建 XML-RPC 和 JSON-RPC 用户界面。)
+
 如果没有出现导出到Aria2，请下载`BaiduExporter`
 ![](http://oc98nass3.bkt.clouddn.com/15388390581330.jpg)
 
@@ -83,6 +86,43 @@
 ![step2](http://oc98nass3.bkt.clouddn.com/15233769336959.jpg)
 
 当然浏览器重启后也会reset插件的下载路径 。。。
+
+###  启动 RPC 模式
+
+在终端输入aria2c --conf-path="/Users/xxxxxx/.aria2/aria2.conf" -D，然后 aria2 就启动了.
+
+如果是用Aria2GUI的App就这么配置，就无需启动App了
+```
+aria2c --conf-path="/Applications/Aria2GUI.app/Contents/Resources/aria2.conf" -D
+```
+
+如果你想关掉后台的 aria2，可以到活动监视器中找到 aria2c 杀掉，也可以在终端输入kill aria2之后按 Tab 键，aria2 会自动变成进程号，回车即可杀掉它。
+
+
+## AriaNg
+
+AriaNg：aria2的 Chrome插件
+
+[mayswind/AriaNg: AriaNg, a modern web frontend making aria2 easier to use.](https://github.com/mayswind/AriaNg)
+
+## Web查看下载进度
+
+[active: ⌛ - waiting: ⌛ - stopped: ⌛ — Aria2 WebUI](https://ziahamza.github.io/webui-aria2/)
+设置如下
+
+
+### 加快Aria2下载
+
+* 同一服务器连接数 设置为 16 （最高）
+* 单个任务最大线程数 默认是5，可以改成10（或更高）
+
+如果线程数不够，可以在设置中添加线程数量，
+
+### 其他下载
+
+1. [binux/ThunderLixianExporter: export thunder lixian url to aria2/wget](https://github.com/binux/ThunderLixianExporter)
+
+将迅雷离线地址导出成aria2/wget等下载命令，方便Linux/Mac用户使用，需要拥有迅雷会员帐号
 
 ### axel
 
@@ -667,6 +707,32 @@ osascript /path/to/scpt/bgImgIterm.scpt
 1. [Features - iTerm2 - macOS Terminal Replacement](https://iterm2.com/features.html)
 2. [MAC上iTerm 2安装与使用 - 掘金](https://juejin.im/post/5a815edd5188251c85636034)
 3. [iTerm2 指南 | 小土刀](https://wdxtub.com/2016/03/20/iterm2-guide/)
+ 
+### LastPass
+
+LastPass 是管理密码的工具，支持二次验证，提供所有浏览器插件以及 Mac 桌面版本。
+
+最重要的是，它提供 命令行 的版本，可以直接通过 brew 安装
+
+
+```
+brew install lastpass-cli --with-pinentry
+
+```
+之后，只需要登陆：
+
+
+```
+lpass login you@email.com
+
+```
+就可以拷贝密码或者集成到其他命令中了：
+
+
+```
+lpass show --password gmail.com -c
+```
+ 
  
 ## LaunchCenterPro
 
