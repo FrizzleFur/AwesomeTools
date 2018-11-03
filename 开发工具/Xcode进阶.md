@@ -3,14 +3,18 @@
 ### 代码段 Snippet
 
 * My Frame
+
 ```objc
+
 frame = CGRectMake(<#CGFloat x#>, <#CGFloat y#>, <#CGFloat width#>, <#CGFloat height#>);
 ```
 ![](https://oc98nass3.bkt.clouddn.com/15376704555901.jpg)
 
 
 * My Lines Remark
+
 ```objc
+
 /**
  * <#remark#>
  *
@@ -22,16 +26,21 @@ frame = CGRectMake(<#CGFloat x#>, <#CGFloat y#>, <#CGFloat width#>, <#CGFloat he
 ![](oc98nass3.bkt.clouddn.com/15376705248064.jpg)
 
 * My Property
+
 ```objc
 property (nonatomic, <#type#>) <#className#> *propertyName;/**< <#remark#> */
-```
-![](oc98nass3.bkt.clouddn.com/15376705349709.jpg)
 
+```
+
+****
+
+![](oc98nass3.bkt.clouddn.com/15376705349709.jpg)
 
 * My Remark
 
-```objc
+```
 /** <#remark#> */
+
 ```
 
 ![](oc98nass3.bkt.clouddn.com/15376706918514.jpg)
@@ -96,7 +105,61 @@ The rest of the jump bar consists of heierarchial navigation with each level giv
 
 4. [trawor/XToDo: Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`](https://github.com/trawor/XToDo)
 
+
+
+### XCode9 安装 alcatraz
+XCode8以后，Apple修改了XCode插件签名规则，要使用alcatraz需要update_xcode_plugins进行一次unsign操作。
+
+步骤如下：
+
+#### alcatraz
+
+1.  删除alcatraz
+
+```
+rm -rf ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/Alcatraz.xcplugin
+rm -rf ~/Library/Application\ Support/Alcatraz/
+
+```
+
+1.  安装alcatraz
+
+```
+curl -fsSL https://raw.github.com/supermarin/Alcatraz/master/Scripts/install.sh | sh
+
+```
+
+#### update_xcode_plugins
+
+```
+sudo gem install -n /usr/local/bin update_xcode_plugins
+
+```
+
+```
+ update_xcode_plugins
+
+```
+
+```
+update_xcode_plugins --unsign
+
+```
+
+遇到y/n，选择y
+
+```
+update_xcode_plugins --install-launch-agent
+
+```
+提示是否加载plugin，选择load bundles
+提示签名，输入系统密码即可。
+正常的话，能够看到package manager了
+
+
+
 ## Xcode辅助工具
+
 
 * [youssman/awesome-xcode-plugins: Awesome Xcode plugins to rocket your productivity :)](https://github.com/youssman/awesome-xcode-plugins)
 * [List of 8 Best Xcode Developer Tools (2018 Edition)](https://www.flexihub.com/xcode-developer-tools/)
