@@ -199,6 +199,17 @@ Injection
 [liubobo/automation: code generator](https://github.com/liubobo/automation)
 
 
+### 代码片段
+
+`code snippets`坐标位于Xcode整个界面的右下角,也可以通过快捷键`cmd + ctrl + opt + 2`调用.
+
+#### OC
+
+#### Swift
+
+[burczyk/XcodeSwiftSnippets: Swift 4 code snippets for Xcode](https://github.com/burczyk/XcodeSwiftSnippets)
+
+
 ## 问题
 
 ### Xcode链接iphone一直闪断
