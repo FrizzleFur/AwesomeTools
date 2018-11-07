@@ -60,6 +60,7 @@ property (nonatomic, <#type#>) <#className#> *propertyName;/**< <#remark#> */
 ![](oc98nass3.bkt.clouddn.com/15376703183349.jpg)
 
 * 显示注释 `Cmd + Option + /`
+* 
 #### 1. Open Quickly
 
 相信大家都熟悉 `⌘ + ⌥ + O` ，但是你知道怎么在辅助编辑器中打开吗？按住`Alt + Enter`， enjoy~
@@ -95,6 +96,15 @@ The rest of the jump bar consists of heierarchial navigation with each level giv
 
 ## Xcode插件
 
+### 插件路径
+
+
+```
+ ~/Library/Application\ Support/Developer/Shared/Xcode/Plug-ins/
+```
+
+### 常用插件
+
 1. 自动补全 [HHEnumeration-Xcode ](https://github.com/youssman/awesome-xcode-plugins)
 [molon/MLAutoReplace: Xcode plugin which help you write code faster.](https://github.com/molon/MLAutoReplace)
 2. XAlign
@@ -108,6 +118,7 @@ The rest of the jump bar consists of heierarchial navigation with each level giv
 
 
 ### XCode9 安装 alcatraz
+
 XCode8以后，Apple修改了XCode插件签名规则，要使用alcatraz需要update_xcode_plugins进行一次unsign操作。
 
 步骤如下：
@@ -231,6 +242,12 @@ Normally, updating the macOS to its current version will solve the problem. Howe
 
 
 ⌘⌥⌃+J.
+
+
+##  Xcode 编辑iOS版本支持
+
+1. [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
+2. [Yatko/iOS-device-support-files: iOS 12 not supported by Xcode 9.4 : Could not locate device support files](https://github.com/Yatko/iOS-device-support-files)
 
 ## 参考
 

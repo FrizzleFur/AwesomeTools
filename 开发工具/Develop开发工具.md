@@ -7,10 +7,14 @@
 
 ### JSON
 
+* [Quicktype](https://app.quicktype.io/) // 在线生成属性代码
+![](https://i.loli.net/2018/11/02/5bdbea2317a77.jpg)
+
 * [TextLab 1.3.9 代码格式转换工具 程序员必备 - 精品MAC应用分享](http://xclient.info/s/textlab.html?t=7ef276e7445d80b7e0214ef8ad6408fb8bb1743a#versions)
 
 * [JSON Wizard 1.3 JSON数据查看编辑工具 - 精品MAC应用分享](http://xclient.info/s/json-wizard.html?t=7ef276e7445d80b7e0214ef8ad6408fb8bb1743a#versions)
 * [jsonEditorOnline](https://jsoneditoronline.org/)
+
 
 ### Debug
 

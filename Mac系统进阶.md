@@ -338,3 +338,4 @@ sudo spctl --master-enable
 ## 参考
 
 1. [MAC 如何隐藏dock栏上你不想看见的图标 - CSDN博客](https://blog.csdn.net/FungLeo/article/details/52262315)
+2. [MAC OS怎样将普通成员改为管理员？ - 知乎](https://www.zhihu.com/question/30071627)
