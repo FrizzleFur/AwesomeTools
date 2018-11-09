@@ -99,24 +99,27 @@ aria2c --conf-path="/Applications/Aria2GUI.app/Contents/Resources/aria2.conf" -D
 如果你想关掉后台的 aria2，可以到活动监视器中找到 aria2c 杀掉，也可以在终端输入kill aria2之后按 Tab 键，aria2 会自动变成进程号，回车即可杀掉它。
 
 
-## AriaNg
-
-AriaNg：aria2的 Chrome插件
-
-[mayswind/AriaNg: AriaNg, a modern web frontend making aria2 easier to use.](https://github.com/mayswind/AriaNg)
-
-## Web查看下载进度
-
-[active: ⌛ - waiting: ⌛ - stopped: ⌛ — Aria2 WebUI](https://ziahamza.github.io/webui-aria2/)
-设置如下
-
-
 ### 加快Aria2下载
 
+配置路径：
+
+```
+/Applications/Aria2GUI.app/Contents/Resources/aria2.conf
+```
 * 同一服务器连接数 设置为 16 （最高）
 * 单个任务最大线程数 默认是5，可以改成10（或更高）
 
 如果线程数不够，可以在设置中添加线程数量，
+
+
+### Aria2 On Web
+
+[active: ⌛ - waiting: ⌛ - stopped: ⌛ — Aria2 WebUI](https://ziahamza.github.io/webui-aria2/)
+设置如下
+
+#### AriaNg：aria2的 Chrome插件
+
+[mayswind/AriaNg: AriaNg, a modern web frontend making aria2 easier to use.](https://github.com/mayswind/AriaNg)
 
 ### 其他下载
 
