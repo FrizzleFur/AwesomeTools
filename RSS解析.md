@@ -244,6 +244,7 @@ $ docker cp fever [[CONTAINER ID]]:/var/www/plugins
 2.  要运行 `git` 命令，你的主机需要先安装 `git`；如果运行时提示未安装，请使用 `apt-get git -all` 命令来安装。 [↩︎](http://cyhsu.xyz/2017/10/16/use-ttrss-to-build-a-self-hosted-rss-service/#fnref2)
 
 3.  遗憾的是，Fever 也在去年圣诞节前夜[跑路](https://shauninman.com/archive/2016/12/24/goodbye_mint_goodbye_fever)了，这也是它没有成为本文主角的原因。 [↩︎](http://cyhsu.xyz/2017/10/16/use-ttrss-to-build-a-self-hosted-rss-service/#fnref3)
+
 ## 参考
 
 1. [用 Tiny Tiny RSS 自建 RSS 服务 · Neverland](http://cyhsu.xyz/2017/10/16/use-ttrss-to-build-a-self-hosted-rss-service/)
