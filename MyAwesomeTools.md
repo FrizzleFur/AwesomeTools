@@ -439,17 +439,18 @@ Turn drawings into code with PaintCode ~
 3. [涂手](http://www.toshow.com/) 涂鸦什么的最喜欢了
 4. [MOZE](https://www.mozeapp.com/) 国产记账App, 台湾的，作者很用心
 5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 拯救复制黏贴的手指 = = 
-6. [Life Cycle](https://itunes.apple.com/us/app/life-cycle-track-your-time-automatically/id1064955217?mt=8) 记录你的时间花销
-7. [LauchCenterPro](https://itunes.apple.com/us/app/launch-center-pro-shortcut-launcher-workflows/id532016360?mt=8) 解决App太多的问题
-8. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 独立开发的随记App,作者开发App的过程值得学习
-9. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)[Shadowrocket-2.1.2](https://xuexi.hinwen.com/thread-14695-1-1.html)
-10. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) Habit Manager
-11. [NaturalReader](https://www.naturalreaders.com/) “懒人听书”——Save your eyes
-12. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
-13. [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) OCR文字识别与翻译工具 开发者：Xinle Tao
-14. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
-15. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
-16. [Picsew - Screenshot Stitching on the App Store](https://itunes.apple.com/app/id1208145167?ign-mpt=uo%3D4)长图拼接
+6. [Send Anywhere - File transfer](https://send-anywhere.com/)传送到任何地方
+7. [Life Cycle](https://itunes.apple.com/us/app/life-cycle-track-your-time-automatically/id1064955217?mt=8) 记录你的时间花销
+8. [LauchCenterPro](https://itunes.apple.com/us/app/launch-center-pro-shortcut-launcher-workflows/id532016360?mt=8) 解决App太多的问题
+9. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 独立开发的随记App,作者开发App的过程值得学习
+10. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)[Shadowrocket-2.1.2](https://xuexi.hinwen.com/thread-14695-1-1.html)
+11. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) Habit Manager
+12. [NaturalReader](https://www.naturalreaders.com/) “懒人听书”——Save your eyes
+13. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
+14. [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) OCR文字识别与翻译工具 开发者：Xinle Tao
+15. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
+16. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
+17. [Picsew - Screenshot Stitching on the App Store](https://itunes.apple.com/app/id1208145167?ign-mpt=uo%3D4)长图拼接
 
 ### JSBox
 
@@ -463,6 +464,11 @@ Turn drawings into code with PaintCode ~
 
 ### SiriShortCut
 
+1. [捷径库备份](https://www.icloud.com/shortcuts/f13fc46f57de4ba8b681d2c7c682d618))
+2. [九宫格切图](https://www.icloud.com/shortcuts/2ac3c29a89d34a9db2b0054377da60ba))
+3. [连续删除最近照片](https://www.icloud.com/shortcuts/5a24acead7b94350bfc754377c48fc6f)
+4. [心率报告](https://www.icloud.com/shortcuts/fc59a35a88e342968d26f6155f902ec1)
+5. [工作总结](https://www.icloud.com/shortcuts/b06151cb72ba4d2fbe069422fe1c7301)
 
 
 ### Reading

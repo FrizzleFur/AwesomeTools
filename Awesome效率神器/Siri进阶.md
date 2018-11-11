@@ -1,7 +1,19 @@
+## Siri进阶
+
+
+> 知识点：
+> 1.  操作：文本（Text）
+> 2.  操作：拷贝至剪贴板（Copy to Clipboard）
+> 3.  操作：打开应用（Open App）
+> 4.  操作：URL
+> 5.  操作：打开 URL（Open URLs）1
+> 6.  捷径知识点：「打开应用」和通过 URL Schemes 打开的区别
+> 7.  捷径知识点：快速输入栏——剪贴板（Clipboard）
+> 8.  捷径知识点：在通知中心小组件中运行捷径
+
 # Siri使用
 
 siri在iPhone上很方便的功能。
-
 
 ### 用 Siri 打开App的通知设置
 
@@ -25,6 +37,17 @@ siri在iPhone上很方便的功能。
 ## Siri ShortCuts
 
 iOS12发布了Siri ShortCuts
+
+### Shortcuts Gallery
+
+[Shortcuts Gallery - 少数派](https://shortcuts.sspai.com/)
+
+
+### 自启动Siri
+
+[如何给捷径添加自动运行请求 - 少数派](https://sspai.com/post/47630)
+
+
 
 ## 参考
 
