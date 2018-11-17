@@ -255,6 +255,30 @@ Normally, updating the macOS to its current version will solve the problem. Howe
 ⌘⌥⌃+J.
 
 
+
+
+##  xcode启动模拟器无限等待中
+
+[iOS 11][Xcode 9] launch, install, start hangs Simulator #209
+
+```
+Due to quirks (most likely Simulator bugs) in the Simulator launching on both Xcode 8 and 9, there is no common code to have it launch successfully on both Xcodes. Through experimenting, I have found these to be most reliable:
+
+Xcode 9:
+
+killall Simulator
+xcrun simctl boot <device_id>
+open `xcode-select -p`/Applications/Simulator.app
+Xcode 8:
+
+killall Simulator
+xcrun simctl shutdown booted
+xcrun instruments -w <device_id>
+
+```
+
+[[iOS 11][Xcode 9] launch, install, start hangs Simulator · Issue #209 · ios-control/ios-sim](https://github.com/ios-control/ios-sim/issues/209)
+
 ##  Xcode 编辑iOS版本支持
 
 1. [iOS-DeviceSupport](https://github.com/iGhibli/iOS-DeviceSupport)
