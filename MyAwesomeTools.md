@@ -227,6 +227,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 4. [Sipapp](https://sipapp.io/) 取色神器
 5. [iconKit](http://xclient.info/s/iconkit.html?t=357608aacf0fa86424ca5ff22b0dc4b16931d34b) iconKit提供了生成不同尺寸的icon和LaunchImage的功能，可以选择直接导出为images.assets文件，拖到项目里就可以用。图片
 6. [ImageOptim - Mac 上最佳的图片优化无损压缩 APP 应用神器](https://imageoptim.com/howto.html)
+7. [AppCode 2018 Mac破解版下载 - AppCode 2018 for Mac - AppCode 2018.dmg下载 - AppCode 2018：Mac系统上Objective-C的集成开发环境- 知您网(zhinin.com)](https://www.zhinin.com/appcode_2018-mac.html)
 
 ##### Code helper
 

@@ -22,6 +22,27 @@
 
 详情请查看 [Alfred教程](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/Alfred%E6%95%99%E7%A8%8B.md)
  
+## AppCode
+ 
+ [AppCode 2018 Mac破解版下载 - AppCode 2018 for Mac - AppCode 2018.dmg下载 - AppCode 2018：Mac系统上Objective-C的集成开发环境- 知您网(zhinin.com)](https://www.zhinin.com/appcode_2018-mac.html)
+![](https://i.loli.net/2018/11/22/5bf62f8f5d9a0.jpg)
+
+ 1、下载完“AppCode.dmg”安装包后，首先将“AppCode”拖至电脑应用程序文件夹进行安装；
+2、在访达中选择“前往文件夹”，如下图：
+![AppCode 2018 Mac Objective-C集成开发环境 <span style='color:#ff0000;'>v2018.2.5(OC-182.5107.23)</span>的图片](https://www.zhinin.com/wp-content/uploads/2018/05/20180509000954_66533.jpg)
+3、随后输入“/etc/”，点击“前往”；接着将“hosts”复制到桌面；
+4、打开hosts文件，将“0.0.0.0 account.jetbrains.com”复制到“hosts”文件中，保存好内容，如下图：
+![AppCode 2018 Mac Objective-C集成开发环境 <span style='color:#ff0000;'>v2018.2.5(OC-182.5107.23)</span>的图片](https://www.zhinin.com/wp-content/uploads/2018/05/20180509001012_74988.jpg)
+5、随后将保存好的“hosts”文件拖拽至“etc”文件夹中，点击“替换”，按其提示操作即可；
+6、在电脑应用程序中打开“AppCode”，在随后界面中选择：“勾选”Do not import settings--->“点击”OK；
+7、选择“1”Activate--->”2”Activation code，这时可以看到“AppCode for Mac”未破解成功，点击“Exit”如下图：
+![AppCode 2018 Mac Objective-C集成开发环境 <span style='color:#ff0000;'>v2018.2.5(OC-182.5107.23)</span>的图片](https://www.zhinin.com/wp-content/uploads/2018/05/20180509001024_12829.jpg)
+8、回到“AppCode” for Mac软件镜像界面，打开文件“Serial”，将注册码复制至“Activation Code”中，然后点击“OK”，完成注册！
+9、重新运行[JetBrains](https://www.zhinin.com/tag/jetbrains) AppCode for Mac，已破解成功！需要注意的是AppCode 2018注册码有效期至2019年9月25日为止！
+
+
+
+ 
 ## Aria2
 
 > aria2 is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP,BitTorrent and Metalink. aria2 can be manipulated via built-inJSON-RPC and XML-RPC interfaces.

@@ -255,7 +255,24 @@ Normally, updating the macOS to its current version will solve the problem. Howe
 ⌘⌥⌃+J.
 
 
+## xcode 打开工程就崩溃意外退出
 
+有时候因为个人项目配置问题，打开就崩溃
+
+第一步 找到工程文件
+
+![](https://i.loli.net/2018/11/22/5bf631023dab8.jpg)
+
+第二步，找到project.xcworkspace文件
+
+![](https://i.loli.net/2018/11/22/5bf631062e62b.jpg)
+
+第三步： 删除xcuserdata文件夹中的一些个人配置
+
+![](https://i.loli.net/2018/11/22/5bf631a652170.jpg)
+
+我这边是打开了很多tab崩溃，删除的是`UserInterfaceState.xcuserstate`即可
+![](https://i.loli.net/2018/11/22/5bf631f369dc2.jpg)
 
 ##  xcode启动模拟器无限等待中
 
@@ -278,6 +295,9 @@ xcrun instruments -w <device_id>
 ```
 
 [[iOS 11][Xcode 9] launch, install, start hangs Simulator · Issue #209 · ios-control/ios-sim](https://github.com/ios-control/ios-sim/issues/209)
+
+
+
 
 ##  Xcode 编辑iOS版本支持
 
