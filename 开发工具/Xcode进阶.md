@@ -255,6 +255,17 @@ Normally, updating the macOS to its current version will solve the problem. Howe
 ⌘⌥⌃+J.
 
 
+## xcode 10, Command CodeSign failed with a nonzero exit code
+
+[ios - xcode 10, Command CodeSign failed with a nonzero exit code - Stack Overflow](ios - xcode 10, Command CodeSign failed with a nonzero exit code - Stack Overflow)
+```
+Open keychain access.
+Lock the 'login' keychain.
+Unlock it, enter your PC account password.
+Clean and Build project
+
+```
+
 ## xcode 打开工程就崩溃意外退出
 
 有时候因为个人项目配置问题，打开就崩溃

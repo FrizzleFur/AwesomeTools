@@ -1,5 +1,10 @@
 # VPN翻墙教程
 
+## Mac客户端
+
+[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
+
+
 ## Surge网络请求过滤神器
 
 ## 配置
