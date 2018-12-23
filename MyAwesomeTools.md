@@ -630,7 +630,7 @@ hosts文件可以到github或者百度上找
 7. [论坛网盘链接免密提取](https://greasyfork.org/zh-CN/scripts/30883-%E8%AE%BA%E5%9D%9B%E7%BD%91%E7%9B%98%E9%93%BE%E6%8E%A5%E5%85%8D%E5%AF%86%E6%8F%90%E5%8F%96)
 8. [吾爱破解网盘链接激活工具 by lsj8924](https://greasyfork.org/zh-CN/scripts/23600-%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E7%BD%91%E7%9B%98%E9%93%BE%E6%8E%A5%E6%BF%80%E6%B4%BB%E5%B7%A5%E5%85%B7-by-lsj8924)
 9. [网盘自动填写提取密码](https://greasyfork.org/zh-CN/scripts/1002-%E7%BD%91%E7%9B%98%E8%87%AA%E5%8A%A8%E5%A1%AB%E5%86%99%E6%8F%90%E5%8F%96%E5%AF%86%E7%A0%81)
-10. [Endless Google-fork 谷歌搜索结果页面加载](https://greasyfork.org/en/scripts/41041-endless-google-fork)
+10. [Endless Google-fork 谷歌搜索结果页面加载](https://greasyfork.org/en/scripts/41041-endless-google-fork)代码失效请用[gmscripts/egoogle.user.js at master · tumpio/gmscripts](https://github.com/tumpio/gmscripts/blob/master/Endless_Google/egoogle.user.js)
 11. [知乎真实链接地址重定向](https://greasyfork.org/zh-CN/scripts/20431-zhihu-link-redirect-fix)
 12. [购物党自动比价工具-领取淘宝内部券](https://greasyfork.org/zh-CN/scripts/14466-%E8%B4%AD%E7%89%A9%E5%85%9A%E8%87%AA%E5%8A%A8%E6%AF%94%E4%BB%B7%E5%B7%A5%E5%85%B7-%E9%A2%86%E5%8F%96%E6%B7%98%E5%AE%9D%E5%86%85%E9%83%A8%E5%88%B8)
 13. [Yet Another Weibo Filter 看真正想看的微博](https://greasyfork.org/zh-CN/scripts/3249-yet-another-weibo-filter)

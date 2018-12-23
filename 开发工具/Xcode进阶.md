@@ -308,7 +308,9 @@ xcrun instruments -w <device_id>
 [[iOS 11][Xcode 9] launch, install, start hangs Simulator · Issue #209 · ios-control/ios-sim](https://github.com/ios-control/ios-sim/issues/209)
 
 
+## 多个项目切换快捷键
 
+`Cmd + ~`
 
 ##  Xcode 编辑iOS版本支持
 
