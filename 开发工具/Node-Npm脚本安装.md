@@ -1,5 +1,12 @@
 ## Node-Npm脚本安装
 
+现在：NPM包的路径
+
+```
+/usr/local/lib/node_modules/
+```
+
+[01 - npm 是什么？ | npm 中文文档](https://www.npmjs.cn/getting-started/what-is-npm/)
 
 
 ### Npm脚本安装权限问题
@@ -23,10 +30,16 @@ npm ERR! Please try running this command again as root/Administrator.
 
 ```
 
+[修复权限 | npm](https://wohugb.gitbooks.io/npm/content/getting_started/fixing_npm_permissions.html)
 
 ### 解决
 
 可能是路径错了，尽量不要使用sudo
+
+```
+sudo chown -R $USER /usr/local
+```
+
 
 [Cannot install reason on mac os x · Issue #1888 · facebook/reason](https://github.com/facebook/reason/issues/1888)
 
