@@ -233,7 +233,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 ##### Code helper
 
-1. [dawnlabs/carbon: 🎨 Create and share beautiful images of your source code](https://github.com/dawnlabs/carbon) 代码转化图片神器，高亮，分享你的代码！可以Import from GitHub gist
+1. [dawnlabs/carbon: 🎨 Create and share beautiful images of your source code](https://github.com/dawnlabs/carbon) 代码转化图片神器，高亮，分享你的代码！可以Import from GitHub gist. [carbon.now.sh](https://carbon.now.sh)
 
 ##### Objective-C
 
