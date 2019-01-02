@@ -1,5 +1,31 @@
 ## Xcode进阶
 
+### 编译加速
+
+[ccache 让你的编译时间飞起来](https://www.jianshu.com/p/53b2e3d203a9)
+
+
+```
+ brew install ccache
+```
+
+```#!/bin/sh
+if type -p ccache >/dev/null 2>&1; then
+export CCACHE_MAXSIZE=10G
+export CCACHE_CPP2=true
+export CCACHE_HARDLINK=true
+export 
+CCACHE_SLOPPINESS=file_macro,time_macros,include_file_mtime,include_file_ctime,file_stat_matches  
+exec ccache /usr/bin/clang "$@"
+else
+exec clang "$@" 
+fi
+```
+
+
+就这么多了！下次编译的时候会比正常慢一点，你可以在终端中使用 ccache -s 来查看 ccache 是否正常工作。刚开始时应该有很多缓存没有命中，但是当缓存开始渐渐替代之后的编译时，编译速度将会变得快起来。
+
+
 ### 代码段 Snippet
 
 * My Frame
