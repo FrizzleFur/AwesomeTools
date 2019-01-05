@@ -376,6 +376,8 @@ Turn drawings into code with PaintCode ~
 
 18. [AGENDA](https://itunes.apple.com/cn/app/agenda-a-new-take-on-notes/id1287445660?l=en&mt=12) The date-focused note taking app. Both plan and document your projects driving them forward.
 
+19. [Notability](https://www.waitsun.com/notability-2-5-1.html) 手写笔记本
+
 ### 文字处理
 
 16. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
