@@ -503,6 +503,7 @@ Turn drawings into code with PaintCode ~
 3. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
 4. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 5. [Potatso-Legacy](https://github.com/haxpor/Potatso) Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 10+.
+6. [NetShuttle ShadowsocksR tool]() 美区SS客户端
 
 #### 修改host翻墙
 
