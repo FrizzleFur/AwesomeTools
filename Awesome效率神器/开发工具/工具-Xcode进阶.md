@@ -246,6 +246,11 @@ Injection
 
 [burczyk/XcodeSwiftSnippets: Swift 4 code snippets for Xcode](https://github.com/burczyk/XcodeSwiftSnippets)
 
+#### Vim for xcode
+
+[记：在 Xcode 10 中安装 XVim2 - 风萧萧](https://note.wuze.me/xvim2)
+
+
 
 ## 问题
 

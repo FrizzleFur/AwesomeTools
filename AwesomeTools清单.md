@@ -219,6 +219,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 23. [iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) ipa图标导出
 24.  `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
 25. [SnippetsLab](http://xclient.info/s/snippetslab.html?t=95a715ea86ae9bb6a50e6acf3f3318aca7640761#versions) SnippetsLab是一个易于使用的代码片断管理工具。它可以帮助你收集和组织有价值的代码片段,并确保你容易获取他们。
+26. [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)截图，取色，查看坐标
 
 
 #### Developing Tools

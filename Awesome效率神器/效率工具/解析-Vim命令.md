@@ -340,3 +340,4 @@ a 为『从目前光标所在的下一个字符处开始输入』， A 为『从
 
 1. [看完这篇Linux基本的操作就会了 - 简书](https://www.jianshu.com/p/a182a0be4b8a#%E5%9B%9B%E3%80%81VI%E7%BC%96%E8%BE%91%E5%99%A8)
 2. [Linux vi/vim | 菜鸟教程](http://www.runoob.com/linux/linux-vim.html)
+3. [PacVim](https://zhuanlan.zhihu.com/p/37988604)
