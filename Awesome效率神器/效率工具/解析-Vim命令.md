@@ -332,10 +332,25 @@ a 为『从目前光标所在的下一个字符处开始输入』， A 为『从
 
 [suan/vim-instant-markdown: Instant Markdown previews from VIm!](https://github.com/suan/vim-instant-markdown)
 
-## Vim for Xcode
+## Vim for Xcode 10
 
 [XVimProject/XVim2: Vim key-bindings for Xcode 9](https://github.com/XVimProject/XVim2)
 
+[记：在 Xcode 10 中安装 XVim2 - 风萧萧](https://note.wuze.me/xvim2)
+签署 Xcode
+关闭 Xcode
+打开 钥匙串访问
+选择 钥匙串访问 -> 证书助理 -> 创建证书
+名称：XcodeSigner（可随意）
+身份类型：自签名根证书
+证书类型：代码签名
+重新签署 Xcode
+
+```objc
+# XcodeSigner 为创建证书时输入的名称
+sudo codesign -f -s XcodeSigner /Applications/Xcode.app 
+
+```
 ## 参考
 
 1. [看完这篇Linux基本的操作就会了 - 简书](https://www.jianshu.com/p/a182a0be4b8a#%E5%9B%9B%E3%80%81VI%E7%BC%96%E8%BE%91%E5%99%A8)
