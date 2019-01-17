@@ -1,5 +1,25 @@
 # VPN翻墙教程
 
+## Shadowsocks
+
+### Shadowsocks全局模式与VPN的区别
+
+VPN控制的是你电脑的整个网络，只要需要连接到互联网的流量都会经过vpn。
+
+你的IP会被更换为VPN的IP。连接VPN只需要知道IP和账号密码。
+
+Shadowsocks的全局模式，是设置你的系统代理的代理服务器，使你的所有http/socks数据经过代理服务器的转发送出。而只有支持socks5或者使用系统代理的软件才能使用Shadowsocks（一般的浏览器都是默认使用系统代理）。
+
+经过代理服务器的IP会被更换。连接Shadowsocks需要知道IP、端口、账号密码和加密方式。但是Shadowsocks因为可以自由换端口，所以定期换端口就可以有效避免IP被封！
+
+### Shadowsocks全局模式与PAC模式的区别
+
+上面已经解释了Shadowsocks的全局模式，而PAC模式就是会在你连接网站的时候读取PAC文件里的规则，来确定你访问的网站有没有被墙，如果符合，那就会使用代理服务器连接网站，而PAC列表一般都是从GFWList更新的。GFWList定期会更新被墙的网站（不过一般挺慢的）。
+
+简单地说，在全局模式下，所有网站默认走代理。而PAC模式是只有被墙的才会走代理，推荐PAC模式，如果PAC模式无法访问一些网站，就换全局模式试试，一般是因为PAC更新不及时（也可能是GFWList更新不及时）导致的。
+
+还有，说一下Chrome不需要Proxy SwitchyOmega和Proxy SwitchySharp插件，这两个插件的作用就是，快速切换代理，判断网站需不需要使用某个代理的（ss已经有pac模式了，所以不需要这个）。如果你只用shadowsocks的话，就不需要这个插件了！
+
 ## Mac客户端
 
 [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
