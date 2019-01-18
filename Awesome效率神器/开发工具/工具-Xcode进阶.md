@@ -28,6 +28,12 @@ fi
 
 ### 代码段 Snippet
 
+自己定义的代码块是在以下目录下：
+
+```
+~/Library/Developer/Xcode/UserData/CodeSnippets/
+```
+
 * My Frame
 
 ```objc
