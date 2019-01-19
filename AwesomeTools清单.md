@@ -188,6 +188,10 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 52. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
 53. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
 
+### Learning
+
+1. 
+
 ### Developing
 
 1. [free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
@@ -379,6 +383,11 @@ Turn drawings into code with PaintCode ~
 
 19. [Notability](https://www.waitsun.com/notability-2-5-1.html) 手写笔记本
 
+20. [YiGe.app](https://yige.app/) 里面的Text2Image非常好用
+
+21. [MarkEditor 2.0 Change Logs](https://www.markeditor.com/file/get/2309e4da32c9a888597accd67ffc912c) 功能很强大，但是价格高
+
+
 ### 文字处理
 
 16. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
@@ -388,8 +397,6 @@ Turn drawings into code with PaintCode ~
 18. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
 
 19. [DEVONthink](https://github.com/crystoneme/DEVONthink-Tutorial/blob/master/DEVONthink%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-0.md)DEVONthink不仅只是用来存储文档而已，它还可以做到集编辑、分析、组织、查找、存档于一身。作为一个集成的工作环境，大大优化和加强了Finder，节省了在成千上万的文件当中处理的时间。
-
-20. [易词云 - YWordle](http://yciyun.com/) 词云在线生成
 
 ### Statistics
 
