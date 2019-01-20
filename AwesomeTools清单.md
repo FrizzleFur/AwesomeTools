@@ -257,8 +257,6 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 5. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
 6. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
 7. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
-8. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
-9. [Bee](http://www.neat.io/bee/) Simple. Fast. Native. Issue tracking made fun on your Mac.
 
 ##### Xcode 
 
@@ -313,20 +311,29 @@ Turn drawings into code with PaintCode ~
 
 1. [imazing](https://imazing.com/?gclid=Cj0KCQjwruPNBRCKARIsAEYNXIh2EHR900QAkKSf8oqbjGWUies09TsHpi4Q4002qPQozdkYkqJ-UUsaAqrdEALw_wcB) Manage your iPhone. Your way.
 
-### Schedule
+### GTD
 
 1. [2Do](https://www.2doapp.com/)
 
 2. [pomotodo番茄土豆](https://pomotodo.com/app/)
 
-3. [WorkFlowy](https://workflowy.com/) 结合导图和笔记，挺有创意的Organize your brain.[任何您想要个人工作流程的背景颜色：调整“Painter For WorkFlowy”Chrome扩展 - WorkFlowy博客](https://blog.workflowy.com/2016/03/24/painter-for-workflowy/)
+3. [Things3](https://culturedcode.com/things/)
 
 4. [幕布](https://mubu.com/)  国产WorkFlowy，拓张了一些功能，添加图片，添加文件夹，可以转成导图，还有一些用户的展示，觉得是借鉴了Processon有木有~
 
-5. [Life-commit](https://github.com/ByronHsu/life-commit)🏃📆 Life as a git. Commit on your life, 使用`npm run start`查看视图
+5. [石墨](https://shimo.im/)
 
-6. [Quip](https://quip.com/about/home-1) 具有超级威力的文档
-![](http://oc98nass3.bkt.clouddn.com/15194568910818.jpg)
+6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
+
+
+7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native. Issue tracking made fun on your Mac.
+
+#### GTD看板
+
+1. [Teambition | 团队协作工具创导者](https://www.teambition.com/)
+
+2. [trello](https://trello.com/b/0jHOl1As/plus-for-trello-help)
+
 
 ### Email
 
@@ -386,6 +393,8 @@ Turn drawings into code with PaintCode ~
 20. [YiGe.app](https://yige.app/) 里面的Text2Image非常好用
 
 21. [MarkEditor 2.0 Change Logs](https://www.markeditor.com/file/get/2309e4da32c9a888597accd67ffc912c) 功能很强大，但是价格高
+
+22. [Quip](https://quip.com/about/home-1) 具有超级威力的文档
 
 
 ### 文字处理
