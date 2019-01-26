@@ -121,7 +121,7 @@ ShadowsocksR (R)：http://omgib13x8.bkt.clouddn.com/ssr-win.7z
 
 随便点一个地址,然后会弹出个二维码，像下面这样，注意右上角，点那个纸飞机，找到那个从屏幕上扫描二维码，注意要选那个**自动代理模式**，windows 的就选 **系统代理模式**
 
-![](http://oc98nass3.bkt.clouddn.com/15343299529861.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15343299529861.jpg)
 ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 * [freeSS](https://get.ss8.fun/)
 

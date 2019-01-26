@@ -67,9 +67,5 @@ And then finally:
 
 `npm install -g bs-platform`
 
- | 
-
-👍 16🎉 8❤️ 10
-
 
 

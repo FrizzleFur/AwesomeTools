@@ -189,7 +189,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 53. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
 
 ### Learning
-
+    
 1. 
 
 ### Developing

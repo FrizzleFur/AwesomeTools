@@ -109,7 +109,7 @@ fi
 
 frame = CGRectMake(<#CGFloat x#>, <#CGFloat y#>, <#CGFloat width#>, <#CGFloat height#>);
 ```
-![](https://oc98nass3.bkt.clouddn.com/15376704555901.jpg)
+![](https://http://pic-mike.oss-cn-hongkong.aliyuncs.com/15376704555901.jpg)
 
 
 * My Lines Remark
@@ -124,7 +124,7 @@ frame = CGRectMake(<#CGFloat x#>, <#CGFloat y#>, <#CGFloat width#>, <#CGFloat he
 
 ```
 
-![](oc98nass3.bkt.clouddn.com/15376705248064.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15376705248064.jpg)
 
 * My Property
 
@@ -135,7 +135,7 @@ property (nonatomic, <#type#>) <#className#> *propertyName;/**< <#remark#> */
 
 ****
 
-![](oc98nass3.bkt.clouddn.com/15376705349709.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15376705349709.jpg)
 
 * My Remark
 
@@ -144,7 +144,7 @@ property (nonatomic, <#type#>) <#className#> *propertyName;/**< <#remark#> */
 
 ```
 
-![](oc98nass3.bkt.clouddn.com/15376706918514.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15376706918514.jpg)
 
 
 ### 快速记录问题
@@ -155,10 +155,11 @@ property (nonatomic, <#type#>) <#className#> *propertyName;/**< <#remark#> */
 
 ### 快捷键
 
-![](http://oc98nass3.bkt.clouddn.com/15376702477628.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15376702477628.jpg)
 
-![](oc98nass3.bkt.clouddn.com/15376702826707.jpg)
-![](oc98nass3.bkt.clouddn.com/15376703183349.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15376702826707.jpg)
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15376703183349.jpg)
 
 * 显示注释 `Cmd + Option + /`
 * 
@@ -331,8 +332,8 @@ Injection
 
 ### Xcode链接iphone一直闪断
 
-![](http://oc98nass3.bkt.clouddn.com/15326666022413.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15326666332024.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15326666022413.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15326666332024.jpg)
 
 发现一个Xcode链接iphone一直闪断的问题，提示说软件下载更新才能连接，但是下载失败，还以为是数据线接触不良或者是Xcode版本不支持，后来发现开启省电模式就可以了。
 [A software update is required to connect to your iOS device / iPhone - Ask Different](https://apple.stackexchange.com/questions/327310/a-software-update-is-required-to-connect-to-your-ios-device-iphone)

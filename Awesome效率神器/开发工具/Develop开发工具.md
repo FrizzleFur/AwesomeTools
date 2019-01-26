@@ -20,8 +20,10 @@
 
 1. [Peek](https://github.com/shaps80/Peek)
 All new design. Inspect your iOS application at runtime. 
-![](http://oc98nass3.bkt.clouddn.com/15219076070141.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15219076481398.jpg)
+
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15219076070141.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15219076481398.jpg)
 
 使用快捷键`Ctrl + Cmd + Z`唤起
 
@@ -40,11 +42,11 @@ Easy APNs Provider - 推送测试工具
 
 这是一个神奇的测试工具，[Mac AppStore免费下载~](https://itunes.apple.com/cn/app/easy-apns-provider/id989622350?mt=1)
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972327165173.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972327165173.jpg)
 
 ##### 1、添加Token
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972327333218.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972327333218.jpg)
 
 我试了一下第三种直接发送的，但是要么获取不到，要么一下子获取到几十条，我怎么知道哪个是我的deviceToken呢？果断放弃选择手动获取。
 
@@ -78,12 +80,12 @@ process launch failed
 Debug环境运行没问题，Release环境会弹出以下提示：
 
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972327662520.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972327662520.jpg)
 
 解决：
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972327773139.jpg)
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972327855649.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972327773139.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972327855649.jpg)
 
 
 红色箭头指向的那个选项不选中 就可以啦
@@ -101,20 +103,19 @@ Debug环境运行没问题，Release环境会弹出以下提示：
 
 ##### 3、连接至苹果推送服务器
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972331045230.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972331045230.jpg)
 
 Debug模式选择sandbox，Release模式选择push
 选择完成之后一定要 点击 3.连接至： 这个按钮！
 状态栏会提示：
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972331219712.jpg)
-
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972331219712.jpg)
 
 这里只能说明连接上push服务器了，虽然身份已验证，但是不能说明你的证书是正确的，只能说证书是有效的。我选择发布环境的推送证书，连接sandbox它会显示h和上面一样的状态，证书是否正确只会在发送推送时验证。
 
 ##### 4、 推送负载
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972329040544.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972329040544.jpg)
 
 这个不多说了。
 
@@ -122,12 +123,12 @@ Debug模式选择sandbox，Release模式选择push
 
 然后就收到推送了。
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972328270050.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972328270050.jpg)
 
 如果像我上面举例说的那样选择发布环境的推送证书，连接sandbox，状态栏会显示
 
 
-![](http://oc98nass3.bkt.clouddn.com/2017-06-12-14972328138602.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-06-12-14972328138602.jpg)
 
 你可以看到错误原因，这是非常不错的一点。
 
@@ -147,12 +148,12 @@ Git 工具
 [Getting Started with Tower - Tower Help](https://www.git-tower.com/help/mac/first-steps/get-started-with-tower)
 
 
-![](http://oc98nass3.bkt.clouddn.com/15385864644984.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864429386.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864283566.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385864142362.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385863555970.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15385863901342.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15385864644984.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15385864429386.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15385864283566.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15385864142362.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15385863555970.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15385863901342.jpg)
 
 #### 设置Diff Tools
 
@@ -239,15 +240,14 @@ View the previously listed notifications, pull requests, issues, repos, users et
 $ gh view [#] [-b/--browser]
 
 ```
-![](http://oc98nass3.bkt.clouddn.com/2017-08-31-15041463388583.jpg)
-
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-08-31-15041463388583.jpg)
 
 ### View trending repos:
 
 ```
 $ gh trending [language] [-w/--weekly] [-m/--monthly] [-d/--devs] [-b/--browser]
 ```
-![](http://oc98nass3.bkt.clouddn.com/2017-08-31-15041463551665.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-08-31-15041463551665.jpg)
 
 ### Github命令
 

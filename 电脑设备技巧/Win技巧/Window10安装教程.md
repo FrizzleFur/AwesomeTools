@@ -7,30 +7,31 @@
 ### 查看是否是驱动问题
 
 1. 找到控制面板的设备管理器
-![](http://oc98nass3.bkt.clouddn.com/15256834642664.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15256834642664.jpg)
 
 2. 如果设备图表中有黄色的感叹号，说明对应的驱动还未安装。
 
-![](http://oc98nass3.bkt.clouddn.com/15256835173432.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15256835173432.jpg)
 
 ### 解决驱动
 
 
 驱动其实在使用BootCamp时会去下载驱动，就在`OSXRESERVED`盘里
 
-![](http://oc98nass3.bkt.clouddn.com/15256835862755.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15256835862755.jpg)
 
 
 这里需要在安装Win10的之前先找到`OSXRESERVED`盘里的AppleSSD64里面的文件夹，安装好里面的驱动。
  
-![](http://oc98nass3.bkt.clouddn.com/15256836025370.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15256836025370.jpg)
 
 
-![](http://oc98nass3.bkt.clouddn.com/15256837461138.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15256837461138.jpg)
+
 等驱动安装完成后再安装BootCamp盘里的 Win10。
 
 最后进入Win10后在`OSXRESERVED`盘里会出现`setup`的快捷方式，点击安装，就会将对应的驱动进行安装
-![](http://oc98nass3.bkt.clouddn.com/15256837955116.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15256837955116.jpg)
 
 
 

@@ -22,7 +22,7 @@
 
 生活中，我们计量一段时间一般是用计时器。这里我们要想知道哪些操作，或者说哪些代码是耗时的，我们也需要一个打点计时器。用过 `profile` 的朋友都知道这个工具很强大，可以使用它来分析出哪些代码是耗时的。但是它不够灵活，我们来看一下我们的这个计时器应该怎么设计。
 
-![](//upload-images.jianshu.io/upload_images/2122663-461126cdd47bbe16.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/989/format/webp)
+![](https://i.imgur.com/1aSqFq8.jpg)
 
 如上图所示，在时间轴上，我们从 start 开始打点计时，然后我们在第一个小红旗那里打了一个点，记录这段代码的耗时，然后又在第二个小红旗那里打了一个点，记录这中间代码的耗时。然后在结束的地方打一个点，然后把所有打点的结果展示出来。同时，我们为每段计时加上标注，用来区分这段时间是执行了什么操作花费的时间。这样一来，我们就能快速精准的知道究竟是谁拖慢了启动。
 
@@ -32,7 +32,7 @@
 
 我们看 `t2` 耗时那里，总共花费了 `6.361` 秒，这是从 `didFinishLaunchingWithOptions` 到第一个界面渲染出来花费的时间。从这个结果来看，我们的启动时间的优化已经到了刻不容缓的地步了。
 
-> ![](//upload-images.jianshu.io/upload_images/2122663-f77e7429b5b65e52.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122741.jpg)
 
 再仔细分析一下上面的结果， `t2` 时间也分为了两个部分，`didFinishLaunchingWithOptions` 花了 `4.010`秒，第一个页面渲染耗时花了 `2.531` 秒。好，看样子大魔头住在 `didFinishLaunchingWithOptions` 这个方法里，另外，第一页面的渲染中也有不少问题。下面我们分别展开。
 
@@ -40,7 +40,7 @@
 
 上面说到大魔头住在 `didFinishLaunchingWithOptions`，现在我们仔细看一下 `didFinishLaunchingWithOptions` 方法里的代码耗时，有两行代码的耗时居然为一秒以上，而且耗时最多的居然有 `1.620` 秒之多。
 
-> ![](//upload-images.jianshu.io/upload_images/2122663-d7bad62126138cfe.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/756/format/webp)
+![](https://i.imgur.com/8L5KZpb.jpg)
 
 其实 `didFinishLaunchingWithOptions` 方法里我们一般都有以下的逻辑：
 
@@ -51,7 +51,7 @@
 
 #### 02.2.第一个页面渲染
 
-> ![](//upload-images.jianshu.io/upload_images/2122663-69f72fad3e6b3967.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/783/format/webp)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122815.jpg)
 
 如果我们的 UI 架构是上面这样的话。然后我们在 AppDelegate 里写下这么一段代码：
 
@@ -229,11 +229,11 @@ const NSTimeInterval kBLDelayStartupEventsToolCheckCallTimeInterval = 30;
 
 苹果为查看 `pre-main` 提供了支持，具体配置如下，配置的 key 为：`DYLD_PRINT_STATISTICS`。
 
-![](//upload-images.jianshu.io/upload_images/2122663-768c384d83608f9c.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/859/format/webp)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122854.jpg)
 
 还需要勾选下面这个选项：
 
-![](//upload-images.jianshu.io/upload_images/2122663-a614000f8c302fb1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/873/format/webp)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122841.jpg)
 
 然后再运行项目，`Xcode` 就会在控制台输出这部分 `pre-main` 的耗时：
 

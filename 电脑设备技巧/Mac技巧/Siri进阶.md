@@ -27,11 +27,11 @@ siri在iPhone上很方便的功能。
 
 你可以用 Siri 语音调整系统设置，比如开关蓝牙、音量大小、旋转旋转锁定等等。同时也适用于辅助功能，如开关智能反转，降低白点值等等。
 
-![](http://oc98nass3.bkt.clouddn.com/15304100413354.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15304100413354.jpg)
 
 ### Siri，计算
 
-![](http://oc98nass3.bkt.clouddn.com/15304105404310.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15304105404310.jpg)
 
 
 ## Siri ShortCuts

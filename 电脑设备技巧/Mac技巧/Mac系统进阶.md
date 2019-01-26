@@ -11,7 +11,7 @@
 使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
 [如何将内容移至新 Mac - Apple 支持](https://support.apple.com/zh-cn/ht204350)
 使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
-![](http://oc98nass3.bkt.clouddn.com/15305817383130.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15305817383130.jpg)
 
 ###  隐藏dock栏的图标
 
@@ -19,14 +19,15 @@
 
 打开Finder，左侧选择应用程序，右键点击你想要隐藏的软件，显示包内容-Contents，编辑 Info.plist文件，在<dict></dict>之间加入以下参数：
 
+
 ```
 <key>LSUIElement</key>
  <string>1</string>
- ```
+```
 
-![](oc98nass3.bkt.clouddn.com/15375172104519.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15375172104519.jpg)
 
-![](oc98nass3.bkt.clouddn.com/15375171990328.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15375171990328.jpg)
 
 方法二：
 
@@ -54,7 +55,7 @@
 使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
 [如何将内容移至新 Mac - Apple 支持](https://support.apple.com/zh-cn/ht204350)
 使用“迁移助理”将您的所有文稿、应用、用户帐户和设置从一台电脑拷贝到另一台新 Mac 上。
-![](http://oc98nass3.bkt.clouddn.com/15305817383130.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15305817383130.jpg)
 
 
 ### 一个好用的信息黏贴Flow
@@ -210,12 +211,12 @@ Valley jse://run?file=APPValley.js
 
 发现以前设置的地区是米国，所以在iOS的Safari搜索引擎设置中没有找到baidu.
 切换回中国🇨🇳就可以了。
-![](http://oc98nass3.bkt.clouddn.com/15308987115979.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308987115979.jpg)
 
 * Safari的阅读模式
 
 发现Safari的阅读模式每次都自动进入，发现是长按可以唤起菜单设置的。
-![](http://oc98nass3.bkt.clouddn.com/15308987360120.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308987360120.jpg)
 
 
 # 常见问题
@@ -235,7 +236,7 @@ MAC OS怎样将普通成员改为管理员？
 rm var/db/.applesetupdone 
 reboot 
 ```
-![](oc98nass3.bkt.clouddn.com/15380565196686.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15380565196686.jpg)
 
 * reboot完成后，创建一个新的用户，按照提示操作。
 * 新用户创建后，打开系统偏好设置-用户与群组
@@ -292,7 +293,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app"
 
 方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
 
-![](http://oc98nass3.bkt.clouddn.com/15161963030407.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15161963030407.jpg)
 ```
 //先禁止
 sudo spctl --master-disable
@@ -309,25 +310,25 @@ sudo spctl --master-enable
 本来我是不想把`Github Desktop`加进来的，没想到它今天抽了一个错误，为了记录一下我还是写一下。
 
 报的错误：
-![](http://oc98nass3.bkt.clouddn.com/15303368203935.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303368203935.jpg)
 
 估计是钥匙串的访问权限问题
 找到一篇文章：[GitHub Desktop was unable to store the account token in the keychain · Issue #4614 · desktop/desktop](https://github.com/desktop/desktop/issues/4614)
-![](http://oc98nass3.bkt.clouddn.com/15303369966352.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303369966352.jpg)
 参考[desktop/known-issues.md at master · desktop/desktop](desktop/known-issues.md at master · desktop/desktop)
 
 ## MicroSoft Word 弹窗问题
 
 在Mac上使用word过程中，有时候经常出现这种弹窗:
 
-![](http://oc98nass3.bkt.clouddn.com/15294901445351.jpg)
-![](http://oc98nass3.bkt.clouddn.com/15294901483362.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294901445351.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294901483362.jpg)
 
 这是模板的问题，在设置中找到模板文件路径
 
-![](http://oc98nass3.bkt.clouddn.com/15294900549396.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294900549396.jpg)
 
-![](http://oc98nass3.bkt.clouddn.com/15294900170729.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294900170729.jpg)
 
 删除这个文件，然后重启Word,这个文件会重新生成。（估计模板文件出了问题）
 
