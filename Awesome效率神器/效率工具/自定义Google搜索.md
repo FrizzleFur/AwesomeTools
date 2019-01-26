@@ -2,10 +2,6 @@
 
 # 站在 Google 巨人的肩膀上，打造一个信息搜集的利器
 
-09月18日
-
-[![Bestony](https://cdn.sspai.com/2017/09/17/0e4fbebd5468b85aa6be5d7c42221f51.jpg?imageMogr2/quality/95/thumbnail/!60x60r/gravity/Center/crop/60x60)](https://sspai.com/user/769301) 
-
 #### [Bestony](https://sspai.com/user/769301)
 
 #### 责编: [文刀漢三](https://sspai.com/user/136)
