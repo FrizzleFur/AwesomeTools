@@ -32,7 +32,7 @@
 
 我们看 `t2` 耗时那里，总共花费了 `6.361` 秒，这是从 `didFinishLaunchingWithOptions` 到第一个界面渲染出来花费的时间。从这个结果来看，我们的启动时间的优化已经到了刻不容缓的地步了。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122741.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/122741.jpg)
 
 再仔细分析一下上面的结果， `t2` 时间也分为了两个部分，`didFinishLaunchingWithOptions` 花了 `4.010`秒，第一个页面渲染耗时花了 `2.531` 秒。好，看样子大魔头住在 `didFinishLaunchingWithOptions` 这个方法里，另外，第一页面的渲染中也有不少问题。下面我们分别展开。
 
@@ -51,7 +51,7 @@
 
 #### 02.2.第一个页面渲染
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122815.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/122815.jpg)
 
 如果我们的 UI 架构是上面这样的话。然后我们在 AppDelegate 里写下这么一段代码：
 
@@ -229,11 +229,11 @@ const NSTimeInterval kBLDelayStartupEventsToolCheckCallTimeInterval = 30;
 
 苹果为查看 `pre-main` 提供了支持，具体配置如下，配置的 key 为：`DYLD_PRINT_STATISTICS`。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122854.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/122854.jpg)
 
 还需要勾选下面这个选项：
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/122841.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/122841.jpg)
 
 然后再运行项目，`Xcode` 就会在控制台输出这部分 `pre-main` 的耗时：
 

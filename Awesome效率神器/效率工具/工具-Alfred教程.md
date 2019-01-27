@@ -29,11 +29,11 @@ Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用�
 ##### 自定义web搜索
 
 1. 利用常用网站的`API`可以自定义web搜索.
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15234355436697.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303521078999.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15234355436697.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303521078999.jpg)
 
 2. 可以搜索浏览器标签，我主要使用`Chrome`所以这边搜索的是`Chrome`的标签
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15234354592741.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15234354592741.jpg)
 
 ##### 十款常用搜索引擎的 URL 规则
 
@@ -65,7 +65,7 @@ Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用�
 
 #### 文件搜索
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15194620236262.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15194620236262.jpg)
 
 有了`Alfred`，不用去到桌面用鼠标打开`finder`啦，勾选快速搜索文件选项，唤起`Alfred`，输入`~`或者空格就可以输入文件路径了，会给出智能匹配提示。
 
@@ -79,7 +79,7 @@ Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用�
 
 ##### 历史访问路径
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303486401472.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303486401472.jpg)
 
 ##### 文件缓存操作
 
@@ -90,14 +90,14 @@ Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用�
 ⌥ + → to action all items in the buffer.
 ```
 可能需同时对多个文件进行操作，可以选中文件，按住`⌥ + ↓`添加预选文件。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303488549111.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303488549111.jpg)
 
 可以通过`⌥ + →`进入批量操作菜单
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303488091520.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303488091520.jpg)
 
 我的文件多选操作设置：
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303499082641.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303499082641.jpg)
 
 定位到所需文件后，我们往往需要对其做进一步处理，在回车打开文件前，不妨先按下 `⌥ + ⌘ + \`，你会发现 Alfred 已经为你准备了解压、复制、分享、查重等数项常用操作，不用在 Finder 中翻来翻去了。
 
@@ -109,19 +109,19 @@ Alfred包含了系统的命令，比如重启、锁定、睡眠等。最常用�
 
 有一个小技巧就是，按住`⌘`可以查看文件路径，使用`⌘ + ↓`和`⌘ + ↑`可以不断切换文件层级
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303491154189.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303491154189.jpg)
 
 ### 黏贴板
 
 对于一些文案在App间频繁的切换的需求，`Alfred`提供了实用的黏贴板功能：
 我设置的快捷键为：`⌘ + ⌥ + C`
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303511047989.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303511047989.jpg)
 
 Alfred的剪贴板扩展支持所有类型文件的复制历史保存，从文字到 Doc 文档，从 Gif 图片到 .dmg 文件，你的所有复制历史都会被忠实的记录下来。
 
 #### 清空黏贴板
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303510082640.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303510082640.jpg)
 
 ### 代码片段
 
@@ -144,10 +144,10 @@ Alfred的剪贴板扩展支持所有类型文件的复制历史保存，从文�
 #### 使用代码段自动扩展
 
 Aflred3可以将Snippets应用于Mac全局文本，需要设置
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303417306027.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303417306027.jpg)
 
 效果如下：
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303436476949.gif)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303436476949.gif)
 
 参考[Snippets and Text Expansion - Alfred Help and Support](https://www.alfredapp.com/help/features/snippets/#dynamic)
 
@@ -161,7 +161,7 @@ Aflred3可以将Snippets应用于Mac全局文本，需要设置
 #### 代码段触发器
 
 注意: 此功能是在Alfred V3.4 中添加的, 因此您需要使用3.4 或更高的代码段触发器。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303438547666.png)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303438547666.png)
 
 
 参考[Snippet Triggers - Alfred Help and Support](https://www.alfredapp.com/help/workflows/triggers/snippet/)
@@ -175,10 +175,10 @@ Aflred3可以将Snippets应用于Mac全局文本，需要设置
 
 [主题](http://www.packal.org/theme-list)
 1. [VVV Dark Solarized (Compact) (Gray) | Packal](http://www.packal.org/theme/vvv-dark-solarized-compact-gray)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303474708329.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303474708329.jpg)
 
 2. [Nazar | Packal](http://www.packal.org/theme/nazar)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303476287649.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303476287649.jpg)
 
 ### Large Type
 
@@ -187,7 +187,7 @@ Aflred3可以将Snippets应用于Mac全局文本，需要设置
 ### 启用终端
 
 如果您经常需要启动终端或 shell 命令, 您可以这样做从Alfred内部这样启动
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303533225729.png)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303533225729.png)
 
 ####  配置iTerm2
 
@@ -249,7 +249,7 @@ on alfred_script(q)
 end alfred_script
 ```
 
-![Alfred3Setting-Terminal](http://pic-mike.oss-cn-hongkong.aliyuncs.com/Alfred3Setting-Terminal.png)
+![Alfred3Setting-Terminal](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/Alfred3Setting-Terminal.png)
 
 参考[Terminal and Shell - Alfred Help and Support](https://www.alfredapp.com/help/features/terminal/)
 
@@ -257,7 +257,7 @@ end alfred_script
 
 计算器大概是启动器应用们的标配功能了，Alfred 也不例外。只需键入算式，Alfred 就会直接给出正确答案，直观快捷。支持完善的函数语法.
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15237811833233.png)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15237811833233.png)
 
 ### 强大的`Workflow`
 
@@ -277,7 +277,7 @@ Alfred-fixum可以说是Workflow的Manager了，监测和更新Workflow
 
 一些旧的`WorkFlow`可以通过[Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) 进行更新。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303453477490.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303453477490.jpg)
 
 贴心的提供了控制台的log入口：
 ```
@@ -323,7 +323,7 @@ Packal Workflow 的作用就是帮助用户直接在 Alfred 中快速搜索，�
 [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键
 
 The initial motive of this workflow is to avoid frequent visits to the Activity Monitor when the fan goes loud. Now it has been evolved with two major features:
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303494502622.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303494502622.jpg)
 
 #### 斗图神器 
 
@@ -333,7 +333,7 @@ The initial motive of this workflow is to avoid frequent visits to the Activity 
 
 [下载斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
 
-![CmdTap_和_Alfred_Preferences](http://pic-mike.oss-cn-hongkong.aliyuncs.com/CmdTap_和_Alfred_Preferences.png)
+![CmdTap_和_Alfred_Preferences](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/CmdTap_和_Alfred_Preferences.png)
 
 ##### 检索
 
@@ -374,7 +374,7 @@ cp $1 ~/Desktop/斗图神器.jpg
 5. [Menu Search - Share your Workflows - Alfred App Community Forum](https://www.alfredforum.com/topic/10231-faster-menu-search/)
 
 需要在安全性设置的隐私中添加`Alfred`.
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15305378386470.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15305378386470.jpg)
 
 
 ### 制作Workflow
@@ -442,7 +442,7 @@ mkdir -p "$HOME/Library/Caches/com.runningwithcrayons.Alfred-2/Workflow Data/"
 
 解决方法:
 虽然侥幸解决了但是未发现原理,记录一下操作：
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303401675170.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303401675170.jpg)
 
 1. 卸载重装破解的Alfred3,发现在`/Users/michaelmao/Library/`中多了一个`Application`文件，我觉得是CODE Keygen产生的文件，尝试删除。
 2. 尝试拖入Workflow到`plugins`文件夹

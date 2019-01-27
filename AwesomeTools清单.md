@@ -64,9 +64,9 @@
 7. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
 8. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
 9. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15302609850440.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15302609850440.jpg)
 10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 可以直接使用Dash的设置集成
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303347565431.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303347565431.jpg)
 1. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
 2. [Github Search](http://www.packal.org/workflow/github-search) Search Github
 3. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
@@ -103,7 +103,7 @@
 9. [MacBooster](http://xclient.info/s/mac-booster.html) 长得有点像CleanMyMac，Who can tell the difference?10. [DrCleaner](https://www.drcleaner.com/)
 11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
 11. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307796714334.jpg)并且可以快捷键召唤Dock上的Apps
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307796714334.jpg)并且可以快捷键召唤Dock上的Apps
 1. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
 2. [**HammerSpoon**](https://github.com/Hammerspoon/hammerspoon)是一个可以用来进行窗口管理的 App，开源免费。当然，功能也不仅限于此,Hammerspoon 使用脚本语言来操作 OS X 的系统 API。使很多自动化操作成为可能。[Hammerspoon, OS X 上的全能窗口管理器 – 宋辰文](https://songchenwen.com/tech/2015/04/02/hammerspoon-mac-window-manager/)[Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
 3. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
@@ -289,8 +289,8 @@ Turn drawings into code with PaintCode ~
 5. [Visual-Json](https://itunes.apple.com/cn/app/visual-json/id488709442?mt=12) JSON利器
 6. [Dash](https://kapeli.com/dash)  看Docs只用它了
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-08-04-15018311767868.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-08-04-15018312082029.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-04-15018311767868.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-04-15018312082029.jpg)
 
 
 1. [iTerm](https://www.iterm2.com/) Best Terminal Client
@@ -417,10 +417,10 @@ Turn drawings into code with PaintCode ~
 
 ### MenuBar
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/14937761631295.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/14937761631295.jpg)
 
 1. [CmdTap](http://www.yingdev.com/projects/cmdtap) 任务切换器增强 for Mac
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295855893499.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295855893499.jpg)
 
 ### WorkFlow
 
@@ -587,7 +587,7 @@ hosts文件可以到github或者百度上找
 6. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
 7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
 8. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15076239784340.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15076239784340.jpg)
 9. [Kyle-Kyle/baidudl: Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned](https://github.com/Kyle-Kyle/baidudl)百度云直链下载,配合Aria2
 
 #### RSS Read

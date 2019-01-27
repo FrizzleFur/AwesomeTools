@@ -3,7 +3,7 @@
 [TOC]
 
 > 在工作中，现在公司大多数使用MacBook进行办公，不仅仅是MacBook设计简洁，方便携带，OS X上有一些很多优秀的开发者，经过长期的开发迭代，有一些很Nice的效率工具，能够给你平常的工作和开发提速。神器很多，这里就介绍几款我效率工具箱中平常使用最多的几款工具吧。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15161925609832.png)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15161925609832.png)
 
 ## Todo
 
@@ -49,21 +49,21 @@
 > (Aria2是一个命令行下轻量级、多协议、多来源的下载工具（支持 HTTP/HTTPS、FTP、BitTorrent、Metalink），内建 XML-RPC 和 JSON-RPC 用户界面。)
 
 如果没有出现导出到Aria2，请下载`BaiduExporter`
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15388390581330.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15388390581330.jpg)
 
 [itgoyo/Aria2: 支持迅雷、百度云无限制超速下载，另外附带Tampermonkey、Proxyee-down教程。从此云端女友从不断线，有了这个它，忘掉那个她!](https://github.com/itgoyo/Aria2#webui-aria2)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15343353123639.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15343353123639.jpg)
 
  [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
 
 ### BaiduExporter
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15343352496848.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15343352496848.jpg)
 
 [BaiduExporter.crx](https://github.com/acgotaku/BaiduExporter/blob/master/BaiduExporter.crx)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15233734067615.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15233734324565.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15233734067615.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15233734324565.jpg)
 
 ### Aria2+Chrome+BaiduExporter破解百度云下载速度
 
@@ -93,7 +93,7 @@
 #### 方法 1
 
 * 在`StartAria2c.sh`文件中修改, 我尝试在`Aria2.conf`文件中修改，无效。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15233766309641.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15233766309641.jpg)
 
 * `StartAria2c.sh`文件路径 `~/Library/Application Support/com.Aria2GUI/sh/`
 但是重启`Aria2`后，下载路径会reset所以建议使用方法2
@@ -102,9 +102,9 @@
 
 * [请问如何将aria2gui的下载路径改成移动硬盘 · Issue #27 · yangshun1029/aria2gui](https://github.com/yangshun1029/aria2gui/issues/27)
 
-![step1](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15233769519238.jpg)
+![step1](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15233769519238.jpg)
 
-![step2](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15233769336959.jpg)
+![step2](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15233769336959.jpg)
 
 当然浏览器重启后也会reset插件的下载路径 。。。
 
@@ -175,7 +175,7 @@ Bee 是Mac上一款优秀的`Github Issue`跟踪软件，可以将日常的任�
 
 ### Bee的快捷键
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15217922741672.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15217922741672.jpg)
 
 ## Bilibili-mac-client
 
@@ -368,7 +368,7 @@ Due 最大的亮点就是可以不断地提醒你直至任务完成。听起来�
 ### 2. 用换行作为备注
 
 有时候我们的任务不只是一句话，我们会需要给任务添加一些备注，比如 打电话给李小明，关于周末聚会的事情，吃饭唱 K 或者游泳烧烤。这个时候我们就可以用「换行」来分隔任务本身和备注内容，变成：
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15063942473742.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15063942473742.jpg)
 打电话给李小明
 
 当然你不换行也不是不行，只是我认为换行后可以让我们更直观地区分任务本身和备注内容。不过需要注意的是，Due 的主界面最多只能显示三行内容，超过三行的必须点进任务详情才能查看。
@@ -403,10 +403,10 @@ MAIN_TimesLeft 参数 改为 `820711`
 可以通过账户登录来同步手机端的学习记录，很Nice~有条件的还是支持一下吧。
 
 本人的一些配置（调教）：
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15159839251696.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15159839872215.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15159840462422.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15237711172483.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15159839251696.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15159839872215.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15159840462422.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15237711172483.jpg)
 
 ### 延长试用期
 
@@ -414,7 +414,7 @@ MAIN_TimesLeft 参数 改为 `820711`
 
 1. 找到 plist文件
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15133950232119.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15133950232119.jpg)
 
 2. 设置 两个参数
     - plist 文件用编辑器打开即可。
@@ -425,7 +425,7 @@ MAIN_TimesLeft 参数 改为 `820711`
 3. 锁定plist 文件
 
 右键显示 简介 锁定 文件
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15160009301637.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15160009301637.jpg)
 
 4. 重启词典
 
@@ -442,7 +442,7 @@ MAIN_TimesLeft 参数 改为 `820711`
 
 Mac上的一款护眼软件，还有独特的`Darkroom`模式
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303515515539.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303515515539.jpg)
 
 ## HomeBrew
 
@@ -468,7 +468,7 @@ Mac上的一款护眼软件，还有独特的`Darkroom`模式
 
 Karabiner-Elements 允许你设置多个 Profile（配置），每个 Profile 里可以有不同的键位，从而适应各异的任务。点击菜单栏图标还能快速切换配置文件，非常方便。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15305186914657.png)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15305186914657.png)
 
 ### 与 Keyboard Maestro 的联动
 
@@ -486,9 +486,9 @@ Karabiner-Elements 允许你设置多个 Profile（配置），每个 Profile �
 
 在初次安装`Karabiner-Elements`后注意允许系统载入`Karabiner-Elements`。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307715640054.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307715640054.jpg)
 并且在设置的`安全性与隐私`中添加`Karabiner-Elements`
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307753758191.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307753758191.jpg)
 
 注意: 设置好键位后可能遇到没有立即生效的问题，重启Mac就可以了，具体原因尚不清楚。
 
@@ -505,11 +505,11 @@ Karabiner-Elements 允许你设置多个 Profile（配置），每个 Profile �
 
 此外，还有两个关于 KM 的名词需要大家掌握。一个叫 Macro 宏文件，我们可以将它理解为独立的 Workflow 工作流程，例如，打开 Finder 就是一个工作流程，只是概念上它仅有一个步骤罢了。另外一个名词叫做 Action 行为，例如，执行一段 AppleScript 脚本语言，或是点击一个 Button 按钮，都属于「行为」的一种。Macro 与 Action 的关系为父与子，Macro 为父，由其子 Action 组成，并最终以 Macro 的命名区分，通过用户拟定的 Trigger 触发，并按照有序的 Script 脚本语法特性，执行所有的 Action 行为。
 
-![1](http://pic-mike.oss-cn-hongkong.aliyuncs.com/1.jpg)
+![1](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/1.jpg)
 
 比如我之前用`karabiner-Elements`的时候，把Mac的`F10`的静音键盘改成了默认的`F10`，就无法静音了。则可以用`Keyboard Maestro`添加一个覆盖快捷键
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15305168306061.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15305168306061.jpg)
 
 使用过`Keyboard Maestro`后，我们需要经常问自己: 我在 Mac 上经常重复的事情是什么？有没有办法把它分解成一步步动作？这些动作有没有可能通过 `Keyboard Maestro` 来实现？
 
@@ -526,7 +526,7 @@ Karabiner-Elements 允许你设置多个 Profile（配置），每个 Profile �
 对于常驻后台的 App：
  ⌥ + 字母 快捷键，精准定位到每个 App（这里替代了 Manico 和 Snap 的功能），使用习惯后，快、准且不打断思路。
  
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15305213939492.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15305213939492.jpg)
 
 ### 打开特定的 Finder 目录：
 
@@ -545,8 +545,8 @@ Type km followed by the name of any of your defined macros.
 
 通过 Homebrew Cask 安装:`brew cask install iina`
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15161588048779.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15161588526427.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15161588048779.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15161588526427.jpg)
 
 ##  iTerm2
 
@@ -584,15 +584,15 @@ bindkey "[C" forward-word
 ### 热键窗口
 
 注册一个热键，当您在另一个应用程序中时，它会将iTerm2置于前台。终端永远是一个关键的压力。您可以选择让热键打开一个专用窗口。这为您提供了一个随时可用的终端（如Visor，Guake或Yakuake）。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307837500327.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307837500327.jpg)
 
 在这里设置
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307911440344.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307911440344.jpg)
 
 比如我配置的一个HotKey
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307913354099.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307913354099.jpg)
 
 ### 标签变色
 
@@ -608,13 +608,13 @@ iTerm2 的标签的颜色会变化，以指示该 tab 当前的状态。当该�
 
 粘贴历史记录可让您重新访问最近复制或粘贴的文本。您甚至可以选择将历史记录保存到磁盘，以免永远丢失。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307836006100.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307836006100.jpg)
 
 ### 无鼠标复制
 
 使用“查找”功能开始搜索文本。按Tab键将选择范围扩展到右侧，或按shift键将选择范围扩展到左侧。 Option-enter粘贴当前匹配。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15307836058319.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307836058319.jpg)
 
 ### 巧用 Command 键
 
@@ -629,7 +629,7 @@ iTerm2 的标签的颜色会变化，以指示该 tab 当前的状态。当该�
 Meta 键
 在emacs中，meta键的使用非常频繁，而 OSX 系统没有提供meta键。在 iTerm2 中可以选择左右两个的Option键作为meta键。官方推荐的配置如下图所示。右Option键依然是 OSX 的默认功能（输入特殊字符）。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15236296756727.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15236296756727.jpg)
 
 [你应该知道的 iTerm2 使用方法--MAC终端工具](http://wulfric.me/2015/08/iterm2/)
 
@@ -796,7 +796,7 @@ PWA（Progressive Web Apps）是由 Google 提出的下一代 Web 应用模型�
 首先更新你的Chrome版本到64或以上。
 
 然后在地址栏输入`chrome://flags`，找到`Desktop PWAs`的选项将其`Enabled`了，然后Chrome会提示你重启浏览器。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15238171164510.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15238171164510.jpg)
 
 ## Moke
 
@@ -819,37 +819,37 @@ PWA（Progressive Web Apps）是由 Google 提出的下一代 Web 应用模型�
 
 墨客一直都遵从着苹果官方的交互规范，这在新的墨客2 中体现得更加淋漓尽致。于是新版彻底摒弃了墨客1 中的底栏滑动返回，全面采用 iOS 7 标准的边缘滑动返回。其他几处新增的交互操作中也都使用了 iOS 默认的交互方式，所以无论你是新用户还是老用户，都能很快适应。即便你是啥都不懂的小白，墨客2 适时出现的操作提示，能很好地手把手教你上手它。这种边用边熟悉的教学方式，要比一股脑一下子全部塞给你更加容易记住。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308640901607.png)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15308640901607.png)
 
 ## Mubu 幕布
 
 
 ### 幕布快捷键
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15358997976218.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15358997976218.jpg)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15358998067113.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15358998067113.jpg)
 
 ## Mweb
 
 [Mweb](http://www.mweb.im/)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15194631251558.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15194631251558.jpg)
 
 在Mac上无疑是`markdown`书写的利器，搭配上图床和快捷键，让你的文章书写的非常好看。
 
 Mac下有外部模式和文档库模式
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15194631444347.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15194631444347.jpg)
 
 `Mweb`也推出了iOS版本，样式主题很好看
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15194631548163.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15194631548163.jpg)
 
 `Tomorrow`的主题很好看
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15194631656182.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15194631656182.jpg)
 
 ###  Mweb For Mac
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15301825676551.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15301825676551.jpg)
 
 #### Mweb3.0 For Mac 快速定位焦点
  
@@ -863,9 +863,9 @@ Mac下有外部模式和文档库模式
 ### Mweb Alfred WorkFlow
 
 [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15388743865138.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15388743865138.jpg)
 2.打开MWeb偏好设置,复制对应路径到workflow变量中
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15388744283055.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15388744283055.jpg)
 
 
 ### MWeb问题
@@ -875,7 +875,7 @@ Mac下有外部模式和文档库模式
 Q：最近版本的`Mweb`在图片成功上传的图床后，无法预览
 A: 检查后发现，上传成功后的url需要添加`http://`协议才行。
 于是我把图床的默认域名添加上`http://`
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15383768466706.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15383768466706.jpg)
 
 ### Mweb图床
 
@@ -975,8 +975,8 @@ change the address "http://pyyaml.org/download/libyaml/yaml-0.1.4.tar.gz" to
 
 ### Reeder快捷键
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15304367190074.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15304367388538.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15304367190074.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15304367388538.jpg)
 
  命令 | 说明 
  --- | --- 
@@ -1048,7 +1048,7 @@ ps:刚安装好，拼音输入是繁体的，在终端 Iterm 按组合键 Ctrl+`
 
 随便点一个地址,然后会弹出个二维码，像下面这样，注意右上角，点那个纸飞机，找到那个从屏幕上扫描二维码，注意要选那个**自动代理模式**，windows 的就选 **系统代理模式**
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15343299529861.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15343299529861.jpg)
 ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 * [freeSS](https://get.ss8.fun/)
 
@@ -1056,12 +1056,12 @@ ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 
 `Chrome`的阅读模式
 [simpread](https://github.com/kenshin/simpread/wiki)    
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303554126923.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303554126923.jpg)
 
 
 ### 阅读模式与聚焦模式
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303549034647.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303549034647.jpg)
 
 * 阅读模式:独有功能，自动提取适配页面的标题、描述、正文、媒体等资源。支持临时阅读模式. TXT阅读模式.主动适配模式.智能适配模式.论坛类页面/分页。
 
@@ -1073,7 +1073,7 @@ ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 * 支持输出到Dropbox，印象笔记. Evernote . Onenote . Google云端硬盘。
 * 发送页面链接到Pocket . Instapaper . Linnk, 详细请看这里[授权服务 · Kenshin/simpread Wiki](https://github.com/Kenshin/simpread/wiki/%E6%8E%88%E6%9D%83%E6%9C%8D%E5%8A%A1)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303548876578.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303548876578.jpg)
 
 ### 站点编辑器
 
@@ -1096,7 +1096,7 @@ ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 
 v3.1.2到来的 random 插件，看似不起眼，却使 Steward 超越了传统的「New Tab」类扩展，新标签不再仅仅只是一个花瓶，比如它可以同时扮演 TodoList、书签管理、背单词等角色。
 
-![Steward 功能图示](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15130587658701.png)
+![Steward 功能图示](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15130587658701.png)
 Steward 是个人的第一个开源项目，因而从开源社区学习到了很多东西。
 
 技术栈：Webpack + Vue2，当然也有 jQuery、pinyin 这样的库
@@ -1408,7 +1408,7 @@ Hints.characters = 'yuiophjklnm'; // for right hand
 查看简书文章页面的源码，可以发现所有的标题行都放在h1,h2,h3,h4,h5,h6 标签内，所以将页面设计成在文章左侧插入列表, 按标题层级进行缩进，点击进行跳转。 
 将下面的代码贴进编辑器即可。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15234427040981.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15234427040981.jpg)
 
 ```
 // ==UserScript==
@@ -1488,16 +1488,16 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 退出TextExpander
 再次运行TEIMPrefsetter
 将中文删除即可。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15077128291686.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15077128291686.jpg)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15077128657833.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15077128657833.jpg)
 这时再运行 TEIMPrefSetter.app 便不会再报错，删除 zh-中文这项，保存，重新运行 TextExpander 就 OK 了。
 
 1. [Five Ways to Automate Your Day One Journal with TextExpander | Day One](http://dayoneapp.com/2017/01/five-ways-to-automate-your-day-one-journal-with-textexpander/)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15182603864500.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15182603864500.jpg)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15182604041517.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15182604041517.jpg)
 
 ## Things3
 
@@ -1639,7 +1639,7 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 
 由于我们默认的过滤器为全局抓包，所以抓包记录会包含所有抓取的数据。如下图所示，示例为抓取网站视频。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308406866068.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15308406866068.jpg)
 
 其中可以看到很多内容，以上图示例说明一下：
 
@@ -1652,7 +1652,7 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 
 ### 过滤器
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308740122619.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15308740122619.jpg)
 
 ### 常用的HTTP方法
 
@@ -1699,7 +1699,7 @@ TextExpander>首选项>同步>“TextExpander 5（Dropbox使用同步）。”
 
 如果你正在使用电脑查看此文章，可以打开 iOS 系统自带的相机APP，对准以下二维码，根据提示完成安装，效果一样。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308606870414.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15308606870414.jpg)
 
 参考[迅雷Beta (iOS) 内测版下载安装方法 - 简书](https://www.jianshu.com/p/f4757cfd82f8)
 
@@ -1730,11 +1730,11 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 [1Password for Mac 使用指南](https://jbguide.me/2014/09/03/1password-35/)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-08-07-15020711016494.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-07-15020711016494.jpg)
 
 ## 2Do的简单任务
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-08-15-15027911951283.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-15-15027911951283.jpg)
 
 ### 2Do参考文章
 
@@ -1746,8 +1746,8 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 #### Xcode链接iphone一直闪断
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15326666022413.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15326666332024.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15326666022413.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15326666332024.jpg)
 
 发现一个Xcode链接iphone一直闪断的问题，提示说软件下载更新才能连接，但是下载失败，还以为是数据线接触不良或者是Xcode版本不支持，后来发现开启省电模式就可以了。
 [A software update is required to connect to your iOS device / iPhone - Ask Different](https://apple.stackexchange.com/questions/327310/a-software-update-is-required-to-connect-to-your-ios-device-iphone)
@@ -1806,12 +1806,12 @@ Valley jse://run?file=APPValley.js
 
 发现以前设置的地区是米国，所以在iOS的Safari搜索引擎设置中没有找到baidu.
 切换回中国🇨🇳就可以了。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308987115979.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15308987115979.jpg)
 
 * Safari的阅读模式
 
 发现Safari的阅读模式每次都自动进入，发现是长按可以唤起菜单设置的。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15308987360120.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15308987360120.jpg)
 
 
 # 常见问题
@@ -1831,7 +1831,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app"
 
 方法：打开电脑的系统偏好设置-->安全与隐私，如图下如果没有第三项“任何来源”这个选项，就要打开终端运行：`sudo spctl --master-disable` ，重新进入"安全与隐私"就会出现打开的选项
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15161963030407.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15161963030407.jpg)
 ```
 //先禁止
 sudo spctl --master-disable
@@ -1848,25 +1848,25 @@ sudo spctl --master-enable
 本来我是不想把`Github Desktop`加进来的，没想到它今天抽了一个错误，为了记录一下我还是写一下。
 
 报的错误：
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303368203935.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303368203935.jpg)
 
 估计是钥匙串的访问权限问题
 找到一篇文章：[GitHub Desktop was unable to store the account token in the keychain · Issue #4614 · desktop/desktop](https://github.com/desktop/desktop/issues/4614)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15303369966352.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303369966352.jpg)
 参考[desktop/known-issues.md at master · desktop/desktop](desktop/known-issues.md at master · desktop/desktop)
 
 ## MicroSoft Word 弹窗问题
 
 在Mac上使用word过程中，有时候经常出现这种弹窗:
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294901445351.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294901483362.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15294901445351.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15294901483362.jpg)
 
 这是模板的问题，在设置中找到模板文件路径
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294900549396.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15294900549396.jpg)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15294900170729.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15294900170729.jpg)
 
 删除这个文件，然后重启Word,这个文件会重新生成。（估计模板文件出了问题）
 

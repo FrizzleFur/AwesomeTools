@@ -10,23 +10,23 @@
 
 `curl -fsSL https://raw.githubusercontent.com/wakatime/xcode-wakatime/master/install.sh | sh`
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-05-19-14951627801266.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-05-19-14951627801266.jpg)
 
 `Xcode`会弹出加载插件的提示，点击`Load Bundles`
 ![](http://www.skyfox.org/wp-content/uploads/2016/03/A1375B86-B39C-4898-B19D-65B50B8FC652.jpg)
 然后提示输入`WakaTime`的APIkey,在个人账号信息中。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-05-19-14951629506636.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-05-19-14951629506636.jpg)
 
 
 ### 3rd Party Integrations
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-05-19-14951633105350.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-05-19-14951633105350.jpg)
 
 后面数据积累多后，可以考虑链接[Timely](https://timelyapp.com/)和[Zenobase](https://zenobase.com/)来进行分析
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-05-19-14951633593320.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-05-19-14951633593320.jpg)
 
 [Zenobase](https://zenobase.com/)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-05-19-14951634226176.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-05-19-14951634226176.jpg)
 
 ### WakaTime FAQ
 
@@ -74,7 +74,7 @@ As a last resort use custom rules:
 
 要删除项目，首先删除使用编码活动删除工具的[编码活动](https://wakatime.com/code-delete-tool).
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/2017-05-19-14951650055930.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-05-19-14951650055930.jpg)
 
 移除项目的编码活动后，您可以从项目的仪表板中删除项目。没有编码活动的项目仪表板在右上角会有一个“垃圾图标”。
 若要排除项目的以后统计，请将项目的路径添加到设置里的`$HOME/.wakatime.cfg` 文件。

@@ -24,11 +24,11 @@ Vim是从`vi`发展出来的一个文本编辑器。代码补完、编译及错�
 
 使用Vi来编辑文件：
 
-![使用Vi来编辑文件](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295536612775.jpg)
+![使用Vi来编辑文件](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536612775.jpg)
 
 Vi有三种模式：
 
-![Vi有三种模式](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295534530042.jpg)
+![Vi有三种模式](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295534530042.jpg)
 
 
 ## 1.1 普通模式
@@ -51,7 +51,7 @@ Vi有三种模式：
 ## 1.2 插入模式
 
 在 Normal 模式下输入插入命令 `i、 a 、 o`进入insert模式。用户输入的任何字符都被vim**当做文件内容保存起来**，并将其显示在屏幕上。
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15311962564268.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311962564268.jpg)
 
 * 在文本输入过程中，若想回到Normal模式下，按 Esc 键即可。
 
@@ -104,14 +104,14 @@ Normal 模式下，用户按冒号 `:`即可进入 Command 模式，此时 vim �
 
 ## Motion
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15311967218523.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311967218523.jpg)
 数字 + [motion] = 重复多个[motion]
 
 
 ## 删除命令
 
 d + [motion]
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15311968436967.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311968436967.jpg)
 
 d + [数字] + [motion] = 删除多个[motion]范围
 
@@ -165,7 +165,7 @@ Weird !!
 ## 修改模式
 
 VIM用C命令实现修改: C [数字] motion
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15311987911491.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311987911491.jpg)
 修改 == 删除 十 进入插入模式
 
 ## 文件信息
@@ -178,18 +178,18 @@ Ctrl + g
 
 > 在用户主目录下，执行vi程序，编辑文件install.log；移动光标到第10行，第五个字符；按大写字母G，达到文件末尾；不存盘退出；
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295535450600.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295535450600.jpg)
 
 > 在用户主目录下，执行vi程序，编辑文件install.log；用/命令查找字符串sudo，复制包含字符串sudo的行
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295536089358.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536089358.jpg)
 
 
 > 在用户主目录下，执行vi程序，编辑文件install.log；进入命令模式，设置显示行号；用？命令查找字符串openssh，用命令n查找下一个
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295536218243.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536218243.jpg)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295536294515.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536294515.jpg)
 
 
 ## vi/vim 使用实例
@@ -202,7 +202,7 @@ $ vi runoob.txt
 
 直接输入** vi 文件名 **就能够进入 vi 的一般模式了。请注意，记得 vi 后面一定要加文件名，不管该文件存在与否！
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295559313018.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559313018.jpg)
 
 ### 按下 i 进入输入模式(也称为编辑模式)，开始编辑文字
 
@@ -212,7 +212,7 @@ $ vi runoob.txt
 
 这个时候，键盘上除了 **Esc** 这个按键之外，其他的按键都可以视作为一般的输入按钮了，所以你可以进行任何的编辑。
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295559394282.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559394282.jpg)
 
 ### 按下 ESC 按钮回到一般模式
 
@@ -222,7 +222,7 @@ $ vi runoob.txt
 
 OK，我们要存档了，存盘并离开的指令很简单，输入 **:wq** 即可保存离开！
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15295559471425.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559471425.jpg)
 
 OK! 这样我们就成功创建了一个 runoob.txt 的文件。
 

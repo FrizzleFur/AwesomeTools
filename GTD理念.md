@@ -1,6 +1,6 @@
 # GTD理念
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15056676660782.png)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15056676660782.png)
 
 
 ## 3\. 入门教程及相关资源推荐

@@ -7,15 +7,15 @@
 
 [适用于 Gmail 的键盘快捷键 - 计算机 - Gmail帮助](https://support.google.com/mail/answer/6594?hl=zh-Hans)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15238089894204.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15238089894204.jpg)
 
 #### 写邮件和聊天
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15238089690190.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15238089690190.jpg)
 
 #### 设置文本格式
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15238089381895.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15238089381895.jpg)
 
 ### 搜索条件
 
@@ -169,13 +169,13 @@ Gmail有很多筛选选项，比如只归档超过一定大小的邮件。阅读
 
 
 Mac的`Spark`突然一直访问不了
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15309444424409.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15309444424409.jpg)
 
 后来查看到谷歌的帮助
 设置 IMAP 并更改您的 SMTP 设置，即可在其他邮件客户端（如 Microsoft Outlook 和 Apple Mail）中阅读 Gmail 邮件。使用 IMAP 时，您可以在多台设备上阅读 Gmail 邮件，而且邮件还会实时同步。您也可以使用 POP 阅读 Gmail 邮件。
 
 [使用 IMAP 在其他电子邮件客户端上查看 Gmail - Gmail帮助](https://support.google.com/mail/answer/7126229?hl=zh-Hans)
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/15309443874362.jpg)
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15309443874362.jpg)
 
 需要启用 IMAP。  
