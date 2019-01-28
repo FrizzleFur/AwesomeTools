@@ -669,6 +669,7 @@ hosts文件可以到github或者百度上找
 20. [DouyuTools](https://greasyfork.org/zh-CN/scripts/18613-douyutools)
 21. [哔哩哔哩（bilibili.com）播放器调整](https://greasyfork.org/zh-CN/scripts/21284-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-bilibili-com-%E6%92%AD%E6%94%BE%E5%99%A8%E8%B0%83%E6%95%B4)
 参考 [这 40+ 款 Chrome 油猴扩展，让你的 Chrome 变成「真 · 神器」](https://zhuanlan.zhihu.com/p/32155254)
+22. [the1812/Bilibili-Evolved: 增强哔哩哔哩Web端体验: 下载视频, 封面, 弹幕; 自定义播放器的画质, 模式, 布局; 删除广告, 使用夜间模式, 修复界面瑕疵; 以及增加对触屏设备的支持等.](https://github.com/the1812/Bilibili-Evolved#%E5%AE%89%E8%A3%85)
 
 
 ###### 下载助手无法显示
