@@ -3,31 +3,28 @@
 > There are always some awesome tools to improve productivity.
 
 
+
+## [AwesomeToolsList](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E5%B7%A5%E5%85%B7%E8%A7%A3%E6%9E%90.md) 💎 
+
+How to use AwesomeTools 
+
 ## [AwesomeToolsList](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md) 🚀
 
 My productivity tool list of Mac, Phone, and Web in developing and schedule.
 
-## [AwesomeToolsList](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E5%B7%A5%E5%85%B7%E8%A7%A3%E6%9E%90.md) 💖
-
-How to use AwesomeTools 
-
-
-## [AwesomeScripts.md](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E8%84%9A%E6%9C%AC/AwesomeScripts.md)
+## Favorate 💖
 
 ### [Alfred tutorial](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/%E5%B7%A5%E5%85%B7-Alfred%E6%95%99%E7%A8%8B.md)
 
-
 ### [MWeb](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E5%B7%A5%E5%85%B7%E8%A7%A3%E6%9E%90.md#mweb)
 
-
-## [GTD](https://github.com/FrizzleFur/AwesomeTools/blob/master/GTD%E7%90%86%E5%BF%B5.md)
-
-GTD tutorial~
-
-## Automator
+### Automator
 
 [Automator 简单介绍及入门玩法 | Matrix 精选](https://sspai.com/post/36667)
 [Automator 简单介绍及入门玩法](https://sspai.com/post/36658)
 [AppleScript学习笔记（一）初识AppleScript](http://blog.csdn.net/jymn_chen/article/details/19755895)
 
 
+## [GTD](https://github.com/FrizzleFur/AwesomeTools/blob/master/GTD%E7%90%86%E5%BF%B5.md)
+
+GTD tutorial~
