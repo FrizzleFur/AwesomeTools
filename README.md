@@ -12,7 +12,7 @@ How to use AwesomeTools
 
 My productivity tool list of Mac, Phone, and Web in developing and schedule.
 
-## Favorate 💖
+## Favorite 💖
 
 ### [Alfred tutorial](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/%E5%B7%A5%E5%85%B7-Alfred%E6%95%99%E7%A8%8B.md)
 
