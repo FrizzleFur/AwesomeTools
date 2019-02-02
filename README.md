@@ -1,14 +1,28 @@
 # AwesomeTools
-There are always some awesome tools to improve productivity.
 
-## [MMProductivityTools](https://github.com/FrizzleFur/AwesomeTools/blob/master/MMProductivityTools.md)
-> My productivity tools of Mac, Phone, and Web in developing and schedule.
+> There are always some awesome tools to improve productivity.
 
 
-## [一个好用的信息黏贴Flow](https://github.com/FrizzleFur/AwesomeTools/blob/master/PasteFlow.md)
+## [AwesomeToolsList](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md) 🚀
+
+My productivity tool list of Mac, Phone, and Web in developing and schedule.
+
+## [AwesomeToolsList](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E5%B7%A5%E5%85%B7%E8%A7%A3%E6%9E%90.md) 💖
+
+How to use AwesomeTools 
 
 
-## [MWeb](https://github.com/FrizzleFur/AwesomeTools/blob/master/MWeb.md)
+## [AwesomeScripts.md](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E8%84%9A%E6%9C%AC/AwesomeScripts.md)
+
+### [Alfred tutorial](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/%E5%B7%A5%E5%85%B7-Alfred%E6%95%99%E7%A8%8B.md)
+
+
+### [MWeb](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E5%B7%A5%E5%85%B7%E8%A7%A3%E6%9E%90.md#mweb)
+
+
+## [GTD](https://github.com/FrizzleFur/AwesomeTools/blob/master/GTD%E7%90%86%E5%BF%B5.md)
+
+GTD tutorial~
 
 ## Automator
 
