@@ -470,6 +470,23 @@ Karabiner-Elements 允许你设置多个 Profile（配置），每个 Profile �
 
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15305186914657.png)
 
+### 复杂修改：让方向键更顺手
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190203104141.png)
+
+用 Karabiner-Elements 打造 Vim 风格的方向键。也许你对这个词感到陌生，还会奇怪，干嘛放着 MacBook 上好好的方向键不用？其实，Mac 自带键盘的方向键位于右下角，打字时把爪子挪过去点很不方便，而 Vim 式的操作中，可以挪用 HJKL 四枚按键，调教一下充当方向键，打字时手掌都不用抬起，就能实现光标的移动，很快捷。
+
+Karabiner-Elements 里自带了 Vim 风格的方向键，在「Complex Modifications（复杂修改）」中可以把右侧的 ⌘Command 键和 HJKL 四大金刚组合起来，达到更快捷的光标移动效果。如果这组设计让你觉得硌手，那么 官方 还有更多的键位可供选择。
+
+Complex Modifications 还能自己编写（具体方法这里不展开），也许有人会喜欢图示那组 WASD 版本的方向键 :D。我买的HHKB键盘是 60% 布局，虽然能通过 Fn 键和右下角的几颗键组合来实现方向键功能，但我还是更喜欢 Vim 布局，此时 Karabiner-Elements 就派上用场。   
+
+[karabiner-elements-complex_modifications](https://pqrs.org/osx/karabiner/complex_modifications/)
+
+我所用到的是
+[Vi的方向设置](https://pqrs.org/osx/karabiner/complex_modifications/#gamer_keys)
+[Vi的方向设置](https://pqrs.org/osx/karabiner/complex_modifications/#vi_mode_arrow)
+
+
 ### 与 Keyboard Maestro 的联动
 
 实例：Hyper 键与 Keyboard Maestro 的联动
