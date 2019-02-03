@@ -703,6 +703,12 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 1. [Trello](https://trello.com/guide) 看板，`[SCRUM](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/task-boards)`工具
 
+#### Blog
+
+[Realfavicongenerator](https://realfavicongenerator.net/)
+
+
+ 
 ### Web Helper
 
 1. [Watchtower](https://watchtower.agilebits.com/)
