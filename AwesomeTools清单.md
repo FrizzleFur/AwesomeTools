@@ -45,12 +45,12 @@
 #### Pool 资源
 
 1. [电驴](http://www.verycd.com/)电驴，分布式的文件基于点对点原理传输，集成ed2k协议，配合Thuder下载快的飞起，注意，资源链接，在"www.verycd."后插入"gdajie"就可获取
-1. [周读](http://www.ireadweek.com/)电子书资源
-2. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
-2. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.
-3. [流媒体NB工具](http://vp-hub.eqoe.cn/)Bili
-4. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
-5. [Pixabay](https://pixabay.com/)  免费高清图片~
+2. [周读](http://www.ireadweek.com/)电子书资源
+3. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
+4. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.You-Get 乃一小小哒命令行程序，提供便利的方式来下载网络上的媒体信息。
+5. [流媒体NB工具](http://vp-hub.eqoe.cn/)Bili
+6. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
+7. [Pixabay](https://pixabay.com/)  免费高清图片~
 
 
 #### Alfred Workflow Pool
