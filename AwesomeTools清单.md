@@ -226,6 +226,10 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 26. [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)截图，取色，查看坐标
 27. [CODELF](https://unbug.github.io/codelf/) 变量命名
 
+28. [Pixel Winch](https://www.ricciadams.com/projects/pixel-winch)Pixel Winch is a screen measurement app with a unique approach – rather than overlaying complicated controls on top of your existing workflow, it uses an interface similar to a traditional image editor.
+
+
+
 #### Developing Tools
 
 1. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
