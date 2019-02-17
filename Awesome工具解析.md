@@ -565,6 +565,7 @@ Type km followed by the name of any of your defined macros.
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15161588048779.jpg)
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15161588526427.jpg)
 
+
 ##  iTerm2
 
 [Features - iTerm2 - macOS Terminal Replacement](https://iterm2.com/features.html)
@@ -583,8 +584,8 @@ iTerm2 的一些特色功能如下：
 
 首先，打开iTerm2的Preferences设置：
 然后，选择相应的Profile（默认为Default），选择“Keys”选项卡，然后可以在Key Mappings看到option+←和option+→这两组快捷键用作了其他功能，这里我们只需要重新绑定新的映射即可（下图是已经绑定之后的新映射）。
-![](oc98nass3.bkt.clouddn.com/15380112903232.jpg)
-![](oc98nass3.bkt.clouddn.com/15380112409124.jpg)
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15380112903232.jpg)
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15380112409124.jpg)
 
 分别修改option+←和option+→的映射如下图所示，选择Action为“Send Escape Sequence”，然后输入“b”和“f”即可。
 

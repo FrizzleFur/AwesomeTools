@@ -304,3 +304,31 @@ GitHub Integration Commands Listing
 
 
 
+
+
+## 终端
+
+### Fuzzy finder
+
+> Fuzzy finder(fzf+vim) 使用全指南
+> Fuzzy finder 是一款使用 GO 语言编写的交互式的 Unix 命令行工具。可以用来查找任何 列表 内容，文件、Git 分支、进程等。所有的命令行工具可以生成列表输出的都可以再通过管道 pipe 到 fzf 上进行搜索和查找
+
+#### 升级
+cd ~/.fzf && git pull && ./install
+原生使用
+fzf默认会从STDIN读入数据，然后将结果输出到STDOUT
+
+find * -type f | fzf > selected
+上面命令从find的搜索结果中读入，输出到文件selected中
+
+#### fzf里的快捷键
+在finder（输出交换窗口）里，
+
+Ctrl-J/Ctrl-K/Ctrl-N/Ctrlk-N可以用来将光标上下移动
+Enter键用来选中条目， Ctrl-C/Ctrl-G/Esc用来退出
+在多选模式下（-m), TAB和Shift-TAB用来多选
+Mouse: 上下滚动， 选中， 双击； Shift-click或shift-scoll用于多选模式
+
+
+1. [Fuzzy Finder(fzf+vim) 使用全指南 | itgoyo'blog](https://itgoyo.github.io/2019/01/14/Fuzzy%20Finder(fzf+vim)%20%E4%BD%BF%E7%94%A8%E5%85%A8%E6%8C%87%E5%8D%97/)
+2. [模糊搜索神器fzf - 执手未辰 - 博客园](https://www.cnblogs.com/harriszh/p/7616966.html)
