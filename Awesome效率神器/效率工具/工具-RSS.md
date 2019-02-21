@@ -1,4 +1,59 @@
-# RSS
+# 工具-RSS
+
+
+## 我的RSS
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190221114323.png)
+
+* 博客
+* my github news
+* 老司机周报
+* 干货.io
+* 少数派
+
+
+```
+
+http://gh-feed.imsun.net/ShannonChenCHN/iOSDevLevelingUp/issues
+
+http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues/1148
+
+http://gh-feed.imsun.net/ChenYilong/iOSInterviewQuestions/issues
+
+http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues
+
+
+http://gh-feed.imsun.net/JimmyLv/jimmylv.github.io/issues
+
+```
+## RSS 获取
+
+
+🚀 Chrome/Firefox Extension to retreive RSS feeds URLs from WebSite, RSSHub supported
+
+Easy-to-RSS 是一个一键式发现当前网页RSS的 chrome/firefox extension，计划与RSSHub联动并支持更多网页。
+
+
+[idealclover/Easy-to-RSS: 🚀 Chrome/Firefox Extension to retreive RSS feeds URLs from WebSite, RSSHub supported](https://github.com/idealclover/Easy-to-RSS)
+
+当前支持一键RSSHub订阅的网站：
+
+* Bilibili: 用户投币视频，用户收藏夹
+* 3dm game: 完全支持
+* 简书: 完全支持
+* 知乎：完全支持
+* 微博：完全支持
+* GitHub: issues
+* 即刻：完全支持
+* 微信公众号（瓦斯方式）：完全支持
+* Instagram：完全支持
+* twitter：完全支持
+* Youtube: 完全支持
+
+
+
+#### Github issue Rss
+[如何使用 Feed 订阅 GitHub Issues | I'm Sun](https://imsun.net/posts/gh-feed/)
 
 ### 用 TINY TINY RSS 自建 RSS 服务
 
