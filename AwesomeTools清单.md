@@ -593,34 +593,35 @@ hosts文件可以到github或者百度上找
 8. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15076239784340.jpg)
 9. [Kyle-Kyle/baidudl: Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned](https://github.com/Kyle-Kyle/baidudl)百度云直链下载,配合Aria2
+10. [Markdown Here](https://markdown-here.com/) Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
 
 #### RSS Read
 
-9. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
+11. [Instapaper](https://chrome.google.com/webstore/detail/ldjkgaaoikpmhmkelcgkgacicjfbofhh) RSS神器
 
-10. [Linnk](https://linnk.net/) 全能书签管家[Chrome拓展](https://chrome.google.com/webstore/detail/linnk/bflmgpechpeohjfomgfdkkfcbhfcjohl)
+12. [Linnk](https://linnk.net/) 全能书签管家[Chrome拓展](https://chrome.google.com/webstore/detail/linnk/bflmgpechpeohjfomgfdkkfcbhfcjohl)
 
-11. [Diigo](https://www.diigo.com/index)  会不会是最好用的web知识工具╮(✪ω✪)╭
+13. [Diigo](https://www.diigo.com/index)  会不会是最好用的web知识工具╮(✪ω✪)╭
 
-12. [Raindrop](https://raindrop.io/app/) Rss工具
+14. [Raindrop](https://raindrop.io/app/) Rss工具
 
 
 #### Ad
 
-13. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
-14. [Ublock-origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)    有过滤器的Ad killer.
-15. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
+15. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
+16. [Ublock-origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)    有过滤器的Ad killer.
+17. [Gwdang](http://www.gwdang.com/) Shopping党必备， Save your money & time.
 
 #### CSS
 
-16. [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)Stylus 是一个调整网页外观的用户样式管理器。它可让您轻松地为许多热门网站网站安装主题和皮肤。在Stylish的分支 1.5.2 版本基础上开发了 Stylus。Stylus 重写并优化了大部分的代码以提高性能。
+18. [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)Stylus 是一个调整网页外观的用户样式管理器。它可让您轻松地为许多热门网站网站安装主题和皮肤。在Stylish的分支 1.5.2 版本基础上开发了 Stylus。Stylus 重写并优化了大部分的代码以提高性能。
 
-17. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；[SimpRead 简悦 - 让你瞬间进入沉浸式阅读的 Chrome extension](http://ksria.com/simpread/gallery/)简悦有更新啦，加入了对`Instapaper`的支持，作者很高效
-18. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
+19. [简悦](https://sspai.com/post/40772)  简悦，web沉浸式阅读，简悦的作者让我明白2个道理：1. 根据自己的需求做产品；2. 对于知识，收集和整理和总结要分开分步做；[SimpRead 简悦 - 让你瞬间进入沉浸式阅读的 Chrome extension](http://ksria.com/simpread/gallery/)简悦有更新啦，加入了对`Instapaper`的支持，作者很高效
+20. [远方](https://chrome.google.com/webstore/detail/dream-afar-new-tab/henmfoppjjkcencpbjaigfahdjlgpegn) 挺用心的壁纸主题
 
-19. [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related)这是一个护眼扩展程序，通过实时生成黑色主题，为每一个网站启用夜间模式。 Dark Reader反转明亮的颜色，使其网页内容具有高对比度并且在易于夜间阅读。
+21. [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related)这是一个护眼扩展程序，通过实时生成黑色主题，为每一个网站启用夜间模式。 Dark Reader反转明亮的颜色，使其网页内容具有高对比度并且在易于夜间阅读。
 
-20.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
+22.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
 
 #### Develop
 
