@@ -114,8 +114,9 @@ ShadowsocksR (R)：http://omgib13x8.bkt.clouddn.com/ssr-win.7z
 
 ## Shadowsocks免费账号 
 
-1. [Shadowsocks免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
+*[Shadowsocks免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 * [freeSS](https://get.ss8.fun/)
+* [freess](https://github.com/max2max/freess)
 
 打开[portfolio-preview](https://ss.freess.org/#portfolio-preview) ,然后你会看到这个界面
 
