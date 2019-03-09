@@ -32,10 +32,15 @@ Shadowsocks的全局模式，是设置你的系统代理的代理服务器，使
 * 注释 ! 如 ! Comment
 * 分隔符^，表示除了字母、数字或者 _ - . % 之外的任何字符。如 http://example.com^ ，http://example.com/ 和 http://example.com:8000/ 均满足条件，而 http://example.com.ar/ 不满足条件
 
-### SS Mac客户端
+## SS Mac客户端
+
+### Mac客户端
 
 [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
 
+### iOS客户端
+
+[herzmut/shadowsocks-iOS: Fork of shadowsocks/shadowsocks-iOS](https://github.com/herzmut/shadowsocks-iOS))
 
 ## Surge网络请求过滤神器
 
