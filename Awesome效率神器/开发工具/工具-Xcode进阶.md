@@ -210,9 +210,12 @@ The rest of the jump bar consists of heierarchial navigation with each level giv
 1. 自动补全 [HHEnumeration-Xcode ](https://github.com/youssman/awesome-xcode-plugins)
 [molon/MLAutoReplace: Xcode plugin which help you write code faster.](https://github.com/molon/MLAutoReplace)
 2. XAlign
+
+
 ![](https://i.loli.net/2018/10/21/5bcc92d432f92.jpg)
 
-3. [pdcgomes/XCActionBar: "Alfred for Xcode" plugin](https://github.com/pdcgomes/XCActionBar)
+1. [pdcgomes/XCActionBar: "Alfred for Xcode" plugin](https://github.com/pdcgomes/XCActionBar)
+2. 
 ![](https://i.loli.net/2018/10/21/5bcc934e71953.gif)
 
 4. [trawor/XToDo: Xcode plugin to collect and list the `TODO`,`FIXME`,`???`,`!!!!`](https://github.com/trawor/XToDo)
