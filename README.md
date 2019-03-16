@@ -2,9 +2,8 @@
 
 > There are always some awesome tools to improve productivity.
 
-
-
 ## [AwesomeToolsList](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E5%B7%A5%E5%85%B7%E8%A7%A3%E6%9E%90.md) 💎 
+[nikitavoloboev/my-mac-os: List of applications and tools that make my macOS experience even more amazing](https://github.com/nikitavoloboev/my-mac-os)💎 
 
 How to use AwesomeTools 
 
