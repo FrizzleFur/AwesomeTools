@@ -103,7 +103,8 @@
 9. [MacBooster](http://xclient.info/s/mac-booster.html) 长得有点像CleanMyMac，Who can tell the difference?10. [DrCleaner](https://www.drcleaner.com/)
 11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
 11. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307796714334.jpg)并且可以快捷键召唤Dock上的Apps
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307796714334.jpg)
+并且可以快捷键召唤Dock上的Apps
 1. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
 2. [**HammerSpoon**](https://github.com/Hammerspoon/hammerspoon)是一个可以用来进行窗口管理的 App，开源免费。当然，功能也不仅限于此,Hammerspoon 使用脚本语言来操作 OS X 的系统 API。使很多自动化操作成为可能。[Hammerspoon, OS X 上的全能窗口管理器 – 宋辰文](https://songchenwen.com/tech/2015/04/02/hammerspoon-mac-window-manager/)[Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
 3. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
