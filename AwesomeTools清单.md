@@ -57,13 +57,12 @@
 
 1. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
 2. [Packal Workflow Search | Packal](http://www.packal.org/workflow/packal-workflow-search) WorkFlow Pool on Packal.org [Packal——Alfred Workflows](http://www.packal.org/) 最新[Packal-Search-1.4.1.alfredworkflow](https://github.com/deanishe/alfred-packal-search/blob/master/Packal-Search-1.4.1.alfredworkflow)
-3.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
+3. [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
 4. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)Top Process Workflow
 5. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
 6. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
 7. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
-8. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
-9. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+8. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15302609850440.jpg)
 10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 可以直接使用Dash的设置集成
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303347565431.jpg)
@@ -75,7 +74,7 @@
 6. [TKkk-iOSer/wechat-alfred-workflow: wechat workflow for Alfred：微信快速发送消息 & 打开聊天窗口 & 查看聊天记录 & more…](https://github.com/TKkk-iOSer/wechat-alfred-workflow)
 7. [QQPlugin-macOS/QQ Plugin.alfredworkflow at master · TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS/blob/master/Other/QQ%20Plugin.alfredworkflow)
 8. [Hide Desktop | Packal](http://www.packal.org/workflow/hide-desktop)隐藏桌面文件
-9. [AlfredWorkflow-Recent-Documents/README_CN.md at master · mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents/blob/master/README_CN.md)解决了我反复查看最近打开文档的需求~nice
+9. [AlfredWorkflow-Recent-Documents/README_CN.md at master · mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents/releases)解决了我反复查看最近打开文档的需求~nice
 
 
 ## Mac
@@ -107,26 +106,27 @@
 1. [Moon](https://itunes.apple.com/hk/app/moom/id419330170?mt=12)  拯救你的Mac窗口,有了Moon就不用Sizeup了，定制化你的需求！
 2. [**HammerSpoon**](https://github.com/Hammerspoon/hammerspoon)是一个可以用来进行窗口管理的 App，开源免费。当然，功能也不仅限于此,Hammerspoon 使用脚本语言来操作 OS X 的系统 API。使很多自动化操作成为可能。[Hammerspoon, OS X 上的全能窗口管理器 – 宋辰文](https://songchenwen.com/tech/2015/04/02/hammerspoon-mac-window-manager/)[Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
 3. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
-4. [jietu](http://jietu.qq.com/) 轻松便捷爱截图和`snip`都是腾讯下的截图工具，添加了录屏功能，可以二维码分享，感觉更方便。
-5. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
-6. [Flux](https://justgetflux.com/) 拯救你的视力18. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
-7. [Iris Pro](Iris Pro for Mac|Iris Pro Mac版下载 V1.0.9 - PC6苹果网) 防蓝光护眼
-8. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
-9. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
-10. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
-11. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
-12. [Surge](https://nssurge.com/)  还未使用过的网络调试神器
-13. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
-14. [Quantumult](https://www.logcg.com/archives/2968.html)Quantumult 是类似ShadowsocksX的工具，新出不久[Quantumult](https://github.com/JasonLee-Go/Quantumult)
-15. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
-16. [CloudConvert](https://cloudconvert.com/) convert anything to anything~
-17. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
-18. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
-19. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
-20. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
-21. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
-22. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
-23. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
+4. [Releases · Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo/releases)Nice图床
+5. [jietu](http://jietu.qq.com/) 轻松便捷爱截图和`snip`都是腾讯下的截图工具，添加了录屏功能，可以二维码分享，感觉更方便。
+6. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
+7. [Flux](https://justgetflux.com/) 拯救你的视力18. [BarTender](https://www.macbartender.com/) 拯救你的Mac菜单栏
+8. [Iris Pro](Iris Pro for Mac|Iris Pro Mac版下载 V1.0.9 - PC6苹果网) 防蓝光护眼
+9. [Hotkey-eve](http://www.hotkey-eve.com/)    快捷键训练师
+10. [BitBar](https://getbitbar.com/)  Mac菜单栏上的神器
+11. [Paste](http://pasteapp.me/)    Mac最好用的黏贴板管理Tool
+12. [Popclip](https://pilotmoon.com/popclip/) 就看中可以支持调出`MarkDown`菜单
+13. [Surge](https://nssurge.com/)  还未使用过的网络调试神器
+14. [ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases/)    🚀
+15. [Quantumult](https://www.logcg.com/archives/2968.html)Quantumult 是类似ShadowsocksX的工具，新出不久[Quantumult](https://github.com/JasonLee-Go/Quantumult)
+16. [Mactracker](https://itunes.apple.com/cn/app/mactracker/id430255202?mt=12) 苹果设备信息大全
+17. [CloudConvert](https://cloudconvert.com/) convert anything to anything~
+18. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
+19. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
+20. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
+21. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+22. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+23. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+24. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
 
 #### 下载
 

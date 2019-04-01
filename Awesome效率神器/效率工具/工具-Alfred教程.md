@@ -1,4 +1,4 @@
-## Alfred教程
+## Alfred教程£
 
 ![image](http://upload-images.jianshu.io/upload_images/225323-9241e9deef92a341.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
@@ -436,7 +436,7 @@ mkdir -p "$HOME/Library/Caches/com.runningwithcrayons.Alfred-2/Workflow Data/"
 
 参考 [`No such file or directory` when running the updater · Issue #9 · shawnrice/packal-updater](https://github.com/shawnrice/packal-updater/issues/9)
 
-#### 5.Cracked Alfred Workflow 不工作
+#### 5. Cracked Alfred Workflow 不工作
 
 破解后的Alfred3安装Workflow后，发现hotkey和keyword失效，无法召唤Workflow。(T＿T)
 
