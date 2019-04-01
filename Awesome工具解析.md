@@ -73,6 +73,10 @@
 
 然后在所有的下载链接上右键选择ARIA2 RPC进行下载就可以了。
 
+##### 参考Aria2
+
+[Aria2+YAAW+Tampermonkey下载百度云文件](http://www.51yimo.com/2018/01/04/aria2-yaaw/)
+[Mac 上有什么比较好用的下载工具？ - 知乎](https://www.zhihu.com/question/19552868)
 
 #### 百度云大文件链接
 
@@ -124,14 +128,10 @@ aria2c --conf-path="/Applications/Aria2GUI.app/Contents/Resources/aria2.conf" -D
 /Applications/Aria2GUI.app/Contents/Resources/aria2.conf
 ```
 * 同一服务器连接数 设置为 16 （最高）
-* ™大线程数 默认是5，可以改成10（或更高）
+* 单个任务最大线程数 默认是5，可以改成10（或更高）
 
 如果线程数不够，可以在设置中添加线程数量，
 
-### 参考Aria2
-
-[Aria2+YAAW+Tampermonkey下载百度云文件](http://www.51yimo.com/2018/01/04/aria2-yaaw/)
-[Mac 上有什么比较好用的下载工具？ - 知乎](https://www.zhihu.com/question/19552868)
 
 ### Aria2 On Web
 
@@ -309,6 +309,8 @@ key = m[5:8]+'-'+ m[8:11]+'-'+m[11:14]+'-'+m[14:17]
  
 print key
 ```
+
+
 
 ```
 ffur@apple.com
