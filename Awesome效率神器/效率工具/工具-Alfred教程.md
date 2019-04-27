@@ -449,6 +449,13 @@ mkdir -p "$HOME/Library/Caches/com.runningwithcrayons.Alfred-2/Workflow Data/"
 3. 打开`license.plist`文件和`Alfred.alfredpreference`文件
 4. 重启Alfred3, it worked~ 斗图的Workflow也可以正常使用了。
 
+5. Alfred打不开：重签名
+```
+codesign --sign - --force --deep /Applications/Alfred\ 3.app 
+codesign --sign - --force --deep /Applications/Alfred\ 3.app/Contents/Preferences/Alfred\ Preferences.app
+```
+
+
 ### 参考 
 
 1. [Incompatible Python workflow library](https://www.alfredapp.com/help/troubleshooting/incompatible-python-workflow-library/)
