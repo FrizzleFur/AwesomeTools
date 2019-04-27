@@ -1,0 +1,30 @@
+# All Apps
+ls -lh /Applications > /Users/michaelmao/Desktop/MyResouce/BackUp/AAAppsBackup/AppList/AppList.txt
+
+# MAS Apps
+/usr/local/bin/mas list> /Users/michaelmao/Desktop/MyResouce/BackUp/AAAppsBackup/AppList/Mas_AppList.txt
+
+# brew Apps
+/usr/local/bin/brew list > /Users/michaelmao/Desktop/MyResouce/BackUp/AAAppsBackup/AppList/Brew_AppList.txt
+
+# brew cask Apps
+/usr/local/bin/brew cask list > /Users/michaelmao/Desktop/MyResouce/BackUp/AAAppsBackup/AppList/BrewCast_AppList.txt
+
+
+#二、自动安装
+
+# 进入 AAAppsBackup 中的 AppList 文件夹
+cd /Users/michaelmao/Desktop/MyResouce/BackUp/AAAppsBackup/AppList/
+
+# 生成 Mas_AppList 安装命令
+cat Mas_AppList.txt | sed "s/(.*)//g" | sed -Ee 's/([0-9]+) (.+)/mas install \1 #\2/g' > ~/Desktop/AppInstaller
+
+# 生成 Brew_AppList 安装命令
+echo "\nbrew install $(cat Brew_AppList.txt | tr '\n' ' ')" >> ~/Desktop/AppInstaller
+
+# 生成 BrewCask_AppList 安装命令
+echo "\nbrew cask install $(cat BrewCast_AppList.txt | tr '\n' ' ')" >> ~/Desktop/AppInstaller
+
+# 开始安装
+chmod +x ~/Desktop/AppInstaller
+~/Desktop/AppInstaller

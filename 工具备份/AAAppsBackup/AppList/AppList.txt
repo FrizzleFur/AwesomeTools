@@ -1,0 +1,139 @@
+total 0
+drwxr-xr-x   3 root        admin    96B Jun 22 11:55 1Password 6.app
+drwxrwxr-x   3 root        wheel    96B Apr  5  2016 Adobe
+drwxr-xr-x   3 michaelmao  admin    96B Apr  9 19:47 Alfred 3.app
+drwxr-xr-x   3 michaelmao  staff    96B Mar 19 13:35 AliWangwang.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 App Store.app
+drwxrwxrwx   3 michaelmao  admin    96B Oct 22  2016 Aria2GUI.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Automator.app
+drwxr-xr-x   3 michaelmao  admin    96B Jun  6 10:34 BaiduNetdisk_mac.app
+drwxr-xr-x   3 michaelmao  admin    96B Nov  7  2017 Bartender 3.app
+drwxr-xr-x   3 root        wheel    96B May 29 05:30 Bear.app
+drwxr-xr-x   3 michaelmao  staff    96B Mar 30 02:15 Bilibili.app
+drwxr-xr-x   3 michaelmao  staff    96B Mar 21 10:57 Cacher.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Calculator.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Calendar.app
+drwxr-xr-x   3 michaelmao  staff    96B Jan 27 21:31 CheatSheet.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Chess.app
+drwxr-xr-x   3 michaelmao  admin    96B Oct 26  2017 CleanMyMac 3.app
+drwxrwxr-x   3 michaelmao  staff    96B Jan 22  2016 Cmd Markdown.app
+drwxr-xr-x@  3 michaelmao  staff    96B Oct 21  2017 CmdTap.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Contacts.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 DVD Player.app
+drwxr-xr-x   3 michaelmao  admin    96B Mar 19  2016 DaisyDisk.app
+drwxr-xr-x   3 michaelmao  admin    96B Feb 14 20:38 Dash.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Dashboard.app
+drwxr-xr-x   3 michaelmao  admin    96B Apr 21  2017 Day One.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Dictionary.app
+drwxr-xr-x   3 michaelmao  admin    96B Oct 24  2017 DrCleanerProPlus.app
+drwxr-xr-x   3 michaelmao  admin    96B Jan  9  2018 Eudic.app
+drwxr-xr-x   3 michaelmao  staff    96B Jun 20 10:31 Evernote.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 FaceTime.app
+drwxr-xr-x   3 michaelmao  staff    96B Jan  8  2018 Flux.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Font Book.app
+drwxr-xr-x   3 michaelmao  staff    96B Mar 17  2017 GitBook Editor.app
+drwxr-xr-x   3 michaelmao  staff    96B Jun 26 02:57 GitHub Desktop.app
+drwxrwxr-x@  3 michaelmao  admin    96B Jun 22 23:53 Google Chrome.app
+drwxr-xr-x   3 michaelmao  admin    96B Jun 27  2015 Hopper Disassembler v3.app
+drwxr-xr-x   3 michaelmao  staff    96B Apr 16 08:41 Hyper.app
+drwxr-xr-x   3 michaelmao  admin    96B Feb  2 19:01 IINA.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Image Capture.app
+drwxr-xr-x   3 root        wheel    96B Jul 28  2017 Intego Backup Assistant Uninstall.app
+drwxr-xr-x   3 root        wheel    96B Jul 28  2017 Intego Backup Assistant.app
+drwxr-xr-x   3 root        wheel    96B Jun 27 18:56 Irvue.app
+drwxr-xr-x   3 root        wheel    96B Jul  1 09:11 Jietu.app
+drwxr-xr-x   3 root        wheel    96B Mar  7 13:12 Karabiner-Elements.app
+drwxr-xr-x   3 root        wheel    96B Mar  7 13:12 Karabiner-EventViewer.app
+drwxr-xr-x   3 michaelmao  admin    96B May  4 11:41 Keyboard Maestro.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 11:10 Kindle.app
+drwxr-xr-x   3 root        wheel    96B Jul 28  2017 LaCie Desktop Manager.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Launchpad.app
+drwxr-xr-x   3 michaelmao  admin    96B Jul 12 16:55 MWeb.app
+drwxr-xr-x   3 michaelmao  admin    96B Jun 20  2017 MacBooster 5.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Mail.app
+drwxr-xr-x   3 root        wheel    96B May 29 05:32 Maipo.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Maps.app
+drwxr-xr-x   3 michaelmao  admin    96B Feb 16 10:24 MarginNote X.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Messages.app
+drwxrwxr-x   3 root        wheel    96B Dec 20  2017 Microsoft Excel.app
+drwxrwxr-x   3 root        wheel    96B Jul 12 16:55 Microsoft OneNote.app
+drwxrwxr-x   3 root        wheel    96B Dec 20  2017 Microsoft PowerPoint.app
+drwxrwxr-x   3 root        wheel    96B Dec 20  2017 Microsoft Word.app
+drwxr-xr-x   3 michaelmao  admin    96B Oct 12  2016 MindNode2.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Mission Control.app
+drwxr-xr-x   3 michaelmao  admin    96B Sep  8  2017 MockingBot.app
+drwxr-xr-x   3 michaelmao  admin    96B Sep 28  2015 Moom.app
+drwxr-xr-x   3 michaelmao  admin    96B Mar 18 17:30 MuMu.app
+drwxr-xr-x   3 michaelmao  staff    96B Feb 23 08:24 NaturalReader Free.app
+drwxr-xr-x   3 michaelmao  admin    96B Oct 17  2016 Navicat Premium.app
+drwxr-xr-x   3 michaelmao  admin    96B Jan 19 06:53 NeteaseMusic.app
+drwxr-xr-x   3 michaelmao  staff    96B Mar 26  2016 Noizio.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Notes.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 10:40 Numbers.app
+drwxr-xr-x   3 root        admin    96B Mar 22 14:00 OBS.app
+drwxr-xr-x   3 root        wheel    96B Mar 23 15:08 OhMyStar2.app
+drwxr-xr-x   3 michaelmao  admin    96B Nov 11  2017 OmniPlan.app
+drwxr-xr-x   3 michaelmao  admin    96B Jan 18  2017 PP助手.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 10:41 Pages.app
+drwxr-xr-x   3 michaelmao  admin    96B Oct 17  2016 Paste.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Photo Booth.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Photos.app
+drwxr-xr-x@  3 michaelmao  admin    96B Mar 22 19:31 Pin.app
+drwxr-xr-x   3 michaelmao  admin    96B Oct 23  2017 Pomotodo.app
+drwxr-xr-x   3 michaelmao  staff    96B Jan 25 03:28 Postman.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Preview.app
+drwxr-xr-x   3 michaelmao  staff    96B Feb  6 16:14 PxCook.app
+drwxr-xr-x@  7 root        wheel   224B Oct 29  2017 Python 3.5
+drwxr-xr-x   3 michaelmao  admin    96B Apr 26 16:56 QQ.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 QuickTime Player.app
+drwxr-xr-x   3 michaelmao  admin    96B Feb 13 05:14 Quip.app
+drwxr-xr-x   3 michaelmao  staff    96B May 15  2016 Quitter.app
+drwxr-xr-x   3 michaelmao  admin    96B Apr  3 20:24 Quiver.app
+drwxr-xr-x   3 root        wheel    96B May 29 05:32 RAR Extractor Lite.app
+drwxr-xr-x   3 michaelmao  admin    96B Jan 28  2017 Reeder.app
+drwxr-xr-x   3 michaelmao  staff    96B Feb 10 17:14 RememBear.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Reminders.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Safari.app
+drwxr-xr-x   3 michaelmao  admin    96B Dec 20  2017 ScreenFlow.app
+drwxr-xr-x@  3 michaelmao  admin    96B May  2  2017 ShadowsocksX-NG.app
+drwxr-xr-x   3 michaelmao  admin    96B Aug 13  2017 Shifty.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Siri.app
+drwxr-xr-x   3 michaelmao  admin    96B Feb 27 21:56 Sketch.app
+drwxr-xr-x   3 michaelmao  staff    96B Oct 23  2016 Skitch.app
+drwxr-xr-x   3 michaelmao  admin    96B Nov 28  2016 Snap.app
+drwxr-xr-x   3 michaelmao  admin    96B Mar  7 12:22 SnippetsLab.app
+drwxr-xr-x   3 michaelmao  admin    96B Jun 20 12:27 SourceTree.app
+drwxr-xr-x   3 root        wheel    96B Jul 12 16:53 Spark.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 10:42 Speedtest.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Stickies.app
+drwxr-xr-x   3 michaelmao  admin    96B Sep 13  2017 Sublime Text.app
+drwxr-xr-x   3 michaelmao  admin    96B Aug 15  2016 Surge.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 04:14 Swiftify for Xcode.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 System Preferences.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 TextEdit.app
+drwxr-xr-x   3 michaelmao  admin    96B Feb 22  2016 TextExpander.app
+drwxrwxr-x   3 root        wheel    96B Jun 20 04:05 TextWrangler.app
+drwxr-xr-x   3 michaelmao  admin    96B Apr 13 23:46 Things3.app
+drwxr-xr-x   3 michaelmao  admin    96B Aug  9  2017 Thunder.app
+drwxr-xr-x@  3 michaelmao  admin    96B Oct  9  2015 Tickeys.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 Time Machine.app
+drwxr-xr-x   3 root        admin    96B Dec 21  2017 TotalFinder.app
+drwxr-xr-x   3 michaelmao  admin    96B Mar 17 04:10 Twitch.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 11:09 Unsplash Wallpapers.app
+drwxr-xr-x+ 24 root        admin   768B Jul 10 21:06 Utilities
+drwxr-xr-x   3 michaelmao  admin    96B Sep 25  2017 WWDC.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 10:42 WeChat.app
+drwxr-xr-x   3 root        wheel    96B Jun 20 11:06 Xcode.app
+drwxr-xr-x   3 michaelmao  admin    96B Aug 18  2017 Yu Writer.app
+drwxr-xr-x   3 michaelmao  staff    96B Dec 16  2017 Zeplin.app
+drwxr-xr-x@  3 root        wheel    96B May  9 09:44 iBooks.app
+drwxr-xr-x   3 michaelmao  admin    96B Feb 15 20:10 iMazing.app
+drwxr-xr-x   3 root        wheel    96B May 29 05:33 iMovie.app
+drwxr-xr-x   3 michaelmao  admin    96B Apr 11 15:19 iStat Menus.app
+drwxr-xr-x   3 michaelmao  staff    96B Jul  9 19:39 iTerm.app
+drwxr-xr-x@  3 root        wheel    96B Jul 12 16:56 iTunes.app
+drwxr-xr-x   3 root        wheel    96B Mar 10  2016 iZip Unarchiver.app
+drwxr-xr-x   3 michaelmao  staff    96B Feb 28 23:24 ieaseMusic.app
+drwxr-xr-x   3 michaelmao  admin    96B Jan  8  2018 wechatwebdevtools.app
+drwxr-xr-x   3 michaelmao  admin    96B Apr 27 17:06 幕布.app
+drwxr-xr-x   3 michaelmao  admin    96B Oct 19  2017 马克飞象.app
