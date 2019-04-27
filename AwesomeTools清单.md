@@ -241,6 +241,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 6. [ImageOptim - Mac 上最佳的图片优化无损压缩 APP 应用神器](https://imageoptim.com/howto.html)
 7. [Squash 2.0.4 颜值与性能并存的图片压缩工具 - 精品MAC应用分享](https://xclient.info/s/squash.html)
 8. [AppCode 2018 Mac破解版下载 - AppCode 2018 for Mac - AppCode 2018.dmg下载 - AppCode 2018：Mac系统上Objective-C的集成开发环境- 知您网(zhinin.com)](https://www.zhinin.com/appcode_2018-mac.html)
+9. [Clockwise](http://clockwise.ee/) Gas Mask修改host
 
 ##### Code helper
 
