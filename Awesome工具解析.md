@@ -1102,6 +1102,17 @@ ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 
 [站点编辑器 · Kenshin/simpread Wiki](https://github.com/Kenshin/simpread/wiki/%E7%AB%99%E7%82%B9%E7%BC%96%E8%BE%91%E5%99%A8)
 
+
+## StarUML
+
+StarUML是一个开源的统一建模语言(UML)工具。是一种创建类图，并能够自动生成对应代码的工具（当然目前暂时不支持object-c代码的生成）。
+
+尽管StarUML暂时还不支持oc代码的生成，但是在比较复杂的应用开发中，借由其引入UML进行需求分析、设计分析、文档输出，确实能为我们的开发工作提供助力。
+
+
+* [用starUML创建时序图 - 简书](https://www.jianshu.com/p/0cda2771caf2)
+* [StarUML3.0.+ Mac的破解方法 - wdd1324的博客 - CSDN博客](https://blog.csdn.net/wdd1324/article/details/81671826)
+
 ## Steward
 
 [Steward 简介](http://oksteward.com/steward-document-zh/plugins/browser/Top%20Sites.html)
