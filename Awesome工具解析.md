@@ -20,7 +20,9 @@
 
 ![image](http://upload-images.jianshu.io/upload_images/225323-9241e9deef92a341.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
-详情请查看 [Alfred教程](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/Alfred%E6%95%99%E7%A8%8B.md)
+详情请查看 
+* [Alfred教程](https://github.com/FrizzleFur/AwesomeTools/blob/master/Awesome%E6%95%88%E7%8E%87%E7%A5%9E%E5%99%A8/Alfred%E6%95%99%E7%A8%8B.md)
+* [Alfred神器使用手册](http://louiszhai.github.io/2018/05/31/alfred/)
  
 ## AppCode
  
