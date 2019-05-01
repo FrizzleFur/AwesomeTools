@@ -157,6 +157,79 @@ Axel — Light command line download accelerator for Linux and Unix
 
 [proxyee-down-org/proxyee-down: http下载工具，基于http代理，支持多连接分块下载](https://github.com/proxyee-down-org/proxyee-down)
 
+
+
+## autojump
+
+autojump是一个命令行工具，它可以使用快捷命令，直接跳转到配置好的目录，而不用管现在身在何处，依赖zsh。
+
+安装autojump：brew install autojump（确保有brew）
+
+[mac安装autojump](https://segmentfault.com/a/1190000011277135)
+
+* 然后，运行 source <sourcefile>.，autojump就可以使用了。
+
+* 添加一条快捷键：j -a s '/Users/XXX/Desktop/code/shark’
+* 这句代码的含义：j -a 你定义的快捷命令 ‘需要跳转的目录位置’
+
+* 此后要是想进入shark目录，除了传统的cd一级一级的进入，还可以直接使用命令：j s
+ 然后就可以输入
+ 
+### 使用
+
+跳转到指定目录
+j directoryName
+
+如果不知道目录全名，输入一部分，按Tab键就好，输错了也没关系，可以自动识别，非常强大。
+ j csm
+/data/www/xxx/cms
+
+Tab 键效果
+vagrant@homestead:~$ pwd
+/home/vagrant
+vagrant@homestead:~$ j --stat
+10.0:   /etc/nginx/conf.d
+20.0:   /home/vagrant/www/xxx/doc_api
+34.6:   /home/vagrant/www/xxx
+40.0:   /var/log/nginx
+Total key weight: 104. Number of stored dirs: 4
+vagrant@homestead:~$ j n__ (Tab 键自动添加了下划线)
+/var/log/nginx
+vagrant@homestead:/var/log/nginx$
+
+
+
+跳转到指定目录的子目录（Mac 下效果与j相同，Ubuntu下不好用）
+jc directoryName
+
+使用系统工具（Mac Finder, Windows Explorer, GNOME, etc.）打开目录，类似Mac OS terminal 下的 open 命令，但open 命令需要指定路径（Mac中还算实用，Ubuntu下不好用）
+jo directoryName
+
+查看权重 j --stat
+$ j --stat
+10.0:   /etc/nginx/conf.d
+10.0:   /home/vagrant/www/caijing/doc_api
+10.0:   /var/log/nginx
+30.0:   /home/vagrant/www/caijing
+Total key weight: 59. Number of stored dirs: 4
+
+权重越高，说明目录使用的越频繁。
+感觉 Mac 中的显示效果更好，还可以自己去调整权重值。
+$ j --stat
+10.0:   /Users/xxx/xxx/xxxx/xxxx/xxxx/vendor
+22.4:   /Users/xxx/xxx/xxxx/xxxx/xxxx/log
+
+32:     total weight
+2:       number of entries
+10.00:   current directory weight
+
+data:    /Users/xxx/Library/autojump/autojump.txt
+
+其他
+autojump --help
+
+
+
 ## Bee For mac
 
 [Bee: GitHub Issues made Simpler, Faster and Fun](https://www.neat.io/bee/github-issues-client.html)
@@ -1769,7 +1842,13 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 [2Do 的简单任务 – Cheng – Medium](https://medium.com/@scomper/2do-%E7%9A%84%E7%AE%80%E5%8D%95%E4%BB%BB%E5%8A%A1-5e34fce73020)
 
-## iOS 
+
+## Übersicht
+
+[定制你的 Mac 桌面，简单华丽的桌面自定义工具：Übersicht](https://sspai.com/post/28020)
+
+
+# iOS 
 
 ### Xcode
 
