@@ -9,6 +9,11 @@
 * [StarsAndClown](https://github.com/FrizzleFur/StarsAndClown) ☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
 * [杭州房产知识扫盲](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md)
 
+### RSS Resource 
+
+* SwiftOldDriver: <https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom>
+* 少数派： <https://sspai.com/feed>
+
 ## Pool
 
 1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
@@ -829,7 +834,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 3. [Zhihu](https://www.zhihu.com/)
 
-### RSS
+### RSS Tool
 
 1. [Instapaper](https://www.instapaper.com/u)   感觉最好用的RSS平台 = = 
 
