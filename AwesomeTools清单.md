@@ -4,6 +4,11 @@
 
 > My productivity tools of Mac, Phone, and Web in developing and schedule.
 
+## Resource 
+
+* [StarsAndClown](https://github.com/FrizzleFur/StarsAndClown) ☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
+* [杭州房产知识扫盲](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md)
+
 ## Pool
 
 1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
@@ -56,15 +61,16 @@
 
 #### Alfred Workflow Pool
 
-1. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
-2. [Packal Workflow Search | Packal](http://www.packal.org/workflow/packal-workflow-search) WorkFlow Pool on Packal.org [Packal——Alfred Workflows](http://www.packal.org/) 最新[Packal-Search-1.4.1.alfredworkflow](https://github.com/deanishe/alfred-packal-search/blob/master/Packal-Search-1.4.1.alfredworkflow)
-3.  [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
-4. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)Top Process Workflow
-5. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
-6. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
-7. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
-8. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
-9. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
+1. [Search.alfredworkflow](https://github.com/Louiszhai/alfred-workflows/blob/master/workflows/Search.alfredworkflow?raw=true)程序员都离不开搜索, 每天耗费在搜索上的时间更是不计其数. 实际上, 搜索的操作步骤是可以被优化的. Search 正是一款这样的workflow. 基于它, 您可以任何区域选中文本, 按下绑定好的快捷键 (最多两次按键, 建议绑定快捷键为Option+W), 便可直接在默认浏览器打开搜索结果页, 省心省力. 目前搜索引擎支持 谷歌, 百度, 雅虎, 维基百科等. Cmd+Ctrl+S
+2. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
+3. [Packal Workflow Search | Packal](http://www.packal.org/workflow/packal-workflow-search) WorkFlow Pool on Packal.org [Packal——Alfred Workflows](http://www.packal.org/) 最新[Packal-Search-1.4.1.alfredworkflow](https://github.com/deanishe/alfred-packal-search/blob/master/Packal-Search-1.4.1.alfredworkflow)
+4. [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
+5. [Top-workflow](https://github.com/zhaocai/alfred2-top-workflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/19)Top Process Workflow
+6. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
+7. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
+8. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
+9. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
+10. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15302609850440.jpg)
 10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 可以直接使用Dash的设置集成
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303347565431.jpg)
@@ -590,6 +596,8 @@ hosts文件可以到github或者百度上找
 
 ### Chrome Extension
 
+* [ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)zhaoolee/ChromeAppHeroes: 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~ ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~
+
 #### Productivity
 
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
@@ -606,6 +614,7 @@ hosts文件可以到github或者百度上找
 
 3. [Chrome Merge Windows](https://chrome.google.com/webstore/detail/merge-windows/mmpokgfcmbkfdeibafoafkiijdbfblfg/related)Chrome Merge Windows
 4. [Blipshot: one click full page screenshots](https://chrome.google.com/webstore/detail/blipshot-one-click-full-p/mdaboflcmhejfihjcbmdiebgfchigjcf/related?utm_source=chrome-ntp-icon)网页截图
+5. [chrome-cleaner-pro](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)chrome-cleaner-pro
 
 #### RSS Read
 
@@ -897,3 +906,5 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 ### HardWare-Mac
 
 1. [ifixit](https://www.ifixit.com/Device/MacBook_Pro_15%22_Retina_Display_Mid_2014?utm_medium=social&utm_member=MTlkNzAzYjExMTg3ZDFmM2Q5YjNlNmY5YTQ0NWJiMTk%3D&utm_source=ZHShareTargetIDMore)The free repair guide for everything, written by everyone. 参考[MacBook Pro 15" Retina Display Mid 2014 Repair](https://www.ifixit.com/Device/MacBook_Pro_15%22_Retina_Display_Mid_2014?utm_medium=social&utm_member=MTlkNzAzYjExMTg3ZDFmM2Q5YjNlNmY5YTQ0NWJiMTk%3D&utm_source=ZHShareTargetIDMore)
+
+

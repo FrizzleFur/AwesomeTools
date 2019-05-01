@@ -50,6 +50,8 @@
 > aria2 is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP,BitTorrent and Metalink. aria2 can be manipulated via built-inJSON-RPC and XML-RPC interfaces.
 > (Aria2是一个命令行下轻量级、多协议、多来源的下载工具（支持 HTTP/HTTPS、FTP、BitTorrent、Metalink），内建 XML-RPC 和 JSON-RPC 用户界面。)
 
+* [Aria2下载百度网盘的资源](https://zhaoolee.gitbooks.io/starsandclown/content/kai-yuan-gong-51775d-yong-aria2-jie-chu-bai-du-wang-pan-xian-su.html)
+
 如果没有出现导出到Aria2，请下载`BaiduExporter`
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15388390581330.jpg)
 
