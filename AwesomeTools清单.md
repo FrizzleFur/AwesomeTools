@@ -8,9 +8,10 @@
 
 1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
 2. [Amazing Apps](http://amazingapps.org/)前辈整理的，学习~
-3. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
-4. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
-5. [反斗软件](http://www.apprcn.com/)
+3. [tool](https://github.com/Louiszhai/tool) 前辈整理的，学习~
+4. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
+5. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
+6. [反斗软件](http://www.apprcn.com/)
 
 ### 逆向Pool
 
@@ -93,6 +94,9 @@
 
 1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
 2. [Mos](https://github.com/Caldis/Mos/tree/8f4ef19a87f287afb4a50dacbad2c4a60b86610e) 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 
+3. [Caffeine](http://www.pc6.com/mac/121734.html)Caffeine for mac是一款很有用的小工具。caffeine for mac可以让你的 Mac 屏幕保持点亮状态，不会因时间的问题进入休眠状态。
+
+
 
 #### 系统清理
 
@@ -166,6 +170,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 43. [Send Anywhere (File Transfer)](https://send-anywhere.com/file-transfer)"发送任何位置" 是一个文件共享应用程序, 它
 44. [Hazel](https://sspai.com/post/35225#%E7%90%86%E6%B8%85%E6%95%B4%E7%90%86%E6%80%9D%E8%B7%A)
 自动整理文件，让你的 Mac 井井有条
+1. [Annotate](https://xclient.info/s/annotate.html) Mac标注神器
 
 #### 密码
 
@@ -596,8 +601,11 @@ hosts文件可以到github或者百度上找
 7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
 8. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15076239784340.jpg)
-9. [Kyle-Kyle/baidudl: Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned](https://github.com/Kyle-Kyle/baidudl)百度云直链下载,配合Aria2
-10. [Markdown Here](https://markdown-here.com/) Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
+1. [Kyle-Kyle/baidudl: Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned](https://github.com/Kyle-Kyle/baidudl)百度云直链下载,配合Aria2
+2. [Markdown Here](https://markdown-here.com/) Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
+
+3. [Chrome Merge Windows](https://chrome.google.com/webstore/detail/merge-windows/mmpokgfcmbkfdeibafoafkiijdbfblfg/related)Chrome Merge Windows
+4. [Blipshot: one click full page screenshots](https://chrome.google.com/webstore/detail/blipshot-one-click-full-p/mdaboflcmhejfihjcbmdiebgfchigjcf/related?utm_source=chrome-ntp-icon)网页截图
 
 #### RSS Read
 
