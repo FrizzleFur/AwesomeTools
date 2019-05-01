@@ -162,6 +162,13 @@ Axel — Light command line download accelerator for Linux and Unix
 [proxyee-down-org/proxyee-down: http下载工具，基于http代理，支持多连接分块下载](https://github.com/proxyee-down-org/proxyee-down)
 
 
+## aText
+
+
+* [aText 与系统文本替换的同步 - 少数派](https://sspai.com/post/44040)
+* [技巧：Mac 里的文字输入效率 - 少数派](https://sspai.com/post/31525)
+
+
 
 ## autojump
 
