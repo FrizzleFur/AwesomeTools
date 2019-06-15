@@ -325,11 +325,16 @@ Injection
 
 [burczyk/XcodeSwiftSnippets: Swift 4 code snippets for Xcode](https://github.com/burczyk/XcodeSwiftSnippets)
 
-#### Vim for xcode
+### Vim for xcode
 
-[记：在 Xcode 10 中安装 XVim2 - 风萧萧](https://note.wuze.me/xvim2)
+* [记：在 Xcode 10 中安装 XVim2 - 风萧萧](https://note.wuze.me/xvim2)
 
 
+## Debug调试
+
+Xcode使用attach调试进程
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190614141814.png)
 
 ## 问题
 

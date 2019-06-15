@@ -689,6 +689,19 @@ bindkey "[D" backward-word
 bindkey "[C" forward-word
 ```
 
+### 位置书签
+在当前会话中按Command + Shift + m可以保存当前位置，之后可以按Command + Shift + j跳回这个位置。
+
+### 粘贴历史
+
+使用Command + Shift + h 可以呼出粘贴历史，支持模糊检索。还可以设置将粘贴历史保存在磁盘上（Preferences -> General）
+
+
+### 即时回放
+
+使用Command + Opt + b 打开即时回放，按Esc退出。即时回放可以记录终端输出的状态，让你“穿越时间”查看终端内容。默认每个会话最多储存4MB的内容，可以在设置中更改（Preferences -> Genernal -> Instant Replay）。
+
+
 ### 热键窗口
 
 注册一个热键，当您在另一个应用程序中时，它会将iTerm2置于前台。终端永远是一个关键的压力。您可以选择让热键打开一个专用窗口。这为您提供了一个随时可用的终端（如Visor，Guake或Yakuake）。

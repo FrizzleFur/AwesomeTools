@@ -131,6 +131,15 @@ ShadowsocksR (R)：http://omgib13x8.bkt.clouddn.com/ssr-win.7z
 ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 * [freeSS](https://get.ss8.fun/)
 
+
+## IP被封
+
+首先是检测你搬瓦工IP的可用性，首先是检测你搬瓦工IP的可用性：登陆搬瓦工官网（https://bwh8.net），选择My Services，然后选择被墙的服务，进入KiwiVM Control。之后进入这个检测网址：https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck，点击Test Main IP后，搬瓦工会帮你检测你的IP的可用性（是否被GFW封禁），并返回给你结果：
+
+* [搬瓦工IP被封 搬瓦工免费更换被封IP 每10周免费更换一次 - 搬瓦工优惠网](https://www.bwgyhw.cn/bandwagonhost-change-ip-free/)
+* [网站端口扫描结果](http://tool.chinaz.com/port/)
+
+
 ## 参考
 
 1. [Overview · Surge Manual](https://manual.nssurge.com/) 官方文档
@@ -139,5 +148,8 @@ ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 4. [Rules lhie1 · Fndroid/jsbox_script Wiki](https://github.com/Fndroid/jsbox_script/wiki/Rules-lhie1)
 5. [lhie1/Rules: Rules / 规则：Surge / Shadowrocket / Quantumult](https://github.com/lhie1/Rules)
 6. [Surge更新规则很麻烦？我给做了个脚本！ - 少数派](https://sspai.com/post/45373#%E4%B8%8D%E7%9F%A5%E9%81%93%E6%98%AF%E7%97%9B%E7%82%B9%E8%BF%98%E6%98%AF%E7%97%92%E7%82%B9)
+## 封IP了
+8. [再也不怕SS服务器被封IP了 | 一个你](https://www.yigeni.com/not-afraid-of-the-ss-server-is-blocked-ip/)
+
 
 
