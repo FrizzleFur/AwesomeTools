@@ -131,6 +131,24 @@ ShadowsocksR (R)：http://omgib13x8.bkt.clouddn.com/ssr-win.7z
 ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
 * [freeSS](https://get.ss8.fun/)
 
+## Chacha-20加密
+
+1. 链接主机
+
+```
+// 切换到本地root
+sudo su - 
+// ssh链接origin,注意是ssh端口
+ssh root@IP地址 -p ssh端口
+```
+同样的，如果是第一次连接，需要你保存VPS的签名密钥，输入yes保存即可。之后是输入SSH密码，在输入的时候界面不会显示，输入完毕后直接回车即可，如果IP地址、SSH端口、SSH密码都正确，则会出现连接成功的标志。
+
+
+* [搬瓦工(bandwagonhost)后台管理VPS&安全设置 - 老高的技术博客](https://blog.phpgao.com/bandwagonhost_vps_panel.html)
+* [给远程服务器设置SSH Key免密码登录 - 搬瓦工 - SegmentFault 思否](https://segmentfault.com/a/1190000015362485)
+* [Windows/Mac/Linux如何SSH远程连接/登陆搬瓦工 - 搬瓦工优惠网](https://www.bwgyhw.cn/bandwagonhost-ssh-login/)
+
+
 
 ## IP被封
 
