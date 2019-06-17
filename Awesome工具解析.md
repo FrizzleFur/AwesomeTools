@@ -764,6 +764,10 @@ bindkey "[D" backward-word
 bindkey "[C" forward-word
 ```
 
+## 插件
+
+* [zsh-users/zsh-autosuggestions: Fish-like autosuggestions for zsh](https://github.com/zsh-users/zsh-autosuggestions)
+
 ### 快捷命令
 
 | 说明 | 快捷键 |
