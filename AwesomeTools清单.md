@@ -150,6 +150,7 @@
 35. [Folx GO 5.2.2 专业破解版 ](http://xclient.info/s/folx-go.html?_=38e6607c3ac239f5f15984ee05e0b4c1)Mac用什么下载工具好？迅雷？不！Folx GO是Mac经典的下载工具，评价非常高。可以代替系统自带的下载工具，兼容所有主流的浏览器，下载支持多达10线程，从而显著增加下载速度。
 36. [Aria2](https://bbs.feng.com/read-htm-tid-10895696.html)
 堪比迅雷的下载神器，破解百度云的下载速度很好用
+37. [high-speed-downloader/high-speed-downloader: 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新](https://github.com/high-speed-downloader/high-speed-downloader)
 37. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 38. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
 
