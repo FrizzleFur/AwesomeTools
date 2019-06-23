@@ -1239,12 +1239,13 @@ Steward 是个人的第一个开源项目，因而从开源社区学习到了很
 设计：不懂设计，怎么办呢？设置页面用的 ElementUI，图标大都来自 iconfont.cn
 产品：从简悦以及其它一些优秀的开源项目学习了怎么维护一个产品。当然目前 Steward 还做得不够
 
-##  Sublime Text 3 
+## Sublime Text 3 
 
-1. [Sublimetext-markdown-preview:](https://github.com/revolunet/sublimetext-markdown-preview)
-2. [SublimeText-Markdown/MarkdownEditing.](https://github.com/SublimeText-Markdown/MarkdownEditing#package-control): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes
+* [Sublime Text使用视频教程-慕课网](https://www.imooc.com/learn/40)
+* [Sublimetext-markdown-preview:](https://github.com/revolunet/sublimetext-markdown-preview)
+* [SublimeText-Markdown/MarkdownEditing.](https://github.com/SublimeText-Markdown/MarkdownEditing#package-control): Powerful Markdown package for Sublime Text with better syntax understanding and good color schemes
+* [Sublime Text 3 for Mac 安装和插件配置说明 – 老柴的宅](http://chaishiwei.com/blog/892.html)
 
-[Sublime Text 3 for Mac 安装和插件配置说明 – 老柴的宅](http://chaishiwei.com/blog/892.html)
 
 ### 主要快捷键
 
