@@ -221,20 +221,21 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 2. [Noizio](https://www.waitsun.com/noizio-1-5.html) 白噪音，让你的工作安心点
 3. [Calm](https://www.calm.com/meditate) 类似 Noizio，但是web更轻~
 4. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12) a free time reminder
-5. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  检查你的坐姿，精度有待提高~
-6. [Wakatime](https://wakatime.com/) 开发工具时间使用统计，支持很多工具。
-7. [Gisto](http://www.gistoapp.com/) Gists Helper
-8. [Graphviz](http://www.graphviz.org/)贝尔实验室给程序员开发的导图，开源哦，看数据结构不要不要的✪ω✪,Mac下建议用`homebrew`安装。
-9. [LiceCap](http://www.cockos.com/licecap/) 好用给的录屏小软件
-10. [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) Mac壁纸就用它了！
-11. [HeadSpace](https://www.headspace.com/) Let`s 冥想~
-12. [睿心灵犀](https://itunes.apple.com/cn/app/%E7%9D%BF%E5%BF%83%E7%81%B5%E7%8A%80-%E6%9C%80%E5%A5%BD%E7%94%A8%E6%9C%80%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%AD%E6%96%87%E5%86%A5%E6%83%B3%E5%BA%94%E7%94%A8/id1145757110?mt=8)
-13. [Drop – Color](https://www.waitsun.com/drop-color-picker-1-0-1.html)Drop 是一款Mac上优秀的屏幕取色工具
-14. [JSON Wizard](https://www.waitsun.com/json-wizard-1-3.html#downlink)JSON Wizard 是为您完美的工具，如果您只想查看和编辑您的 JSON 文件。或者也许你想要能够导入 XML/YAML/PLIST/CSV 文件。也许你甚至想要能够导出到所有这些的格式。JSON 向导提供了方便的可视化编辑和直接访问源代码与生活语法检查。
-15. [TextLab for Mac](https://www.waitsun.com/textlab-1-3-0.html)TextLab 是一款Mac上实用的代码格式转换工具，可以转换和验证JSON、HTML、XML、Base64等代码格式，简单易用，很实用的一款开发辅助工具！
-16. [Oneapm](http://www.oneapm.com/mi/price.html) Applicaiton Performance Management
-17. [3 Minute Mindfulness](https://itunes.apple.com/us/app/3-minute-mindfulness-meditation-and-breathing/id982502810?mt=8)Meditation and Breathing
-18. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 云音乐会员纯净版 😜
+5. [JustFocus 久坐后想让身体休息一下，不如试试这 9 款 Mac 应用 - 少数派](https://sspai.com/post/54648)
+6. [Nekoze](https://itunes.apple.com/us/app/nekoze/id627505674?mt=12)  检查你的坐姿，精度有待提高~
+7. [Wakatime](https://wakatime.com/) 开发工具时间使用统计，支持很多工具。
+8. [Gisto](http://www.gistoapp.com/) Gists Helper
+9. [Graphviz](http://www.graphviz.org/)贝尔实验室给程序员开发的导图，开源哦，看数据结构不要不要的✪ω✪,Mac下建议用`homebrew`安装。
+10. [LiceCap](http://www.cockos.com/licecap/) 好用给的录屏小软件
+11. [Irvue](https://itunes.apple.com/us/app/irvue/id1039633667?mt=12) Mac壁纸就用它了！
+12. [HeadSpace](https://www.headspace.com/) Let`s 冥想~
+13. [睿心灵犀](https://itunes.apple.com/cn/app/%E7%9D%BF%E5%BF%83%E7%81%B5%E7%8A%80-%E6%9C%80%E5%A5%BD%E7%94%A8%E6%9C%80%E7%A7%91%E5%AD%A6%E7%9A%84%E4%B8%AD%E6%96%87%E5%86%A5%E6%83%B3%E5%BA%94%E7%94%A8/id1145757110?mt=8)
+14. [Drop – Color](https://www.waitsun.com/drop-color-picker-1-0-1.html)Drop 是一款Mac上优秀的屏幕取色工具
+15. [JSON Wizard](https://www.waitsun.com/json-wizard-1-3.html#downlink)JSON Wizard 是为您完美的工具，如果您只想查看和编辑您的 JSON 文件。或者也许你想要能够导入 XML/YAML/PLIST/CSV 文件。也许你甚至想要能够导出到所有这些的格式。JSON 向导提供了方便的可视化编辑和直接访问源代码与生活语法检查。
+16. [TextLab for Mac](https://www.waitsun.com/textlab-1-3-0.html)TextLab 是一款Mac上实用的代码格式转换工具，可以转换和验证JSON、HTML、XML、Base64等代码格式，简单易用，很实用的一款开发辅助工具！
+17. [Oneapm](http://www.oneapm.com/mi/price.html) Applicaiton Performance Management
+18. [3 Minute Mindfulness](https://itunes.apple.com/us/app/3-minute-mindfulness-meditation-and-breathing/id982502810?mt=8)Meditation and Breathing
+19. [IeaseMusic](https://github.com/trazyn/ieaseMusic) 云音乐会员纯净版 😜
 20. [图标工厂](http://icon.wuruihong.com/icon/5Dldw1M9#/ios) 图标生成工厂，一键生成所需尺寸
 21. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, 快捷键图示an open-source keystroke visualizer.
 ![](https://github.com/keycastr/keycastr/raw/master/assets/preview.png)
@@ -609,7 +610,7 @@ hosts文件可以到github或者百度上找
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
 2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器 [Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md#%E5%89%8D%E7%BC%80%E6%95%B0%E5%AD%97%E5%8F%AF%E5%A4%9A%E6%AC%A1%E9%87%8D%E5%A4%8D%E7%9B%B8%E5%BA%94%E6%93%8D%E4%BD%9C)
 3. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
-4. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
+4. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd),文档：[Steward - 帮助中心](http://oksteward.com/steward-documents/zh/#%E7%9B%AE%E5%BD%95)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
 5. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
 6. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
 7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
