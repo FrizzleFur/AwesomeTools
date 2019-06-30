@@ -121,7 +121,7 @@
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307796714334.jpg)
 并且可以快捷键召唤Dock上的Apps
 1. [Moom](https://manytricks.com/moom/)  拯救你的Mac窗口,有了moom就不用Sizeup了，定制化你的需求！
-2. [**HammerSpoon**](https://github.com/Hammerspoon/hammerspoon)是一个可以用来进行窗口管理的 App，开源免费。当然，功能也不仅限于此,Hammerspoon 使用脚本语言来操作 OS X 的系统 API。使很多自动化操作成为可能。[Hammerspoon, OS X 上的全能窗口管理器 – 宋辰文](https://songchenwen.com/tech/2015/04/02/hammerspoon-mac-window-manager/)[Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
+2. [**HammerSpoon**](https://github.com/Hammerspoon/heammerspoon)是一个可以用来进行窗口管理的 App，开源免费。当然，功能也不仅限于此,Hammerspoon 使用脚本语言来操作 OS X 的系统 API。使很多自动化操作成为可能。[Hammerspoon, OS X 上的全能窗口管理器 – 宋辰文](https://songchenwen.com/tech/2015/04/02/hammerspoon-mac-window-manager/)[Learn Lua in Y Minutes](https://learnxinyminutes.com/docs/lua/)
 3. [Mac2imgur](https://github.com/mileswd/mac2imgur)   `imgur`图床上传神器
 4. [jietu](http://jietu.qq.com/) 轻松便捷爱截图和`snip`都是腾讯下的截图工具，添加了录屏功能，可以二维码分享，感觉更方便。
 5. [Snip](https://itunes.apple.com/us/app/snip/id512505421?mt=12)  还挺好用的截图工具
