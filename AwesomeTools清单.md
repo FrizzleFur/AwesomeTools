@@ -610,7 +610,7 @@ hosts文件可以到github或者百度上找
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
 2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器 [Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md#%E5%89%8D%E7%BC%80%E6%95%B0%E5%AD%97%E5%8F%AF%E5%A4%9A%E6%AC%A1%E9%87%8D%E5%A4%8D%E7%9B%B8%E5%BA%94%E6%93%8D%E4%BD%9C)
 3. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
-4. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
+4. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd),文档：[Steward - 帮助中心](http://oksteward.com/steward-documents/zh/#%E7%9B%AE%E5%BD%95)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
 5. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
 6. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
 7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
