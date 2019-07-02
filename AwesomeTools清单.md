@@ -1,12 +1,14 @@
 [TOC]
 
+- [ ] TODO: 制作一个★级表格：参考[Best-App/Best-App-iOS.md at master · hzlzh/Best-App](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md)
+
 # AwesomeTools清单
 
 > My productivity tools of Mac, Phone, and Web in developing and schedule.
 
 ## Resource 
 
-* [StarsAndClown](https://github.com/FrizzleFur/StarsAndClown) ☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
+* [StarsAndClown](https://github.com/FrizzleFur/StarsAndClown) [Introduction · StarsAndClown](https://zhaoolee.gitbooks.io/starsandclown/content/)☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
 * [杭州房产知识扫盲](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md)
 
 ### RSS Resource 
@@ -19,9 +21,10 @@
 1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
 2. [Amazing Apps](http://amazingapps.org/)前辈整理的，学习~
 3. [tool](https://github.com/Louiszhai/tool) 前辈整理的，学习~
-4. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
-5. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
-6. [反斗软件](http://www.apprcn.com/)
+4. [hzlzh/Best-App: 收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 前辈整理的，学习~
+5. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
+6. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
+7. [反斗软件](http://www.apprcn.com/)
 
 ### 逆向Pool
 
@@ -85,9 +88,10 @@
 4. [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
 5. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
 6. [TKkk-iOSer/wechat-alfred-workflow: wechat workflow for Alfred：微信快速发送消息 & 打开聊天窗口 & 查看聊天记录 & more…](https://github.com/TKkk-iOSer/wechat-alfred-workflow)
-7. [QQPlugin-macOS/QQ Plugin.alfredworkflow at master · TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS/blob/master/Other/QQ%20Plugin.alfredworkflow)
-8. [Hide Desktop | Packal](http://www.packal.org/workflow/hide-desktop)隐藏桌面文件
-9. [AlfredWorkflow-Recent-Documents/README_CN.md at master · mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents/blob/master/README_CN.md)解决了我反复查看最近打开文档的需求~nice
+7. [tsycnh/WeChatExporter: 一个可以快速导出、查看你的微信聊天记录的工具](https://github.com/tsycnh/WeChatExporter)微信聊天导出
+8. [QQPlugin-macOS/QQ Plugin.alfredworkflow at master · TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS/blob/master/Other/QQ%20Plugin.alfredworkflow)
+9. [Hide Desktop | Packal](http://www.packal.org/workflow/hide-desktop)隐藏桌面文件
+10. [AlfredWorkflow-Recent-Documents/README_CN.md at master · mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents/blob/master/README_CN.md)解决了我反复查看最近打开文档的需求~nice
 
 
 ## Mac
@@ -734,7 +738,9 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 #### Pic
 
-[泼辣修图](http://www.polaxiong.com/editor)
+* [泼辣修图](http://www.polaxiong.com/editor)
+* [PickFrom | Make Work Easier](https://pickfrom.net/)截图，网页截图。A comprehensive, easy-to-use online tool
+
 
 #### Schedule
 
