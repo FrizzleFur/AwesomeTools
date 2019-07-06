@@ -3,31 +3,21 @@
 
 ## 我的RSS
 
-![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190221114323.png)
-
-* 博客
-* my github news
-* 老司机周报
-* 干货.io
-* 少数派
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190706104803.png)
 
 
-```
+* ShannonChenCHN<http://gh-feed.imsun.net/ShannonChenCHN/iOSDevLevelingUp/issues>
+* 老司机周报<http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/> And <http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues/1148>
+* 干货Gank.io
+    * <https://gank.io/feed>
+    * <http://gank.io/api/today>
+    * <http://gank.io/api/xiandu/categories>
+    * <http://gank.io/api/xiandu/categories/wow>
+* 少数派<https://sspai.com/feed>
+* my github news<http://gh-feed.imsun.net/JimmyLv/jimmylv.github.io/issues>
 
-http://gh-feed.imsun.net/ShannonChenCHN/iOSDevLevelingUp/issues
 
-http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues/1148
-
-http://gh-feed.imsun.net/ChenYilong/iOSInterviewQuestions/issues
-
-http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues
-
-
-http://gh-feed.imsun.net/JimmyLv/jimmylv.github.io/issues
-
-```
 ## RSS 获取
-
 
 🚀 Chrome/Firefox Extension to retreive RSS feeds URLs from WebSite, RSSHub supported
 

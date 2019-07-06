@@ -43,11 +43,9 @@
 9、重新运行[JetBrains](https://www.zhinin.com/tag/jetbrains) AppCode for Mac，已破解成功！需要注意的是AppCode 2018注册码有效期至2019年9月25日为止！
 
 
-
- 
 ## Aria2
 
-[https://github.com/high-speed-downloader/high-speed-downloader](high-speed-downloader/high-speed-downloader: 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新)
+[high-speed-downloader/high-speed-downloader: 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新](https://github.com/high-speed-downloader/high-speed-downloader)
 
 > aria2 is a lightweight multi-protocol & multi-source command-line download utility. It supports HTTP/HTTPS, FTP, SFTP,BitTorrent and Metalink. aria2 can be manipulated via built-inJSON-RPC and XML-RPC interfaces.
 > (Aria2是一个命令行下轻量级、多协议、多来源的下载工具（支持 HTTP/HTTPS、FTP、BitTorrent、Metalink），内建 XML-RPC 和 JSON-RPC 用户界面。)
