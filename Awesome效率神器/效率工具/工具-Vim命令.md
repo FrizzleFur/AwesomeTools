@@ -1,5 +1,11 @@
 # 工具-Vim
 
+## TODO
+
+* vim实操工作流
+    * 快速替换多行文本 [上古神奇Vim](https://www.bilibili.com/video/av55498503)
+    * 剪切，粘贴
+
 
 ## 什么是Vim？
 
@@ -79,155 +85,6 @@ Normal 模式下，用户按冒号 `:`即可进入 Command 模式，此时 vim �
 * :set tabstop=value 设置显示制表符的空格字符个数
 * :set 显示设置的所有选项
 * :set all 显示所有可以设置的选项
-
-
-## 常用
-
-* `h、j、k、l`上下左右
-* `w、b`移动单词
-* 配合数字表示重复次数
-* 配合[motion]
-* `行号 + G` 跳转到制定的行
-* `: + 行号`跳转到制定的行
-* u表示撤销上一次修改（undo）
-* U表示撤销对整行的修改（undo）
-* Ctrl + r 恢复所撤销的内容（redo）
-* 按下`%`跳转到另一半的括号
-* `>>`向右边👉缩进，`<<`向左边👈缩进
-* 搜索🔍，使用`/`进行查询,使用`n`,`N`切换结果. 搜索替换`:s/SEARCH_STRING/REPLACE_STRING`; 
-* `:s/SEARCH_STRING/REPLACE_STRING/g`整行替换
-* `%s/SEARCH_STRING/REPLACE_STRING/g`表示全部都进行替换
-* `:[数字1],[数字2]s/SEARCH_STRING/REPLACE_STRING/gc`表示制定行范围内，每次询问替换操作`replace with O (y/n/a/q/l/E/~Y) ?`，(g是表示global,但c表示continue?)/
-* :nohl取消屏幕所有高亮
-* `:!`表示进入命令模式
-* `:w + newFileName`表示当前路径下另存为新文件
-* `r + FileName`表示将FileName合并
- * `v`进入可视模式
-
-
-## Motion
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311967218523.jpg)
-数字 + [motion] = 重复多个[motion]
-
-
-## 删除命令
-
-d + [motion]
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311968436967.jpg)
-
-d + [数字] + [motion] = 删除多个[motion]范围
-
-所有的“删除”操作并不是真的删除，它们事实上是存放在VIM的一个缓冲区中，相当于Windows的剪切功能
-
-## 拷贝
-
-y + [数字] + [motion] 
-
-## 黏贴
-
-配合之前删除的“dd”
-* p: 将最后一次删除的内容黏贴到光标之前
-* P: 将最后一次删除的内容黏贴到光标之后
-* 如果你需要粘贴的是整行为单位，那么p命令将在光标的下一行开始粘贴;
-* 如果你拷贝的是非整行的局部字符串，那么p命令将在光标后开始粘贴。
-
-### iterm2黏贴到系统
-
-[mac os x copy terminal (does work) vs iterm2 (does not work) · Issue #3702 · neovim/neovim](https://github.com/neovim/neovim/issues/3702)
-
-
-```
-@hansrodtang just enlightened me on what is going on here. This is actually a feature of iTerm2.
-Go to Settings->General, and enable Applications in terminal may access clipboard.
-
-When I enabled that option, I could copy from and paste to iTerm2 as one would expect.
-There is still something strange here, though. @hansrodtang gets expected behaviour with the option off.
-
-Anyway, hope this helps, @ephes. :)
-
-EDIT: Sorry for all the noise here. Especially since this has nothing to do with Neovim.
-I reinstalled the latest nightly from iTerm2, and then, everything was allright. It turned out that I in fact couldn't copy from iTerm whether the option I mentioned was enabled or not. After reinstallation, the option does not seem to have any effect.
-```
-
-```
-I also had similar problem with iTerm. For me, turning on Application in terminal may access clipboard didn't help.
-What actually worked for me is: Profile -> Text -> Blinking Cusror (mark it checked)
-Weird !!
-```
-
-## 替换模式
-
-* r命令用于替换光标所在的字符，做法是先将光标移动到需要替换的字符处，按一下r键，然后输入新的字符。
-
-* 在键入r命令前输入数字,表示从光标处开始，将多个字符统一替换为新字符
-* abc ——>  aaa
-* R命令让你一步到位进入替换模式
-* Backspace可以退回替换前的模式
-
-## 修改模式
-
-VIM用C命令实现修改: C [数字] motion
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311987911491.jpg)
-修改 == 删除 十 进入插入模式
-
-## 文件信息
-
-Ctrl + g
-
-
-
-## 1.4 Vi练习题
-
-> 在用户主目录下，执行vi程序，编辑文件install.log；移动光标到第10行，第五个字符；按大写字母G，达到文件末尾；不存盘退出；
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295535450600.jpg)
-
-> 在用户主目录下，执行vi程序，编辑文件install.log；用/命令查找字符串sudo，复制包含字符串sudo的行
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536089358.jpg)
-
-
-> 在用户主目录下，执行vi程序，编辑文件install.log；进入命令模式，设置显示行号；用？命令查找字符串openssh，用命令n查找下一个
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536218243.jpg)
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536294515.jpg)
-
-
-## vi/vim 使用实例
-
-### 使用 vi/vim 进入一般模式
-
-如果你想要使用 vi 来建立一个名为 test.txt 的文件时，你可以这样做：
-
-$ vi runoob.txt
-
-直接输入** vi 文件名 **就能够进入 vi 的一般模式了。请注意，记得 vi 后面一定要加文件名，不管该文件存在与否！
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559313018.jpg)
-
-### 按下 i 进入输入模式(也称为编辑模式)，开始编辑文字
-
-在一般模式之中，只要按下 i, o, a 等字符就可以进入输入模式了！
-
-在编辑模式当中，你可以发现在左下角状态栏中会出现 –INSERT- 的字样，那就是可以输入任意字符的提示。
-
-这个时候，键盘上除了 **Esc** 这个按键之外，其他的按键都可以视作为一般的输入按钮了，所以你可以进行任何的编辑。
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559394282.jpg)
-
-### 按下 ESC 按钮回到一般模式
-
-好了，假设我已经按照上面的样式给他编辑完毕了，那么应该要如何退出呢？是的！没错！就是给他按下 **Esc** 这个按钮即可！马上你就会发现画面左下角的 – INSERT – 不见了！
-
-### 在一般模式中按下 **:wq** 储存后离开 vi
-
-OK，我们要存档了，存盘并离开的指令很简单，输入 **:wq** 即可保存离开！
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559471425.jpg)
-
-OK! 这样我们就成功创建了一个 runoob.txt 的文件。
 
 ## vi/vim 按键说明
 
@@ -331,6 +188,182 @@ a 为『从目前光标所在的下一个字符处开始输入』， A 为『从
 举例来说，要删除 50 行，则是用 『50dd』 对吧！ 数字加在动作之前，如我要向下移动 20 行呢？那就是『20j』或者是『20↓』即可。
 
 
+## 常用
+
+* `h、j、k、l`上下左右
+* `w、b`移动单词
+* 配合数字表示重复次数
+* 配合[motion]
+* `行号 + G` 跳转到制定的行
+* `: + 行号`跳转到制定的行
+* u表示撤销上一次修改（undo）
+* U表示撤销对整行的修改（undo）
+* Ctrl + r 恢复所撤销的内容（redo）
+* 按下`%`跳转到另一半的括号
+* `>>`向右边👉缩进，`<<`向左边👈缩进
+* 搜索🔍，使用`/`进行查询,使用`n`,`N`切换结果. 搜索替换`:s/SEARCH_STRING/REPLACE_STRING`; 
+* `:s/SEARCH_STRING/REPLACE_STRING/g`整行替换
+* `%s/SEARCH_STRING/REPLACE_STRING/g`表示全部都进行替换
+* `:[数字1],[数字2]s/SEARCH_STRING/REPLACE_STRING/gc`表示制定行范围内，每次询问替换操作`replace with O (y/n/a/q/l/E/~Y) ?`，(g是表示global,但c表示continue?)/
+* :nohl取消屏幕所有高亮
+* `:!`表示进入命令模式
+* `:w + newFileName`表示当前路径下另存为新文件
+* `r + FileName`表示将FileName合并
+ * `v`进入可视模式
+
+
+## Motion
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311967218523.jpg)
+数字 + [motion] = 重复多个[motion]
+
+
+## 删除命令
+
+d + [motion]
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311968436967.jpg)
+
+d + [数字] + [motion] = 删除多个[motion]范围
+
+所有的“删除”操作并不是真的删除，它们事实上是存放在VIM的一个缓冲区中，相当于Windows的剪切功能
+
+## 拷贝
+
+y + [数字] + [motion] 
+
+## 黏贴
+
+配合之前删除的“dd”
+* p: 将最后一次删除的内容黏贴到光标之前
+* P: 将最后一次删除的内容黏贴到光标之后
+* 如果你需要粘贴的是整行为单位，那么p命令将在光标的下一行开始粘贴;
+* 如果你拷贝的是非整行的局部字符串，那么p命令将在光标后开始粘贴。
+
+### iterm2黏贴到系统
+
+[mac os x copy terminal (does work) vs iterm2 (does not work) · Issue #3702 · neovim/neovim](https://github.com/neovim/neovim/issues/3702)
+
+
+```
+@hansrodtang just enlightened me on what is going on here. This is actually a feature of iTerm2.
+Go to Settings->General, and enable Applications in terminal may access clipboard.
+
+When I enabled that option, I could copy from and paste to iTerm2 as one would expect.
+There is still something strange here, though. @hansrodtang gets expected behaviour with the option off.
+
+Anyway, hope this helps, @ephes. :)
+
+EDIT: Sorry for all the noise here. Especially since this has nothing to do with Neovim.
+I reinstalled the latest nightly from iTerm2, and then, everything was allright. It turned out that I in fact couldn't copy from iTerm whether the option I mentioned was enabled or not. After reinstallation, the option does not seem to have any effect.
+```
+
+```
+I also had similar problem with iTerm. For me, turning on Application in terminal may access clipboard didn't help.
+What actually worked for me is: Profile -> Text -> Blinking Cusror (mark it checked)
+Weird !!
+```
+
+## 替换模式
+
+* r命令用于替换光标所在的字符，做法是先将光标移动到需要替换的字符处，按一下r键，然后输入新的字符。
+
+* 在键入r命令前输入数字,表示从光标处开始，将多个字符统一替换为新字符
+* abc ——>  aaa
+* R命令让你一步到位进入替换模式
+* Backspace可以退回替换前的模式
+
+## 修改模式
+
+VIM用C命令实现修改: C [数字] motion
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311987911491.jpg)
+修改 == 删除 十 进入插入模式
+
+## 文件信息
+
+```
+Ctrl + g
+```
+
+
+
+## 1.4 Vi练习题
+
+> 在用户主目录下，执行vi程序，编辑文件install.log；移动光标到第10行，第五个字符；按大写字母G，达到文件末尾；不存盘退出；
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295535450600.jpg)
+
+> 在用户主目录下，执行vi程序，编辑文件install.log；用/命令查找字符串sudo，复制包含字符串sudo的行
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536089358.jpg)
+
+
+> 在用户主目录下，执行vi程序，编辑文件install.log；进入命令模式，设置显示行号；用？命令查找字符串openssh，用命令n查找下一个
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536218243.jpg)
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295536294515.jpg)
+
+
+## vi/vim 使用实例
+
+
+## Recording
+
+使用vim时无意间触碰到q键，左下角出现“recording”这个标识，觉得好奇，遂在网上查了一下，然后这是vim的一个强大功能。他可以录制一个宏（Macro)，在开始记录后，会记录你所有的键盘输入，包括在insert模式下的输入、正常模式下使用的各种命令等。
+具体使用：
+* 第一步：在正常模式下（非insert模式、非visual模式）按下q键盘
+* 第二步：选择a-z或0-9中任意一个作为缓冲器的名字，准备开始录制宏
+* 第三步：正常的操作，此次所有的操作都会被记录在上一步中定义的缓冲器中
+* 第四步：在非insert模式下输入q停止宏的录制
+* 第五步：使用@ + 第二步中定义的缓冲器的名字即可。
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190712142247.png)
+
+观察可以发现他们的规律，在每行文字的开头添加“System.out.println(”，结尾添加“);”就变成下面的信息了。下面简单介绍一下如何使用recording来完成这样的操作。
+
+* 首先把光标移动line1上，
+* 输入qt，准备开始录制，
+* **缓冲器的名字为t**，
+* 录制的动作为：shift + ^ 回到行首、按下i键进入insert模式、输入“System.out.println(”、按下esc键回到正常模式、shift + $ 回到行尾部、按下i键进入insert模式、输入“);”
+* 按下esc键回到正常模式，按下q停止录制。
+* 然后把光标移动到下面一行的任意位置输入 @ + t 即可。
+
+* recording还可以和查询结合起来使用，例如想把一个文件中含有特定字符串的行注释，可以通过这样的宏来实现。在正常模式下输入/search string + enter、shift + ^、i、#、esc、shift + $。
+* 让定制的宏自动执行多次的方法是先输入一个数字，然后在输入@ + 缓冲器的名字。 例如 100@t，表示执行100次。
+
+### 使用 vi/vim 进入一般模式
+
+如果你想要使用 vi 来建立一个名为 test.txt 的文件时，你可以这样做：
+
+$ vi runoob.txt
+
+直接输入** vi 文件名 **就能够进入 vi 的一般模式了。请注意，记得 vi 后面一定要加文件名，不管该文件存在与否！
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559313018.jpg)
+
+### 按下 i 进入输入模式(也称为编辑模式)，开始编辑文字
+
+在一般模式之中，只要按下 i, o, a 等字符就可以进入输入模式了！
+
+在编辑模式当中，你可以发现在左下角状态栏中会出现 –INSERT- 的字样，那就是可以输入任意字符的提示。
+
+这个时候，键盘上除了 **Esc** 这个按键之外，其他的按键都可以视作为一般的输入按钮了，所以你可以进行任何的编辑。
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559394282.jpg)
+
+### 按下 ESC 按钮回到一般模式
+
+好了，假设我已经按照上面的样式给他编辑完毕了，那么应该要如何退出呢？是的！没错！就是给他按下 **Esc** 这个按钮即可！马上你就会发现画面左下角的 – INSERT – 不见了！
+
+### 在一般模式中按下 **:wq** 储存后离开 vi
+
+OK，我们要存档了，存盘并离开的指令很简单，输入 **:wq** 即可保存离开！
+
+![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295559471425.jpg)
+
+OK! 这样我们就成功创建了一个 runoob.txt 的文件。
+
+
 ## Vim for markdown
 
 [suan/vim-instant-markdown: Instant Markdown previews from VIm!](https://github.com/suan/vim-instant-markdown)
@@ -354,6 +387,13 @@ a 为『从目前光标所在的下一个字符处开始输入』， A 为『从
 sudo codesign -f -s XcodeSigner /Applications/Xcode.app 
 
 ```
+
+
+## SpaceVim
+* [SpaceVim Tutorial On Mac - Zeech's Tech Blog](https://zcheng.ren/2018/07/27/spacevimtutorial/)
+* [Quick start guide | SpaceVim](https://spacevim.org/quick-start-guide/)
+* [Home | SpaceVim](https://spacevim.org/)
+
 ## 参考
 
 1. [看完这篇Linux基本的操作就会了 - 简书](https://www.jianshu.com/p/a182a0be4b8a#%E5%9B%9B%E3%80%81VI%E7%BC%96%E8%BE%91%E5%99%A8)
