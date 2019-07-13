@@ -1,8 +1,7 @@
 # 工具-Vim
 
 ## TODO
-
-* vim实操工作流
+* [ ] vim实操工作流
     * 快速替换多行文本 [上古神奇Vim](https://www.bilibili.com/video/av55498503)
     * 剪切，粘贴
 
@@ -14,6 +13,8 @@ Vim是从`vi`发展出来的一个文本编辑器。代码补完、编译及错�
 简单的来说， `vi`是老式的字处理器，不过功能已经很齐全了，但是还是有可以进步的地方。 `vim`则可以说是程序开发者的一项很好用的工具。
 
 连`vim`的官方网站 ([http://www.vim.org](http://www.vim.org/)) 自己也说`vim`是一个程序开发工具而不是文字处理软件。
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190712154316.png)
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190712154341.png)
 
 `vim`键盘图：
 
@@ -52,9 +53,6 @@ Vi有三种模式：
 * `dd`删除一行文本
 * `x`删除光标所在的字符
 * `u`取消上一次编辑操作（undo）
-
-
-
 
 
 ## 1.2 插入模式
@@ -187,9 +185,16 @@ a 为『从目前光标所在的下一个字符处开始输入』， A 为『从
 
 举例来说，要删除 50 行，则是用 『50dd』 对吧！ 数字加在动作之前，如我要向下移动 20 行呢？那就是『20j』或者是『20↓』即可。
 
+## 其他
+
+* 命令行模式下输入（n为指定的行号）：
+    * （1）ngg / nG
+    * （2）:n
+    * （3）vim +n filename（注意这里要输入 + 号）
+
 ## 常用
 
-* `h、j、k、l`上下左右
+* `h、j、k、l`上下左右, 配合[行数]`h、j、k、l`
 * `w、b`移动单词
 * 配合数字表示重复次数
 * 配合[motion]
@@ -225,6 +230,7 @@ d + [motion]
 d + [数字] + [motion] = 删除多个[motion]范围
 
 所有的“删除”操作并不是真的删除，它们事实上是存放在VIM的一个缓冲区中，相当于Windows的剪切功能
+d20j, 删除到第20行。
 
 ## 拷贝
 
@@ -241,7 +247,6 @@ y + [数字] + [motion]
 ### iterm2黏贴到系统
 
 [mac os x copy terminal (does work) vs iterm2 (does not work) · Issue #3702 · neovim/neovim](https://github.com/neovim/neovim/issues/3702)
-
 
 ```
 @hansrodtang just enlightened me on what is going on here. This is actually a feature of iTerm2.
@@ -262,6 +267,52 @@ What actually worked for me is: Profile -> Text -> Blinking Cusror (mark it chec
 Weird !!
 ```
 
+## 搜索
+
+1.普通搜索，输入：
+/关键字  
+向下找（左斜杠+关键字）
+
+向下查找if，按回车后提示已查找到文件结尾
+
+?关键字 
+ # 向上找（逆向搜索）（问号+关键字）
+
+向上查找if，按回车后提示已查找到文件开头
+
+2.匹配搜索，输入：
+
+/关键字\>   
+ #匹配末尾（右斜杠+大于号）
+
+搜索以_HOME结尾的字符串
+
+/\<关键字    
+匹配开头（右斜杠+小于号）
+
+搜索以HOST开头的字符串
+
+/\<关键字\> 
+ #匹配全部（匹配开头和结尾的符号加起来）
+
+以整个字符串为单位进行搜索
+
+3.不区分大小写
+:set ignorecase    
+
+:set noignorecase  
+
+输入忽略大小写配置命令+回车+普通搜索
+
+4.高亮搜索
+:set hlsearch    
+
+输入高亮配置命令+回车，之前或之后的搜索都高亮显示
+
+5.递进搜索
+（每输入一个字符，搜索一次）
+:set incsearch   
+
 ## 替换模式
 
 * r命令用于替换光标所在的字符，做法是先将光标移动到需要替换的字符处，按一下r键，然后输入新的字符。
@@ -273,17 +324,15 @@ Weird !!
 
 ## 修改模式
 
-VIM用C命令实现修改: C [数字] motion
+Vim用C命令实现修改: C [数字] motion
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15311987911491.jpg)
 修改 == 删除 十 进入插入模式
 
 ## 文件信息
 
-```
+```linux
 Ctrl + g
 ```
-
-
 
 ## 1.4 Vi练习题
 
@@ -304,7 +353,6 @@ Ctrl + g
 
 
 ## vi/vim 使用实例
-
 
 ## Recording⏺
 
@@ -362,11 +410,6 @@ OK，我们要存档了，存盘并离开的指令很简单，输入 **:wq** 即
 
 OK! 这样我们就成功创建了一个 runoob.txt 的文件。
 
-
-## Vim for markdown
-
-[suan/vim-instant-markdown: Instant Markdown previews from VIm!](https://github.com/suan/vim-instant-markdown)
-
 ## Vim for Xcode 10
 
 [XVimProject/XVim2: Vim key-bindings for Xcode 9](https://github.com/XVimProject/XVim2)
@@ -387,14 +430,506 @@ sudo codesign -f -s XcodeSigner /Applications/Xcode.app
 
 ```
 
+## Plugins
 
-## SpaceVim
+* 🌿 Another elegant statusline for vim
+    * [liuchengxu/eleline.vim: Another elegant statusline for vim](https://github.com/liuchengxu/eleline.vim)
+    * Plug 'liuchengxu/eleline.vim'
+    * ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190712152343.png)
+* Vim for markdown
+    * [suan/vim-instant-markdown: Instant Markdown previews from VIm!](https://github.com/suan/vim-instant-markdown)
+* NERDTree
+    * [scrooloose/nerdtree: A tree explorer plugin for vim.](https://github.com/scrooloose/nerdtree)
+* ctrlp.vim
+    * 好用的文件搜索<C-p>，Plugin 'kien/ctrlp.vim'[ctrlp.vim ÷ home](http://kien.github.io/ctrlp.vim/#installation)
+* undoTree 
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190713033813.png)
+* easymotion，搜索结果的快速跳转[easymotion/vim-easymotion: Vim motions on speed!](https://github.com/easymotion/vim-easymotion)
+* Fzf
+    * 使用Ag [PATTERN]模糊搜索字符串
+    * 使用Files [PATH]模糊搜索目录
+* MattesGroeger/vim-bookmarks[MattesGroeger/vim-bookmarks: Vim bookmark plugin](https://github.com/MattesGroeger/vim-bookmarks)
+    * ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190713105519.gif)
+
+| Action | Shortcut | Command |
+| --- | --- | --- |
+| Add/remove bookmark at current line | `mm` | `:BookmarkToggle` |
+| Add/edit/remove annotation at current line | `mi` | `:BookmarkAnnotate <TEXT>` |
+| Jump to next bookmark in buffer | `mn` | `:BookmarkNext` |
+| Jump to previous bookmark in buffer | `mp` | `:BookmarkPrev` |
+| Show all bookmarks (toggle) | `ma` | `:BookmarkShowAll` |
+| Clear bookmarks in current buffer only | `mc` | `:BookmarkClear` |
+| Clear bookmarks in all buffers | `mx` | `:BookmarkClearAll` |
+| Move up bookmark at current line | `[count]mkk` | `:BookmarkMoveUp [<COUNT>]` |
+| Move down bookmark at current line | `[count]mjj` | `:BookmarkMoveDown [<COUNT>]` |
+| Move bookmark at current line to another line | `[count]mg` | `:BookmarkMoveToLine <LINE>` |
+| Save all bookmarks to a file |  | `:BookmarkSave <FILE_PATH>` |
+| Load bookmarks from a file |  | `:BookmarkLoad <FILE_PATH>` |
+
+
+## Neovim
+
+[neovim/neovim: Vim-fork focused on extensibility and usability](https://github.com/neovim/neovim)
+
+```linux
+brew install --HEAD neovim
+```
+
+官方推荐，neovim的配置文件vimrc位于的
+```linux
+~/.config/nvim/init.vim
+```
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190713014909.png)
+
+
+## Space-Vim
+
+> 这些感觉都是vim的快捷键的很多修改，高度使用Vim进行Code,但目前还未有这个需求，仅供参考。
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190713134019.png)
+
+* [超漂亮 vim 配置：space-vim - 简书](https://www.jianshu.com/p/6bf206d68163)
+* [liuchengxu/space-vim: Lean & mean spacemacs-ish Vim distribution](https://github.com/liuchengxu/space-vim)
+
+### SpaceVim
+
+* [使用文档 | SpaceVim](https://spacevim.org/cn/documentation/)
 * [SpaceVim Tutorial On Mac - Zeech's Tech Blog](https://zcheng.ren/2018/07/27/spacevimtutorial/)
 * [Quick start guide | SpaceVim](https://spacevim.org/quick-start-guide/)
 * [Home | SpaceVim](https://spacevim.org/)
 
+
+## 我的Vim配置
+
+### 参考配置
+
+* [theniceboy/vimrc-example](https://github.com/theniceboy/vimrc-example)
+* [spf13/spf13-vim: The ultimate vim distribution](https://github.com/spf13/spf13-vim)
+
+### `.vimrc`文件
+
+```linux
+"==========================================
+" vim-bundles插件
+"==========================================
+
+if filereadable(expand("~/.vimrc.bundles"))
+  source ~/.vimrc.bundles
+endif
+
+" vundle 环境设置
+filetype off
+set rtp+=~/.vim/bundle/Vundle.vim
+" vundle 管理的插件列表必须位于 vundle#begin() 和 vundle#end() 之间
+call vundle#begin()
+"Plugin 'scrooloose/nerdtree'
+"Plugin 'Shougo/deoplete.nvim'
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'junegunn/fzf.vim'
+Plugin 'junegunn/gv.vim'
+Plugin 'tpope/vim-fugitive'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'edkolev/tmuxline.vim'
+Plugin 'majutsushi/tagbar'
+Plugin 'roxma/nvim-yarp'
+Plugin 'roxma/vim-hug-neovim-rpc'
+Plugin 'tomasr/molokai'
+Plugin 'vim-scripts/phd'
+Plugin 'vim-airline/vim-airline'
+Plugin 'octol/vim-cpp-enhanced-highlight'
+Plugin 'kien/ctrlp.vim'
+Plugin 'mhinz/vim-startify'
+Plugin 'easymotion/vim-easymotion'
+Plugin 'MattesGroeger/vim-bookmarks'
+Plugin 'suan/vim-instant-markdown'
+Plugin 'altercation/vim-colors-solarized'
+" 插件列表结束
+call vundle#end()
+filetype plugin indent on
+
+
+" ==
+" == NERDTree-git
+" ==
+let g:NERDTreeIndicatorMapCustom = {
+    \ "Modified"  : "✹",
+    \ "Staged"    : "✚",
+    \ "Untracked" : "✭",
+    \ "Renamed"   : "➜",
+    \ "Unmerged"  : "═",
+    \ "Deleted"   : "✖",
+    \ "Dirty"     : "✗",
+    \ "Clean"     : "✔︎",
+    \ "Unknown"   : "?"
+    \ }
+
+"==========================================
+"General
+"==========================================
+" history存储长度。
+set history=1000
+" 检测文件类型
+filetype on
+" 针对不同的文件类型采用不同的缩进格式
+filetype indent on
+" 允许插件
+filetype plugin on
+" 启动自动补全
+filetype plugin indent on
+" 兼容vi模式。去掉讨厌的有关vi一致性模式，避免以前版本的一些bug和局限
+set nocompatible
+set autoread          " 文件修改之后自动载入。
+set shortmess=atI       " 启动的时候不显示那个援助索马里儿童的提示
+set wildmenu       	" 自动补全菜单
+set scrolljump=5       	" 光标自动滚动
+set scrolloff=3       	" 光标自动滚动
+
+"==========================================
+" show and format
+"==========================================
+" 显示行号：
+set number
+set relativenumber
+set nowrap                    " 取消换行。
+" 为方便复制，用<F6>开启/关闭行号显示:
+nnoremap <F6> :set nonumber!<CR>:set foldcolumn=0<CR>
+
+" 括号配对情况
+set showmatch
+" How many tenths of a second to blink when matching brackets
+set mat=2
+
+" 设置文内智能搜索提示
+" 高亮search命中的文本。
+set hlsearch
+" 搜索时忽略大小写
+set ignorecase
+" 随着键入即时搜索
+set incsearch
+" 有一个或以上大写字母时仍大小写敏感
+set smartcase
+
+" 代码折叠
+set foldenable
+" 折叠方法
+" manual    手工折叠
+" indent    使用缩进表示折叠
+" expr      使用表达式定义折叠
+" syntax    使用语法定义折叠
+" diff      对没有更改的文本进行折叠
+" marker    使用标记进行折叠, 默认标记是 {{{ 和 }}}
+set foldmethod=syntax
+" 在左侧显示折叠的层次
+" set foldcolumn=4
+" 基于缩进或语法进行代码折叠
+"set foldmethod=indent
+set foldmethod=syntax
+" 启动 vim 时关闭折叠代码
+set nofoldenable
+
+set tabstop=4                " 设置Tab键的宽度        [等同的空格个数]
+set shiftwidth=4
+set expandtab                " 将Tab自动转化成空格    [需要输入真正的Tab键时，使用 Ctrl+V + Tab]
+" 按退格键时可以一次删掉 4 个空格
+set softtabstop=4
+
+set ai "Auto indent
+set si "Smart indent
+
+" 开启语法高亮功能
+syntax enable
+" 允许用指定语法高亮配色方案替换默认方案
+syntax on
+
+
+" 禁止光标闪烁
+set gcr=a:block-blinkon0
+" 禁止显示滚动条
+set guioptions-=l
+set guioptions-=L
+set guioptions-=r
+set guioptions-=R
+" 禁止显示菜单和工具条
+set guioptions-=m
+set guioptions-=T
+
+" 总是显示状态栏
+set laststatus=2
+" 显示光标当前位置
+set ruler
+" 开启行号显示
+set number
+" 高亮显示当前行/列
+set cursorline
+" 高亮显示搜索结果
+set hlsearch
+" 禁止折行
+set nowrap
+
+" 设置状态栏主题风格
+let g:Powerline_colorscheme='solarized256'
+" 搜索替换
+let g:ackprg = 'ag --nogroup --nocolor --column'
+
+
+" NERDTree config  自动打开
+" open a NERDTree automatically when vim starts up
+"autocmd vimenter * NERDTree
+"open a NERDTree automatically when vim starts up if no files were specified
+"autocmd StdinReadPre * let s:std_in=1
+"autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+"open NERDTree automatically when vim starts up on opening a directory
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in") | exe 'NERDTree' argv()[0] | wincmd p | ene | endif
+"map tt to open NERDTree
+map tt :NERDTreeToggle<CR>
+
+"Tagbar
+nmap pp :TagbarToggle<CR>
+
+"bookmark_sign
+highlight BookmarkSign ctermbg=NONE ctermfg=160
+highlight BookmarkLine ctermbg=194 ctermfg=NONE
+let g:bookmark_sign = '♥'
+let g:bookmark_highlight_lines = 1
+
+"Common Shortcuts
+"map S to save files
+map S :w<CR>
+"map Q to exit normol model
+map Q :q<CR>
+"map R to exit normol model
+map M :source $MYVIMRC<CR>
+noremap U 5j
+noremap E 5k
+
+"close vim if the only window left open is a NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+" Use deoplete.
+let g:deoplete#enable_at_startup = 1
+
+" Use easymotion.
+nmap ss <Plug>(easymotion-s2)
+
+" fzf If installed using Homebrew
+set rtp+=/usr/local/opt/fzf
+" If installed using git
+set rtp+=~/.fzf"
+```
+
+### `init.vim`文件
+
+```linux
+"==========================================
+" vim-plug插件
+"==========================================
+" vim-plug 环境设置
+" - For Neovim: ~/.local/share/nvim/plugged
+call plug#begin('~/.vim/plugged')
+
+Plug 'scrooloose/nerdtree'
+"Plug 'Shougo/deoplete.nvim'
+Plug 'junegunn/fzf.vim'
+Plug 'junegunn/gv.vim'
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
+Plug 'edkolev/tmuxline.vim'
+Plug 'majutsushi/tagbar'
+Plug 'roxma/nvim-yarp'
+Plug 'roxma/vim-hug-neovim-rpc'
+Plug 'tomasr/molokai'
+Plug 'vim-scripts/phd'
+Plug 'vim-airline/vim-airline'
+Plug 'octol/vim-cpp-enhanced-highlight'
+Plug 'kien/ctrlp.vim'
+Plug 'mhinz/vim-startify'
+Plug 'easymotion/vim-easymotion'
+Plug 'MattesGroeger/vim-bookmarks'
+Plug 'suan/vim-instant-markdown'
+Plug 'altercation/vim-colors-solarized'
+
+" 插件列表结束
+call plug#end()
+filetype plugin indent on
+
+
+" ==
+" == NERDTree-git
+" ==
+let g:NERDTreeIndicatorMapCustom = {
+    \ "Modified"  : "✹",
+    \ "Staged"    : "✚",
+    \ "Untracked" : "✭",
+    \ "Renamed"   : "➜",
+    \ "Unmerged"  : "═",
+    \ "Deleted"   : "✖",
+    \ "Dirty"     : "✗",
+    \ "Clean"     : "✔︎",
+    \ "Unknown"   : "?"
+    \ }
+
+"==========================================
+"General
+"==========================================
+" history存储长度。
+set history=1000
+" 检测文件类型
+filetype on
+" 针对不同的文件类型采用不同的缩进格式
+filetype indent on
+" 允许插件
+filetype plugin on
+" 启动自动补全
+filetype plugin indent on
+" 兼容vi模式。去掉讨厌的有关vi一致性模式，避免以前版本的一些bug和局限
+set nocompatible
+set autoread          " 文件修改之后自动载入。
+set shortmess=atI       " 启动的时候不显示那个援助索马里儿童的提示
+set wildmenu       	" 自动补全菜单
+set scrolljump=5       	" 光标自动滚动
+set scrolloff=3       	" 光标自动滚动
+
+"==========================================
+" show and format
+"==========================================
+" 显示行号：
+set number
+set relativenumber
+set nowrap                    " 取消换行。
+" 为方便复制，用<F6>开启/关闭行号显示:
+nnoremap <F6> :set nonumber!<CR>:set foldcolumn=0<CR>
+
+" 括号配对情况
+set showmatch
+" How many tenths of a second to blink when matching brackets
+set mat=2
+
+" 设置文内智能搜索提示
+" 高亮search命中的文本。
+set hlsearch
+" 搜索时忽略大小写
+set ignorecase
+" 随着键入即时搜索
+set incsearch
+" 有一个或以上大写字母时仍大小写敏感
+set smartcase
+
+" 代码折叠
+set foldenable
+" 折叠方法
+" manual    手工折叠
+" indent    使用缩进表示折叠
+" expr      使用表达式定义折叠
+" syntax    使用语法定义折叠
+" diff      对没有更改的文本进行折叠
+" marker    使用标记进行折叠, 默认标记是 {{{ 和 }}}
+set foldmethod=syntax
+" 在左侧显示折叠的层次
+" set foldcolumn=4
+" 基于缩进或语法进行代码折叠
+"set foldmethod=indent
+set foldmethod=syntax
+" 启动 vim 时关闭折叠代码
+set nofoldenable
+
+set tabstop=4                " 设置Tab键的宽度        [等同的空格个数]
+set shiftwidth=4
+set expandtab                " 将Tab自动转化成空格    [需要输入真正的Tab键时，使用 Ctrl+V + Tab]
+" 按退格键时可以一次删掉 4 个空格
+set softtabstop=4
+
+set ai "Auto indent
+set si "Smart indent
+
+" 开启语法高亮功能
+syntax enable
+" 允许用指定语法高亮配色方案替换默认方案
+syntax on
+
+
+" 禁止光标闪烁
+set gcr=a:block-blinkon0
+" 禁止显示滚动条
+set guioptions-=l
+set guioptions-=L
+set guioptions-=r
+set guioptions-=R
+" 禁止显示菜单和工具条
+set guioptions-=m
+set guioptions-=T
+
+" 总是显示状态栏
+set laststatus=2
+" 显示光标当前位置
+set ruler
+" 开启行号显示
+set number
+" 高亮显示当前行/列
+set cursorline
+" 高亮显示搜索结果
+set hlsearch
+" 禁止折行
+set nowrap
+
+" 设置状态栏主题风格
+let g:Powerline_colorscheme='solarized256'
+" 搜索替换
+let g:ackprg = 'ag --nogroup --nocolor --column'
+
+
+" NERDTree config  自动打开
+" open a NERDTree automatically when vim starts up
+"autocmd vimenter * NERDTree
+"open a NERDTree automatically when vim starts up if no files were specified
+"autocmd StdinReadPre * let s:std_in=1
+"autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
+"open NERDTree automatically when vim starts up on opening a directory
+autocmd StdinReadPre * let s:std_in=1
+autocmd VimEnter * if argc() == 1 && isdirectory(argv()[0]) && !exists("s:std_in") | exe 'NERDTree' argv()[0] | wincmd p | ene | endif
+"map tt to open NERDTree
+map tt :NERDTreeToggle<CR>
+
+"Tagbar
+nmap pp :TagbarToggle<CR>
+
+"bookmark_sign
+highlight BookmarkSign ctermbg=NONE ctermfg=160
+highlight BookmarkLine ctermbg=194 ctermfg=NONE
+let g:bookmark_sign = '♥'
+let g:bookmark_highlight_lines = 1
+
+"Common Shortcuts
+"map S to save files
+map S :w<CR>
+"map Q to exit normol model
+map Q :q<CR>
+"map R to exit normol model
+map M :source $MYVIMRC<CR>
+noremap U 5j
+noremap E 5k
+
+"close vim if the only window left open is a NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+
+" Use deoplete.
+let g:deoplete#enable_at_startup = 1
+
+" Use easymotion.
+nmap ss <Plug>(easymotion-s2)
+
+" fzf If installed using Homebrew
+set rtp+=/usr/local/opt/fzf
+" If installed using git
+set rtp+=~/.fzf
+```
+
+
+
+
 ## 参考
 
-1. [看完这篇Linux基本的操作就会了 - 简书](https://www.jianshu.com/p/a182a0be4b8a#%E5%9B%9B%E3%80%81VI%E7%BC%96%E8%BE%91%E5%99%A8)
-2. [Linux vi/vim | 菜鸟教程](http://www.runoob.com/linux/linux-vim.html)
-3. [PacVim](https://zhuanlan.zhihu.com/p/37988604)
+1. [简明 Vim 练级攻略 | | 酷 壳 - CoolShell](https://coolshell.cn/articles/5426.html)
+2. [看完这篇Linux基本的操作就会了 - 简书](https://www.jianshu.com/p/a182a0be4b8a#%E5%9B%9B%E3%80%81VI%E7%BC%96%E8%BE%91%E5%99%A8)
+3. [Linux vi/vim | 菜鸟教程](http://www.runoob.com/linux/linux-vim.html)
+4. [PacVim](https://zhuanlan.zhihu.com/p/37988604)
