@@ -252,7 +252,7 @@ TOC could be fixed by this:
 
 ```
 $ markdown-toc -h <default: 3> -t bear [--no-write] "Bear Note Title"
-```
+``` 
 
 #### Alfred Workflow
 
@@ -701,7 +701,9 @@ iTerm2 是 MAC 下最好的终端工具。可以简单的认为，iTerm2 是配�
 
 iTerm2 的一些特色功能如下：
 
-## option + left←（左箭头） 跨单词移动光标的教程
+### 跨单词移动光标的教程
+
+option + left←（左箭头）
 
 方法一：
 
@@ -788,7 +790,7 @@ Meta 键
 [你应该知道的 iTerm2 使用方法--MAC终端工具](http://wulfric.me/2015/08/iterm2/)
 
 
-## 跨单词移动光标
+### 跨单词移动光标
 Mac os中，zsh + iTerm2 中 设置 option + left←（左箭头） 跨单词移动光标的教程
 在 ~/.zshrc 中增加以下两行指令：
 直接输入命令
@@ -797,7 +799,7 @@ bindkey "[D" backward-word
 bindkey "[C" forward-word
 ```
 
-## 插件
+### iterm2插件
 
 * [zsh-users/zsh-autosuggestions: Fish-like autosuggestions for zsh](https://github.com/zsh-users/zsh-autosuggestions)
 
@@ -901,18 +903,23 @@ osascript /path/to/scpt/bgImgIterm.scpt
 ```
 [terminal - iTerm2 (OS X) change background image for current window from shell? - Super User](https://superuser.com/questions/1068105/iterm2-os-x-change-background-image-for-current-window-from-shell/1128149#1128149)
 
+ 
+### 最大显示行数
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190713185123.png)
+
 ### iTerm2参考
 
 1. [Features - iTerm2 - macOS Terminal Replacement](https://iterm2.com/features.html)
 2. [MAC上iTerm 2安装与使用 - 掘金](https://juejin.im/post/5a815edd5188251c85636034)
 3. [iTerm2 指南 | 小土刀](https://wdxtub.com/2016/03/20/iterm2-guide/)
- 
-### LastPass
+
+
+## LastPass
 
 LastPass 是管理密码的工具，支持二次验证，提供所有浏览器插件以及 Mac 桌面版本。
 
 最重要的是，它提供 命令行 的版本，可以直接通过 brew 安装
-
 
 ```
 brew install lastpass-cli --with-pinentry
@@ -931,7 +938,6 @@ lpass login you@email.com
 ```
 lpass show --password gmail.com -c
 ```
- 
  
 ## LaunchCenterPro
 
