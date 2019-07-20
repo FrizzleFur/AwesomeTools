@@ -221,6 +221,8 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 #### Developing Helper
 
+番茄钟[(55 封私信 / 28 条消息) 有哪些好用的番茄工作法软件？ - 知乎](https://www.zhihu.com/question/20019628)
+
 1. [pomotodo番茄土豆](https://pomotodo.com/app/)  同步iCalendar哦✪ω✪
 2. [Noizio](https://www.waitsun.com/noizio-1-5.html) 白噪音，让你的工作安心点
 3. [Calm](https://www.calm.com/meditate) 类似 Noizio，但是web更轻~

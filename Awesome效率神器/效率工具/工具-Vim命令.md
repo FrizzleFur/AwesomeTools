@@ -938,3 +938,4 @@ set rtp+=~/.fzf
 2. [看完这篇Linux基本的操作就会了 - 简书](https://www.jianshu.com/p/a182a0be4b8a#%E5%9B%9B%E3%80%81VI%E7%BC%96%E8%BE%91%E5%99%A8)
 3. [Linux vi/vim | 菜鸟教程](http://www.runoob.com/linux/linux-vim.html)
 4. [PacVim](https://zhuanlan.zhihu.com/p/37988604)
+5. [程序员内功系列--Vim篇 | iTimothy](https://xiaozhou.net/learn-the-command-line-vim-2018-08-08.html)
