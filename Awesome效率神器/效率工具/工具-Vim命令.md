@@ -432,7 +432,6 @@ OK! 这样我们就成功创建了一个 runoob.txt 的文件。
 ```objc
 # XcodeSigner 为创建证书时输入的名称
 sudo codesign -f -s XcodeSigner /Applications/Xcode.app 
-
 ```
 
 ## Plugins
