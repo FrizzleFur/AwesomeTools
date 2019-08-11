@@ -738,6 +738,12 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 ### WebSite
 
+#### Wechat
+
+* 微信公众号排版
+    * [WeChat-Format](https://lyric.im/wechat-format)
+    * [Markdown Nice](https://www.mdnice.com/)
+
 #### Pic
 
 * [泼辣修图](http://www.polaxiong.com/editor)

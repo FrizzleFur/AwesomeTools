@@ -176,3 +176,9 @@ iCloud 中除了文件夹形式的 iCloud Drive 同步，还有照片、邮件�
 
 另外 Mac 「系统偏好设置 - 键盘 - 文本」中的文本替换、 「系统偏好设置 - 网络 - 高级 - WiFi」中的 WiFi 登录信息也会随着 iCloud 在 Mac 和 iPhone 手机之间同步。
 
+
+## Apple 
+
+Apple Beta Profile
+
+* [BetaProfiles](https://betaprofiles.com/)
