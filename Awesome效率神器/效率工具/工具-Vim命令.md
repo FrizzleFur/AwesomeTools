@@ -446,7 +446,7 @@ sudo codesign -f -s XcodeSigner /Applications/Xcode.app
     * [scrooloose/nerdtree: A tree explorer plugin for vim.](https://github.com/scrooloose/nerdtree)
 * ctrlp.vim
     * 好用的文件搜索<C-p>，Plugin 'kien/ctrlp.vim'[ctrlp.vim ÷ home](http://kien.github.io/ctrlp.vim/#installation)
-* undoTree 
+* undoTree [mbbill/undotree: The undo history visualizer for VIM](https://github.com/mbbill/undotree)
 ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190713033813.png)
 * easymotion，搜索结果的快速跳转[easymotion/vim-easymotion: Vim motions on speed!](https://github.com/easymotion/vim-easymotion)
 * Fzf
