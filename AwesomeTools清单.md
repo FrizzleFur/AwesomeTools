@@ -16,6 +16,11 @@
 * SwiftOldDriver: <https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom>
 * 少数派： <https://sspai.com/feed>
 
+
+### pan资源
+
+[云盘精灵](www.yunpanjingling.com) 较多学习视屏
+
 ## Pool
 
 1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
@@ -245,15 +250,15 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 19. [图标工厂](http://icon.wuruihong.com/icon/5Dldw1M9#/ios) 图标生成工厂，一键生成所需尺寸
 20. [Keycastr](https://github.com/keycastr/keycastr)  KeyCastr, 快捷键图示an open-source keystroke visualizer.
 ![](https://github.com/keycastr/keycastr/raw/master/assets/preview.png)
-22. [Boostnote | Boost Happiness, Productivity, and Creativity.](https://boostnote.io/cn/) 专为程序员设计，专注于 Markdown和代码的笔记本
-23. [iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) ipa图标导出
-24.  `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
-25. [SnippetsLab](http://xclient.info/s/snippetslab.html?t=95a715ea86ae9bb6a50e6acf3f3318aca7640761#versions) SnippetsLab是一个易于使用的代码片断管理工具。它可以帮助你收集和组织有价值的代码片段,并确保你容易获取他们。
-26. [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)截图，取色，查看坐标
-27. [CODELF](https://unbug.github.io/codelf/) 变量命名
+1. [Boostnote | Boost Happiness, Productivity, and Creativity.](https://boostnote.io/cn/) 专为程序员设计，专注于 Markdown和代码的笔记本
+2. [iOS-Images-Extractor](https://github.com/devcxm/iOS-Images-Extractor) ipa图标导出
+3. `QuickLookJSON` - 格式化预览JSON文件。`brew cask install quicklook-json`
+4. [SnippetsLab](http://xclient.info/s/snippetslab.html?t=95a715ea86ae9bb6a50e6acf3f3318aca7640761#versions) SnippetsLab是一个易于使用的代码片断管理工具。它可以帮助你收集和组织有价值的代码片段,并确保你容易获取他们。
+5. [xScope • Measure. Inspect. Test.](https://xscopeapp.com/)截图，取色，查看坐标
+6. [CODELF](https://unbug.github.io/codelf/) 变量命名
 
-28. [Pixel Winch](https://www.ricciadams.com/projects/pixel-winch)Pixel Winch is a screen measurement app with a unique approach – rather than overlaying complicated controls on top of your existing workflow, it uses an interface similar to a traditional image editor.
-
+7. [Pixel Winch](https://www.ricciadams.com/projects/pixel-winch)Pixel Winch is a screen measurement app with a unique approach – rather than overlaying complicated controls on top of your existing workflow, it uses an interface similar to a traditional image editor.
+8. [Manage your team’s work, projects, & tasks online · Asana](https://asana.com/)work management platform
 
 
 #### Developing Tools
@@ -620,7 +625,7 @@ hosts文件可以到github或者百度上找
 5. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
 6. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
 7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
-8. [WebTimer](https://chrome.google.com/webstore/detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
+8. [WebTimer](https://chrome.google.com/webstore/£detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15076239784340.jpg)
 1. [Kyle-Kyle/baidudl: Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned](https://github.com/Kyle-Kyle/baidudl)百度云直链下载,配合Aria2
 2. [Markdown Here](https://markdown-here.com/) Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
