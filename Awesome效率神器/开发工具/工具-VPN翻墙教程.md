@@ -154,6 +154,8 @@ ssh root@IP地址 -p ssh端口
 
 首先是检测你搬瓦工IP的可用性，首先是检测你搬瓦工IP的可用性：登陆搬瓦工官网（https://bwh8.net），选择My Services，然后选择被墙的服务，进入KiwiVM Control。之后进入这个检测网址：https://kiwivm.64clouds.com/main-exec.php?mode=blacklistcheck，点击Test Main IP后，搬瓦工会帮你检测你的IP的可用性（是否被GFW封禁），并返回给你结果：
 
+
+* [Just My Socks 详细图文购买教程 - 搬瓦工 JMS](https://bwgjms.com/post/how-to-buy-justmysocks/)
 * [搬瓦工IP被封后，后台自助付费更换新IP教程（仅需8美元）-Bandwagonhost中文网](https://www.bandwagonhost.net/1312.html)<https://bwh88.net/ipchange.php>
 * [搬瓦工IP被封 搬瓦工免费更换被封IP 每10周免费更换一次 - 搬瓦工优惠网](https://www.bwgyhw.cn/bandwagonhost-change-ip-free/)
 * [网站端口扫描结果](http://tool.chinaz.com/port/)
