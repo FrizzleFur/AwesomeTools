@@ -62,6 +62,8 @@
 
 ### BaiduExporter
 
+* <https://pandownload.com/index.html> 外链下载
+
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15343352496848.jpg)
 
 [BaiduExporter.crx](https://github.com/acgotaku/BaiduExporter/blob/master/BaiduExporter.crx)
