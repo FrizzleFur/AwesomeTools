@@ -2055,6 +2055,10 @@ sudo spctl --master-disable
 //后恢复
 sudo spctl --master-enable
 ```
+macOS 10.15 Catalina 下：
+sudo xattr -d com.apple.quarantine ${AppFinderPath}
+打开Finder（访达），点击左侧的应用程序，将应用拖进终端中按下回车(注意quarantine 后面有个空格)。
+
 
 ## Snap和Chrome的标签问题
 
