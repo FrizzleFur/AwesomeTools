@@ -42,11 +42,12 @@
 
 1. [Xclient](xclient.info) Tool Pool
 2. [数字逻辑](https://www.softosx.com/) Tool Pool
-3. [知您网(zhinin.com) - Mac软件下载 | Mac游戏下载 | 破解软件 | 破解游戏 | Crack](http://www.zhinin.com/)
-4. [Waitsun](https://www.waitsun.com/) Tool Pool
-5. [Issuu](https://issuu.com/)  电子书 Pool
-6. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
-7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
+3. [脑袋瓜子](https://www.naodai.org/)
+4. [知您网(zhinin.com) - Mac软件下载 | Mac游戏下载 | 破解软件 | 破解游戏 | Crack](http://www.zhinin.com/)
+5. [Waitsun](https://www.waitsun.com/) Tool Pool
+6. [Issuu](https://issuu.com/)  电子书 Pool
+7. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
+8. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
 
 ### Tool Guide
 
@@ -192,6 +193,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 44. [Hazel](https://sspai.com/post/35225#%E7%90%86%E6%B8%85%E6%95%B4%E7%90%86%E6%80%9D%E8%B7%A)
 自动整理文件，让你的 Mac 井井有条
 1. [Annotate](https://xclient.info/s/annotate.html) Mac标注神器
+2. [FineReader](https://www.zhinin.com/wp-content/themes/2019_v0.1/down.php?id=17691)PDF的OCR识别神器
 
 #### 密码
 
