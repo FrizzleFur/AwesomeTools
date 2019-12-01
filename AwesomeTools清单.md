@@ -150,12 +150,14 @@
 17. [CloudConvert](https://cloudconvert.com/) convert anything to anything~
 18. [AppIcons](https://github.com/kuyawa/AppIcons)AppIcon Generator for macOS and iOS
 19. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
-20. [Path Finder 8.3.9](https://xclient.info/s/path-finder.html)Finder增强工具
-21. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
-22. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
-23. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
-24. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
-25. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
+20. [EasyFinder](https://www.easyfinderapp.com/)
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20191119113711.png)
+21. [Path Finder 8.3.9](https://xclient.info/s/path-finder.html)Finder增强工具
+22. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
+23. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+24. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+25. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+26. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
 
 #### 下载
 
@@ -165,7 +167,9 @@
 37. [high-speed-downloader/high-speed-downloader: 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新](https://github.com/high-speed-downloader/high-speed-downloader)
 37. [BaiduExporter](https://github.com/acgotaku/BaiduExporter)
 38. [YAAW-for-Chrome](https://github.com/acgotaku/YAAW-for-Chrome)Yet Another Aria2 Web Frontend in pure HTML/CSS/Javascirpt http://binux.github.io/yaaw/demo/
-39. [Webpagetopdf](https://webpagetopdf.com/) Web To PDF
+39. [Webpagetopdf](https://webpagetopdf.com/) Web To  PDF 
+40. EasyFind
+不知道大家用过 windows 下的 everything 没有，这个就是跟 everything 类似的，无索引即时搜索，速度很快，轻量级的，非常好用。
 
 
 #### 办公
@@ -627,12 +631,11 @@ hosts文件可以到github或者百度上找
 
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)  油猴，让你的Web🚀
 2. [Surfingkeys](https://github.com/brookhong/Surfingkeys) 想要替代 `Vimium` 的神器 [Surfingkeys](https://github.com/brookhong/Surfingkeys/blob/master/README_CN.md#%E5%89%8D%E7%BC%80%E6%95%B0%E5%AD%97%E5%8F%AF%E5%A4%9A%E6%AC%A1%E9%87%8D%E5%A4%8D%E7%9B%B8%E5%BA%94%E6%93%8D%E4%BD%9C)
-3. [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)   Chrome标配插件，不解释
-4. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd),文档：[Steward - 帮助中心](http://oksteward.com/steward-documents/zh/#%E7%9B%AE%E5%BD%95)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
-5. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
-6. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
-7. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
-8. [WebTimer](https://chrome.google.com/webstore/£detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
+3. [Steward](https://chrome.google.com/webstore/detail/steward-a-command-launche/dnkhdiodfglfckibnfcjbgddcgjgkacd),文档：[Steward - 帮助中心](http://oksteward.com/steward-documents/zh/#%E7%9B%AE%E5%BD%95)Chrome中的Alfred, 定制workflow介绍在这：[Steward的New Tab模式 ·](http://oksteward.com/steward-document-zh/%E4%B8%89%E5%A4%A7%E6%A8%A1%E5%BC%8F/NewTab%E6%A8%A1%E5%BC%8F.html)
+4. [Extensions Manager](https://chrome.google.com/webstore/detail/extensions-manager-aka-sw/lpleipinonnoibneeejgjnoeekmbopbc)   '一键管理所有扩展'已经不再维护，用更好用的Extensions Manager吧
+5. [One-tab](https://www.one-tab.com/)  减少Chrome的tab，降低内存。
+6. [Copyfish](https://chrome.google.com/webstore/detail/copyfish-%F0%9F%90%9F-free-ocr-soft/eenjdnjldapjajjofmldgmkjaienebbj?hl=en) Copy, paste and translate text from any image, video or PDF.
+7. [WebTimer](https://chrome.google.com/webstore/£detail/web-timer/ggnjbdfgigejghknieofeahaknkjafim) 统计你在各个网页上停留的时间~
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15076239784340.jpg)
 1. [Kyle-Kyle/baidudl: Get download links from pan.baidu.com and you don't need to be afraid of getting your account banned](https://github.com/Kyle-Kyle/baidudl)百度云直链下载,配合Aria2
 2. [Markdown Here](https://markdown-here.com/) Markdown Here 是个浏览器插件（Chrome/Firefox/Safari），可以将浏览器中编辑器里的 Markdown 文本转换成渲染过后的 HTML。
@@ -640,6 +643,8 @@ hosts文件可以到github或者百度上找
 3. [Chrome Merge Windows](https://chrome.google.com/webstore/detail/merge-windows/mmpokgfcmbkfdeibafoafkiijdbfblfg/related)Chrome Merge Windows
 4. [Blipshot: one click full page screenshots](https://chrome.google.com/webstore/detail/blipshot-one-click-full-p/mdaboflcmhejfihjcbmdiebgfchigjcf/related?utm_source=chrome-ntp-icon)网页截图
 5. [chrome-cleaner-pro](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)chrome-cleaner-pro
+6. [023《FireShot》一键滚动截屏整个网页 - V2方圆](https://www.v2fy.com/p/023_fireshot/)
+7. [032《Smallpdf》简单好用的线上PDF工具 - V2方圆](https://www.v2fy.com/p/032_smallpdf/)
 
 #### RSS Read
 
