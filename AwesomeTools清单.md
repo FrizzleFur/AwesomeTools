@@ -198,37 +198,37 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 41. [看图 for Mac](https://sspai.com/post/43370)腾讯又出了一款良心图片浏览工具：看图 for Mac 
 42. [Quitter](https://marco.org/apps)  他可以幫我們自動關閉或隱藏不需要的 App, 参考[Quitter for Mac 降低分心頻率，出自我敬佩的開發者](https://www.playpcesor.com/2016/05/quitter-for-mac.html)
 43. [Send Anywhere (File Transfer)](https://send-anywhere.com/file-transfer)"发送任何位置" 是一个文件共享应用程序, 它
-44. [Hazel](https://sspai.com/post/35225#%E7%90%86%E6%B8%85%E6%95%B4%E7%90%86%E6%80%9D%E8%B7%A)
-自动整理文件，让你的 Mac 井井有条
-1. [Annotate](https://xclient.info/s/annotate.html) Mac标注神器
-2. [FineReader](https://www.zhinin.com/wp-content/themes/2019_v0.1/down.php?id=17691)PDF的OCR识别神器
+44. [Hazel](https://sspai.com/post/35225#%E7%90%86%E6%B8%85%E6%95%B4%E7%90%86%E6%80%9D%E8%B7%A)自动整理文件，让你的 Mac 井井有条
+45. [Annotate](https://xclient.info/s/annotate.html) Mac标注神器
+46. [FineReader](https://www.zhinin.com/wp-content/themes/2019_v0.1/down.php?id=17691)PDF的OCR识别神器
+47. [自动切换输入法Mac](https://apps.apple.com/cn/app/%E8%87%AA%E5%8A%A8%E5%88%87%E6%8D%A2%E8%BE%93%E5%85%A5%E6%B3%95/id1470350547?mt=12)Automatic switch input method
 
 #### 密码
 
-45. [1Password](https://1password.com/)  非常专业的密码管理器
-46. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
-47. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
-48. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
+48. [1Password](https://1password.com/)  非常专业的密码管理器
+49. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
+50. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+51. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
 
-49. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
-50. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
-51. [Downie](https://software.charliemonroe.net/downie.php)Downie是一款Mac下的视频抓取工具，将URL拖动或copy到工具中，工具就会解析页面并将页面中的视频下载到本地。可以用这个工具下载WWDC的视频，比在Safari上看舒服多了。
+52. [BilibiliMac客户端](https://github.com/typcn/bilibili-mac-client/releases) 哈哈，宅男必备
+53. [IIna](https://lhc70000.github.io/iina/) 好用的视频播放器
+54. [Downie](https://software.charliemonroe.net/downie.php)Downie是一款Mac下的视频抓取工具，将URL拖动或copy到工具中，工具就会解析页面并将页面中的视频下载到本地。可以用这个工具下载WWDC的视频，比在Safari上看舒服多了。
 
 #### GIF
 
-51. [Convertio](https://convertio.co/zh/mp4-gif/) Mp4转gif
-52. [GIF Brewery 3](http://gifbrewery.com/)
+55. [Convertio](https://convertio.co/zh/mp4-gif/) Mp4转gif
+56. [GIF Brewery 3](http://gifbrewery.com/)
 
 #### Fun
 
-52. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
-53. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
+57. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
+58. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
 
 ### Learning
     
-1. 
+
 
 ### Developing
 
