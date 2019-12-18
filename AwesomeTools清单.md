@@ -228,8 +228,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 ### Learning
     
-
-
+    
 ### Developing
 
 1. [free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
@@ -754,6 +753,10 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 [Oceanic](https://chrome.google.com/webstore/detail/oceanic/gbbacdmgjdfajabgglpjifcedoajdimg)
 
 ### WebSite
+
+#### PS
+
+* [在线PS](https://www.uupoop.com/)
 
 #### Wechat
 
