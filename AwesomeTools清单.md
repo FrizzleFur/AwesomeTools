@@ -15,6 +15,9 @@
 
 * SwiftOldDriver: <https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom>
 * 少数派： <https://sspai.com/feed>
+* RSSHub
+    * 少数派专栏：
+    * 微信公众号： https://rsshub.app/wechat/wemp/{#wempId}
 
 
 ### pan资源
@@ -879,15 +882,19 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 1. [Instapaper](https://www.instapaper.com/u)   感觉最好用的RSS平台 = = 
 
 2. [Reeder](reederapp.com/)        感觉最好用的RSS客户端 = = 
+3. [IRReader](http://irreader.fatecore.com/) 
+4. [收趣](http://shouqu.me/) 国内大厂信息平台收藏器 ╮(✪ω✪)╭
 
-3. [收趣](http://shouqu.me/) 国内大厂信息平台收藏器 ╮(✪ω✪)╭
-
-4. [一览](http://www.yilan.io/home/?category=_recommend)  国产RSS
+5. [一览](http://www.yilan.io/home/?category=_recommend)  国产RSS
 
 #### Feed Rss
 
-1. [Feedity](https://feedity.com/default.aspx) RSS feed神器
-[知乎专栏RSS](https://rss.lilydjwg.me/)
+1. [RSSHub](https://docs.rsshub.app/)
+2. [你必读的 RSS 订阅源有哪些？](https://www.zhihu.com/question/19580096)
+3. [RSSHub-Radar](https://chrome.google.com/webstore/detail/rsshub-radar/kefjpfngnndepjbopdmoebkipbgkggaa)
+4. [createfeed](http://createfeed.fivefilters.org/) create feed
+5. [Feedity](https://feedity.com/default.aspx) RSS feed神器
+6. [知乎专栏RSS](https://rss.lilydjwg.me/)
 
 ### entertainment
 

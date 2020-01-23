@@ -7,7 +7,9 @@
 
 
 * ShannonChenCHN<http://gh-feed.imsun.net/ShannonChenCHN/iOSDevLevelingUp/issues>
+* JimmyLv<http://gh-feed.imsun.net/JimmyLv/jimmylv.github.io/issues>
 * 老司机周报<http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/> And <http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues/1148>
+* iOS-Weekly<http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues>
 * 干货Gank.io
     * <https://gank.io/feed>
     * <http://gank.io/api/today>
