@@ -27,12 +27,13 @@
 ## Pool
 
 1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
-2. [Amazing Apps](http://amazingapps.org/)前辈整理的，学习~
-3. [tool](https://github.com/Louiszhai/tool) 前辈整理的，学习~
-4. [hzlzh/Best-App: 收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 前辈整理的，学习~
-5. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
-6. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
-7. [反斗软件](http://www.apprcn.com/)
+2. [Best-App](https://github.com/hzlzh/Best-App)Best-App
+3. [Amazing Apps](http://amazingapps.org/)前辈整理的，学习~
+4. [tool](https://github.com/Louiszhai/tool) 前辈整理的，学习~
+5. [hzlzh/Best-App: 收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 前辈整理的，学习~
+6. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
+7. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
+8. [反斗软件](http://www.apprcn.com/)
 
 ### 逆向Pool
 
@@ -113,6 +114,16 @@
 4. [Evernote](https://evernote.com/intl/zh-cn/) Notes Platform
 5. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
 6. [GhostTile – 隐藏 Dock 中不想看见的图标 - 数码荔枝](https://www.lizhi.io/review/72551612)
+7. [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)Mac版微信的功能拓展
+8. [WeChaoh-my-wechat](https://github.com/lmk123/oh-my-wechat)Mac版微信的功能拓展
+9. [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)A dynamic library tweak for WeChat macOS 
+
+
+
+### linux
+
+1. [exa](https://the.exa.website/) A modern replacement for ls.
+2. [fkill](https://github.com/sindresorhus/fkill)sindresorhus/fkill: Fabulously kill processes. Cross-platform.
 
 #### 系统
 
@@ -647,6 +658,11 @@ hosts文件可以到github或者百度上找
 5. [chrome-cleaner-pro](https://zhaoolee.gitbooks.io/chrome/content/008-chrome-cleaner-pro300b-wei-chrome-jia-su.html)chrome-cleaner-pro
 6. [023《FireShot》一键滚动截屏整个网页 - V2方圆](https://www.v2fy.com/p/023_fireshot/)
 7. [032《Smallpdf》简单好用的线上PDF工具 - V2方圆](https://www.v2fy.com/p/032_smallpdf/)
+
+### Github
+
+1. [Gitako - Github file tree](https://chrome.google.com/webstore/detail/gitako-github-file-tree/giljefjcheohhamkjphiebfjnlphnokk)
+
 
 #### RSS Read
 

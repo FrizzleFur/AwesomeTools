@@ -6,7 +6,7 @@
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15161925609832.png)
 
 ## Todo
-
+ * [ ] 需要[Richard Guay大神教你用神器](https://tutsplus.com/authors/richard-guay?_ga=2.208239889.241971009.1580456852-297145189.1580456852)
  * [x] Atom配置和进阶
  * [x] 整理文档的App
  * [x] `Mweb`的Mac和iOS之间同步 （`2018-03-05`完成同步，设置好文档库）
@@ -40,6 +40,14 @@
 ![AppCode 2018 Mac Objective-C集成开发环境 <span style='color:#ff0000;'>v2018.2.5(OC-182.5107.23)</span>的图片](https://www.zhinin.com/wp-content/uploads/2018/05/20180509001024_12829.jpg)
 8、回到“AppCode” for Mac软件镜像界面，打开文件“Serial”，将注册码复制至“Activation Code”中，然后点击“OK”，完成注册！
 9、重新运行[JetBrains](https://www.zhinin.com/tag/jetbrains) AppCode for Mac，已破解成功！需要注意的是AppCode 2018注册码有效期至2019年9月25日为止！
+
+
+## baiduPan 
+
+* [网盘直链下载助手](https://www.baiduyun.wiki/) 🖖油猴脚本 一个免费脚本搞定网盘下载
+* BaiduPCS-Go 百度网盘客户端 - Go语言编写
+  * [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go)
+* [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) For macOS.百度网盘 破解SVIP、下载速度限制~
 
 
 ## Aria2
