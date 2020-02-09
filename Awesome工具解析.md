@@ -44,13 +44,18 @@
 
 ## baiduPan 
 
-* [网盘直链下载助手](https://www.baiduyun.wiki/) 🖖油猴脚本 一个免费脚本搞定网盘下载
+* [网盘直链下载助手](https://www.baiduyun.wiki/) 🖖油猴脚本 一个免费脚本搞定网盘下载 <最后使用了Aria2的方式下载，目前速度还有一定限制100k左右>
+  * [助手工具下载地址](https://www.baiduyun.wiki/download.html)
+  * [网盘万能助手](https://545c.com/dir/3994041-35240665-e1ea37) 用.zip加载到<chrome://extensions/>
+（限速的用户可以将要下载的文件进行分享 , 打开分享后的链接 , 打开 https://www.baidusu.com 复制分享链接获取下载链接）
 * BaiduPCS-Go 百度网盘客户端 - Go语言编写
   * [BaiduPCS-Go](https://github.com/iikira/BaiduPCS-Go)
 * [BaiduNetdiskPlugin-macOS](https://github.com/CodeTips/BaiduNetdiskPlugin-macOS) For macOS.百度网盘 破解SVIP、下载速度限制~
 
 
 ## Aria2
+
+*  [Aria2Gui](https://github.com/yangshun1029/aria2gui)
 
 [high-speed-downloader/high-speed-downloader: 百度网盘不限速下载 支持Windows和Mac 2018年1月16日更新](https://github.com/high-speed-downloader/high-speed-downloader)
 
