@@ -12,3 +12,4 @@
 * `Cmd + P` 打开最近浏览文件列表, 选中后可添加`Ctrl + G`到指定行号
 * `Option + Shift + F` 格式化当前doc
 * `Ctrl + J` 合并代码行
+* `Ctrl` + ` 打开terminal.
