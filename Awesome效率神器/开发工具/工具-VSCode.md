@@ -3,6 +3,14 @@
 
 ## 快捷键
 
+
+### 常用
+
+* `Cmd + Shift + .`, 显示TOC， Breadcrumbs
+* `Ctrl + Shift + Tab`, 快速打开最近使用的文件列表
+
+
+
 * `Cmd + Shift + K` 删除当前行
 * `Cmd + X` 剪切当前行
 * `Cmd + U` 光标恢复到上次位置
@@ -13,3 +21,5 @@
 * `Option + Shift + F` 格式化当前doc
 * `Ctrl + J` 合并代码行
 * `Ctrl` + ` 打开terminal.
+* `Ctrl + Shift + T`  Re-open a Closed Editor
+* `Ctrl + Shift + D`  重复行  not worked
