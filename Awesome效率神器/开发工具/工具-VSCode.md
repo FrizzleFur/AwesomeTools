@@ -23,3 +23,26 @@
 * `Ctrl` + ` 打开terminal.
 * `Ctrl + Shift + T`  Re-open a Closed Editor
 * `Ctrl + Shift + D`  重复行  not worked
+
+
+## Tool
+
+* CSS Peek
+  * Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
+* Markdown All in One
+  * All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
+* Instant Markdown
+* Bookmarks
+  * mark and jump
+* Paste JSON as Code
+  - Interactively generate types and (de-)serialization code from JSON, JSON Schema, and TypeScript
+  - Paste JSON/JSON Schema/TypeScript as code
+* Todo Tree
+  * This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
+* Better Align
+* Dash
+
+
+## Ref 
+
+* [awesome-vscode](https://viatsko.github.io/awesome-vscode/) 🎨 A curated list of delightful VS Code packages and resources.
