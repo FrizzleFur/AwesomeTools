@@ -118,13 +118,6 @@
 8. [WeChaoh-my-wechat](https://github.com/lmk123/oh-my-wechat)Mac版微信的功能拓展
 9. [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)A dynamic library tweak for WeChat macOS 
 
-
-
-### linux
-
-1. [exa](https://the.exa.website/) A modern replacement for ls.
-2. [fkill](https://github.com/sindresorhus/fkill)sindresorhus/fkill: Fabulously kill processes. Cross-platform.
-
 #### 系统
 
 1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
@@ -240,18 +233,21 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 57. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
 58. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
 
-### Learning
     
-    
+### Linux
+
+1. [exa](https://the.exa.website/) A modern replacement for ls.
+2. [fkill](https://github.com/sindresorhus/fkill)sindresorhus/fkill: Fabulously kill processes. Cross-platform.
+3. [enhancd](https://github.com/b4b4r07/enhancd) 🚀 A next-generation cd command with your interactive filter
+
+
 ### Developing
 
 1. [free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
 
 #### Developing Helper
 
-番茄钟[(55 封私信 / 28 条消息) 有哪些好用的番茄工作法软件？ - 知乎](https://www.zhihu.com/question/20019628)
-
-1. [pomotodo番茄土豆](https://pomotodo.com/app/)  同步iCalendar哦✪ω✪
+1. [pomotodo番茄土豆](https://pomotodo.com/app/)  同步iCalendar哦✪ω✪ 番茄钟[(55 封私信 / 28 条消息) 有哪些好用的番茄工作法软件？ - 知乎](https://www.zhihu.com/question/20019628)
 2. [Noizio](https://www.waitsun.com/noizio-1-5.html) 白噪音，让你的工作安心点
 3. [Calm](https://www.calm.com/meditate) 类似 Noizio，但是web更轻~
 4. [Magicanrest](https://itunes.apple.com/us/app/magicanrest/id634255909?mt=12) a free time reminder
@@ -389,14 +385,11 @@ Turn drawings into code with PaintCode ~
 
 6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
 
-
 7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native. Issue tracking made fun on your Mac.
 
-#### GTD看板
+8. [Teambition | 团队协作工具创导者](https://www.teambition.com/)
 
-1. [Teambition | 团队协作工具创导者](https://www.teambition.com/)
-
-2. [trello](https://trello.com/b/0jHOl1As/plus-for-trello-help)
+9. [trello](https://trello.com/b/0jHOl1As/plus-for-trello-help)
 
 
 ### Email
