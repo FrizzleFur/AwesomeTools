@@ -41,7 +41,7 @@
   * This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
 * Better Align
 * Dash
-
+* [Reference Search View](https://marketplace.visualstudio.com/items?itemName=ms-vscode.references-view) 列出所有引用
 
 ## Ref 
 
