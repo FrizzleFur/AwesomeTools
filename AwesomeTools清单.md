@@ -245,6 +245,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 ### Developing
 
 1. [free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
+2. [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) xcode缓存统计
 
 #### Developing Helper
 
