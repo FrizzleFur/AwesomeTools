@@ -232,6 +232,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 57. [WeiboForMac](http://weiboformac.sinaapp.com/) weibo for mac~
 58. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
+59. [keycastr](https://github.com/keycastr/keycastr/releases) 击键显示
 
     
 ### Linux
