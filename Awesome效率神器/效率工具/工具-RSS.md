@@ -17,7 +17,7 @@
     * <http://gank.io/api/xiandu/categories/wow>
 * 少数派<https://sspai.com/feed>
 * my github news<http://gh-feed.imsun.net/JimmyLv/jimmylv.github.io/issues>
-
+* github trending<https://mshibanami.github.io/GitHubTrendingRSS/>
 
 ## RSS 获取
 
