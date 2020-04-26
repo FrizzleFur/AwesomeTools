@@ -10,7 +10,6 @@
 * `Ctrl + Shift + Tab`, 快速打开最近使用的文件列表
 
 
-
 * `Cmd + Shift + K` 删除当前行
 * `Cmd + X` 剪切当前行
 * `Cmd + U` 光标恢复到上次位置
