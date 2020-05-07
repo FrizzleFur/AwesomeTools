@@ -47,7 +47,7 @@
 1. [Xclient](xclient.info) Tool Pool
 2. [数字逻辑](https://www.softosx.com/) Tool Pool
 3. [脑袋瓜子](https://www.naodai.org/)
-4. [知您网(zhinin.com) - Mac软件下载 | Mac游戏下载 | 破解软件 | 破解游戏 | Crack](http://www.zhinin.com/)
+4. [知您网](http://www.zhinin.com/)
 5. [Waitsun](https://www.waitsun.com/) Tool Pool
 6. [Issuu](https://issuu.com/)  电子书 Pool
 7. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
