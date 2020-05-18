@@ -9,7 +9,7 @@
 * `Cmd + Shift + .`, 显示TOC， Breadcrumbs
 * `Ctrl + Shift + Tab`, 快速打开最近使用的文件列表
 
-
+* `Cmd + 0` 定位文件到目录
 * `Cmd + Shift + K` 删除当前行
 * `Cmd + X` 剪切当前行
 * `Cmd + U` 光标恢复到上次位置
@@ -41,6 +41,8 @@
 * Better Align
 * Dash
 * [Reference Search View](https://marketplace.visualstudio.com/items?itemName=ms-vscode.references-view) 列出所有引用
+* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) Smart Coding for TS plugin.
+
 
 ## Ref 
 
