@@ -43,6 +43,7 @@
 * [Reference Search View](https://marketplace.visualstudio.com/items?itemName=ms-vscode.references-view) 列出所有引用
 * [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) Smart Coding for TS plugin.
 
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20200618172438.png)
 
 ## Ref 
 
