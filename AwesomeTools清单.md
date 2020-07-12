@@ -45,14 +45,15 @@
 ### Tools Pool
 
 1. [Macwk](https://www.macwk.com/) Free Nice Tool Pool
-1. [Xclient](xclient.info) Tool Pool
-2. [数字逻辑](https://www.softosx.com/) Tool Pool
-3. [脑袋瓜子](https://www.naodai.org/)
-4. [知您网](http://www.zhinin.com/)
-5. [Waitsun](https://www.waitsun.com/) Tool Pool
-6. [Issuu](https://issuu.com/)  电子书 Pool
-7. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
-8. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
+2. [Reveal](https://github.com/xcanwin/MacOS-App-Crack/releases/tag/71921-42v-kcarC-laeveR) Crack Pool
+3. [Xclient](xclient.info) Tool Pool
+4. [数字逻辑](https://www.softosx.com/) Tool Pool
+5. [脑袋瓜子](https://www.naodai.org/)
+6. [知您网](http://www.zhinin.com/)
+7. [Waitsun](https://www.waitsun.com/) Tool Pool
+8. [Issuu](https://issuu.com/)  电子书 Pool
+9. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
+10. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
 
 ### Tool Guide
 
