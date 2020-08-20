@@ -977,6 +977,12 @@ PWA（Progressive Web Apps）是由 Google 提出的下一代 Web 应用模型�
 然后在地址栏输入`chrome://flags`，找到`Desktop PWAs`的选项将其`Enabled`了，然后Chrome会提示你重启浏览器。
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15238171164510.jpg)
 
+
+## MarginNote
+
+[MarginNote BBS](https://bbs.marginnote.cn/)
+
+
 ## Moke
 
 [最纯粹的微博体验：墨客 2 评测](https://sspai.com/post/25701)
