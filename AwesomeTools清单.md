@@ -248,6 +248,8 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 1. [free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
 2. [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) xcode缓存统计
+3. [devdocs](https://devdocs.io/) 开发在线文档大全
+
 
 #### Developing Helper
 
@@ -341,14 +343,13 @@ Turn drawings into code with PaintCode ~
 ##### Postman
 
 2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
-
 - 2.1 [Newman](https://github.com/postmanlabs/newman) The cli companion for postman
-
 - 2.2 [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo/)  Sends requests fired through the Postman chrome app.
-3. [Charles](https://www.charlesproxy.com/) request抓包~
-4. [Paw](https://paw.cloud/) API请求利器
-5. [Visual-Json](https://itunes.apple.com/cn/app/visual-json/id488709442?mt=12) JSON利器
-6. [Dash](https://kapeli.com/dash)  看Docs只用它了
+1. [Hoppscotch(PostWoman)](https://github.com/hoppscotch/hoppscotch) Hoppscotch is lighter and better than Postman.
+2. [Charles](https://www.charlesproxy.com/) request抓包~
+3. [Paw](https://paw.cloud/) API请求利器
+4. [Visual-Json](https://itunes.apple.com/cn/app/visual-json/id488709442?mt=12) JSON利器
+5. [Dash](https://kapeli.com/dash)  看Docs只用它了
 
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-04-15018311767868.jpg)
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-04-15018312082029.jpg)
@@ -671,7 +672,6 @@ hosts文件可以到github或者百度上找
 
 14. [Raindrop](https://raindrop.io/app/) Rss工具
 
-
 #### Ad
 
 15. [广告终结者](https://chrome.google.com/webstore/detail/%E5%B9%BF%E5%91%8A%E7%BB%88%E7%BB%93%E8%80%85/fpdnjdlbdmifoocedhkighhlbchbiikl) Ad killer.
@@ -688,6 +688,8 @@ hosts文件可以到github或者百度上找
 21. [Dark Reader](https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/related)这是一个护眼扩展程序，通过实时生成黑色主题，为每一个网站启用夜间模式。 Dark Reader反转明亮的颜色，使其网页内容具有高对比度并且在易于夜间阅读。
 
 22.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
+
+23. [MDNice](https://www.mdnice.com/) 微信公众号排版markdown2Html
 
 #### Develop
 
