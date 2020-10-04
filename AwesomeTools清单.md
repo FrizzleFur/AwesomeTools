@@ -216,7 +216,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 
 48. [1Password](https://1password.com/)  非常专业的密码管理器
 49. [RememBear: Secure Password Manager](https://www.remembear.com/) 想替代1PassWord的密码管理器
-50. [Fliqlo](https://fliqlo.com/#about) Mac 屏保
+50. [Fliqlo](https://fliqlo.com/#about) Mac 屏保锁屏
 51. [Deskscribble](https://deskscribbleapp.com/) Mac下的屏幕标注软件，可惜不更新了，在OSX10.13上无法运行,可以使用39. [Highlight](http://highlightsapp.net/)代替
 
 ####  播放器
@@ -249,6 +249,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 1. [free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
 2. [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) xcode缓存统计
 3. [devdocs](https://devdocs.io/) 开发在线文档大全
+4. [swift-class-diagrams](https://martinmitrevski.com/2016/10/12/swift-class-diagrams-and-more/) Swift类图分析工具
 
 
 #### Developing Helper
@@ -584,6 +585,8 @@ Turn drawings into code with PaintCode ~
 4. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
 5. [Potatso-Legacy](https://github.com/haxpor/Potatso) Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 10+.
 6. [NetShuttle ShadowsocksR tool]() 美区SS客户端
+7. [vpn - super unlimited](https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473) iPhone现可用的VPN
+
 
 #### 修改host翻墙
 
