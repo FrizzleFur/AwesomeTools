@@ -50,7 +50,6 @@
 4. [数字逻辑](https://www.softosx.com/) Tool Pool
 5. [脑袋瓜子](https://www.naodai.org/)
 6. [知您网](http://www.zhinin.com/)
-7. [Waitsun](https://www.waitsun.com/) Tool Pool
 8. [Issuu](https://issuu.com/)  电子书 Pool
 9. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
 10. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
@@ -693,6 +692,8 @@ hosts文件可以到github或者百度上找
 22.  [Morpheon Dark](https://chrome.google.com/webstore/detail/morpheon-dark/mafbdhjdkjnoafhfelkjpchpaepjknad?hl=en)黑色主题
 
 23. [MDNice](https://www.mdnice.com/) 微信公众号排版markdown2Html
+
+24. [Obsidian](https://sspai.com/post/62414) 知识卡片网络
 
 #### Develop
 
