@@ -898,6 +898,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 ### RSS Tool
 
+1. [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar) 万物皆可以RSS
+0. [WeRss](https://werss.app/) 微信公众号Rss
 1. [Instapaper](https://www.instapaper.com/u)   感觉最好用的RSS平台 = = 
 
 2. [Reeder](reederapp.com/)        感觉最好用的RSS客户端 = = 

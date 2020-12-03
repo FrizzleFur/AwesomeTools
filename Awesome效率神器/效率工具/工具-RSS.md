@@ -18,6 +18,9 @@
 * 少数派<https://sspai.com/feed>
 * my github news<http://gh-feed.imsun.net/JimmyLv/jimmylv.github.io/issues>
 * github trending<https://mshibanami.github.io/GitHubTrendingRSS/>
+### 公众号
+* 美团技术团队<https://cdn.werss.weapp.design/api/v1/feeds/6d3bf221-4240-4370-968e-4fa858e6127e.xml>
+
 
 ## RSS 获取
 
@@ -43,6 +46,9 @@ Easy-to-RSS 是一个一键式发现当前网页RSS的 chrome/firefox extension�
 * Youtube: 完全支持
 
 
+通过 RSSHub 订阅不支持 RSS 的网站
+
+[通过 RSSHub 订阅不支持 RSS 的网站](https://sspai.com/post/47100)
 
 #### Github issue Rss
 [如何使用 Feed 订阅 GitHub Issues | I'm Sun](https://imsun.net/posts/gh-feed/)
