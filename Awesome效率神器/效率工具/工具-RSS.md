@@ -6,6 +6,11 @@
 ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20190706104803.png)
 
 
+* 阮一峰的网络日志：
+  * <http://feeds.feedburner.com/ruanyifeng>
+（正式Feed，大陆地区被屏蔽）
+  * <http://www.ruanyifeng.com/blog/atom.xml>
+（备用Feed，正常访问）
 * ShannonChenCHN<http://gh-feed.imsun.net/ShannonChenCHN/iOSDevLevelingUp/issues>
 * JimmyLv<http://gh-feed.imsun.net/JimmyLv/jimmylv.github.io/issues>
 * 老司机周报<http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/> And <http://gh-feed.imsun.net/SwiftOldDriver/iOS-Weekly/issues/1148>
