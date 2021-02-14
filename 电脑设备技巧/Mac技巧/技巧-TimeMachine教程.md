@@ -110,6 +110,67 @@ Time Machine 是 macOS 系统内置的备份工具，它可以为你的 Mac 自�
 
 为了预防电脑出现意外情况造成数据丢失，建议大家养成定期备份的习惯。
 
+## 备份进度信息
 
+在备份运行时，可以通过以下方式获取详细信息
+
+'tmutil status'
+
+应该返回如下内容：
+
+```linux
+在备份运行时，可以通过以下方式获取详细信息
+
+tmutil status
+应该返回如下内容：
+
+Backup session status:
+{
+    BackupPhase = Copying;
+    ClientID = "com.apple.backupd";
+    DateOfStateChange = "2014-12-18 14:14:21 +0000";
+    DestinationID = "B4AF88-5AD5-49BE-B254-650B44E20499";
+    DestinationMountPoint = "/Volumes/TimeMachine";
+    Percent = "0.852581430477103";
+    Progress =     {
+        TimeRemaining = 0;
+        "_raw_totalBytes" = 38596759;
+        bytes = 36563200;
+        files = 480;
+        totalBytes = 42456434;
+        totalFiles = 480;
+    };
+    Running = 1;
+    Stopping = 0;
+    "_raw_Percent" = "0.9473127005301144";
+}
+如果您只关心百分比，请尝试以下操作（看起来很丑，只有在要显示百分比的情况下才起作用）：
+
+tmutil status | awk '/_raw_Percent/ {print $3}' | grep -o '[0-9].[0-9]\+' | awk '{print $1*100}'
+
+```
+Backup session status:
+{
+    BackupPhase = Copying;
+    ClientID = "com.apple.backupd";
+    DateOfStateChange = "2014-12-18 14:14:21 +0000";
+    DestinationID = "B4AF88-5AD5-49BE-B254-650B44E20499";
+    DestinationMountPoint = "/Volumes/TimeMachine";
+    Percent = "0.852581430477103";
+    Progress =     {
+        TimeRemaining = 0;
+        "_raw_totalBytes" = 38596759;
+        bytes = 36563200;
+        files = 480;
+        totalBytes = 42456434;
+        totalFiles = 480;
+    };
+    Running = 1;
+    Stopping = 0;
+    "_raw_Percent" = "0.9473127005301144";
+}
+如果您只关心百分比，请尝试以下操作（看起来很丑，只有在要显示百分比的情况下才起作用）：
+
+tmutil status | awk '/_raw_Percent/ {print $3}' | grep -o '[0-9].[0-9]\+' | awk '{print $1*100}'
 
 
