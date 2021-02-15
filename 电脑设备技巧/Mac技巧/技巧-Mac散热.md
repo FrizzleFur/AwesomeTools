@@ -57,6 +57,18 @@ sudo pmset -a GPUSwitch 2
 等待 5 秒钟，然后按下电源按钮以将 Mac 开机。
 
 
+[10 Quick Ways to Speed Up a Slow Mac](https://www.howtogeek.com/228180/10-quick-ways-to-speed-up-a-slow-mac/)
+
+如果WindowServer即使在没有任何东西在运行的情况下仍然消耗大量电能，您仍然可以尝试一些方法。首先，查看我们有关加快Mac速度的文章，特别是有关降低透明度的部分。您可以在“系统偏好设置”>“辅助功能”>“显示”中找到此选项，众所周知，它可以减少WindowSever CPU的使用，尤其是在较旧的Mac上。
+
+其实本质原因是给Mac的任务太多太重，运行的程序太多了，比较实用的是：
+1. 降低不必用程序的启用，后台程序
+2. 降低显示的透明度和动态效果（GPU的消耗）
+
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210215133229.png)
+
+
 ## Ref
 
 1. [2020款MacBook pro 13寸版发热卡顿?有没有和我一样的？ - 知乎](https://www.zhihu.com/question/396554923/answer/1374320608)
