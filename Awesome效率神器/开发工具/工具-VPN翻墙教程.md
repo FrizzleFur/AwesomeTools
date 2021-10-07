@@ -119,17 +119,26 @@ ShadowsocksR (R)：http://omgib13x8.bkt.clouddn.com/ssr-win.7z
 
 ## Shadowsocks免费账号 
 
-*[Shadowsocks免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-* [freeSS](https://get.ss8.fun/)
-* [freess](https://github.com/max2max/freess)
+[注册站点](https://github.com/selierlin/Share-SSR-V2ray/blob/master/1-share-ssr-v2ray.md)
 
-打开[portfolio-preview](https://ss.freess.org/#portfolio-preview) ,然后你会看到这个界面
+以下为需要注册的站点（机场），通过机场中免费或付费的套餐，再配合工具即可科学上网。具体使用注册后机场中都会有提供教程，或者可查看本文档中的教程。
 
-随便点一个地址,然后会弹出个二维码，像下面这样，注意右上角，点那个纸飞机，找到那个从屏幕上扫描二维码，注意要选那个**自动代理模式**，windows 的就选 **系统代理模式**
+有的机场刚刚开的，会员人数不多的，网站域名奇葩的，不建议大家充值过长的套餐，在充值前可以加入机场的官方群或者TG群组
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15343299529861.jpg)
-ss 备用网址,如果上面的二维码扫了不能用，试试下面这些
-* [freeSS](https://get.ss8.fun/)
+名称	试用天数	注册登录	需要翻墙	备注
+中信加速器	无	✅	❌	速度延迟稳定，每月签到能有3G左右，送500M邀请码：XYKZ9
+极客云	无	✅	❌	注册送10G
+西部世界	6	✅	❌	验证邮箱送会员，推荐
+筋斗云(飞速云)	30	✅	❌	注册送500M，每天签到最高送200M
+优云666	无	✅	✅	注册送10G，每日签到送1-7G流量
+速蛙云	1	✅	❌	注册送1天会员，速度快，小流量年费套餐性价比高
+iKuuu	无限	✅	✅	每月50G
+在人间	无	✅	❌	无试用，节点质量高且不满意可全额退
+Mianna	无	✅	❌	百来节点在线，无试用，备选付费方案
+BITEB	7	✅	❌	注册送7天100G，不验证邮箱
+魔戒	无	✅	❌	1元套餐10流量不限时间
+小白云	无	✅	❌	注册送100G及三个免费节点，套餐最低5元/月，备选
+蒲云	无	✅	❌	注册送100G，40+服务器，月费5元
 
 ## Chacha-20加密
 
