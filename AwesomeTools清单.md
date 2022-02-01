@@ -46,7 +46,7 @@
 
 1. [Macwk](https://www.macwk.com/) Free Nice Tool Pool
 2. [Reveal](https://github.com/xcanwin/MacOS-App-Crack/releases/tag/71921-42v-kcarC-laeveR) Crack Pool
-3. [Xclient](xclient.info) Tool Pool
+3. [Xclient](https://xclient.info) Tool Pool
 4. [数字逻辑](https://www.softosx.com/) Tool Pool
 5. [脑袋瓜子](https://www.naodai.org/)
 6. [知您网](http://www.zhinin.com/)
@@ -235,7 +235,6 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 58. [Flume](https://my.setapp.com/successful-registration)Upload files directly to Instagram
 59. [keycastr](https://github.com/keycastr/keycastr/releases) 击键显示
 
-    
 ### Linux
 
 1. [exa](https://the.exa.website/) A modern replacement for ls.
@@ -249,7 +248,39 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 2. [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) xcode缓存统计
 3. [devdocs](https://devdocs.io/) 开发在线文档大全
 4. [swift-class-diagrams](https://martinmitrevski.com/2016/10/12/swift-class-diagrams-and-more/) Swift类图分析工具
+5. [dcdg.dart](https://github.com/glesica/dcdg.dart) Dart类图生成工具,Dart Class Diagram Generator, A small command line utility to generate a class (UML or similar) diagram from a Dart package.
+```linux
+Usage: dcdg [options]
 
+-b, --builder=<NAME>            Builder to use to construct a class diagram
+                                (defaults to "plantuml")
+-e, --exclude=<TYPE>            Class / type names to exclude, can be a regular
+                                expression
+    --exclude-private=<KIND>    Exclude private entities (field, method, class,
+                                or all)
+    --exclude-has-a             Exclude has-a / aggregation relationships from
+                                the diagram output
+    --exclude-is-a              Exclude is-a / extension relationships from the
+                                diagram output
+    --exported-only             Include only classes exported from the Dart
+                                package
+    --has-a=<CLASS>             Include only classes with a has-a relationship
+                                to any of the named classes
+    --is-a=<CLASS>              Include only classes with an is-a relationship
+                                to any of the named classes
+-h, --help                      Show usage information
+-V, --verbose                   Show verbose output
+-i, --include=<TYPE>            Class / type names to include, can be a regular
+                                expression
+-o, --output=<FILE>             File to which output should be written (stdout
+                                if omitted)
+                                (defaults to "")
+-p, --package=<DIR>             Path to the root of the Dart package to scan
+                                (defaults to ".")
+-s, --search-path=<DIR>         Directory relative to the package root to search
+                                for classes
+                                (defaults to "lib")
+```
 
 #### Developing Helper
 
@@ -578,7 +609,7 @@ Turn drawings into code with PaintCode ~
 
 ### VPN
 
-0. [速蛙云VPN](https://m.ok7.icu/m/home) 有风险
+0. [速蛙云VPN](https://m.ok2.icu/m/home) 有风险
 1. [Shadowsocks免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 2. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience)
 3. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
