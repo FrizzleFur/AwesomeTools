@@ -54,6 +54,25 @@
 
 ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20200618172438.png)
 
+
+
+## Flutter配置
+
+--flavor
+
+```dart
+{
+    "name": "Flutter",
+    "request": "launch",
+    "type": "flutter",
+    "args": [
+        "--flavor",
+        "app1"
+    ]
+}
+```
+
+
 ## Ref
 
 * [awesome-vscode](https://viatsko.github.io/awesome-vscode/) 🎨 A curated list of delightful VS Code packages and resources.
