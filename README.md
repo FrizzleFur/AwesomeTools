@@ -27,3 +27,10 @@ My productivity tool list of Mac, Phone, and Web in developing and schedule.
 ## [GTD](https://github.com/FrizzleFur/AwesomeTools/blob/master/GTD%E7%90%86%E5%BF%B5.md)
 
 GTD tutorial~
+
+## TODO
+
+
+[] 参考[macOS 技巧：（四）macOS 软件清单](https://itcharge.cn/efficient/macos-tip/macos-tips-software-list/#10), 对清单进行结构化整理和标签��
+
+![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20220329162043.png)
