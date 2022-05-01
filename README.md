@@ -34,3 +34,11 @@ GTD tutorial~
 - [ ] 参考[macOS 技巧：（四）macOS 软件清单](https://itcharge.cn/efficient/macos-tip/macos-tips-software-list/#10), 对清单进行结构化整理和标签��
 
 ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20220329162043.png)
+
+
+## Ref
+
+| 名称  |  地址 |  类型 |
+|---|---|---|
+|  bestswifter 的博客 | [bestswifter 的博客](https://github.com/bestswifter/blog)  |  博客 |
+| iOSDevLevelingUp  | [iOSDevLevelingUp](https://github.com/ShannonChenCHN/iOSDevLevelingUp)   |  repo |
