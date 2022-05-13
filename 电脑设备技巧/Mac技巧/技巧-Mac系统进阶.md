@@ -312,6 +312,14 @@ sudo spctl --master-enable
 
 `2018-03-14`在升级`MacOS high sierra`后,很多老的软件出现问题，今天出现之前安装的`Chrome`在使用snap切换的时候，每次会出新的tap页，因为我在mac上分了多个deskTop，这样每次来回切换`Chrome`的时候就会弹出很多的tab,增加了`Chrome`的内存消耗，还非常不方便，我还以为是snap的问题，后面想升级下`Chrome`，最后发现**把`Chrome`从Dock中移除并退出重新打开**，这种问题就解决了。可能是MacOS的问题吧。
 
+
+## 黏贴版 Mac和模拟器
+
+经常遇到从Mac复制之后到ios模拟器上无法粘贴的情况：
+解决方案
+iOS模拟器–>Edit–>Automatically Sync Pasteboard 选中就可以, **如果不生效, 先取消在选中这也样就解决了**
+
+
 ## Github Desktop问题
 
 本来我是不想把`Github Desktop`加进来的，没想到它今天抽了一个错误，为了记录一下我还是写一下。
