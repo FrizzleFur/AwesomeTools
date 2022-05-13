@@ -50,7 +50,6 @@
 4. [数字逻辑](https://www.softosx.com/) Tool Pool
 5. [脑袋瓜子](https://www.naodai.org/)
 6. [知您网](http://www.zhinin.com/)
-8. [Issuu](https://issuu.com/)  电子书 Pool
 9. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
 10. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
 
