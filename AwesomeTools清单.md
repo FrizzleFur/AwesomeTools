@@ -611,7 +611,7 @@ Turn drawings into code with PaintCode ~
 
 ### VPN
 
-0. [速蛙云VPN](https://m.ok2.icu/m/home) 有风险
+0. [速蛙云VPN](https://m.fastfrog.link/m/home) 有风险
 1. [Shadowsocks免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
 2. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience)
 3. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
