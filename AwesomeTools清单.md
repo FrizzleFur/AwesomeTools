@@ -135,7 +135,7 @@
 8. [DaisyDisk](https://daisydiskapp.com/)   检查硬盘使用神器~
 9. [MacBooster](http://xclient.info/s/mac-booster.html) 长得有点像CleanMyMac，Who can tell the difference?10. [DrCleaner](https://www.drcleaner.com/)
 11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
-11. [Snap](https://itunes.apple.com/cn/app/snap/id418073146?mt=12)  打开太多软件，切换不方便？点名即 到！ 
+11. [Thor(替代长久不更新的Snap)](https://github.com/gbammc/Thor)  打开太多软件，切换不方便？点名即 到！
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307796714334.jpg)
 并且可以快捷键召唤Dock上的Apps
 1. [Moom](https://manytricks.com/moom/)  拯救你的Mac窗口,有了moom就不用Sizeup了，定制化你的需求！
