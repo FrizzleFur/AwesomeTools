@@ -342,7 +342,8 @@ Usage: dcdg [options]
 
 ##### Git
 
-1. [Tower for mac](https://www.git-tower.com) mac上最好用的Git GUI
+0. [Gitkraken](https://app.gitkraken.com/) mac上最好用的Git GUI 
+1. [Tower for mac](https://www.git-tower.com) mac上好用的Git GUI
 2. [SublimeMerge](https://www.sublimemerge.com)  Meet a new Git Client, from the makers of Sublime Text
 2. [Kaleidoscope](http://xclient.info/s/kaleidoscope.html?t=4264633a70139fdc6a66e422ec0af2d83f35ead3#versions) git 的合并和Diff工具
 3. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
