@@ -44,6 +44,7 @@
 
 ### Tools Pool
 
+0. [alternativeto](https://alternativeto.net/) 备选
 1. [Macwk](https://www.macwk.com/) Free Nice Tool Pool
 2. [Reveal](https://github.com/xcanwin/MacOS-App-Crack/releases/tag/71921-42v-kcarC-laeveR) Crack Pool
 3. [Xclient](https://xclient.info) Tool Pool
