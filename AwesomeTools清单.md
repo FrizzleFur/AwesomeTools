@@ -118,6 +118,7 @@
 7. [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)Mac版微信的功能拓展
 8. [WeChaoh-my-wechat](https://github.com/lmk123/oh-my-wechat)Mac版微信的功能拓展
 9. [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)A dynamic library tweak for WeChat macOS 
+10. [Go2Shell](https://github.com/Breathleas/Go2Shell) Go2Shell的AppleScript适配版本
 
 #### 系统
 
