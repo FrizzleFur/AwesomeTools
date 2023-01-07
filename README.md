@@ -35,6 +35,8 @@ GTD tutorial~
 
 ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20220329162043.png)
 
+- [ ] 参考[awesome-macos](https://github.com/phmullins/awesome-macos) 进行🏷化，添加「free」、「开源」、「dev」等标签
+
 
 ## Ref
 
