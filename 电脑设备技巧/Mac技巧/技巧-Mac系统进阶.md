@@ -191,6 +191,13 @@
 sudo spctl --master-disable
 ```
 
+由于10.15系统对于对于未签名的应用(破解的应用)没有给权限来打开，因此还要授予签名在终端输入：
+
+```
+sudo xattr -rd com.apple.quarantine /Applications/xxx.app
+```
+
+
 ### 下载软件
 
 * Valley [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.appvalley.vip/#) 
