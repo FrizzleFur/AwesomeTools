@@ -45,8 +45,6 @@
 ### Tools Pool
 
 0. [alternativeto](https://alternativeto.net/) 备选
-1. [Macwk](https://www.macwk.com/) Free Nice Tool Pool
-2. [Reveal](https://github.com/xcanwin/MacOS-App-Crack/releases/tag/71921-42v-kcarC-laeveR) Crack Pool
 3. [Xclient](https://xclient.info) Tool Pool
 4. [数字逻辑](https://www.softosx.com/) Tool Pool
 5. [脑袋瓜子](https://www.naodai.org/)
@@ -432,6 +430,11 @@ Turn drawings into code with PaintCode ~
 
 10. [teamind](https://www.teamind.co/) 看得见协作的 远程互动会议
 
+
+## Graph
+
+1. [MindNode2](https://www.mindnode.com/) UI更好看些
+2. [Xmind](https://www.xmind.com/) 老牌图
 
 
 ### Email
