@@ -442,7 +442,7 @@ key = m[5:8]+'-'+ m[8:11]+'-'+m[11:14]+'-'+m[14:17]
 print key
 ```
 
-
+## CmdTap账号注册
 
 ```
 ffur@apple.com
@@ -2073,6 +2073,12 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app"
 sudo spctl --master-disable
 //后恢复
 sudo spctl --master-enable
+
+
+// 方法2 xattr 命令来查看和操作文件扩展属性, com.apple.quarantine - 要删除的扩展属性名,quarantine是MacOS用于标记从外部源拷贝的文件。
+//记得最后保留一个空格，需要在“应用程序”里找到对应程序图片，拖拽到终端里，也就是命令行后面
+sudo xattr -r -d com.apple.quarantine
+
 ```
 macOS 10.15 Catalina 下：
 sudo xattr -d com.apple.quarantine ${AppFinderPath}
