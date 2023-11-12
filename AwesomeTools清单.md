@@ -121,10 +121,10 @@
 #### 系统
 
 1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
-2. [Mos](https://github.com/Caldis/Mos/tree/8f4ef19a87f287afb4a50dacbad2c4a60b86610e) 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板 
-3. [Caffeine](http://www.pc6.com/mac/121734.html)Caffeine for mac是一款很有用的小工具。caffeine for mac可以让你的 Mac 屏幕保持点亮状态，不会因时间的问题进入休眠状态。
-4. [dirtrace - 终极文件夹内容占比查看工具](https://github.com/everettjf/dirtrace)
-
+2. [Mos](https://github.com/Caldis/Mos/tree/8f4ef19a87f287afb4a50dacbad2c4a60b86610e) 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板
+3. [Amphetamine](https://apps.apple.com/cn/app/amphetamine/id937984704) 一款为macOS打造的最棒的防睡眠APP, better than Caffeine.
+4. [Caffeine](http://www.pc6.com/mac/121734.html)Caffeine for mac是一款很有用的小工具。caffeine for mac可以让你的 Mac 屏幕保持点亮状态，不会因时间的问题进入休眠状态。
+5. [dirtrace - 终极文件夹内容占比查看工具](https://github.com/everettjf/dirtrace)
 
 
 #### 系统清理
