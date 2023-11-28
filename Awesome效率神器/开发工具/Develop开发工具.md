@@ -5,7 +5,7 @@
 * [图标工场 - 移动应用图标生成工具，一键生成所有尺寸的应用图标](https://icon.wuruihong.com/)
 * [图片压缩](https://tinypng.com/) 支持png,  jpg
 
-### JSON
+### 代码Code
 
 * [Quicktype](https://app.quicktype.io/) // 在线生成属性代码
 ![](https://i.loli.net/2018/11/02/5bdbea2317a77.jpg)
@@ -15,6 +15,27 @@
 * [JSON Wizard 1.3 JSON数据查看编辑工具 - 精品MAC应用分享](http://xclient.info/s/json-wizard.html?t=7ef276e7445d80b7e0214ef8ad6408fb8bb1743a#versions)
 * [jsonEditorOnline](https://jsoneditoronline.org/)
 
+
+#### CodeRunner
+CodeRunner是个好东西，但是需要激活，网上搜到的激活码，需要断网才能破解成功，破解成功后，每次重新打开又要重新破解。
+
+猜测：CodeRunner在第一次打开时，会给系统发一条验证是否正确激活的消息，所以，修改hosts文件
+
+在hosts文件中，增加下面一行：
+```
+127.0.0.1 coderunnerapp.com
+```
+
+然后输入验证码，破解成功！
+
+注册码：
+```
+AEAAA-AFHOO-4F7KD-TXBPQ
+AEAAA-AGPM4-B7DUD-HAPYQ
+AEAAA-AG7YC-CZLYG-AQWKQ
+AEAAA-ADXG3-2EW6B-W6RFQ
+AEAAA-ACHQF-SUGSE-BMVBQ
+```
 
 ### Debug
 
