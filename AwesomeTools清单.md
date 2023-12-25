@@ -908,6 +908,8 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 4. [Jike swift](http://wiki.jikexueyuan.com/project/swift/)
 
+5. [CodeEditApp](https://github.com/CodeEditApp/CodeEdit/releases/) 轻量级xcode, 可以尝试
+
 #### Dev Tool
 
 1. [TinyPng](https://tinypng.com/)  Smart PNG and JPEG compression
