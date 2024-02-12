@@ -1,6 +1,6 @@
 [TOC]
 
-- [ ] TODO: 制作一个★级表格：参考[Best-App/Best-App-iOS.md at master · hzlzh/Best-App](https://github.com/hzlzh/Best-App/blob/master/Best-App-iOS.md)
+- [ ] TODO: 制作一个★级表格：参考[Best-App/Best-App-iOS.md at master · hzlzh/Best-App](https://github.com/hzlzh/Best-App)
 
 # AwesomeTools清单
 
@@ -142,13 +142,13 @@
 
 #### 系统清理
 
-5. [CleanMyMac](http://macpaw.com/cleanmymac) Mac必备吧
-6. [Gemini](http://macpaw.com/gemini) Detect and delete duplicates.
-7. [Hider2](http://macpaw.com/hider)  数据安全~
-8. [DaisyDisk](https://daisydiskapp.com/)   检查硬盘使用神器~
-9. [MacBooster](http://xclient.info/s/mac-booster.html) 长得有点像CleanMyMac，Who can tell the difference?10. [DrCleaner](https://www.drcleaner.com/)
-11. [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
-11. [Thor(替代长久不更新的Snap)](https://github.com/gbammc/Thor)  打开太多软件，切换不方便？点名即 到！
+1. [Lemon](https://lemon.qq.com/#compare) 腾讯一款良心的Mac清理软件。
+2. [CleanMyMac](http://macpaw.com/cleanmymac) Mac必备吧
+3. [Hider2](http://macpaw.com/hider)  数据安全~
+4. [DaisyDisk](https://daisydiskapp.com/)   检查硬盘使用神器~
+5. [MacBooster](http://xclient.info/s/mac-booster.html) 长得有点像CleanMyMac，Who can tell the difference?10. [DrCleaner](https://www.drcleaner.com/)
+6.  [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
+7.  [Thor(替代长久不更新的Snap)](https://github.com/gbammc/Thor)  打开太多软件，切换不方便？点名即 到！
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307796714334.jpg)
 并且可以快捷键召唤Dock上的Apps
 1. [Moom](https://manytricks.com/moom/)  拯救你的Mac窗口,有了moom就不用Sizeup了，定制化你的需求！
@@ -172,12 +172,12 @@
 19. [TotalFinder](http://xclient.info/s/totalfinder.html?_=8a538ee7c90c8c1061ab963e3fa97621)Finder增强工具
 20. [EasyFinder](https://www.easyfinderapp.com/)
 ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20191119113711.png)
-21. [Path Finder 8.3.9](https://xclient.info/s/path-finder.html)Finder增强工具
-22. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
-23. [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
-24. [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
-25. [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
-26. [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
+1.  [Path Finder 8.3.9](https://xclient.info/s/path-finder.html)Finder增强工具
+2.  [BetterTouchTool](http://xclient.info/s/bettertouchtool.html?_=8a538ee7c90c8c1061ab963e3fa97621) 把触控板的潜力发挥到淋漓尽致[Mac 触摸板增强神器：BetterTouchTool 上手指南 - 少数派](https://sspai.com/post/27094)
+3.  [LittleSnitch](https://waitsun.ctfile.com/downhtml/160721/213469406/1501900656/1944893418/52a2bc23477add4d2b32bd3f9ebacf73.html)Little Snitch 是一款 Mac 上简单易用的防火墙，除了保护我们的隐私数据外，Little Snitch的另一个大作用就是阻止软件的正版验证，Little Snitch 可以监控和阻止特定软件的网络连接，例如当你启动Adobe的系列软件时，Little Snitch会通过弹出窗口提醒用户是否允许其网络连接，能够保护用户的隐私数据，必备软件之一。
+4.  [Expressions for Mac](https://www.waitsun.com/expressions-1-2-1.html)Expressions 是一款Mac上的强大的正则表达式工具，简单易用，可以帮助开发者测试正则表达式，多种主题，选中高亮等，很不错！
+5.  [Dnscrypt](https://github.com/alterstep/dnscrypt-osxclient) 通过加密，保护你的`DNS`，防止被污染，建议使用 `brew cask install dnscrypt`安装
+6.  [iStatMenus](https://bjango.com/mac/istatmenus/) 好用的Mac硬件状态检测软件
 
 #### 下载
 
