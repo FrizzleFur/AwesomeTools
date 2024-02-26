@@ -404,14 +404,40 @@ Turn drawings into code with PaintCode ~
 1. [iTerm](https://www.iterm2.com/) Best Terminal Client
     * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) Best Zsh framework
     * [thefuck](https://github.com/nvbn/thefuck) 忘记命令?fuck就行。
-2. [Hyper](https://hyper.is/) 一个轻量简洁的终端
-3. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
-4. [Reveal](https://revealapp.com/)  Reveal~
-5. [HopperDisassembler](https://www.hopperapp.com/) Reveal~
-6. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
-7. [SublimeText](https://www.sublimetext.com/) 据说是神奇，还没充分用
-8. [Crashlytics](https://fabric.io/kits/ios/crashlytics/features) iOS Crash崩溃记录
-9. [IconJar](https://geticonjar.com/) App图标管理器
+2. [Wezterm](https://github.com/wez/wezterm) Rust写的更快的终端
+3. [Hyper](https://hyper.is/) 一个轻量简洁的终端
+4. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
+5. [Reveal](https://revealapp.com/)  Reveal~
+6. [HopperDisassembler](https://www.hopperapp.com/) Reveal~
+7. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
+8. [SublimeText](https://www.sublimetext.com/) 轻量级文本应用
+9. [Crashlytics](https://fabric.io/kits/ios/crashlytics/features) iOS Crash崩溃记录
+10. [IconJar](https://geticonjar.com/) App图标管理器
+
+
+### 终端工具
+追求性能的话可以考虑Rust全家桶：Wezterm + Helix + yazi
+
+1. nvim
+2. ohmyzsh
+3. tmux
+4. [Helix](https://www.bilibili.com/video/BV1e3411m7VD/) 使用rust编写比 nvim应该更快
+5. [yazi：终端文件管理器](https://yazi-rs.github.io/docs/installation)
+极快的终端文件管理器，用 Rust 编写，基于异步 I/O。
+🚀 完全异步支持：所有 I/O 操作都是异步的，CPU 任务分布在多个线程上，充分利用可用资源。
+💪 强大的异步任务调度和管理：提供实时进度更新、任务取消和任务优先级分配。
+🖼️内置支持多种图像协议支持：还与Überzug++集成，几乎覆盖所有终端。
+
+🌟 内置代码高亮和图像编码：结合预缓存机制，大大加速图像和普通文件的加载。
+
+🧰 与 fd、rg、fzf、zoxide 集成。
+💫 类似 Vim 的输入组件和选择组件。
+🏷️ 多选项卡支持，可滚动预览（适用于视频、PDF、档案、目录、代码等）。
+
+🔄 批量重命名、可视模式、文件选择器。
+
+🎨 主题系统、自定义布局、垃圾桶、CSI u。
+
 
 
 ### Cloud
