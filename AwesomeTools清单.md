@@ -253,6 +253,7 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 2. [fkill](https://github.com/sindresorhus/fkill)sindresorhus/fkill: Fabulously kill processes. Cross-platform.
 3. [enhancd](https://github.com/b4b4r07/enhancd) 🚀 A next-generation cd command with your interactive filter
 3. [ripgrep](https://github.com/BurntSushi/ripgrep/blob/master/GUIDE.md) 🚀 A next-generation grep. 快速查找搜索文案
+4. [yabai](https://github.com/koekeishiya/yabai) Mac好用的窗口管理工具，终端工具
 
 
 ### Developing
