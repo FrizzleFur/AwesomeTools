@@ -641,6 +641,10 @@ Complex Modifications 还能自己编写（具体方法这里不展开），也�
 
 注意: 设置好键位后可能遇到没有立即生效的问题，重启Mac就可以了，具体原因尚不清楚。
 
+
+[diff-so-fancy](https://github.com/so-fancy/diff-so-fancy?tab=readme-ov-file): 终端高亮diff 
+
+
 ## Kaleidoscope
 
 Tower配置
