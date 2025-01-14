@@ -331,6 +331,12 @@ Usage: dcdg [options]
 8. [Manage your team’s work, projects, & tasks online · Asana](https://asana.com/)work management platform
 9. [Devutils](http://club.xclient.info/d/100365-abc8cebbcf3ba) Devutils工具
 
+
+#### Design
+
+1. [eagle](https://docs-cn.eagle.cool/) 素材管理软件，国产
+2. 
+
 #### Developing Tools
 
 1. [Wireshark抓包iOS入门教程](http://mrpeak.cn/blog/wireshark/)
@@ -493,6 +499,8 @@ Turn drawings into code with PaintCode ~
 
 
 ### Writing
+
+0. [Craft](https://www.craft.do/) 现代化的知识库笔记软件， 颜值高，自动部署博客， 可以结合obsidian 一个专注本地，一个专注web。
 
 1. [Mweb](https://www.mweb.im)  据说是现在最好用的`MarkDown`写作工具
 

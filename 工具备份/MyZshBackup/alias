@@ -1,0 +1,81 @@
+
+# alias for zsh
+alias szh="source ~/.zshrc"
+alias ssh="source ~/.bash_profile"
+alias vzh="vim ~/.zshrc"
+alias vsh="vim ~/.bash_profile"
+alias vvi="vim ~/.vimrc"
+alias vvv="vim ~/.config/nvim/init.vim"
+
+# alias for application
+alias ops="open -a Sublime\ Text"
+alias opv="open -a Visual\ Studio\ Code"
+alias ozh="opv .zshrc"
+alias obh="opv .bash_profile"
+alias cc="opv ."
+alias aa="open . -a AppCode"
+alias ff="ranger"
+alias tt="tmux"
+alias gg="lazygit"
+
+# alias for Git
+alias g="git"
+alias gs="git status"
+alias gc="git clone"
+alias ga.="git add ."
+alias gct="git commit"
+alias gbr="git branch"
+alias gpl="git pull"
+alias gph="git push"
+alias gco="git checkout"
+alias gl="git log --graph --pretty=format:'%Cred%h%Crest -%C(yellow)%d%Creset %s %Cgreen(%ci) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias gla="log --all --graph --pretty=format:'%Cred%h%Crest -%C(yellow)%d%Creset %s %Cgreen(%ci) %C(bold blue)<%an>%Creset' --abbrev-commit"
+alias gd="git diff"
+alias gdh="git diff HEAD"
+alias gdl="git diff HEAD~"
+# Plugins
+alias gg="lazygit"
+alias tt="tig"
+alias ff="ranger"
+
+# alias for Vim
+alias vi="vim"
+alias vv="nvim"
+
+# alias for Tmux
+alias dvim="docker run -it --rm spacevim/spacevim nvim"
+alias tn="tmux new -s"
+alias ta="tmux a -t"
+alias tl="tmux ls"
+alias td="tmux detach"
+
+
+# alias for tools
+alias yg="you-get"
+alias op="open ."
+alias gb="/Users/mac/Desktop/Learn/Gitbook/mdbookApp/mdbook"
+# alias for xcode
+alias opb="open /Users/mac/Documents/Develop/SideProject/Newledge/brain-iOS.xcworkspace"
+alias xx="open *.xcworkspace -a xcode"
+
+# alias for env
+#alias python=python3
+alias pip=pip3
+
+
+
+# alias for dev
+# alias for flutter
+alias flt="flutter"
+alias flt-app="flutter run --use-application-binary"
+
+# alias for cocoapods
+alias piu="pod install --repo-update"
+alias pi="pod install"
+alias bpi="bundle exe pod install"
+alias bpiu="bundle exe pod install --repo-update"
+alias bipi="bundle install && bundle exec pod install --clean-install --repo-update"
+alias bcia="bundle install && bundle exec pod cache clean --all && bundle exec pod install --clean-install --repo-update"
+
+# Repo update Example
+alias updateRepo="git pull --rebase && git submodule update --init --recursive && bundle update && pod install --repo-update && open ~/Codes/xxx.xcworkspace"
