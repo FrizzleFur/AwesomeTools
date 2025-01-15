@@ -6,6 +6,11 @@
 
 > My productivity tools of Mac, Phone, and Web in developing and schedule.
 
+
+## Inbox
+
+1. [uv](https://docs.astral.sh/uv/#highlights) rust的python 环境管理器，很好用
+
 ## Contents
 - [Resource](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#resource)
 - [Pool](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#pool)
