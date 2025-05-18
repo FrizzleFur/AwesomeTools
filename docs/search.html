@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>搜索 - Awesome Tools</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.0.0/css/all.min.css">
+    <style>
+        :root {
+            --primary-color: #3498db;
+            --secondary-color: #2c3e50;
+            --accent-color: #e74c3c;
+            --light-bg: #f8f9fa;
+            --dark-bg: #343a40;
+            --border-radius: 8px;
+            --box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: var(--light-bg);
+            min-height: 100vh;
+            padding-bottom: 3rem;
+        }
+
+        .search-container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .search-box {
+            position: relative;
+            margin-bottom: 2rem;
+        }
+
+        .search-input {
+            width: 100%;
+            padding: 1rem 1.5rem 1rem 3rem;
+            font-size: 1.1rem;
+            border: 2px solid #ddd;
+            border-radius: var(--border-radius);
+            transition: all 0.3s ease;
+        }
+
+        .search-input:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 0.25rem rgba(52, 152, 219, 0.25);
+            outline: none;
+        }
+
+        .search-icon {
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            color: #6c757d;
+        }
+
+        .result-count {
+            color: #6c757d;
+            margin-bottom: 1.5rem;
+        }
+
+        .result-item {
+            background: white;
+            border-radius: var(--border-radius);
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            box-shadow: var(--box-shadow);
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        .result-item:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .result-title {
+            color: var(--primary-color);
+            margin-bottom: 0.5rem;
+            font-weight: 600;
+        }
+
+        .result-category {
+            display: inline-block;
+            background: var(--light-bg);
+            color: var(--secondary-color);
+            padding: 0.25rem 0.75rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            margin-bottom: 0.75rem;
+        }
+
+        .result-snippet {
+            color: #555;
+            margin-bottom: 0.5rem;
+        }
+
+        .result-link {
+            color: var(--accent-color);
+            text-decoration: none;
+            font-size: 0.9rem;
+            display: inline-flex;
+            align-items: center;
+        }
+
+        .result-link i {
+            margin-left: 0.3rem;
+            transition: transform 0.2s ease;
+        }
+
+        .result-link:hover {
+            text-decoration: underline;
+        }
+
+        .result-link:hover i {
+            transform: translateX(3px);
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 3rem 1rem;
+            color: #6c757d;
+        }
+
+        .search-filters {
+            display: flex;
+            gap: 0.5rem;
+            margin-bottom: 1.5rem;
+            flex-wrap: wrap;
+        }
+
+        .filter-btn {
+            background: white;
+            border: 1px solid #ddd;
+            border-radius: 20px;
+            padding: 0.4rem 1rem;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            white-space: nowrap;
+        }
+
+        .filter-btn:hover, .filter-btn.active {
+            background: var(--primary-color);
+            color: white;
+            border-color: var(--primary-color);
+        }
+
+        .dark-mode {
+            background-color: var(--dark-bg);
+            color: #f8f9fa;
+        }
+
+        .dark-mode .result-item {
+            background: #2d3436;
+            color: #f8f9fa;
+        }
+
+        .dark-mode .result-snippet {
+            color: #dee2e6;
+        }
+
+        .dark-mode .search-input {
+            background-color: #2d3436;
+            border-color: #495057;
+            color: #f8f9fa;
+        }
+
+        .dark-mode .filter-btn {
+            background: #2d3436;
+            border-color: #495057;
+            color: #f8f9fa;
+        }
+
+        .dark-mode .filter-btn:hover, .dark-mode .filter-btn.active {
+            background: var(--primary-color);
+            color: white;
+        }
+
+        .theme-toggle {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+            z-index: 1000;
+        }
+
+        @media (max-width: 768px) {
+            .search-container {
+                margin: 1rem auto;
+                padding: 0 1rem;
+            }
+            
+            .search-filters {
+                overflow-x: auto;
+                padding-bottom: 0.5rem;
+                margin-bottom: 1rem;
+                -webkit-overflow-scrolling: touch;
+            }
+            
+            .filter-btn {
+                white-space: nowrap;
+                flex-shrink: 0;
+            }
+            
+            .theme-toggle {
+                bottom: 1rem;
+                right: 1rem;
+                width: 40px;
+                height: 40px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="search-container">
+        <h1 class="text-center my-4">搜索 Awesome Tools</h1>
+        
+        <div class="search-box">
+            <i class="fas fa-search search-icon"></i>
+            <input type="text" id="searchInput" class="form-control search-input" placeholder="搜索工具、框架、资源..." autocomplete="off">
+        </div>
+
+        <div class="search-filters" id="categoryFilters">
+            <button class="filter-btn active" data-category="all">全部</button>
+            <button class="filter-btn" data-category="framework">框架</button>
+            <button class="filter-btn" data-category="tool">工具</button>
+            <button class="filter-btn" data-category="library">库</button>
+            <button class="filter-btn" data-category="resource">资源</button>
+        </div>
+
+        <div class="result-count" id="resultCount">输入关键词开始搜索</div>
+        
+        <div id="searchResults">
+            <!-- 搜索结果将在这里动态生成 -->
+        </div>
+    </div>
+
+    <button class="theme-toggle" id="themeToggle">
+        <i class="fas fa-moon"></i>
+    </button>
+
+    <script>
+        // 搜索索引数据
+        const searchIndex = [
+            // 开发工具
+            {
+                title: 'Visual Studio Code',
+                category: 'tool',
+                description: '轻量级但功能强大的源代码编辑器，支持多种编程语言和扩展',
+                url: 'categories/development.html#代码编辑器',
+                tags: ['编辑器', '开发工具', 'IDE']
+            },
+            {
+                title: 'React Native',
+                category: 'framework',
+                description: '使用 React 构建原生移动应用的框架',
+                url: 'categories/mobile-dev.html#跨平台框架',
+                tags: ['移动开发', 'JavaScript', '跨平台']
+            },
+            {
+                title: 'Flutter',
+                category: 'framework',
+                description: 'Google 的 UI 工具包，用于构建跨平台应用',
+                url: 'categories/mobile-dev.html#跨平台框架',
+                tags: ['移动开发', 'Dart', '跨平台']
+            },
+            {
+                title: 'Docker',
+                category: 'tool',
+                description: '容器化平台，简化应用部署',
+                url: 'categories/development.html#容器与编排',
+                tags: ['容器', 'DevOps', '部署']
+            },
+            
+            // 设计工具
+            {
+                title: 'Figma',
+                category: 'tool',
+                description: '基于浏览器的协作式 UI/UX 设计工具',
+                url: 'categories/design.html#uiux-设计',
+                tags: ['设计', 'UI/UX', '原型']
+            },
+            {
+                title: 'Adobe XD',
+                category: 'tool',
+                description: '用于网站和移动应用设计的矢量设计工具',
+                url: 'categories/design.html#uiux-设计',
+                tags: ['设计', '原型', 'Adobe']
+            },
+            
+            // 移动开发
+            {
+                title: 'Xcode',
+                category: 'tool',
+                description: 'Apple 官方 IDE，用于开发 iOS/macOS 应用',
+                url: 'categories/mobile-dev.html#原生开发',
+                tags: ['iOS', '开发工具', 'Apple']
+            },
+            {
+                title: 'Android Studio',
+                category: 'tool',
+                description: '官方 Android 开发环境，基于 IntelliJ IDEA',
+                url: 'categories/mobile-dev.html#原生开发',
+                tags: ['Android', '开发工具', 'Google']
+            },
+            
+            // 数据库
+            {
+                title: 'MongoDB',
+                category: 'tool',
+                description: '面向文档的 NoSQL 数据库',
+                url: 'categories/development.html#数据库工具',
+                tags: ['数据库', 'NoSQL', '数据存储']
+            },
+            {
+                title: 'PostgreSQL',
+                category: 'tool',
+                description: '功能强大的开源关系型数据库',
+                url: 'categories/development.html#数据库工具',
+                tags: ['数据库', 'SQL', '关系型']
+            },
+            
+            // 学习资源
+            {
+                title: 'MDN Web 文档',
+                category: 'resource',
+                description: 'Web 开发技术文档',
+                url: 'https://developer.mozilla.org/zh-CN/',
+                tags: ['文档', '学习', 'Web 开发']
+            },
+            {
+                title: 'freeCodeCamp',
+                category: 'resource',
+                description: '免费学习编程的在线平台',
+                url: 'https://www.freecodecamp.org/',
+                tags: ['学习', '课程', '编程']
+            }
+        ];
+
+        // DOM 元素
+        const searchInput = document.getElementById('searchInput');
+        const searchResults = document.getElementById('searchResults');
+        const resultCount = document.getElementById('resultCount');
+        const filterButtons = document.querySelectorAll('.filter-btn');
+        const themeToggle = document.getElementById('themeToggle');
+        let activeFilter = 'all';
+        let darkMode = localStorage.getItem('darkMode') === 'true';
+
+        // 初始化主题
+        function initTheme() {
+            if (darkMode) {
+                document.body.classList.add('dark-mode');
+                themeToggle.innerHTML = '<i class="fas fa-sun"></i>';
+            } else {
+                document.body.classList.remove('dark-mode');
+                themeToggle.innerHTML = '<i class="fas fa-moon"></i>';
+            }
+        }
+
+        // 切换主题
+        function toggleTheme() {
+            darkMode = !darkMode;
+            localStorage.setItem('darkMode', darkMode);
+            initTheme();
+        }
+
+        // 获取分类名称
+        function getCategoryName(category) {
+            const categories = {
+                'tool': '工具',
+                'framework': '框架',
+                'library': '库',
+                'resource': '资源'
+            };
+            return categories[category] || category;
+        }
+
+        // 高亮匹配文本
+        function highlightMatches(text, query) {
+            if (!query) return text;
+            
+            const escapedQuery = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            const regex = new RegExp(`(${escapedQuery})`, 'gi');
+            return text.replace(regex, '<span class="text-danger fw-bold">$1</span>');
+        }
+
+        // 搜索功能
+        function performSearch() {
+            const query = searchInput.value.toLowerCase().trim();
+            if (!query) {
+                resultCount.textContent = '输入关键词开始搜索';
+                searchResults.innerHTML = '';
+                return;
+            }
+
+
+            const terms = query.split(' ').filter(term => term.length > 0);
+            
+            const results = searchIndex.filter(item => {
+                // 检查是否匹配当前筛选类别
+                if (activeFilter !== 'all' && item.category !== activeFilter) {
+                    return false;
+                }
+                
+                // 检查是否匹配搜索词
+                const searchableText = (
+                    item.title.toLowerCase() + ' ' +
+                    item.description.toLowerCase() + ' ' +
+                    item.tags.join(' ').toLowerCase()
+                );
+                
+                return terms.every(term => searchableText.includes(term));
+            });
+
+            displayResults(results);
+        }
+
+        // 显示搜索结果
+        function displayResults(results) {
+            resultCount.textContent = `找到 ${results.length} 个结果`;
+            
+            if (results.length === 0) {
+                searchResults.innerHTML = `
+                    <div class="no-results">
+                        <i class="fas fa-search fa-3x mb-3"></i>
+                        <h3>没有找到匹配的结果</h3>
+                        <p>尝试使用不同的关键词或筛选条件</p>
+                    </div>
+                `;
+                return;
+            }
+
+            const resultsHtml = results.map(item => `
+                <div class="result-item">
+                    <div class="result-category">${getCategoryName(item.category)}</div>
+                    <h3 class="result-title">${highlightMatches(item.title, searchInput.value)}</h3>
+                    <p class="result-snippet">${highlightMatches(item.description, searchInput.value)}</p>
+                    <div class="d-flex flex-wrap gap-2 mb-2">
+                        ${item.tags.map(tag => 
+                            `<span class="badge bg-light text-dark">${tag}</span>`
+                        ).join('')}
+                    </div>
+                    <a href="${item.url}" class="result-link" target="_blank">
+                        查看详情 <i class="fas fa-arrow-right"></i>
+                    </a>
+                </div>
+            `).join('');
+
+            searchResults.innerHTML = resultsHtml;
+        }
+
+        // 事件监听器
+        searchInput.addEventListener('input', performSearch);
+        
+        filterButtons.forEach(button => {
+            button.addEventListener('click', () => {
+                // 更新活动按钮状态
+                filterButtons.forEach(btn => btn.classList.remove('active'));
+                button.classList.add('active');
+                
+                // 更新活动筛选器并重新搜索
+                activeFilter = button.dataset.category;
+                performSearch();
+            });
+        });
+        
+        themeToggle.addEventListener('click', toggleTheme);
+
+        // 初始化
+        initTheme();
+        
+        // 检查URL中的搜索参数
+        const urlParams = new URLSearchParams(window.location.search);
+        const searchQuery = urlParams.get('q');
+        if (searchQuery) {
+            searchInput.value = searchQuery;
+            performSearch();
+        }
+    </script>
+</body>
+</html>

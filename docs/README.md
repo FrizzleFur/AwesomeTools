@@ -1,4 +1,14 @@
-# Awesome Tools 文档中心
+# Awesome Tools 文档中心 🔍
+
+<div class="search-container" style="max-width: 600px; margin: 2rem auto;">
+  <div class="search-box" style="position: relative;">
+    <i class="fas fa-search" style="position: absolute; left: 15px; top: 50%; transform: translateY(-50%); color: #6c757d;"></i>
+    <input type="text" id="searchInput" class="form-control" placeholder="搜索工具、框架、资源..." style="padding-left: 40px; border-radius: 20px; height: 45px; font-size: 1rem;" onkeypress="if(event.keyCode==13) window.location.href='search.html?q='+encodeURIComponent(this.value)">
+  </div>
+  <div style="text-align: center; margin-top: 10px; color: #6c757d; font-size: 0.9rem;">
+    或直接访问 <a href="search.html">高级搜索</a>
+  </div>
+</div>
 
 欢迎来到 Awesome Tools 文档中心！这里收集了各种开发工具、设计工具和效率工具的使用指南、快捷键和技巧。
 
