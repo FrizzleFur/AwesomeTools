@@ -92,33 +92,88 @@
 | [Supabase](https://supabase.io/) | 开源 Firebase 替代 | 免费/开源 | 自托管选项 |
 | [Appwrite](https://appwrite.io/) | 后端服务器 | 免费/开源 | 自托管，REST API |
 
-## 调试工具
+## 🐞 调试工具
 
 应用调试和性能分析工具。
 
 | 工具 | 平台 | 价格 | 特点 |
 |------|------|------|------|
-| [Flipper](https://fbflipper.com/) | 跨平台 | 免费 | 插件化调试工具 |
-| [Charles Proxy](https://www.charlesproxy.com/) | 跨平台 | 付费 | 网络请求监控 |
-| [React Native Debugger](https://github.com/jhen0409/react-native-debugger) | 跨平台 | 免费 | React Native 专用 |
-| [Android Profiler](https://developer.android.com/studio/profile) | Android | 免费 | 性能分析和优化 |
+| [Flipper](https://fbflipper.com/) | 跨平台 | 免费 | 插件化调试工具，支持网络、数据库、布局检查 |
+| [Charles Proxy](https://www.charlesproxy.com/) | 跨平台 | 付费 | 网络请求监控，SSL 代理，带宽限制 |
+| [React Native Debugger](https://github.com/jhen0409/react-native-debugger) | 跨平台 | 免费 | React Native 专用，集成 Redux 开发工具 |
+| [Android Profiler](https://developer.android.com/studio/profile) | Android | 免费 | CPU、内存、网络分析，方法跟踪 |
+| [Instruments](https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/InstrumentsUserGuide/) | macOS | 免费 | iOS 性能分析，内存泄漏检测 |
+| [Proxyman](https://proxyman.io/) | macOS | 付费 | 现代网络调试代理，支持 M1 |
+| [Sourcery](https://github.com/krzysztofzablocki/Sourcery) | 跨平台 | 免费 | 代码生成，减少模板代码 |
+| [Flex](https://github.com/FLEXTool/FLEX) | iOS | 免费 | 运行时检查和调试 iOS 应用 |
 
-## 选择指南
+## 📊 应用分析
+
+应用性能监控和用户行为分析。
+
+| 工具 | 平台 | 价格 | 特点 |
+|------|------|------|------|
+| [Firebase Analytics](https://firebase.google.com/products/analytics) | 跨平台 | 免费/付费 | 用户行为分析，事件跟踪 |
+| [Sentry](https://sentry.io/) | 跨平台 | 免费/付费 | 错误监控，性能追踪 |
+| [Instabug](https://www.instabug.com/) | 跨平台 | 付费 | 应用内反馈，崩溃报告 |
+| [Amplitude](https://amplitude.com/) | 跨平台 | 免费/付费 | 产品分析，用户旅程 |
+| [Datadog](https://www.datadoghq.com/) | 跨平台 | 付费 | 全栈可观测性，实时监控 |
+| [Mixpanel](https://mixpanel.com/) | 跨平台 | 免费/付费 | 用户行为分析，A/B 测试 |
+| [AppDynamics](https://www.appdynamics.com/) | 企业级 | 付费 | 应用性能管理，业务指标 |
+| [New Relic](https://newrelic.com/) | 跨平台 | 免费/付费 | 应用性能监控，分布式追踪 |
+
+## 🎯 选择指南
 
 ### 初创公司/独立开发者
-- **React Native** - 快速开发，使用 JavaScript/TypeScript
-- **Flutter** - 高性能，美观的 UI，单一代码库
-- **Ionic** - 基于 Web 技术，适合 Web 开发者
+- **React Native** - 快速开发，使用 JavaScript/TypeScript，丰富的社区资源
+- **Flutter** - 高性能，美观的 UI，单一代码库，适合 MVP 开发
+- **Ionic** - 基于 Web 技术，适合 Web 开发者快速上手
+- **推荐工具链**：
+  - 代码编辑器：VS Code 或 Android Studio
+  - 版本控制：GitHub
+  - CI/CD：GitHub Actions 或 Codemagic
+  - 分析：Firebase Analytics
+  - 测试：Appium + Jest
 
 ### 企业应用
-- **Xamarin** - 使用 .NET 技术栈，适合企业环境
-- **Native (Swift/Kotlin)** - 最佳性能和原生体验
-- **Flutter** - 跨平台一致性，Google 支持
+- **Xamarin** - 使用 .NET 技术栈，适合企业环境，共享业务逻辑
+- **Native (Swift/Kotlin)** - 最佳性能和原生体验，长期维护
+- **Flutter** - 跨平台一致性，Google 支持，热重载
+- **推荐工具链**：
+  - 代码质量：SonarQube
+  - 监控：Datadog 或 New Relic
+  - CI/CD：Jenkins 或 Bitrise
+  - 安全：OWASP Mobile Top 10 检查
 
 ### 游戏开发
-- **Unity** - 2D/3D 游戏开发
-- **Flutter** - 2D 游戏和互动应用
-- **Native** - 高性能游戏引擎集成
+- **Unity** - 2D/3D 游戏开发，丰富的资源商店
+- **Flutter** - 2D 游戏和互动应用，快速迭代
+- **Native** - 高性能游戏引擎集成，最佳性能
+- **推荐工具链**：
+  - 物理引擎：Box2D 或 Chipmunk
+  - 动画：Spine 或 DragonBones
+  - 多人游戏：Photon 或 Nakama
+  - 分析：GameAnalytics
+
+### 电子商务应用
+- **React Native** - 快速迭代，丰富的 UI 组件
+- **Flutter** - 精美的交互动画，跨平台一致性
+- **Native** - 最佳性能，支付和安全性
+- **推荐工具链**：
+  - 状态管理：Redux 或 Provider
+  - 支付：Stripe 或 PayPal
+  - 推送通知：Firebase Cloud Messaging
+  - 图片加载：Cached Network Image 或 Kingfisher
+
+### 社交媒体应用
+- **React Native** - 热重载，丰富的社区库
+- **Native** - 最佳性能，相机和媒体处理
+- **Flutter** - 精美的 UI，跨平台
+- **推荐工具链**：
+  - 状态管理：MobX 或 Bloc
+  - 实时通信：Socket.io 或 Agora
+  - 存储：Firebase Storage 或 AWS S3
+  - 图片处理：FFmpeg 或 ML Kit
 
 ## 学习资源
 
