@@ -14,14 +14,14 @@
 
 ## 快速开始
 
-- [开发工具](categories/development.md)
-- [设计工具](categories/design.md)
-- [效率工具](categories/productivity.md)
-
-## 最近更新
-
-- [Visual Studio Code 使用指南](tools/visual-studio-code/README.md) - 2023-05-18
-- [Vim 使用指南](tools/vim/README.md) - 2023-05-18
+- [App Tools](categories/app_tools.md)
+- [Code Tools](categories/code_tools.md)
+- [Charting Tools](categories/charting_tools.md)
+- [Version Control Tools](categories/version_control_tools.md)
+- [Networking Tools](categories/networking_tools.md)
+- [Debugging Tools](categories/debugging_tools.md)
+- [Development Tools](categories/development_tools.md)
+- [Productivity Tools](categories/productivity_tools.md)
 
 ## 贡献指南
 
