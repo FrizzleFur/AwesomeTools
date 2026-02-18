@@ -9,7 +9,11 @@
 
 ## Inbox
 
-1. [uv](https://docs.astral.sh/uv/#highlights) rust的python 环境管理器，很好用
+1. [vscode-markdown-markmap](https://github.com/phoihos/vscode-markdown-markmap) VS Code 扩展，支持在 Markdown 预览中将文档可视化思维导图，使用 ```markmap 代码块创建美观的导图
+2. [markmap-vscode](https://github.com/markmap/markmap-vscode) 官方 markmap VSCode 扩展，将 Markdown 转换为交互式思维导图，支持实时预览和导出
+3. [vscode-markmap-universe](https://github.com/markmap-universe/vscode-markmap-universe) markmap universe 扩展，提供增强的 markmap 功能和工具集合
+4. [vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) 被誉为 BEST 的 Markdown 预览扩展，支持数学公式、Mermaid、PlantUML、PDF 导出、代码块执行、演示文稿等功能
+5. [uv](https://docs.astral.sh/uv/#highlights) rust的python 环境管理器，很好用
 
 ## Contents
 - [Resource](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#resource)

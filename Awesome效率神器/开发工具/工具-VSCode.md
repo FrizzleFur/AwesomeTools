@@ -30,6 +30,14 @@
   * Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
 * Markdown All in One
   * All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
+* [markdown-markmap](https://github.com/phoihos/vscode-markdown-markmap)
+  * Markdown 思维导图预览支持，在 VS Code 内置的 Markdown 预览中将 Markdown 可视化为思维导图。支持使用 ```markmap 代码块创建思维导图，支持语法高亮、链接、样式、代码块、数学公式（Katex）等。可配置缩放和颜色属性。
+* [markmap-vscode](https://github.com/markmap/markmap-vscode)
+  * 官方 markmap VSCode 扩展，将 Markdown 文件转换为交互式思维导图。支持实时预览、分屏视图、导出为 HTML/PNG/SVG 等格式。使用 ```markmap 代码块或直接预览 Markdown 文件。基于 markmap-lib，支持折叠/展开分支、自定义主题。
+* [vscode-markmap-universe](https://github.com/markmap-universe/vscode-markmap-universe)
+  * markmap universe 扩展，提供增强的 markmap 功能和工具集合。扩展了官方 markmap 的能力，提供更多定制选项和生产力功能。
+* [Markdown Preview Enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)
+  * 被誉为 "BEST" 的 Markdown 预览扩展之一。支持自动滚动同步、数学公式排版（MathJax）、Mermaid、PlantUML、Pandoc、PDF 导出、代码块执行、演示文稿编写等强大功能。快捷键：`cmd-k v` 侧边预览，`cmd-shift-v` 打开预览。
 * Instant Markdown
 * Bookmarks
   * mark and jump
