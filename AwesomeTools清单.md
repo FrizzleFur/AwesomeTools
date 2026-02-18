@@ -6,119 +6,66 @@
 
 > My productivity tools of Mac, Phone, and Web in developing and schedule.
 
+---
 
 ## 📥 Inbox
 
-## Contents
-- [Resource](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#resource)
-- [Pool](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#pool)
-- [Mac](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#mac)
-- [Graph](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#graph)
-- [PC](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#pc)
-- [Phone](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#phone)
-- [Windows](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#windows)
-- [Web](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#web)
-- [Hardware](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#hardware)
-- [Apple](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#apple)
+## ⭐ 推荐工具
 
-## Resource
+精选高频工具，快速上手必备！
 
-* [StarsAndClown](https://github.com/FrizzleFur/StarsAndClown) [Introduction · StarsAndClown](https://zhaoolee.gitbooks.io/starsandclown/content/)☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~ Github apocalypse list, write a letter of recommendation for Github's outstanding projects, and let Github excellent projects benefit humanity~
-* [杭州房产知识扫盲](https://github.com/houshanren/hangzhou_house_knowledge/blob/master/README.md)
+### 🖥️ Mac 必备
 
-### RSS Resource 
+1. [Alfred](https://www.alfredapp.com/) 🔍 - Mac搜索、工作流神器
+2. [Moom](https://manytricks.com/moom/) 🪟 - 窗口管理神器
+3. [Paste](http://pasteapp.me/) 📋 - 剪贴板管理工具
+4. [iTerm](https://www.iterm2.com/) 💻 - 最佳终端客户端
+5. [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) ⚙️ - 最佳 Zsh 框架
+6. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html) 👆 - 触控板增强工具
+7. [DaisyDisk](https://daisydiskapp.com/) 💾 - 硬盘使用检查神器
 
-* SwiftOldDriver: <https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom>
-* 少数派： <https://sspai.com/feed>
-* RSSHub
-    * 少数派专栏：
-    * 微信公众号： https://rsshub.app/wechat/wemp/{#wempId}
+### 📱 Phone 必备
 
+1. [WorkFlow](https://workflow.is/) 🔄 - iOS 自动化工具
+2. [Shadowrocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀 - iOS 代理工具
+3. [微信读书](https://weread.qq.com/) 📖 - 腾讯社交读书应用
+4. [IFTTT](https://ifttt.com/discover) ⚙️ - 条件触发自动化工具
+5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 📌 - 剪贴板扩展工具
 
-### pan资源
+### 👨‍💻 开发必备
 
-[云盘精灵](www.yunpanjingling.com) 较多学习视屏
+1. [VS Code](https://code.visualstudio.com/) 💻 - 强大的代码编辑器
+2. [GitKraken](https://app.gitkraken.com) 🐙 - Mac 上最好用的 Git GUI
+3. [Postman](https://app.getpostman.com/dashboard) 📬 - API 请求管理工具
+4. [Charles](https://www.charlesproxy.com/) 🦋 - HTTP 抓包调试工具
+5. [Dash](https://kapeli.com/dash) 📚 - API 文档查看工具
 
-## Pool
+---
 
-1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
-2. [Best-App](https://github.com/hzlzh/Best-App)Best-App
-3. [Amazing Apps](http://amazingapps.org/)前辈整理的，学习~
-4. [tool](https://github.com/Louiszhai/tool) 前辈整理的，学习~
-5. [hzlzh/Best-App: 收集&推荐优秀的 Apps/硬件/技巧/周边等](https://github.com/hzlzh/Best-App) 前辈整理的，学习~
-6. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
-7. [mas-cli/mas: Mac App Store command line interface](https://github.com/mas-cli/mas)A simple command line interface for the Mac App Store. Designed for scripting and automation.
-8. [反斗软件](http://www.apprcn.com/)
+## 📑 Contents
 
-### 逆向Pool
+### 🚀 快速导航
+- [Inbox](#inbox)
+- [推荐工具](#推荐工具)
 
-4. [iOSRE](http://bbs.iosre.com/)
-5. [看雪安全论坛](https://bbs.pediy.com/)
-6. [飘云阁安全论坛-PYG|软件安全|破解软件|内购破解|移动安全|chinapyg.com - Powered by Discuz!](http://www.chinapyg.com/) 逆向论坛
-7. [吾爱破解 - LCG - LSG|安卓破解|病毒分析|破解软件|www.52pojie.cn](https://www.52pojie.cn/) 逆向论坛
+### 💻 平台工具
+- [Mac 工具](#-mac-工具)
+- [Phone 手机工具](#-phone-手机工具)
+- [Web 工具](#-web-工具)
+- [其他平台](#-其他平台)
 
-### Tools Pool
+### 🛠️ 功能专题
+- [图表工具](#-图表工具)
+- [任务管理](#-gtd-任务管理)
+- [健身健康](#-bodybuilding-健身)
 
-0. [alternativeto](https://alternativeto.net/) 备选
-3. [Xclient](https://xclient.info) Tool Pool
-4. [数字逻辑](https://www.softosx.com/) Tool Pool
-5. [脑袋瓜子](https://www.naodai.org/)
-6. [知您网](http://www.zhinin.com/)
-9. [Sdifen](http://www.sdifen.com/) 小工具 Tool Pool
-10. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
+### 📚 参考资料
+- [Resources 学习资源](#-resources-参考资料)
+- [硬件附录](#-hardware-硬件)
 
-### Tool Guide
+---
 
-1. [Sspai.com](https://sspai.com/) 生产力教程 Guide
-2. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
-3. [2018 iPad review: Drawn on an iPad! And edited, composed, and designed... - YouTube](2018 iPad review: Drawn on an iPad! And edited, composed, and designed... - YouTube)
-4. [iPhone, iPad, Mac Buyer's Guide: Know When to Buy](https://buyersguide.macrumors.com/)
-
-### Tool Shop
-
-1. [首页-数码荔枝正版软件-淘宝网](https://digitalychee.taobao.com/)
-2. [翻页软件商城（Turnpage.com）- 用正版 更安全](https://www.turnpage.com/)
-
-
-### Pool 资源
-
-1. [电驴](http://www.verycd.com/)电驴，分布式的文件基于点对点原理传输，集成ed2k协议，配合Thuder下载快的飞起，注意，资源链接，在"www.verycd."后插入"gdajie"就可获取
-2. [周读](http://www.ireadweek.com/)电子书资源
-3. [salttiger](https://salttiger.com/) 每天一本编程书，很好的资源站，不知道能在多久~
-4. [you-get](https://github.com/soimort/you-get) You-Get is a tiny command-line utility to download media contents (videos, audios, images) from the Web, in case there is no other handy way to do it.You-Get 乃一小小哒命令行程序，提供便利的方式来下载网络上的媒体信息。
-5. [流媒体NB工具](http://vp-hub.eqoe.cn/)Bili
-6. [我的打包分享](http://mydbfx.com/)一些好用的书籍打包下载
-7. [Pixabay](https://pixabay.com/)  免费高清图片~
-
-
-#### Alfred Workflow Pool
-
-1. [Search.alfredworkflow](https://github.com/Louiszhai/alfred-workflows/blob/master/workflows/Search.alfredworkflow?raw=true)程序员都离不开搜索, 每天耗费在搜索上的时间更是不计其数. 实际上, 搜索的操作步骤是可以被优化的. Search 正是一款这样的workflow. 基于它, 您可以任何区域选中文本, 按下绑定好的快捷键 (最多两次按键, 建议绑定快捷键为Option+W), 便可直接在默认浏览器打开搜索结果页, 省心省力. 目前搜索引擎支持 谷歌, 百度, 雅虎, 维基百科等. Cmd+Ctrl+S
-2. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) OSX 10.12.6提升了安全性，一些旧的`WorkFlow`需要更新
-3. [Packal Workflow Search | Packal](http://www.packal.org/workflow/packal-workflow-search) WorkFlow Pool on Packal.org [Packal——Alfred Workflows](http://www.packal.org/) 最新[Packal-Search-1.4.1.alfredworkflow](https://github.com/deanishe/alfred-packal-search/blob/master/Packal-Search-1.4.1.alfredworkflow)
-4. [AkikoZ/alfred-web-search-suggest: Alfred search suggest workflow for various popular websites.](https://github.com/AkikoZ/alfred-web-search-suggest/releases)Alfred Web Search Suggest 知乎淘宝常用搜索Workflow
-5. [Top-workflow](https://github.com/singhprd/alfred2-top-workflow/releases/download/v2.2/Top.Processes.v2.2.alfredworkflow) Mac Helper, better than kill-process; Use  -c, -m, -i, glance，结合快捷键，爽到爆~[Mac10.13后问题的解决](https://github.com/zhaocai/alfred2-top-workflow/issues/10)下载fix版link<https://github.com/singhprd/system-monitor-alfred-workflow/releases/tag/v2.3>
-6. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload): markdown图片实用工具，Save your time
-7. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径，可以使用HotKeys，有了它再也不用很傻的把文件拖到终端了 = =
-8. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 经常来回打开文件，要重复的去找，现在这活交给你啦~
-9. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow)怎么能少了表情包呢？颜文字╮(✪ω✪)╭
-10. [斗图神器](https://github.com/KilluaChen/Dou-figure-alfred-workflow)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15302609850440.jpg)
-10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) 可以直接使用Dash的设置集成
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15303347565431.jpg)
-1. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow)快速搜索豆瓣的电影、书籍和音乐
-2. [Github Search](http://www.packal.org/workflow/github-search) Search Github
-3. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX.alfredworkflow
-4. [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) 程序员必备，虽然没怎么用 = = 
-5. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow)搜索、打开MWeb 内部文档和外部文档
-6. [TKkk-iOSer/wechat-alfred-workflow: wechat workflow for Alfred：微信快速发送消息 & 打开聊天窗口 & 查看聊天记录 & more…](https://github.com/TKkk-iOSer/wechat-alfred-workflow)
-7. [tsycnh/WeChatExporter: 一个可以快速导出、查看你的微信聊天记录的工具](https://github.com/tsycnh/WeChatExporter)微信聊天导出
-8. [QQPlugin-macOS/QQ Plugin.alfredworkflow at master · TKkk-iOSer/QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS/blob/master/Other/QQ%20Plugin.alfredworkflow)
-9. [Hide Desktop | Packal](http://www.packal.org/workflow/hide-desktop)隐藏桌面文件
-10. [AlfredWorkflow-Recent-Documents/README_CN.md at master · mpco/AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents/blob/master/README_CN.md)解决了我反复查看最近打开文档的需求~nice
-
-
-## Mac
+## 💻 Mac 工具
 
 ### 🛠️ Mac Helper 工具
 
@@ -471,7 +418,7 @@ Usage: dcdg [options]
 10. [Teamind](https://www.teamind.co/) 🤝 - 远程互动会议工具
 
 
-## 📊 图表工具
+### 📊 图表工具
 
 1. [MindNode](https://www.mindnode.com/) 🧠 - UI 优美的思维导图工具
 2. [Xmind](https://www.xmind.com/) 🗺️ - 老牌思维导图工具
@@ -601,15 +548,29 @@ Usage: dcdg [options]
 
 ---
 
-## 🖥️ PC 工具
+## 💻 其他平台
 
-### 💻 PC Helper
+### 🖥️ PC 工具
+
+#### 💻 PC Helper
 
 1. [CleanMyPC](http://macpaw.com/cleanmypc) 🧹 - PC 清理工具
 
+### 🪟 Windows 工具
+
+#### Win POOL
+
+1. [效率工具 · Windows Apps That Amaze Us](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/efficiency.html)
+2. [老殁 | 殁漂遥 | 互联网分享精神，专注收藏分享 | shaoit新址Laomoit.com](https://www.laomoit.com/?from=%E6%96%87%E7%AB%A0%E9%A1%B5%E5%86%85%E9%93%BE%E6%8E%A5)
+
+#### Win Helper
+
+1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/) 📸 - 截图贴图工具
+2. [小鹤双拼输入法 - 官方网站](http://www.flypy.com/) ⌨️ - 小鹤双拼，以轻松舒适为追求
+3. [Wox](https://github.com/Wox-launcher/Wox) 🔍 - Windows上的Alfred
+
 ---
 
-## 📱 Phone 手机工具
 
 ### ⚡ Productivity 生产力
 
@@ -723,23 +684,7 @@ Usage: dcdg [options]
 
 ------
 
-## Windows
-
-
-### Win POOL
-
-1. [效率工具 · Windows Apps That Amaze Us](https://amazing-apps.gitbooks.io/windows-apps-that-amaze-us/content/zh-CN/efficiency.html)
-2. [老殁 | 殁漂遥 | 互联网分享精神，专注收藏分享 | shaoit新址Laomoit.com](https://www.laomoit.com/?from=%E6%96%87%E7%AB%A0%E9%A1%B5%E5%86%85%E9%93%BE%E6%8E%A5)
-
-### Win Helper
-
-1. [Snipaste - 截图 + 贴图](https://zh.snipaste.com/)
-
-2. [小鹤双拼输入法 - 官方网站](http://www.flypy.com/)· 小鹤双拼，以轻松舒适为追求
-
-3. [Wox](https://github.com/Wox-launcher/Wox) `Wox`, win上的`Alfred`
-
-## Web
+## 🌐 Web 工具
 
 ### Chrome Extension
 
