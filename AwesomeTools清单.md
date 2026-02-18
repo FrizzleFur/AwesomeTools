@@ -138,24 +138,24 @@
 10. [Go2Shell](https://github.com/Breathleas/Go2Shell) 🔷 - 从 Finder 快速打开终端
 11. [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) 📂 - Finder 跳转到 Terminal/VSCode 等的插件
 
-#### 系统
+#### ⚙️ 系统工具
 
-1. [DiskMaker X](http://diskmakerx.com/) 系统盘的制作，参考教程[Mac 系统安装，对你来说也能小菜一碟！](https://v.youku.com/v_show/id_XMjUyNzE0ODYyMA==.html?spm=a2hzp.8253869.0.0)
-2. [Mos](https://github.com/Caldis/Mos/tree/8f4ef19a87f287afb4a50dacbad2c4a60b86610e) 一个用于在 MacOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板
-3. [Amphetamine](https://apps.apple.com/cn/app/amphetamine/id937984704) 一款为macOS打造的最棒的防睡眠APP, better than Caffeine.
-4. [Caffeine](http://www.pc6.com/mac/121734.html)Caffeine for mac是一款很有用的小工具。caffeine for mac可以让你的 Mac 屏幕保持点亮状态，不会因时间的问题进入休眠状态。
-5. [dirtrace - 终极文件夹内容占比查看工具](https://github.com/everettjf/dirtrace)
+1. [DiskMaker X](http://diskmakerx.com/) 💿 - 系统盘制作工具
+2. [Mos](https://github.com/Caldis/Mos) 🖱️ - 平滑鼠标滚动效果，让滚轮爽如触控板
+3. [Amphetamine](https://apps.apple.com/cn/app/amphetamine/id937984704) ⏰ - 最棒的防睡眠 APP，优于 Caffeine
+4. [Caffeine](http://www.pc6.com/mac/121734.html) ☕ - 保持 Mac 屏幕常亮
+5. [dirtrace](https://github.com/everettjf/dirtrace) 📊 - 终极文件夹内容占比查看工具
 
 
-#### 系统清理
+#### 🧹 系统清理与优化
 
-1. [Lemon](https://lemon.qq.com/#compare) 腾讯一款良心的Mac清理软件。
-2. [CleanMyMac](http://macpaw.com/cleanmymac) Mac必备吧
-3. [Hider2](http://macpaw.com/hider)  数据安全~
-4. [DaisyDisk](https://daisydiskapp.com/)   检查硬盘使用神器~
-5. [MacBooster](http://xclient.info/s/mac-booster.html) 长得有点像CleanMyMac，Who can tell the difference?10. [DrCleaner](https://www.drcleaner.com/)
-6.  [Titanium Software - OnyX](https://www.titanium-software.fr/en/onyx.html) 维护文件系统、重建服务功能、清理各类缓存等各类深度优化选项，简单实用。
-7.  [Thor(替代长久不更新的Snap)](https://github.com/gbammc/Thor)  打开太多软件，切换不方便？点名即 到！
+1. [Lemon](https://lemon.qq.com/#compare) 🍋 - 腾讯出品的良心 Mac 清理软件
+2. [CleanMyMac](http://macpaw.com/cleanmymac) ✨ - Mac 必备清理工具
+3. [Hider2](http://macpaw.com/hider) 🔒 - 数据安全工具
+4. [DaisyDisk](https://daisydiskapp.com/) 💾 - 硬盘使用检查神器
+5. [MacBooster](http://xclient.info/s/mac-booster.html) 🚀 - Mac 系统优化工具
+6. [OnyX](https://www.titanium-software.fr/en/onyx.html) 🔧 - 维护文件系统、重建服务、清理缓存
+7. [Thor](https://github.com/gbammc/Thor) 🪟 - 应用切换管理器（替代已停更的 Snap）
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15307796714334.jpg)
 并且可以快捷键召唤Dock上的Apps
 1. [Moom](https://manytricks.com/moom/)  拯救你的Mac窗口,有了moom就不用Sizeup了，定制化你的需求！
@@ -368,143 +368,131 @@ Usage: dcdg [options]
 
 1. [WWDC for mac](https://wwdc.io/) [Best iOS Learning Resource](https://github.com/insidegui/WWDC)
 
-##### Git
+##### 🔧 Git 工具
 
-0. [Gitkraken](https://app.gitkraken.com/) mac上最好用的Git GUI 
-1. [Tower for mac](https://www.git-tower.com) mac上好用的Git GUI
-2. [SublimeMerge](https://www.sublimemerge.com)  Meet a new Git Client, from the makers of Sublime Text
-2. [Kaleidoscope](http://xclient.info/s/kaleidoscope.html?t=4264633a70139fdc6a66e422ec0af2d83f35ead3#versions) git 的合并和Diff工具
-3. [Gitsome](https://github.com/donnemartin/gitsome) A supercharged Git/GitHub command line interface (CLI).
-4. [Git-extras](https://github.com/tj/git-extras)   GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
-5. [Hub](https://hub.github.com/)  A command-line wrapper for git that makes you better at GitHub.
-6. [GitUp](https://github.com/git-up/GitUp) The Git interface you've been missing all your life has finally arrived. 
-7. [Trailer](https://ptsochantaris.github.io/trailer/) Trailer:Never miss a comment again. Track pull requests and issues across repositories, directly in your Notification Center or on any device.
+0. [Gitkraken](https://app.gitkraken.com) 🐙 - Mac 上最好用的 Git GUI
+1. [Tower](https://www.git-tower.com) 🏰 - 强大的 Git 客户端
+2. [SublimeMerge](https://www.sublimemerge.com) 📊 - Git 合并和 Diff 工具
+3. [Kaleidoscope](http://xclient.info/s/kaleidoscope.html) 🎨 - Git 可视化对比工具
+4. [Gitsome](https://github.com/donnemartin/gitsome) 💻 - 超强的 Git/GitHub CLI
+5. [Git-extras](https://github.com/tj/git-extras) ⚡ - Git 实用工具集
+6. [Hub](https://hub.github.com/) 🦀 - Git 命令行 GitHub 封装
+7. [GitUp](https://github.com/git-up/GitUp) ✨ - 你一生都在寻找的 Git 界面
+8. [Trailer](https://ptsochantaris.github.io/trailer/) 🔔 - PR 和 Issue 追踪工具
 
-##### Xcode 
+##### 📱 Xcode 工具
 
-1. [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) Xcode打包脚本╮(✪ω✪)╭
-2. [XAssistant](https://github.com/icofans/XAssistant) 桌面打包IPA小程序，方便打包分发,支持蒲公英
-3. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode)
-4. [PPRows](https://github.com/jkpang/PPRows/releases) 统计代码行数
-5. [xTextHandler](https://github.com/cyanzhong/xTextHandler) Xcode Source Editor 插件集
-6. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12)  Best SVN Client
-7. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12) Prepare, share and preview App artwork and icons.
-8. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12)  [苹果推送服务测试小工具](http://www.cocoachina.com/bbs/read.php?tid-290938.html)
-9. [App Icon Gear](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html)  创建App图标、启动图LaunchImage，还可以生成自定义尺寸的图标集（Image Set）
-10.  [UIDebuggingInformationOverlay - Low Level](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/)  UIDebuggingInformationOverlay是UIWindow由苹果创建的私有子类，大概是帮助开发人员和设计师调试苹果自己的iOS应用程序。
-11. [PaintCodeApp](https://www.paintcodeapp.com/)
-Turn drawings into code with PaintCode ~
-12. [Provisioning](https://github.com/chockenberry/Provisioning) A Quick Look plug-in for .mobileprovision files
-13. [Core-Animator](http://xclient.info/s/core-animator.html?_=7f6b20915b1318a0839df0a326a089e5)Core Animator 是一款能够帮助iOS或OS X开发者进行动画制作的工具,支持导出Swift和Objective-C代码，从而大量节省编码时间
-14. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) 将绘图转为代码
-15. [Sketch](https://www.jianshu.com/p/3590f089e500) `Sketch` Crack版本
+1. [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) 📦 - Xcode 自动打包脚本
+2. [XAssistant](https://github.com/icofans/XAssistant) 🚀 - 桌面打包 IPA 小程序，支持蒲公英分发
+3. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode) 💉 - Xcode 热注入插件，无需重新编译即可查看代码修改效果
+4. [PPRows](https://github.com/jkpang/PPRows/releases) 📊 - 代码行数统计工具
+5. [xTextHandler](https://github.com/cyanzhong/xTextHandler) ✏️ - Xcode Source Editor 插件集
+6. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12) 🏛️ - 优秀的 SVN 客户端
+7. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12) 🎨 - App 图标和启动图预览工具
+8. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12) 🔔 - 苹果推送服务测试工具
+9. [App Icon Gear](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html) 🖼️ - 创建 App 图标、启动图和自定义尺寸图标集
+10. [UIDebuggingInformationOverlay](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/) 🔍 - UI 调试信息覆盖层，苹果私有调试工具
+11. [PaintCodeApp](https://www.paintcodeapp.com/) 🎨 - 将绘图转换为代码
+12. [Provisioning](https://github.com/chockenberry/Provisioning) 🔑 - .mobileprovision 文件快速查看插件
+13. [Core-Animator](http://xclient.info/s/core-animator.html?_=7f6b20915b1318a0839df0a326a089e5) 🎬 - iOS/OS X 动画制作工具，导出 Swift/Objective-C 代码
+14. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) ✏️ - 将 Sketch 绘图转为代码
+15. [Sketch](https://www.jianshu.com/p/3590f089e500) 🎨 - 矢量图形设计工具
 
-##### Postman
+##### 🧪 API 测试工具
 
-2. [Postman](https://app.getpostman.com/dashboard) API Request Manager
-- 2.1 [Newman](https://github.com/postmanlabs/newman) The cli companion for postman
-- 2.2 [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo/)  Sends requests fired through the Postman chrome app.
-3. [Arc](https://arc.net/) 比chrome更美的浏览器，用户体验更好。
-1. [Hoppscotch(PostWoman)](https://github.com/hoppscotch/hoppscotch) Hoppscotch is lighter and better than Postman.
-2. [Charles](https://www.charlesproxy.com/) request抓包~
-3. [Paw](https://paw.cloud/) API请求利器
-4. [Visual-Json](https://itunes.apple.com/cn/app/visual-json/id488709442?mt=12) JSON利器
-5. [Dash](https://kapeli.com/dash)  看Docs只用它了
+1. [Postman](https://app.getpostman.com/dashboard) 📬 - API 请求管理工具
+   - 1.1 [Newman](https://github.com/postmanlabs/newman) ⚡ - Postman 的命令行伴侣
+   - 1.2 [Postman Interceptor](https://chrome.google.com/webstore/detail/postman-interceptor/aicmkgpgakddgnaphhhpliifpcfhicfo/) 🔄 - Chrome 浏览器请求拦截器
+2. [Hoppscotch](https://github.com/hoppscotch/hoppscotch) 🚀 - 轻量级 API 测试工具，比 Postman 更快
+3. [Charles](https://www.charlesproxy.com/) 🦋 - HTTP 抓包调试工具
+4. [Paw](https://paw.cloud/) 🐾 - Mac 原生 API 请求利器
+5. [Arc](https://arc.net/) 🌐 - 现代化浏览器，用户体验出色
+6. [Visual JSON](https://itunes.apple.com/cn/app/visual-json/id488709442?mt=12) 📊 - JSON 可视化工具
+7. [Dash](https://kapeli.com/dash) 📚 - API 文档查看工具
 
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-04-15018311767868.jpg)
 ![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/2017-08-04-15018312082029.jpg)
 
 
-1. [iTerm](https://www.iterm2.com/) Best Terminal Client
-    * [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) Best Zsh framework
-    * [thefuck](https://github.com/nvbn/thefuck) 忘记命令?fuck就行。
-2. [Wezterm](https://github.com/wez/wezterm) Rust写的更快的终端
-3. [Hyper](https://hyper.is/) 一个轻量简洁的终端
-4. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/)   Reveal~
-5. [Reveal](https://revealapp.com/)  Reveal~
-6. [HopperDisassembler](https://www.hopperapp.com/) Reveal~
-7. [SourceTree](https://www.sourcetreeapp.com/) Best Git Client
-8. [SublimeText](https://www.sublimetext.com/) 轻量级文本应用
-9. [Crashlytics](https://fabric.io/kits/ios/crashlytics/features) iOS Crash崩溃记录
-10. [IconJar](https://geticonjar.com/) App图标管理器
+1. [iTerm](https://www.iterm2.com/) 💻 - 最佳终端客户端
+   - 1.1 [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) ⚙️ - 最佳 Zsh 框架
+   - 1.2 [thefuck](https://github.com/nvbn/thefuck) 🤔 - 自动纠正命令行错误
+2. [Wezterm](https://github.com/wez/wezterm) 🚀 - Rust 编写的高性能终端
+3. [Hyper](https://hyper.is/) ⚡ - 轻量简洁的终端
+4. [IDA](https://www.hex-rays.com/products/ida/debugger/mac/) 🔍 - 高级调试器和反汇编器
+5. [Reveal](https://revealapp.com/) 👁️ - iOS 应用 UI 调试工具
+6. [Hopper Disassembler](https://www.hopperapp.com/) 🦘 - macOS 反汇编工具
+7. [SourceTree](https://www.sourcetreeapp.com/) 🌳 - 免费 Git GUI 客户端
+8. [Sublime Text](https://www.sublimetext.com/) ✏️ - 轻量级文本编辑器
+9. [Crashlytics](https://fabric.io/kits/ios/crashlytics/features) 💥 - iOS 崩溃记录分析工具
+10. [IconJar](https://geticonjar.com/) 🎨 - App 图标管理器
 
 
 ### 💻 终端工具
 
-追求性能的话可以考虑Rust全家桶：Wezterm + Helix + yazi
+追求性能的话可以考虑 Rust 全家桶：Wezterm + Helix + yazi
 
-1. nvim
-2. ohmyzsh
-3. tmux
-4. [Helix](https://www.bilibili.com/video/BV1e3411m7VD/) 使用rust编写比 nvim应该更快
-5. [yazi：终端文件管理器](https://yazi-rs.github.io/docs/installation) - 极快的终端文件管理器，用 Rust 编写，基于异步 I/O
+1. [nvim](https://neovim.io/) ⚡ - 现代化的 Vim 编辑器
+2. [ohmyzsh](https://ohmyz.sh/) 🎩 - Zsh 配置框架
+3. [tmux](https://github.com/tmux/tmux) 🪟 - 终端复用器
+4. [Helix](https://helix-editor.com/) 🦎 - Rust 编写的现代编辑器，比 nvim 更快
+5. [yazi](https://yazi-rs.github.io/docs/installation) 🦦 - 极快的终端文件管理器，Rust 编写
+   - 🚀 完全异步支持：所有 I/O 操作异步，CPU 任务多线程分布
+   - 💪 强大的任务调度：实时进度更新、任务取消、优先级分配
+   - 🖼️ 多种图像协议支持：与 Überzug++ 集成
+   - 🌟 内置代码高亮和图像编码：预缓存机制加速加载
+   - 🧰 与 fd、rg、fzf、zoxide 集成
+   - 💫 类似 Vim 的输入和选择组件
+   - 🏷️ 多标签页支持，可滚动预览（视频、PDF、档案、目录、代码）
+   - 🔄 批量重命名、可视模式、文件选择器
+   - 🎨 主题系统、自定义布局、垃圾桶、CSI u
 6. [uv](https://docs.astral.sh/uv/#highlights) 🐍 - Rust 编写的 Python 环境管理器，极快的包管理器
-极快的终端文件管理器，用 Rust 编写，基于异步 I/O。
-🚀 完全异步支持：所有 I/O 操作都是异步的，CPU 任务分布在多个线程上，充分利用可用资源。
-💪 强大的异步任务调度和管理：提供实时进度更新、任务取消和任务优先级分配。
-🖼️内置支持多种图像协议支持：还与Überzug++集成，几乎覆盖所有终端。
-
-🌟 内置代码高亮和图像编码：结合预缓存机制，大大加速图像和普通文件的加载。
-
-🧰 与 fd、rg、fzf、zoxide 集成。
-💫 类似 Vim 的输入组件和选择组件。
-🏷️ 多选项卡支持，可滚动预览（适用于视频、PDF、档案、目录、代码等）。
-
-🔄 批量重命名、可视模式、文件选择器。
-
-🎨 主题系统、自定义布局、垃圾桶、CSI u。
+   - ⚡ 比传统工具快 10-100 倍
+   - 🔧 统一的 Python 包管理器、项目管理器
+   - 🌐 跨平台支持（macOS、Linux、Windows）
 
 
 
-### Cloud
+### ☁️ Cloud
 
-1. [CloudApp](https://www.getcloudapp.com/)The World's First Visual Search for Screenshots!
+1. [CloudApp](https://www.getcloudapp.com/) ☁️ - 截图和文件分享工具
 
-### Backup
+### 💾 Backup
 
-1. [imazing](https://imazing.com/?gclid=Cj0KCQjwruPNBRCKARIsAEYNXIh2EHR900QAkKSf8oqbjGWUies09TsHpi4Q4002qPQozdkYkqJ-UUsaAqrdEALw_wcB) Manage your iPhone. Your way.
+1. [iMazing](https://imazing.com/?gclid=Cj0KCQjwruPNBRCKARIsAEYNXIh2EHR900QAkKSf8oqbjGWUies09TsHpi4Q4002qPQozdkYkqJ-UUsaAqrdEALw_wcB) 📱 - iPhone 数据管理工具
 
-### GTD
+### ✅ GTD 任务管理
 
-1. [2Do](https://www.2doapp.com/)
-
-2. [pomotodo番茄土豆](https://pomotodo.com/app/)
-
-3. [Things3](https://culturedcode.com/things/)
-
-4. [幕布](https://mubu.com/)  国产WorkFlowy，拓张了一些功能，添加图片，添加文件夹，可以转成导图，还有一些用户的展示，觉得是借鉴了Processon有木有~
-
-5. [石墨](https://shimo.im/)
-
-6. [Zenhub](https://www.zenhub.com/) Agile project management with Github~ 炒鸡好用👌
-
-7. [Bee](http://www.neat.io/bee/) Simple. Fast. Native. Issue tracking made fun on your Mac.
-
-8. [Teambition | 团队协作工具创导者](https://www.teambition.com/)
-
-9.  [trello](https://trello.com/b/0jHOl1As/plus-for-trello-help)
-
-10. [teamind](https://www.teamind.co/) 看得见协作的 远程互动会议
+1. [2Do](https://www.2doapp.com/) ✅ - 强大的任务管理应用
+2. [番茄土豆](https://pomotodo.com/app/) 🍅 - 番茄工作法 + 任务管理
+3. [Things3](https://culturedcode.com/things/) ⭐ - 优雅的任务管理工具
+4. [幕布](https://mubu.com/) 🌳 - 国产 Workflowy，支持大纲转思维导图
+5. [石墨](https://shimo.im/) 📝 - 在线协作文档
+6. [Zenhub](https://www.zenhub.com/) 🧘 - GitHub 原生项目管理工具
+7. [Bee](http://www.neat.io/bee/) 🐝 - 简洁快速的 Issue 追踪工具
+8. [Teambition](https://www.teambition.com/) 👥 - 团队协作工具
+9. [Trello](https://trello.com/b/0jHOl1As/plus-for-trello-help) 📋 - 看板式项目管理
+10. [Teamind](https://www.teamind.co/) 🤝 - 远程互动会议工具
 
 
-## Graph
+## 📊 图表工具
 
-1. [MindNode2](https://www.mindnode.com/) UI更好看些
-2. [Xmind](https://www.xmind.com/) 老牌图
+1. [MindNode](https://www.mindnode.com/) 🧠 - UI 优美的思维导图工具
+2. [Xmind](https://www.xmind.com/) 🗺️ - 老牌思维导图工具
 
 
-### Email
+### 📧 Email 邮件客户端
 
-1. [Spark](https://sparkmailapp.com/)  Beautiful & Intelligent Email App
-2. [Shift - The Best Desktop Email Client for Gmail and Outlook.com](https://tryshift.com/) Shift Switch between Gmail accounts like a boss.
-3. [Kiwiforgmail](https://www.kiwiforgmail.com/index.php)
-4. [Boxy](https://itunes.apple.com/cn/app/boxy.-inbox-by-gmail-email/id1053031090?mt=12) Inbox For mac
-5. [Inbox](https://www.google.com/inbox/) 一个能助您处理纷繁事务的收件箱
+1. [Spark](https://sparkmailapp.com/) ✨ - 智能邮件客户端
+2. [Shift](https://tryshift.com/) 🔄 - Gmail 和 Outlook 桌面客户端
+3. [Kiwi for Gmail](https://www.kiwiforgmail.com/index.php) 🥝 - Gmail 桌面客户端
+4. [Boxy](https://itunes.apple.com/cn/app/boxy.-inbox-by-gmail-email/id1053031090?mt=12) 📦 - Inbox for Mac
+5. [Inbox](https://www.google.com/inbox/) 📥 - Google 智能收件箱
 
-### IM
+### 💬 IM 即时通讯增强
 
-1. [TKkk-iOSer/WeChatPlugin-MacOS: 一款功能强大的 macOS 版微信小助手 v1.7.1 / A powerful assistant for wechat macOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS)
-2. [TKkk-iOSer/QQPlugin-macOS: mac OS版 QQ 小助手, 功能: 消息防撤回 & 自动回复 & alfred扩展](https://github.com/TKkk-iOSer/QQPlugin-macOS)
+1. [WeChatPlugin-MacOS](https://github.com/TKkk-iOSer/WeChatPlugin-MacOS) 💬 - 功能强大的 macOS 版微信小助手
+2. [QQPlugin-macOS](https://github.com/TKkk-iOSer/QQPlugin-macOS) 🐧 - macOS 版 QQ 小助手（消息防撤回、自动回复）
 
 
 ### Writing
