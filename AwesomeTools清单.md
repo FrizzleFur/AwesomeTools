@@ -617,86 +617,93 @@ Usage: dcdg [options]
 
 ### ⚡ Productivity 生产力
 
-1. [WorkFlow](https://workflow.is/) 🔄 - iOS 自动化工具，重复任务交给它
-    - 1.1 [计算到达时间](https://workflow.is/workflows/d5a58dfbea024811ae39b69e1cc9ace0)
-    - 1.2 [网页转MarkDown](https://workflow.is/workflows/a4b12846564a400d970574916770f57e)
-    - 1.3 [AppStore 地区切换](https://workflow.is/workflows/c0159db5a2f84595bad0fbe88b376834)
-2. [IFTTT](https://ifttt.com/discover) 条件触发case交给它就行
-3. [涂手](http://www.toshow.com/) 涂鸦什么的最喜欢了
-4. [MOZE](https://www.mozeapp.com/) 国产记账App, 台湾的，作者很用心
-5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 拯救复制黏贴的手指 = = 
-6. [Send Anywhere - File transfer](https://send-anywhere.com/)传送到任何地方
-7. [Life Cycle](https://itunes.apple.com/us/app/life-cycle-track-your-time-automatically/id1064955217?mt=8) 记录你的时间花销
-8. [LauchCenterPro](https://itunes.apple.com/us/app/launch-center-pro-shortcut-launcher-workflows/id532016360?mt=8) 解决App太多的问题
-9. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 独立开发的随记App,作者开发App的过程值得学习
-10. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀[h2y/Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)(国服已经下架，可以到PP去下载)教程：[一次讲透：IOS翻墙利器“小火箭（Shadowrocket）”上手、进阶、配合Workflow获取免费节点攻略](https://www.hinwen.com/3662.html)[Shadowrocket-2.1.2](https://xuexi.hinwen.com/thread-14695-1-1.html)
-11. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) Habit Manager
-12. [NaturalReader](https://www.naturalreaders.com/) “懒人听书”——Save your eyes
-13. [Google相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) Manager your photoes
-14. [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) OCR文字识别与翻译工具 开发者：Xinle Tao
-15. [扫描宝](https://www.yinxiang.com/products/scannable/) 大象出品
-16. [讯飞输入法](https://www.xunfei.cn/)发现手机上的讯飞输入法解决了很多痛点有木有~
-17. [Picsew - Screenshot Stitching on the App Store](https://itunes.apple.com/app/id1208145167?ign-mpt=uo%3D4)长图拼接
+1. [WorkFlow](https://workflow.is/) 🔄 - iOS 自动化工具
+   - 1.1 [计算到达时间](https://workflow.is/workflows/d5a58dfbea024811ae39b69e1cc9ace0) 🕐
+   - 1.2 [网页转 Markdown](https://workflow.is/workflows/a4b12846564a400d970574916770f57e) 📝
+   - 1.3 [AppStore 地区切换](https://workflow.is/workflows/c0159db5a2f84595bad0fbe88b376834) 🌍
 
-### JSBox
+2. [IFTTT](https://ifttt.com/discover) ⚙️ - 条件触发自动化工具
+3. [涂手](http://www.toshow.com/) 🎨 - 涂鸦创作工具
+4. [MOZE](https://www.mozeapp.com/) 💰 - 国产记账 App
+5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 📌 - 剪贴板扩展工具
+6. [Send Anywhere](https://send-anywhere.com/) 📤 - 文件传输工具
+7. [Life Cycle](https://itunes.apple.com/us/app/life-cycle-track-your-time-automatically/id1064955217?mt=8) ⏱️ - 时间追踪工具
+8. [Launch Center Pro](https://itunes.apple.com/us/app/launch-center-pro-shortcut-launcher-workflows/id532016360?mt=8) 🚀 - App 快速启动器
+9. [Pendo](https://itunes.apple.com/us/app/pendo-idea-journal-to-do-calendar-share/id805451002?mt=8) 📝 - 随记、待办、日历一体化
+10. [ShadowRocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀 - iOS 代理工具
+    - [Shadowrocket-ADBlock-Rules](https://github.com/h2y/Shadowrocket-ADBlock-Rules)
+    - 教程：[一次讲透 Shadowrocket](https://www.hinwen.com/3662.html)
+11. [Momentum](https://itunes.apple.com/cn/app/momentum-habit-tracker-routines-goals-rituals/id1030442215?mt=12) 🎯 - 习惯管理工具
+12. [NaturalReader](https://www.naturalreaders.com/) 🎧 - 文字转语音工具
+13. [Google 相册](https://itunes.apple.com/cn/app/google-%E7%9B%B8%E5%86%8C-%E5%85%8D%E8%B4%B9%E5%AD%98%E5%82%A8%E7%85%A7%E7%89%87%E5%92%8C%E8%A7%86%E9%A2%91/id962194608?mt=8) 📸 - 照片和视频管理
+14. [白描](https://itunes.apple.com/cn/app/%E7%99%BD%E6%8F%8F-%E5%87%86%E7%A1%AE%E9%AB%98%E6%95%88%E7%9A%84ocr%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB%E5%B7%A5%E5%85%B7/id1249901692?mt=8) 🔍 - OCR 文字识别与翻译工具
+15. [扫描宝](https://www.yinxiang.com/products/scannable/) 📷 - 印象笔记出品扫描工具
+16. [讯飞输入法](https://www.xunfei.cn/) ⌨️ - 智能语音输入法
+17. [Picsew](https://itunes.apple.com/app/id1208145167?ign-mpt=uo%3D4) 🖼️ - 长图拼接工具
 
-1. [IPA安装器](https://xteko.com/redir?name=IPA%20Installer&icon=icon_052.png&author=Axel&version=1.0&url=https%3A%2F%2Fraw.githubusercontent.com%2Faxelburks%2FJSBox%2Fmaster%2FIPA%2520Installer.js)
-2. Safari-extensions Safari调试
-3. 快速预览
-4. 10010
-5. [Days Pro](https://jsboxbbs.com/d/373-days-pro/17) 查看倒计时, 现在日期点不进去
-6. [Light Scripts](https://xteko.com/install?id=70&lang=zh-Hans)这是一个脚本合辑，可以动态的加载一些别的脚本。此脚本的初衷是动态运行一些「较少用到，但又不可缺少」的小工具，类似「轻脚本」的概念。主要涉及工具一类脚本，请查阅 README.md 获得详细说明。
+### 📦 JSBox 脚本
 
-
-### SiriShortCut
-
-1. [捷径库备份](https://www.icloud.com/shortcuts/f13fc46f57de4ba8b681d2c7c682d618))
-2. [九宫格切图](https://www.icloud.com/shortcuts/2ac3c29a89d34a9db2b0054377da60ba))
-3. [连续删除最近照片](https://www.icloud.com/shortcuts/5a24acead7b94350bfc754377c48fc6f)
-4. [心率报告](https://www.icloud.com/shortcuts/fc59a35a88e342968d26f6155f902ec1)
-5. [工作总结](https://www.icloud.com/shortcuts/b06151cb72ba4d2fbe069422fe1c7301)
+1. [IPA 安装器](https://xteko.com/redir?name=IPA%20Installer&icon=icon_052.png&author=Axel&version=1.0&url=https%3A%2F%2Fraw.githubusercontent.com%2Faxelburks%2FJSBox%2Fmaster%2FIPA%2520Installer.js) 📲 - IPA 文件安装工具
+2. Safari-extensions 🌐 - Safari 调试扩展
+3. 快速预览 👁️ - 快速预览工具
+4. 10010 📱 - 10010 实用工具
+5. [Days Pro](https://jsboxbbs.com/d/373-days-pro/17) 📅 - 倒计时查看工具
+6. [Light Scripts](https://xteko.com/install?id=70&lang=zh-Hans) 💡 - 脚本合辑，动态加载小工具
 
 
-### Reading
+### 🎤 Siri ShortCut 捷径
 
-1. [WeRead](https://weread.qq.com/)    微信读书，腾讯精心打磨的一款社交读书应用，可以听书是很不错的，看来对用户的痛点很熟悉。兑换书币也是发扬了TX一贯的创新方式。
-
-### Data
-
-1. [QQ同步助手](https://itunes.apple.com/cn/app/id389481236)    大陆用户换机备份神器~
-
-2. [Pillow: Smart sleep tracking](https://itunes.apple.com/cn/app/pillow-smart-sleep-tracking/id878691772?mt=8)对于担心手机辐射的人来说，可以在睡觉时打开飞行模式，这样一来可以使自己更安心，二来也避免了电话短信等方面的打扰，足以专心睡个好觉。
-
-### Relax
-
-* [小睡眠](http://www.psy-1.com/)
-
-* [心潮减压](http://www.psy-1.com/)
-
-### 收集
-
-1. [一闪 3.0](https://sspai.com/post/42117)加入了短视频剪辑功能的「一闪 3.0」，想让你成为一名创造者
-
-### VPN
-
-0. [速蛙云VPN](https://m.fastfrog.link/m/home) 有风险
-1. [Shadowsocks免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7)
-2. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience)
-3. [Shadowsocks指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292)
-4. [Releases · yangfeicheung/Shadowsocks-X · GitHub](https://github.com/yangfeicheung/Shadowsocks-X/releases)
-5. [Potatso-Legacy](https://github.com/haxpor/Potatso) Potatso is an iOS client that implements Shadowsocks proxy with the leverage of NetworkExtension framework in iOS 10+.
-6. [NetShuttle ShadowsocksR tool]() 美区SS客户端
-7. [vpn - super unlimited](https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473) iPhone现可用的VPN
+1. [捷径库备份](https://www.icloud.com/shortcuts/f13fc46f57de4ba8b681d2c7c682d618) 📚 - 捷径库备份
+2. [九宫格切图](https://www.icloud.com/shortcuts/2ac3c29a89d34a9db2b0054377da60ba) 🖼️ - 九宫格切图工具
+3. [连续删除最近照片](https://www.icloud.com/shortcuts/5a24acead7b94350bfc754377c48fc6f) 🗑️ - 批量删除照片
+4. [心率报告](https://www.icloud.com/shortcuts/fc59a35a88e342968d26f6155f902ec1) ❤️ - 健康数据报告
+5. [工作总结](https://www.icloud.com/shortcuts/b06151cb72ba4d2fbe069422fe1c7301) 📝 - 工作总结生成
 
 
-#### 修改host翻墙
+### 📚 Reading 阅读工具
 
-输入sudo vi /etc/hosts
-它会提示你输入你的管理密码，才能进行下一步。
-之后按下i 才可以编辑文件。
+1. [微信读书](https://weread.qq.com/) 📖 - 腾讯社交读书应用，支持听书
 
-hosts文件可以到github或者百度上找
-正在用GitHub上的https://github.com/highsea/Hosts/blob/master/hosts
+### 💾 Data 数据管理
+
+1. [QQ 同步助手](https://itunes.apple.com/cn/app/id389481236) 🔄 - 换机备份工具
+2. [Pillow](https://itunes.apple.com/cn/app/pillow-smart-sleep-tracking/id878691772?mt=8) 😴 - 智能睡眠追踪
+
+### 🧘 Relax 放松工具
+
+1. [小睡眠](http://www.psy-1.com/) 😴 - 助眠应用
+2. [心潮减压](http://www.psy-1.com/) 🧘 - 减压放松应用
+
+### 📸 收集创作工具
+
+1. [一闪 3.0](https://sspai.com/post/42117) ✨ - 短视频剪辑工具
+
+### 🔐 VPN 代理工具
+
+1. [速蛙云 VPN](https://m.fastfrog.link/m/home) ⚠️ - 有风险
+2. [Shadowsocks 免费账号](https://github.com/Alvin9999/new-pac/wiki/ss%E5%85%8D%E8%B4%B9%E8%B4%A6%E5%8F%B7) 🆓 - 免费账号
+3. [沉浸式无墙体验](https://aofei.org/posts/2018-04-05-immersive-wallless-experience) 🌍 - 使用指南
+4. [Shadowsocks 指南](https://github.com/shadowsocks/shadowsocks-iOS/issues/292) 📖 - iOS 客户端指南
+5. [Shadowsocks-X](https://github.com/yangfeicheung/Shadowsocks-X/releases) 🚀 - macOS 客户端
+6. [Potatso Legacy](https://github.com/haxpor/Potatso) 🥔 - iOS Shadowsocks 客户端
+7. [NetShuttle](https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473) 🌐 - 美区 SS 客户端
+8. [VPN Super Unlimited Proxy](https://apps.apple.com/us/app/vpn-super-unlimited-proxy/id1370293473) 🔐 - iPhone 可用 VPN
+
+
+#### 📝 修改 hosts 翻墙
+
+修改 hosts 文件步骤：
+
+1. 输入 `sudo vi /etc/hosts`
+2. 输入管理员密码
+3. 按下 `i` 进入编辑模式
+4. 修改 hosts 文件
+5. 按 `Esc` 退出编辑模式
+6. 输入 `:wq` 保存并退出
+
+**hosts 文件来源**：
+- GitHub: https://github.com/highsea/Hosts/blob/master/hosts
+- 或在百度搜索最新的 hosts 文件
 
 复制hosts文件到空白处后，先按Esc 然后再按shift+： 冒号
 输入wq 保存并退出的意思。
