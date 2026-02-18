@@ -1,268 +1,223 @@
 # Awesome Tools Collection 🛠️
 
-> 一个精心策划的优秀工具集合，帮助开发者、设计师和效率达人们提升工作效率
-
-```mermaid
-graph TD
-    A[开发者] -->|使用| B[开发工具]
-    A -->|使用| C[设计工具]
-    A -->|使用| D[效率工具]
-    B --> E[代码编辑器]
-    B --> F[版本控制]
-    C --> G[UI/UX 设计]
-    C --> H[原型设计]
-    D --> I[任务管理]
-    D --> J[自动化工具]
-    
-    style A fill:#4CAF50,stroke:#333,stroke-width:2px
-    style B fill:#2196F3,stroke:#333
-    style C fill:#9C27B0,stroke:#333
-    style D fill:#FF9800,stroke:#333
-```
+> Carefully curated productivity tools collection with **450+** practical tools, detailed tutorials, and real-world usage tips
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
-[![GitHub stars](https://img.shields.io/github/stars/FrizzleFur/AwesomeTools?style=social)](https://github.com/FrizzleFur/AwesomeTools/stargazers)
-[![中文文档](https://img.shields.io/badge/文档-中文-blue.svg)](#)
+[![GitHub stars](https://img.shields.io/github/stars/Michael/AwesomeTools?style=social)](https://github.com/Michael/AwesomeTools/stargazers)
+[![中文文档](https://img.shields.io/badge/文档-中文-blue.svg)](README_ZH.md)
 
-🌍 **多语言支持**
+🌍 **Languages**
 - [English](README.md)
 - [中文](README_ZH.md)
 
-## 目录
+---
 
-- [简介](#简介)
-- [工具分类](#工具分类)
-- [快速开始](#快速开始)
-- [贡献指南](#贡献指南)
-- [许可证](#许可证)
-- [统计与可视化](#统计与可视化)
-- [致谢](#致谢)
+## ⭐ Featured Tools
 
-## 简介
+Hand-picked essentials that I use daily:
 
-Awesome Tools 是一个精心策划的工具集合，旨在帮助开发人员、设计师和效率达人们发现和掌握能够提升工作效率的优质工具。无论您是在寻找开发工具、设计资源，还是生产力应用，这个项目都能为您提供有价值的参考。
+### 🖥️ Mac Essentials
 
-## 📊 项目概览
+1. [Alfred](https://www.alfredapp.com/) 🔍 - Search and workflow powerhouse
+2. [Moom](https://manytricks.com/moom/) 🪟 - Window management magic
+3. [Paste](http://pasteapp.me/) 📋 - Clipboard manager with history
+4. [iTerm2](https://www.iterm2.com/) 💻 - Ultimate terminal experience
+5. [BetterTouchTool](http://xclient.info/s/bettertouchtool.html) 👆 - Trackpad gesture enhancement
+6. [DaisyDisk](https://daisydiskapp.com/) 💾 - Disk space visualization
+7. [OhMyZsh](https://github.com/robbyrussell/oh-my-zsh) ⚙️ - Best Zsh framework
 
-```mermaid
-pie
-    title 工具分类占比
-    "开发工具" : 25
-    "设计工具" : 15
-    "效率工具" : 20
-    "系统工具" : 10
-    "网络工具" : 10
-    "多媒体工具" : 5
-    "数据科学" : 5
-    "安全工具" : 5
-    "移动开发" : 3
-    "游戏开发" : 2
+### 📱 Phone Productivity
+
+1. [WorkFlow](https://workflow.is/) 🔄 - iOS automation
+2. [Shadowrocket](https://itunes.apple.com/hk/app/shadowrocket/id932747118?mt=8) 🚀 - Network proxy tool
+3. [微信读书](https://weread.qq.com/) 📖 - Social reading app by Tencent
+4. [IFTTT](https://ifttt.com/discover) ⚙️ - Automation trigger tool
+5. [Pin](https://itunes.apple.com/cn/app/pin-%E5%89%AA%E8%B4%B4%E6%9D%BF%E6%89%A9%E5%B1%95/id1039643846?mt=8) 📌 - Clipboard extension
+
+### 👨‍💻 Development Essentials
+
+1. [VS Code](https://code.visualstudio.com/) 💻 - Powerful code editor
+2. [GitKraken](https://app.gitkraken.com) 🐙 - Best Git GUI for Mac
+3. [Postman](https://app.getpostman.com/dashboard) 📬 - API management tool
+4. [Charles](https://www.charlesproxy.com/) 🦋 - HTTP debugging proxy
+5. [Dash](https://kapeli.com/dash) 📚 - API documentation browser
+
+---
+
+## 📊 At a Glance
+
+- 📝 **450+** tools in main collection
+- 📄 **31** detailed tutorials
+- 💡 **10** tip guides
+- 🎯 **9** major categories
+- 🔄 **Weekly** updates
+
+---
+
+## 🚀 Quick Start
+
+### By Platform
+
+- [📋 **AwesomeTools List** (450+ tools)](AwesomeTools清单.md) - Complete tool collection
+- [🖥️ Mac Tools](AwesomeTools清单.md#-mac-工具) - macOS productivity boosters
+- [📱 Phone Tools](AwesomeTools清单.md#-phone-手机工具) - iOS automation utilities
+- [🌐 Web Tools](AwesomeTools清单.md#-web-工具) - Browser extensions & web apps
+
+### By Scenario
+
+- 💻 **Developer** → [Dev Tools](Awesome效率神器/开发工具/)
+- 🎨 **Designer** → [Design Resources](docs/categories/design.md)
+- ⚡ **Productivity** → [Efficiency Tools](Awesome效率神器/效率工具/)
+
+---
+
+## 📁 Repository Structure
+
+```
+AwesomeTools/
+├── AwesomeTools清单.md     # Main list (450+ tools) ⭐
+├── Awesome效率神器/         # Detailed tutorials (31 files)
+│   ├── 开发工具/           # Development tools
+│   └── 效率工具/           # Productivity tools
+├── 电脑设备技巧/            # Device tips (10 files)
+│   ├── Mac相关问题.md      # Mac tips
+│   ├── Win相关问题.md      # Windows tips
+│   └── iPhone相关问题.md   # iOS tips
+├── docs/                    # Category indexes
+│   └── categories/
+└── README.md               # This file
 ```
 
-## 🗂️ 工具分类
+---
 
-### 开发工具
-- [代码编辑器](docs/categories/development.md#代码编辑器)
-- [版本控制](docs/categories/development.md#版本控制)
-- [命令行工具](docs/categories/development.md#命令行工具)
-- [API 工具](docs/categories/development.md#api-工具)
-- [数据库工具](docs/categories/development.md#数据库工具)
+## 🌟 Project Highlights
 
-### 设计工具
-- [UI/UX 设计](docs/categories/design.md#uiux-设计)
-- [原型设计](docs/categories/design.md#原型设计)
-- [图形设计](docs/categories/design.md#图形设计)
-- [动效设计](docs/categories/design.md#动效设计)
-- [设计资源](docs/categories/design.md#设计资源)
+1. ✅ **Carefully Curated** - Every tool has detailed descriptions and real usage experience
+2. ✅ **Battle-Tested** - Based on actual daily use, not just random collections
+3. ✅ **Continuously Updated** - Regular additions and improvements
+4. ✅ **Well-Organized** - Platform-based categorization for easy discovery
 
-### 效率工具
-- [笔记应用](docs/categories/productivity.md#笔记应用)
-- [任务管理](docs/categories/productivity.md#任务管理)
-- [时间管理](docs/categories/productivity.md#时间管理)
-- [自动化工具](docs/categories/productivity.md#自动化工具)
-- [系统增强](docs/categories/productivity.md#系统增强)
+---
 
-### 系统工具
-- [系统优化](docs/categories/system.md#系统优化)
-- [文件管理](docs/categories/system.md#文件管理)
-- [系统监控](docs/categories/system.md#系统监控)
-- [备份与同步](docs/categories/system.md#备份与同步)
+## 🗂️ Tool Categories
 
-### 网络工具
-- [VPN 与代理](docs/categories/network.md#vpn-与代理)
-- [网络监控](docs/categories/network.md#网络监控)
-- [下载工具](docs/categories/network.md#下载工具)
-- [API 测试](docs/categories/network.md#api-测试)
+### Development Tools
+- [Code Editors](docs/categories/development.md#代码编辑器) - VS Code, Sublime, etc.
+- [Version Control](docs/categories/development.md#版本控制) - Git clients and workflows
+- [Command Line](docs/categories/development.md#命令行工具) - Terminal enhancements
+- [API Tools](docs/categories/development.md#api-工具) - Postman, Charles, etc.
 
-### 多媒体工具
-- [图像处理](docs/categories/media.md#图像处理)
-- [视频编辑](docs/categories/media.md#视频编辑)
-- [音频工具](docs/categories/media.md#音频工具)
-- [屏幕录制](docs/categories/media.md#屏幕录制)
+### Design Tools
+- [UI/UX Design](docs/categories/design.md#uiux-设计) - Figma, Sketch, Adobe XD
+- [Prototype Design](docs/categories/design.md#原型设计) - Design collaboration tools
+- [Graphic Design](docs/categories/design.md#图形设计) - Image editing and creation
 
-### 数据科学
-- [编程语言](docs/categories/data-science.md#编程语言)
-- [数据可视化](docs/categories/data-science.md#数据可视化)
-- [机器学习](docs/categories/data-science.md#机器学习)
-- [数据分析](docs/categories/data-science.md#数据分析)
+### Productivity Tools
+- [Note Taking](docs/categories/productivity.md#笔记应用) - Evernote, Notion, Obsidian
+- [Task Management](docs/categories/productivity.md#任务管理) - Todo apps and GTD tools
+- [Automation](docs/categories/productivity.md#自动化工具) - Workflow automation
 
-### 安全工具
-- [密码管理](docs/categories/security.md#密码管理)
-- [加密工具](docs/categories/security.md#加密工具)
-- [网络安全](docs/categories/security.md#网络安全)
-- [渗透测试](docs/categories/security.md#渗透测试)
+### System Tools
+- [System Optimization](docs/categories/system.md#系统优化) - Cleanup and maintenance
+- [File Management](docs/categories/system.md#文件管理) - Finder enhancements
+- [Window Management](AwesomeTools清单.md#🧹-系统清理与优化) - Moom, BetterTouchTool
 
-### 移动开发
-- [跨平台框架](docs/categories/mobile-dev.md#跨平台框架)
-- [原生开发](docs/categories/mobile-dev.md#原生开发)
-- [测试工具](docs/categories/mobile-dev.md#测试工具)
-- [发布与分发](docs/categories/mobile-dev.md#发布与分发)
+### Network Tools
+- [VPN & Proxy](docs/categories/network.md#vpn-与代理) - Shadowrocket, Surge
+- [Network Monitoring](docs/categories/network.md#网络监控) - Charles, Wireshark
 
-### 游戏开发
-- [游戏引擎](docs/categories/game-dev.md#游戏引擎)
-- [2D 开发](docs/categories/game-dev.md#2d-开发)
-- [3D 建模与动画](docs/categories/game-dev.md#3d-建模与动画)
-- [音频工具](docs/categories/game-dev.md#音频工具)
+### Multimedia Tools
+- [Image Processing](docs/categories/media.md#图像处理) - Image editors and converters
+- [Video Editing](docs/categories/media.md#视频编辑) - Video tools and downloaders
 
-### 云与 DevOps
-- [云平台](docs/categories/cloud-devops.md#云平台)
-- [容器化](docs/categories/cloud-devops.md#容器化)
-- [编排工具](docs/categories/cloud-devops.md#编排工具)
-- [CI/CD](docs/categories/cloud-devops.md#cicd)
+### Data Science
+- [Data Analysis](docs/categories/datascience.md#数据分析) - Python, R tools
+- [Visualization](docs/categories/datascience.md#数据可视化) - Chart and graph tools
 
-## 🚀 快速开始
+### Security Tools
+- [Password Management](docs/categories/security.md#密码管理) - 1Password, LastPass
+- [Encryption](docs/categories/security.md#加密工具) - Security utilities
 
-### 使用流程
+### Mobile Development
+- [iOS Development](docs/categories/mobiledev.md#ios-开发) - iOS dev tools
+- [Android Development](docs/categories/mobiledev.md#android-开发) - Android dev tools
 
-```mermaid
-flowchart LR
-    A[选择工具类别] --> B[浏览工具列表]
-    B --> C[查看工具详情]
-    C --> D[安装与配置]
-    D --> E[开始使用]
-    E --> F[分享反馈]
-    
-    style A fill:#4CAF50,stroke:#333
-    style F fill:#FF9800,stroke:#333
-```
+### Game Development
+- [Game Engines](docs/categories/gamedev.md#游戏引擎) - Unity, Unreal
+- [Game Assets](docs/categories/gamedev.md#游戏资源) - Graphics and audio
 
-### 浏览工具
-1. 访问 [工具分类索引](docs/categories/README.md) 查看所有可用类别
-2. 选择您感兴趣的工具类别
-3. 浏览工具列表并点击查看详细文档
+---
 
-### 贡献工具
-1. 阅读 [贡献指南](CONTRIBUTING.md)
-2. Fork 本仓库
-3. 创建新的工具文档或更新现有文档
-4. 提交 Pull Request
+## 🔍 Featured Topics
 
-## 🤝 贡献指南
+### Chart Tools
+- [图表工具合集](AwesomeTools清单.md#-图表工具) - Data visualization tools
+- [Mind Mapping](AwesomeTools清单.md#-图表工具) - markmap, XMind, etc.
 
-### 贡献流程
+### Task Management
+- [GTD Tools](AwesomeTools清单.md#-gtd-任务管理) - Getting Things Done apps
+- [Project Management](Awesome效率神器/效率工具/) - Team collaboration tools
+
+### Fitness & Health
+- [Workout Apps](AwesomeTools清单.md#-bodybuilding-健身) - Fitness tracking tools
+
+---
+
+## 📚 Additional Resources
+
+- [Hardware Recommendations](AwesomeTools清单.md#-hardware-硬件) - Keyboards, mice, monitors
+- [Learning Resources](AwesomeTools清单.md#-resources-参考资料) - Tutorials and documentation
+- [Mac Tips](电脑设备技巧/Mac相关问题.md) - macOS tips and tricks
+- [Windows Tips](电脑设备技巧/Win相关问题.md) - Windows productivity tips
+- [iOS Tips](电脑设备技巧/iPhone相关问题.md) - iPhone and iPad tips
+
+---
+
+## 📊 Statistics
 
 ```mermaid
-gantt
-    title 贡献流程时间线
-    dateFormat  YYYY-MM-DD
-    section 准备
-    创建 Issue :done, 2023-01-01, 2d
-    Fork 项目 :active, 2023-01-03, 1d
-    section 开发
-    实现功能 :2023-01-04, 5d
-    编写测试 :2023-01-09, 2d
-    section 提交
-    创建 PR :2023-01-11, 1d
-    代码审查 :2023-01-12, 2d
-    合并代码 :2023-01-14, 1d
+pie title Tool Distribution by Platform
+    "Mac Tools" : 180
+    "Web Tools" : 120
+    "Phone Tools" : 80
+    "Other Platforms" : 70
 ```
 
-### 贡献步骤
+---
 
-我们欢迎任何形式的贡献！无论是添加新工具、更新现有工具信息，还是改进文档，您的贡献都将受到欢迎。
+## 🤝 Contributing
 
-请阅读 [贡献指南](CONTRIBUTING_ZH.md) 了解如何开始贡献。
+Contributions are welcome! Please feel free to submit a Pull Request.
 
-### 行为准则
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingTool`)
+3. Commit your changes (`git commit -m 'Add some AmazingTool'`)
+4. Push to the branch (`git push origin feature/AmazingTool`)
+5. Open a Pull Request
 
-请确保阅读并遵守我们的 [行为准则](CODE_OF_CONDUCT_ZH.md)。
+See [CONTRIBUTING.md](CONTRIBUTING.md) for more details.
 
-## 许可证
+---
 
-本项目采用 [MIT 许可证](LICENSE) 发布。
+## 📜 License
 
-## 📊 统计与可视化
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-### 项目增长趋势
+---
 
-```mermaid
-bar
-    title 项目增长趋势 (工具数量)
-    x-axis 时间
-    y-axis 数量
-    "2023 Q1" : 50
-    "2023 Q2" : 120
-    "2023 Q3" : 210
-    "2023 Q4" : 350
-    "2024 Q1" : 480
-    "2024 Q2" : 620
-```
+## 🙏 Acknowledgments
 
-### 工具分类分布
-
-```mermaid
-pie
-    title 工具分类占比
-    "开发工具" : 25
-    "设计工具" : 15
-    "效率工具" : 20
-    "系统工具" : 10
-    "网络工具" : 10
-    "其他" : 20
-```
-
-### 平台支持
-
-```mermaid
-pie
-    title 平台支持情况
-    "Windows" : 40
-    "macOS" : 40
-    "Linux" : 15
-    "Web" : 5
-```
-
-## 🌟 项目特点
-
-```mermaid
-mindmap
-  root((Awesome Tools))
-    全面覆盖
-      🛠️ 开发工具
-      🎨 设计资源
-      ⚡ 效率应用
-      🔒 安全工具
-    持续更新
-      🔄 定期维护
-      ✨ 新增工具
-      🐛 问题修复
-    社区驱动
-      👥 开放贡献
-      💡 建议反馈
-      🤝 协作开发
-    质量保证
-      ✅ 精选工具
-      🔍 详细评测
-      📊 性能比较
-```
-
-## 致谢
-
-感谢所有 [贡献者](https://github.com/FrizzleFur/AwesomeTools/graphs/contributors) 的宝贵贡献！
+- Thanks to all contributors who have helped build this collection
+- Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-mac](https://github.com/jaywcjlove/awesome-mac)
+- Special thanks to the open-source community for creating these amazing tools
 
 ---
 
 <div align="center">
-  <sub>由 ❤️ 驱动 | 灵感来自 <a href="https://github.com/sindresorhus/awesome">awesome</a></sub>
+
+**⭐ If you find this helpful, please consider giving it a star! ⭐**
+
+Made with ❤️ by [Michael](https://github.com/Michael)
+
 </div>
