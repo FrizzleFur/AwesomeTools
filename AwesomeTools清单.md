@@ -1033,3 +1033,108 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 **Apple Beta Profile** 🍎 - Apple 测试版配置文件
 
 * [BetaProfiles](https://betaprofiles.com/)
+
+---
+
+## 📚 Resources 参考资料
+
+学习资源、工具池和参考链接
+
+### 📖 学习资源
+
+#### Resource
+
+* [StarsAndClown](https://github.com/FrizzleFur/StarsAndClown) [Introduction · StarsAndClown](https://zhaoolee.gitbooks.io/starsandclown/content/)☀️Github星聚弃疗榜,为Github创意项目写一本推荐书，让Github优秀项目造福人类~
+
+#### RSS Resource
+
+* SwiftOldDriver: <https://github.com/SwiftOldDriver/iOS-Weekly/releases.atom>
+* 少数派： <https://sspai.com/feed>
+* RSSHub
+    * 少数派专栏：
+    * 微信公众号： https://rsshub.app/wechat/wemp/{#wempId}
+
+#### pan资源
+
+[云盘精灵](www.yunpanjingling.com) 较多学习视屏
+
+### 🌐 工具池
+
+#### Pool
+
+1. [**Awesome Mac**](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) 前辈整理的，学习~
+2. [Best-App](https://github.com/hzlzh/Best-App)Best-App
+3. [Amazing Apps](http://amazingapps.org/)前辈整理的，学习~
+4. [tool](https://github.com/Louiszhai/tool) 前辈整理的，学习~
+5. [hzlzh/Best-App](https://github.com/hzlzh/Best-App) 收集&推荐优秀的 Apps/硬件/技巧/周边等
+6. [HomeBrew](https://github.com/caskroom/homebrew-cask) 可以找找这个，使用Homebrew管理软件
+7. [mas-cli/mas](https://github.com/mas-cli/mas) Mac App Store command line interface
+8. [反斗软件](http://www.apprcn.com/)
+
+#### 逆向Pool
+
+1. [iOSRE](http://bbs.iosre.com/)
+2. [看雪安全论坛](https://bbs.pediy.com/)
+3. [飘云阁安全论坛](http://www.chinapyg.com/) 逆向论坛
+4. [吾爱破解](https://www.52pojie.cn/) 逆向论坛
+
+#### Tools Pool
+
+1. [alternativeto](https://alternativeto.net/) 备选工具
+2. [Xclient](https://xclient.info) Tool Pool
+3. [数字逻辑](https://www.softosx.com/) Tool Pool
+4. [脑袋瓜子](https://www.naodai.org/)
+5. [知您网](http://www.zhinin.com/)
+6. [Sdifen](http://www.sdifen.com/) 小工具 Pool
+7. [Greasyfork](https://greasyfork.org/zh-CN) 油猴脚本网
+
+#### Tool Guide
+
+1. [Sspai.com](https://sspai.com/) 生产力教程 Guide
+2. [异次元软件世界](https://www.iplaysoft.com/os/ios-platform/page/2) iOS 操作系统软件与文章
+3. [iPhone, iPad, Mac Buyer's Guide](https://buyersguide.macrumors.com/) 知道何时购买
+
+#### Tool Shop
+
+1. [数码荔枝正版软件](https://digitalychee.taobao.com/)
+2. [翻页软件商城](https://www.turnpage.com/) 用正版 更安全
+
+#### Pool 资源
+
+1. [电驴](http://www.verycd.com/) 分布式文件传输工具
+2. [周读](http://www.ireadweek.com/) 电子书资源
+3. [salttiger](https://salttiger.com/) 每天一本编程书
+4. [you-get](https://github.com/soimort/you-get) 网络媒体下载工具
+5. [流媒体NB工具](http://vp-hub.eqoe.cn/) Bili
+6. [我的打包分享](http://mydbfx.com/) 书籍打包下载
+7. [Pixabay](https://pixabay.com/) 免费高清图片
+
+### 🔧 开发资源
+
+#### Alfred Workflow Pool
+
+1. [Search.alfredworkflow](https://github.com/Louiszhai/alfred-workflows/blob/master/workflows/Search.alfredworkflow?raw=true) 程序员搜索工作流
+2. [Alfred-fixum](https://github.com/deanishe/alfred-fixum/releases/tag/v0.6) 修复旧 Workflow
+3. [Packal Workflow Search](http://www.packal.org/workflow/packal-workflow-search) Workflow Pool
+4. [Alfred Web Search Suggest](https://github.com/AkikoZ/alfred-web-search-suggest/releases) 知乎淘宝搜索
+5. [Top-workflow](https://github.com/singhprd/alfred2-top-workflow/releases/download/v2.2/Top.Processes.v2.2.alfredworkflow) 进程管理
+6. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload) Markdown图片上传
+7. [Copy-Path](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/Copy-Path.alfredworkflow) 获取文件路径
+8. [Last-changed-files](https://github.com/hzlzh/AlfredWorkflow.com/blob/master/Downloads/Workflows/Last-changed-files.alfredworkflow) 最近文件
+9. [o3o](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/05/06/workflow) 表情包
+10. [Dash Alfred Plugin](https://github.com/omz/Dash-Plugin-for-Xcode) Dash 集成
+11. [Douban](http://link.zhihu.com/?target=http%3A//workflow.buddysoft.cn/2016/04/29/workflow) 豆瓣搜索
+12. [Github Search](http://www.packal.org/workflow/github-search) GitHub 搜索
+13. [V2EX.alfredworkflow](https://github.com/hzlzh/Alfred-Workflows/raw/master/Downloads/V2EX.alfredworkflow) V2EX
+14. [StackOverflow Search](http://www.packal.org/workflow/stackoverflow-search) StackOverflow
+15. [alfred-mweb-workflow](https://github.com/tianhao/alfred-mweb-workflow) MWeb 文档搜索
+16. [wechat-alfred-workflow](https://github.com/TKkk-iOSer/wechat-alfred-workflow) 微信工作流
+17. [WeChatExporter](https://github.com/tsycnh/WeChatExporter) 微信聊天导出
+18. [QQ Plugin.alfredworkflow](https://github.com/TKkk-iOSer/QQPlugin-macOS/blob/master/Other/QQ%20Plugin.alfredworkflow) QQ 插件
+19. [Hide Desktop](http://www.packal.org/workflow/hide-desktop) 隐藏桌面文件
+20. [AlfredWorkflow-Recent-Documents](https://github.com/mpco/AlfredWorkflow-Recent-Documents/blob/master/README_CN.md) 最近文档
+
+---
+
+**重构完成日期**: 2025-02-18
+**重构版本**: v2.0
