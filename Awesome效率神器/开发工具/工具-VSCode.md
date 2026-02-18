@@ -24,41 +24,68 @@
 * `Ctrl + Shift + D`  重复行  not worked
 
 
-## Tool
+## 🛠️ VSCode 扩展工具
 
-* CSS Peek
-  * Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
-* Markdown All in One
-  * All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
-* [markdown-markmap](https://github.com/phoihos/vscode-markdown-markmap)
-  * Markdown 思维导图预览支持，在 VS Code 内置的 Markdown 预览中将 Markdown 可视化为思维导图。支持使用 ```markmap 代码块创建思维导图，支持语法高亮、链接、样式、代码块、数学公式（Katex）等。可配置缩放和颜色属性。
-* [markmap-vscode](https://github.com/markmap/markmap-vscode)
-  * 官方 markmap VSCode 扩展，将 Markdown 文件转换为交互式思维导图。支持实时预览、分屏视图、导出为 HTML/PNG/SVG 等格式。使用 ```markmap 代码块或直接预览 Markdown 文件。基于 markmap-lib，支持折叠/展开分支、自定义主题。
-* [vscode-markmap-universe](https://github.com/markmap-universe/vscode-markmap-universe)
-  * markmap universe 扩展，提供增强的 markmap 功能和工具集合。扩展了官方 markmap 的能力，提供更多定制选项和生产力功能。
-* [Markdown Preview Enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced)
-  * 被誉为 "BEST" 的 Markdown 预览扩展之一。支持自动滚动同步、数学公式排版（MathJax）、Mermaid、PlantUML、Pandoc、PDF 导出、代码块执行、演示文稿编写等强大功能。快捷键：`cmd-k v` 侧边预览，`cmd-shift-v` 打开预览。
-* Instant Markdown
-* Bookmarks
-  * mark and jump
-* Paste JSON as Code
-  - Interactively generate types and (de-)serialization code from JSON, JSON Schema, and TypeScript
-  - Paste JSON/JSON Schema/TypeScript as code
-* Todo Tree
-  * This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
-* Better Align
-* Dash
-* 掘金
-  * ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112081551.png)
-* 韭菜盒子
-  * ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112081702.png)
-* 前端盒子
-  * ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112081732.png)
-* LeetCode
-  * ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112082248.png)
+### 1. 📝 Markdown 编辑工具
 
-* [Reference Search View](https://marketplace.visualstudio.com/items?itemName=ms-vscode.references-view) 列出所有引用
-* [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) Smart Coding for TS plugin.
+1.1. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) 📄
+     - All-in-one markdown plugin (keyboard shortcuts, table of contents, auto preview, list editing and more)
+
+1.2. [Markdown Preview Enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) ⭐
+     - 被誉为 "BEST" 的 Markdown 预览扩展之一。支持自动滚动同步、数学公式排版（MathJax）、Mermaid、PlantUML、Pandoc、PDF 导出、代码块执行、演示文稿编写等强大功能。快捷键：`cmd-k v` 侧边预览，`cmd-shift-v` 打开预览。
+
+1.3. [markdown-markmap](https://github.com/phoihos/vscode-markdown-markmap) 🧠
+     - Markdown 思维导图预览支持，在 VS Code 内置的 Markdown 预览中将 Markdown 可视化为思维导图。支持使用 ```markmap 代码块创建思维导图，支持语法高亮、链接、样式、代码块、数学公式（Katex）等。可配置缩放和颜色属性。
+
+1.4. [markmap-vscode](https://github.com/markmap/markmap-vscode) 🗺️
+     - 官方 markmap VSCode 扩展，将 Markdown 文件转换为交互式思维导图。支持实时预览、分屏视图、导出为 HTML/PNG/SVG 等格式。使用 ```markmap 代码块或直接预览 Markdown 文件。基于 markmap-lib，支持折叠/展开分支、自定义主题。
+
+1.5. [vscode-markmap-universe](https://github.com/markmap-universe/vscode-markmap-universe) 🌌
+     - markmap universe 扩展，提供增强的 markmap 功能和工具集合。扩展了官方 markmap 的能力，提供更多定制选项和生产力功能。
+
+1.6. Instant Markdown ⚡
+
+### 2. 💻 代码编辑增强
+
+2.1. [CSS Peek](https://marketplace.visualstudio.com/items?itemName=princejinesc.vscode-css-peek) 👁️
+     - Peek or Jump to a CSS definition directly from HTML, just like in Brackets!
+
+2.2. Better Align 📏
+
+2.3. [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.vscode) 🔄
+     - Interactively generate types and (de-)serialization code from JSON, JSON Schema, and TypeScript. Paste JSON/JSON Schema/TypeScript as code.
+
+### 3. 🗂️ 项目管理与导航
+
+3.1. [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.bookmarks) 🔖
+     - mark and jump
+
+3.2. Todo Tree ✅
+     - This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
+
+3.3. [Reference Search View](https://marketplace.visualstudio.com/items?itemName=ms-vscode.references-view) 🔍
+     - 列出所有引用
+
+### 4. 🔧 开发者工具
+
+4.1. Dash 📚
+
+4.2. [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) 🤖
+     - Smart Coding for TS plugin.
+
+### 5. 🇨🇳 中文社区工具
+
+5.1. 掘金 ⛏️
+     - ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112081551.png)
+
+5.2. 韭菜盒子 📦
+     - ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112081702.png)
+
+5.3. 前端盒子 🎨
+     - ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112081732.png)
+
+5.4. LeetCode 🧮
+     - ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20210112082248.png)
 
 ![](https://pic-mike.oss-cn-hongkong.aliyuncs.com/Blog/20200618172438.png)
 
