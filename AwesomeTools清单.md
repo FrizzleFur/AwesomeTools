@@ -7,18 +7,11 @@
 > My productivity tools of Mac, Phone, and Web in developing and schedule.
 
 
-## Inbox
+## 📥 Inbox
 
-### 📝 Markdown 工具
-
-1. [vscode-markdown-markmap](https://github.com/phoihos/vscode-markdown-markmap) - VS Code 扩展，支持在 Markdown 预览中将文档可视化思维导图，使用 ```markmap 代码块创建美观的导图
-2. [markmap-vscode](https://github.com/markmap/markmap-vscode) - 官方 markmap VSCode 扩展，将 Markdown 转换为交互式思维导图，支持实时预览和导出
-3. [vscode-markmap-universe](https://github.com/markmap-universe/vscode-markmap-universe) - markmap universe 扩展，提供增强的 markmap 功能和工具集合
-4. [vscode-markdown-preview-enhanced](https://github.com/shd101wyy/vscode-markdown-preview-enhanced) - 被誉为 BEST 的 Markdown 预览扩展，支持数学公式、Mermaid、PlantUML、PDF 导出、代码块执行、演示文稿等功能
-
-### 🔧 开发工具
-
-5. [uv](https://docs.astral.sh/uv/#highlights) - rust的python 环境管理器，很好用
+> ✅ Inbox 已清空，所有工具已整理至相应分类：
+> - Markdown 工具 → `工具-VSCode.md` - 📝 Markdown 编辑工具
+> - 开发工具 uv → `Mac - 终端工具` 部分
 
 ## Contents
 - [Resource](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#resource)
@@ -131,19 +124,19 @@
 
 ## Mac
 
-### Mac Helper
+### 🛠️ Mac Helper 工具
 
-1. [Alfred](https://www.alfredapp.com/) Mac搜索,工作流神器
-2. [KELiON/cerebro: Open-source productivity booster with a brain](https://github.com/KELiON/cerebro)Open-source productivity booster with a brain,类似Alfred
-3. [Cakebrew](https://www.cakebrew.com/)The Mac App for Homebrew.
-4. [Evernote](https://evernote.com/intl/zh-cn/) Notes Platform
-5. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) The Best Dic
-6. [GhostTile – 隐藏 Dock 中不想看见的图标 - 数码荔枝](https://www.lizhi.io/review/72551612)
-7. [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)Mac版微信的功能拓展
-8. [WeChaoh-my-wechat](https://github.com/lmk123/oh-my-wechat)Mac版微信的功能拓展
-9. [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS)A dynamic library tweak for WeChat macOS
-10. [Go2Shell](https://github.com/Breathleas/Go2Shell) Go2Shell的AppleScript适配版本
-11. [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal/blob/master/Resources/README-zh.md) 可能更好的的Finder跳转Terminal/VScode等的插件
+1. [Alfred](https://www.alfredapp.com/) 🔍 - Mac搜索、工作流神器
+2. [Cerebro](https://github.com/KELiON/cerebro) 🧠 - 开源生产力加速器，类似 Alfred
+3. [Cakebrew](https://www.cakebrew.com/) 🍺 - Homebrew 的 Mac App 管理工具
+4. [Evernote](https://evernote.com/intl/zh-cn/) 📝 - 笔记平台
+5. [Eudic](https://www.eudic.net/eudic/mac_dictionary.aspx) 📚 - 最好的词典
+6. [GhostTile](https://www.lizhi.io/review/72551612) 🪟 - 隐藏 Dock 中的图标
+7. [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) 💬 - Mac版微信功能拓展
+8. [oh-my-wechat](https://github.com/lmk123/oh-my-wechat) 💬 - Mac版微信功能拓展
+9. [WeChatTweak-macOS](https://github.com/Sunnyyoung/WeChatTweak-macOS) 💬 - WeChat macOS 动态库调整工具
+10. [Go2Shell](https://github.com/Breathleas/Go2Shell) 🔷 - 从 Finder 快速打开终端
+11. [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) 📂 - Finder 跳转到 Terminal/VSCode 等的插件
 
 #### 系统
 
@@ -436,14 +429,16 @@ Turn drawings into code with PaintCode ~
 10. [IconJar](https://geticonjar.com/) App图标管理器
 
 
-### 终端工具
+### 💻 终端工具
+
 追求性能的话可以考虑Rust全家桶：Wezterm + Helix + yazi
 
 1. nvim
 2. ohmyzsh
 3. tmux
 4. [Helix](https://www.bilibili.com/video/BV1e3411m7VD/) 使用rust编写比 nvim应该更快
-5. [yazi：终端文件管理器](https://yazi-rs.github.io/docs/installation)
+5. [yazi：终端文件管理器](https://yazi-rs.github.io/docs/installation) - 极快的终端文件管理器，用 Rust 编写，基于异步 I/O
+6. [uv](https://docs.astral.sh/uv/#highlights) 🐍 - Rust 编写的 Python 环境管理器，极快的包管理器
 极快的终端文件管理器，用 Rust 编写，基于异步 I/O。
 🚀 完全异步支持：所有 I/O 操作都是异步的，CPU 任务分布在多个线程上，充分利用可用资源。
 💪 强大的异步任务调度和管理：提供实时进度更新、任务取消和任务优先级分配。
