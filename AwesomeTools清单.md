@@ -9,10 +9,6 @@
 
 ## 📥 Inbox
 
-> ✅ Inbox 已清空，所有工具已整理至相应分类：
-> - Markdown 工具 → `工具-VSCode.md` - 📝 Markdown 编辑工具
-> - 开发工具 uv → `Mac - 终端工具` 部分
-
 ## Contents
 - [Resource](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#resource)
 - [Pool](https://github.com/FrizzleFur/AwesomeTools/blob/master/AwesomeTools%E6%B8%85%E5%8D%95.md#pool)
