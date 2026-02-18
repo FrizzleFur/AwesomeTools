@@ -1051,49 +1051,40 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 
 **优秀网站：**
 
-* [WallDevil - Awesome wallpapers for you!](https://link.zhihu.com/?target=https%3A//www.walldevil.com/)
+* [WallDevil](https://link.zhihu.com/?target=https%3A//www.walldevil.com/) 🖼️ - Awesome wallpapers for you!
+* [DesktopPapers.co](https://link.zhihu.com/?target=http%3A//desktoppapers.co/) 🖥️ - HD Desktop wallpapers
+* [Wallpaper Abyss](https://link.zhihu.com/?target=https%3A//wall.alphacoders.com/) 🎨 - High quality wallpapers
+* [Awesome Wallpapers](https://link.zhihu.com/?target=http%3A//alpha.wallhaven.cc/) ✨ - Community-driven wallpapers
+* [SwitchBox](https://link.zhihu.com/?target=http%3A//switch-box.net/category/wallpaper) 🇯🇵 - 日本壁纸博客
 
-* [DesktopPapers.co - HD Desktop wallpapers](https://link.zhihu.com/?target=http%3A//desktoppapers.co/)
+### 💪 BodyBuilding 健身
 
-* [Wallpaper Abyss](https://link.zhihu.com/?target=https%3A//wall.alphacoders.com/)
+1. [牛男网](https://www.neonan.com/) 🐂 - 男性健身社区
+2. [我爱健身](http://www.fitnes.cn/) 🏋️ - 健身资讯网站
+3. [Crossfit](https://www.crossfit.com/) 🔥 - 高强度健身训练
+4. [FOCUS T25](https://www.youtube.com/watch?v=y5mPEpBT_TQ) ⏱️ - 25分钟健身课程
+5. [九十九型](http://www.jiushixing.com/html/hufu/meibai/) 💪 - 男人形体指导
 
-* [Awesome Wallpapers](https://link.zhihu.com/?target=http%3A//alpha.wallhaven.cc/)
+#### 🏥 BodyHealth 健康
 
-* [壁紙：WEBに転がる「おもしろい」と「役に立つ」をまとめる雑食系ブログ：SwitchBox](https://link.zhihu.com/?target=http%3A//switch-box.net/category/wallpaper)
+1. [万方医学网](http://med.wanfangdata.com.cn/Paper/Detail/PeriodicalPaper_ysgx201610013) 📚 - 医学期刊数据库
 
-### BodyBuilding
+### 🛒 Shopping 购物
 
-1. [牛男网](https://www.neonan.com/)
+#### 🌊 Sea Amoy 海淘
 
-2. [我爱健身](http://www.fitnes.cn/)
+1. [海淘族](https://www.haitaozu.org/base/17134.html) 🛍️ - 海淘资源网站
+2. [Rakuten 乐天](http://global.rakuten.com/zh-cn/?siteID=5UNe5hkl3dM-1_Vtj7WDbFFoT2PK3Bewmg) 🎌 - 日本购物平台
 
-3. [Crossfit](https://www.crossfit.com/)
+## 🔧 HardWare 硬件
 
-4. [FOCUS T25](https://www.youtube.com/watch?v=y5mPEpBT_TQ)
+### 🔧 HardWare-Mac Mac 硬件
 
-5. [jiushixing](http://www.jiushixing.com/html/hufu/meibai/) 男人形体注意
+1. [iFixit](https://www.ifixit.com/Device/MacBook_Pro_15%22_Retina_Display_Mid_2014?utm_medium=social&utm_member=MTlkNzAzYjExMTg3ZDFmM2Q5YjNlNmY5YTQ0NWJiMTk%3D&utm_source=ZHShareTargetIDMore) 🔧 - 免费维修指南
+   - 参考：[MacBook Pro 15" Retina Display Mid 2014 Repair](https://www.ifixit.com/Device/MacBook_Pro_15%22_Retina_Display_Mid_2014?utm_medium=social&utm_member=MTlkNzAzYjExMTg3ZDFmM2Q5YjNlNmY5YTQ0NWJiMTk%3D&utm_source=ZHShareTargetIDMore)
 
-#### BodyHealth
+## 🍎 Apple
 
-1. [万方医学网](http://med.wanfangdata.com.cn/Paper/Detail/PeriodicalPaper_ysgx201610013) 医学期刊
-
-### Shopping
-
-
-#### Sea Amoy
-
-1. [海淘族](https://www.haitaozu.org/base/17134.html)挺丰富的海淘站
-
-2. [Rakuten](http://global.rakuten.com/zh-cn/?siteID=5UNe5hkl3dM-1_Vtj7WDbFFoT2PK3Bewmg) 乐天
-
-## HardWare
-
-### HardWare-Mac
-
-1. [ifixit](https://www.ifixit.com/Device/MacBook_Pro_15%22_Retina_Display_Mid_2014?utm_medium=social&utm_member=MTlkNzAzYjExMTg3ZDFmM2Q5YjNlNmY5YTQ0NWJiMTk%3D&utm_source=ZHShareTargetIDMore)The free repair guide for everything, written by everyone. 参考[MacBook Pro 15" Retina Display Mid 2014 Repair](https://www.ifixit.com/Device/MacBook_Pro_15%22_Retina_Display_Mid_2014?utm_medium=social&utm_member=MTlkNzAzYjExMTg3ZDFmM2Q5YjNlNmY5YTQ0NWJiMTk%3D&utm_source=ZHShareTargetIDMore)
-
-## Apple 
-
-Apple Beta Profile
+**Apple Beta Profile** 🍎 - Apple 测试版配置文件
 
 * [BetaProfiles](https://betaprofiles.com/)
