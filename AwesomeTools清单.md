@@ -503,106 +503,121 @@ Usage: dcdg [options]
 
 2. [Yu Writer ](https://ivarptr.github.io/yu-writer.site/index.html) 看起来不错的跨平台的 Markdown 文本编辑器,有个特点就是从网页拷贝`Markdown`格式可以直接保存`Markdown`格式，很方便
 
-3. [氢 ](http://origingroup.tech/index.zh.html)基于 Git 的 笔记、任务、待办 管理工具， 添加了`scrum` 任务模型中的看板，将任务分为计划，冲刺，完成
+3. [氢](http://origingroup.tech/index.zh.html) ⚛️ - 基于 Git 的笔记、任务、待办管理工具，集成 Scrum 看板
 
-4. [Gitbook Editor](https://www.gitbook.com)[Gitbook配置教程](http://gitbook.zhangjikai.com/plugins.html#github)
+4. [GitBook Editor](https://www.gitbook.com) 📚 - GitBook 编辑器
 
-5. [Maxing](https://maxiang.io/)    算是Evernote"插件"吧
+5. [Maxing](https://maxiang.io/) 📝 - 印象笔记"插件"
 
-6. [CmdMarkdown](https://www.zybuluo.com/)  有点小众，还不是很火的Cmd~
+6. [CmdMarkdown](https://www.zybuluo.com/) ⌨️ - 作业部落的 Cmd Markdown
 
-7. [Github](https://github.com/)    比如像我一样把东西放在这里 = = 
+7. [GitHub](https://github.com/) 🐙 - 代码托管和协作平台
 
-8. [DayOne](http://dayoneapp.com/)  用心记日记~
+8. [Day One](http://dayoneapp.com/) 📔 - 优雅的日记应用
 
-9. [Wiz为知笔记](http://www.wiz.cn/)  简洁的为知笔记，要付费
+9. [为知笔记](http://www.wiz.cn/) 🧠 - 简洁的笔记工具
 
-10. [Quiver](程序猿的笔记本) 程序猿的笔记本,更新到3.13了可以结合
-`SnippetsLab`使用。
+10. [Quiver](https://happenapps.com/) 🏹 - 程序员的笔记本，支持代码片段
 
-11. [AlterNote](http://alternoteapp.com/)    你知道，大象逼得开发者不得不自己开发一款EverNote ╮(╯▽╰)╭
+11. [AlterNote](http://alternoteapp.com/) 🐘 - 简洁的 Evernote 替代品
 
-12. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload)markdown图片实用工具
+12. [Markdown-img-upload](https://github.com/tiann/markdown-img-upload) 📷 - Markdown 图片上传工具
 
-13. [QuickLook Plugins List](https://github.com/toland/qlmarkdown) [QuickLook Plugins MarkDown](https://sspai.com/post/31927)
+13. [QuickLook Plugins](https://github.com/toland/qlmarkdown) 👁️ - Markdown 快速查看插件
 
-14. [Notion](https://www.notion.so/product)A unified & collaborative workspace for your notes, wikis, and tasks.
+14. [Notion](https://www.notion.so/product) 📋 - 统一协作工作空间
 
-15.  [Typora](https://www.typora.io/) 极简MarkDown
+15. [Typora](https://www.typora.io/) ✏️ - 极简 Markdown 编辑器
 
-16. [Findings](http://www.zhinin.com/findings-mac.html) Findings专为科学家开发的笔记本电脑软件。在实验室进行实验时，记录每一个实验步骤非常重要，其有利于重复实验，以及发布实验结论。包括成果存储、数据分析、搜索、复用、分享、维护等等。
+16. [Findings](http://www.zhinin.com/findings-mac.html) 🔬 - 科学家专用笔记本
 
-17. [Highland2](https://www.waitsun.com/highland-2-0-5.html) Mac平台的剧本写作软件，该剧本创作软件可以帮助我们将注意力集中在创作上面，保证我们的创作不受其他因素的干扰。
+17. [Highland 2](https://www.waitsun.com/highland-2-0-5.html) 🎬 - Mac 剧本写作软件
 
-18. [AGENDA](https://itunes.apple.com/cn/app/agenda-a-new-take-on-notes/id1287445660?l=en&mt=12) The date-focused note taking app. Both plan and document your projects driving them forward.
+18. [Agenda](https://itunes.apple.com/cn/app/agenda-a-new-take-on-notes/id1287445660?l=en&mt=12) 📅 - 日期导向的笔记应用
 
-19. [Notability](https://www.waitsun.com/notability-2-5-1.html) 手写笔记本
+19. [Notability](https://www.waitsun.com/notability-2-5-1.html) ✍️ - 手写笔记应用
 
-20. [YiGe.app](https://yige.app/) 里面的Text2Image非常好用
+20. [YiGe.app](https://yige.app/) 🎨 - Text2Image 功能出色
 
-21. [MarkEditor 2.0 Change Logs](https://www.markeditor.com/file/get/2309e4da32c9a888597accd67ffc912c) 功能很强大，但是价格高
+21. [MarkEditor](https://www.markeditor.com/) ✏️ - 功能强大的 Markdown 编辑器
 
-22. [Quip](https://quip.com/about/home-1) 具有超级威力的文档
+22. [Quip](https://quip.com/about/home-1) 💼 - 具有协作威力的文档工具
 
 
-### 文字处理
+### 📝 文字处理
 
-16. [Ocrkit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) Mac下识图片中的文字, 可惜不识别中文 ╮(╯▽╰)╭
+1. [OCRKit](https://itunes.apple.com/cn/app/ocrkit/id410309628?mt=12) 🔍 - Mac 图片文字识别工具
+2. [nvALT](http://notational.net/) 📝 - Mac 草稿处理中心
+3. [TextExpander](https://smilesoftware.com/textexpander/download/) ⚡ - 文本扩展工具，自动展开缩写词
 
-17. [nvALT](http://notational.net/)Mac 上的草稿处理中心：nvALT
+19. [DEVONthink](https://github.com/crystoneme/DEVONthink-Tutorial/blob/master/DEVONthink%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-0.md) 🧠 - 集编辑、分析、组织、查找、存档于一身的文档管理系统
 
-18. [Textexpander](https://smilesoftware.com/textexpander/download/?)它能将那些需要重复输入的内容（Content）保存，并给其预设一个缩写词（Abbreviation），当下次需要时，你只需输入设定好的缩写词就会自动展开缩写词，获得完整的文本内容。
+### 📊 Statistics 统计工具
 
-19. [DEVONthink](https://github.com/crystoneme/DEVONthink-Tutorial/blob/master/DEVONthink%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B-0.md)DEVONthink不仅只是用来存储文档而已，它还可以做到集编辑、分析、组织、查找、存档于一身。作为一个集成的工作环境，大大优化和加强了Finder，节省了在成千上万的文件当中处理的时间。
+1. [RescueTime](https://www.rescuetime.com/) ⏰ - 时间追踪和生产力分析工具
+2. [Excel-FunFun](https://www.funfun.io/1/#/edit/5a2d762e61242f75d94052db) 📊 - Excel JavaScript 编程图示工具
 
-### Statistics
+### 📊 MenuBar 菜单栏工具
 
-1. [TimeRescue](https://www.rescuetime.com/)
-2. [Excel-FunFun](https://www.funfun.io/1/#/edit/5a2d762e61242f75d94052db) Excel表格的JavaScript编程图示,保留交互性和动态效果
+1. [CmdTap](http://www.yingdev.com/projects/cmdtap) ⌨️ - 任务切换器增强工具
 
-### MenuBar
+### ⚙️ WorkFlow 工作流自动化
 
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/14937761631295.jpg)
+1. [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ⌨️ - 强大的键盘自动化工具
+   - 参考：[Keyboard Maestro 入门指南](https://sspai.com/post/36442#01)
+   - 相关：[Karabiner Elements](http://newton.sh/2017/06/24/karabiner-elements/) 键位定制神器
 
-1. [CmdTap](http://www.yingdev.com/projects/cmdtap) 任务切换器增强 for Mac
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15295855893499.jpg)
+2. [automator-workflows](https://github.com/sparanoid/automator-workflows) 🤖 - Automator 工作流集合
 
-### WorkFlow
+### 👁️ QuickLook 插件
 
-1. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)，参考[Keyboard Maestro 入门指南](https://sspai.com/post/36442#01)，[Karabiner Elements 键位定制神器 · NewtonIO](http://newton.sh/2017/06/24/karabiner-elements/)
+使用 `Homebrew Cask` 安装开发人员常用的 Quick Look 插件：
 
-2. [automator-workflows](https://github.com/sparanoid/automator-workflows)
+1. **QLStephen** 📄 - 查看无扩展名的纯文本文件（README、INSTALL 等）
+   - `brew install --cask qlstephen`
 
-### QuickLook插件
+2. **QLColorCode** 🎨 - 源代码文件预览，高亮显示
+   - `brew install --cask qlcolorcode`
 
->使用 `Homebrew Cask` 将通过命令安装即为简单。开发人员使用的Quick Look插件列表。如果手动安装，你可将下载的 .qlgenerator 文件移动到 ~/Library/QuickLook 运行 `qlmanage -r`
+3. **QLMarkdown** 📝 - Markdown 文件预览
+   - `brew install --cask qlmarkdown`
 
-* QuicklookStephen - 可以让您查看没有文件扩展名的纯文本文件，如README、INSTALL、Capfile、CHANGELOG...brew cask install qlstephen
-* QLColorCode - 在预览源代码文件，高亮代码。brew cask install qlcolorcode
-* QLMarkdown - Markdown文件转换成静态页面预览。  
-* QuickLookCSV - 预览.CSV文件。brew cask install quicklook-csv
-* qlImageSize - 显示图像大小和分辨率。brew cask install qlimagesize
-* WebP - 预览WebP图像。brew cask install webpquicklook
-* Suspicious Package - 预览Apple安装程序包的标准内容。brew cask install suspicious-package
-* QLVideo - 预览大多数类型的视频文件，以及它们的缩略图，封面和元数据。brew cask install qlvideo
-* ProvisionQL - 预览 iOS/macOS 应用和配置信息。brew cask install provisionql
-* quicklook-pat - 预览Adobe Photoshop图案文件。brew cask install quicklook-pat
+4. **QuickLookCSV** 📊 - CSV 文件预览
+   - `brew install --cask quicklook-csv`
 
-------
+5. **qlImageSize** 🖼️ - 显示图像大小和分辨率
+   - `brew install --cask qlimagesize`
 
-## PC
+6. **WebPQuickLook** 🖼️ - WebP 图像预览
+   - `brew install --cask webpquicklook`
 
-### PC Helper
+7. **Suspicious Package** 📦 - 预览 Apple 安装包内容
+   - `brew install --cask suspicious-package`
 
-1. [CleanMyPC](http://macpaw.com/cleanmypc)
+8. **QLVideo** 🎬 - 预览大多数类型视频文件
+   - `brew install --cask qlvideo`
 
-------
+9. **ProvisionQL** 📱 - 预览 iOS/macOS 应用配置信息
+   - `brew install --cask provisionql`
 
-## Phone
+10. **quicklook-pat** 🎨 - 预览 Adobe Photoshop 图案文件
+    - `brew install --cask quicklook-pat`
 
-### Productivity
+---
 
-1. [WorkFlow](https://workflow.is/) 重复的Flow交给我！
+## 🖥️ PC 工具
+
+### 💻 PC Helper
+
+1. [CleanMyPC](http://macpaw.com/cleanmypc) 🧹 - PC 清理工具
+
+---
+
+## 📱 Phone 手机工具
+
+### ⚡ Productivity 生产力
+
+1. [WorkFlow](https://workflow.is/) 🔄 - iOS 自动化工具，重复任务交给它
     - 1.1 [计算到达时间](https://workflow.is/workflows/d5a58dfbea024811ae39b69e1cc9ace0)
     - 1.2 [网页转MarkDown](https://workflow.is/workflows/a4b12846564a400d970574916770f57e)
     - 1.3 [AppStore 地区切换](https://workflow.is/workflows/c0159db5a2f84595bad0fbe88b376834)
