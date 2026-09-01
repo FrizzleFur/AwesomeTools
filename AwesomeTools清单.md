@@ -389,6 +389,7 @@ Usage: dcdg [options]
    - 🏷️ 多标签页支持，可滚动预览（视频、PDF、档案、目录、代码）
    - 🔄 批量重命名、可视模式、文件选择器
    - 🎨 主题系统、自定义布局、垃圾桶、CSI u
+   - 📖 [详细使用指南（快捷键 254 条全解 / 配置定制 / 工作流集成）](docs/tools/yazi/README.md)
 6. [uv](https://docs.astral.sh/uv/#highlights) 🐍 - Rust 编写的 Python 环境管理器，极快的包管理器
    - ⚡ 比传统工具快 10-100 倍
    - 🔧 统一的 Python 包管理器、项目管理器

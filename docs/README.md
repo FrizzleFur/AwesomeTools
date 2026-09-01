@@ -20,6 +20,7 @@
 
 ## 最近更新
 
+- [Yazi 使用指南](tools/yazi/README.md)（含 254 条快捷键全解 / 配置定制 / 工作流集成 / 选型对比）- 2026-09-01
 - [Visual Studio Code 使用指南](tools/visual-studio-code/README.md) - 2023-05-18
 - [Vim 使用指南](tools/vim/README.md) - 2023-05-18
 
