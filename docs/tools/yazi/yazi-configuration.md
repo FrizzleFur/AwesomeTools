@@ -84,7 +84,7 @@ prepend_rules = [
 
 ## keymap.toml 覆盖机制
 
-详见[快捷键参考的自定义章节](keybindings.md#自定义键位keymaptoml)。核心记忆点：
+详见[快捷键参考的自定义章节](yazi-keybindings.md#自定义键位keymaptoml)。核心记忆点：
 
 - `prepend_keymap` 覆盖默认（高优先级）/ `append_keymap` 新增（低优先级），两者互斥不可混用
 - 禁用默认键：`run = "noop"`

@@ -96,7 +96,7 @@ Yazi 的快捷键按**上下文（context）分层**，共 9 层，每层独立�
 | `o` / `Enter` | 按打开器规则打开 | 走 `yazi.toml` 的 `[open]` 规则链 |
 | `O` | 交互式打开 | 弹出 opener 列表人工选 |
 
-**语义辨析**（新手最大坑）：`l` = **进入**目录；`o`/`Enter` = **打开**（目录则进入、文件交 opener 规则）。可用 smart-enter 插件消除心智负担，见[配置指南](configuration.md#案例-2smart-enter--prepend_keymap)。
+**语义辨析**（新手最大坑）：`l` = **进入**目录；`o`/`Enter` = **打开**（目录则进入、文件交 opener 规则）。可用 smart-enter 插件消除心智负担，见[配置指南](yazi-configuration.md#案例-2smart-enter--prepend_keymap)。
 
 **实战**：`.md` 默认进 VS Code，临时想用系统预览看一眼 → `O` 从列表选，不用改配置。
 
