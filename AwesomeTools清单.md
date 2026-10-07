@@ -851,6 +851,7 @@ $('div.'+wordMap['list-tools']).append($dropdownbutton);
 #### Schedule
 
 1. [Trello](https://trello.com/guide) 看板，`[SCRUM](https://www.mountaingoatsoftware.com/agile/scrum/scrum-tools/task-boards)`工具
+2. [KupFollowersow.pl 增长节奏计算器](docs/tools/kupfollowersow-growth/README.md) — 波兰语免费网页工具；根据当前数、目标和天数计算每日/每周所需的净增长。无需账户，不抓取个人资料；仅作数学规划，不预测平台效果。
 
 #### Blog
 
