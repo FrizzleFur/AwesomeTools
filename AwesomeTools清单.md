@@ -209,7 +209,6 @@ sudo rm -rf "/Library/Input Methods/Squirrel.app" rm -rf ~/Library/Rime
 ### Developing
 
 1. [free-for-dev](https://github.com/ripienaar/free-for-dev)free-for-dev开发免费资源
-2. [XcodeCleaner](https://github.com/waylybaye/XcodeCleaner) xcode缓存统计
 3. [devdocs](https://devdocs.io/) 开发在线文档大全
 4. [swift-class-diagrams](https://martinmitrevski.com/2016/10/12/swift-class-diagrams-and-more/) Swift类图分析工具
 5. [dcdg.dart](https://github.com/glesica/dcdg.dart) Dart类图生成工具,Dart Class Diagram Generator, A small command line utility to generate a class (UML or similar) diagram from a Dart package.
@@ -322,24 +321,6 @@ Usage: dcdg [options]
 6. [Hub](https://hub.github.com/) 🦀 - Git 命令行 GitHub 封装
 7. [GitUp](https://github.com/git-up/GitUp) ✨ - 你一生都在寻找的 Git 界面
 8. [Trailer](https://ptsochantaris.github.io/trailer/) 🔔 - PR 和 Issue 追踪工具
-
-##### 📱 Xcode 工具
-
-1. [PPAutoPackageScript](https://github.com/jkpang/PPAutoPackageScript) 📦 - Xcode 自动打包脚本
-2. [XAssistant](https://github.com/icofans/XAssistant) 🚀 - 桌面打包 IPA 小程序，支持蒲公英分发
-3. [InjectionForXcode](https://github.com/johnno1962/injectionforxcode) 💉 - Xcode 热注入插件，无需重新编译即可查看代码修改效果
-4. [PPRows](https://github.com/jkpang/PPRows/releases) 📊 - 代码行数统计工具
-5. [xTextHandler](https://github.com/cyanzhong/xTextHandler) ✏️ - Xcode Source Editor 插件集
-6. [CornerStone](https://itunes.apple.com/us/app/cornerstone-3/id1110740402?mt=12) 🏛️ - 优秀的 SVN 客户端
-7. [Prepo](https://itunes.apple.com/tw/app/prepo/id476533227?mt=12) 🎨 - App 图标和启动图预览工具
-8. [Easy APNs Provider](https://itunes.apple.com/cn/app/easy-apns-provider-%E6%8E%A8%E9%80%81%E6%B5%8B%E8%AF%95%E5%B7%A5%E5%85%B7/id989622350?mt=12) 🔔 - 苹果推送服务测试工具
-9. [App Icon Gear](http://www.cocoachina.com/bbs/read.php?tid-290247-fpage-4.html) 🖼️ - 创建 App 图标、启动图和自定义尺寸图标集
-10. [UIDebuggingInformationOverlay](http://ryanipete.com/blog/ios/swift/objective-c/uidebugginginformationoverlay/) 🔍 - UI 调试信息覆盖层，苹果私有调试工具
-11. [PaintCodeApp](https://www.paintcodeapp.com/) 🎨 - 将绘图转换为代码
-12. [Provisioning](https://github.com/chockenberry/Provisioning) 🔑 - .mobileprovision 文件快速查看插件
-13. [Core-Animator](http://xclient.info/s/core-animator.html?_=7f6b20915b1318a0839df0a326a089e5) 🎬 - iOS/OS X 动画制作工具，导出 Swift/Objective-C 代码
-14. [PaintCode for Sketch](http://xclient.info/s/paintcode-for-sketch.html?_=7f6b20915b1318a0839df0a326a089e5) ✏️ - 将 Sketch 绘图转为代码
-15. [Sketch](https://www.jianshu.com/p/3590f089e500) 🎨 - 矢量图形设计工具
 
 ##### 🧪 API 测试工具
 
