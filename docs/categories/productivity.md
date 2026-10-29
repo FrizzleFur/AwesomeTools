@@ -79,6 +79,7 @@
 | [iA Writer](tools/ia-writer/README.md) | 专注写作工具 | 跨平台 | 否 | 付费 |
 | [Typora](tools/typora/README.md) | Markdown 编辑器 | 跨平台 | 否 | 付费 |
 | [Grammarly](tools/grammarly/README.md) | 语法检查工具 | 跨平台 | 否 | 免费/付费 |
+| [Glim](../tools/glim/README.md) | 多格式文件阅读与基础文本编辑 | macOS | 是（MIT） | 免费 |
 
 ## 开发效率
 
