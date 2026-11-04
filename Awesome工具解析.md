@@ -1982,43 +1982,6 @@ To do this, reboot and hold Command+R until the Apple logo appears once more. Go
 
 # iOS 
 
-### Xcode
-
-#### Xcode链接iphone一直闪断
-
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15326666022413.jpg)
-![](http://pic-mike.oss-cn-hongkong.aliyuncs.com/qiniu/15326666332024.jpg)
-
-发现一个Xcode链接iphone一直闪断的问题，提示说软件下载更新才能连接，但是下载失败，还以为是数据线接触不良或者是Xcode版本不支持，后来发现开启省电模式就可以了。
-[A software update is required to connect to your iOS device / iPhone - Ask Different](https://apple.stackexchange.com/questions/327310/a-software-update-is-required-to-connect-to-your-ios-device-iphone)
-
-```
-The problem can be fixed by installing XCode beta.
-This error occurs when the version of macOS (and iTunes) running on the computer is not compatible with the version of iOS on the device you're trying to connect.
-
-Normally, updating the macOS to its current version will solve the problem. However, this won't work if the iOS device is running a newer beta version, and the Mac is not.
-```
-
-
-#### 关于使用Clang(LLVM)将OC文件转为C/C++文件报错的问题
-
-```objc
-
-main.m:9:9: fatal error: 'UIKit/UIKit.h' file not found
-#import <UIKit/UIKit.h>
-    ^
-1 error generated.
-```
-
-```objc
-clang -x objective-c -rewrite-objc -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk xxx.m
-
-//__weak修饰变量，需要告知编译器使用ARC环境及版本号否则会报错，添加说明
--fobjc-arc -fobjc-runtime=ios-8.0.0
-
-xcrun -sdk iphoneos clang -arch arm64 -rewrite-objc -fobjc-arc -fobjc-runtime=ios-8.0.0 main.m
-```
-
 ### 下载软件
 
 * Valley [![](https://h5.sinaimg.cn/upload/2015/09/25/3/timeline_card_small_web_default.png)网页链接](https://www.appvalley.vip/#) 

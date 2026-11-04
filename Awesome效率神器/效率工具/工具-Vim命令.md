@@ -415,25 +415,6 @@ OK，我们要存档了，存盘并离开的指令很简单，输入 **:wq** 即
 
 OK! 这样我们就成功创建了一个 runoob.txt 的文件。
 
-## Vim for Xcode 10
-
-[XVimProject/XVim2: Vim key-bindings for Xcode 9](https://github.com/XVimProject/XVim2)
-
-[记：在 Xcode 10 中安装 XVim2 - 风萧萧](https://note.wuze.me/xvim2)
-签署 Xcode
-关闭 Xcode
-打开 钥匙串访问
-选择 钥匙串访问 -> 证书助理 -> 创建证书
-名称：XcodeSigner（可随意）
-身份类型：自签名根证书
-证书类型：代码签名
-重新签署 Xcode
-
-```objc
-# XcodeSigner 为创建证书时输入的名称
-sudo codesign -f -s XcodeSigner /Applications/Xcode.app 
-```
-
 ## Plugins
 
 * 🌿 Another elegant statusline for vim
