@@ -57,6 +57,7 @@
 | [localtunnel](https://github.com/localtunnel/localtunnel) | 简单的 HTTP 隧道 | 跨平台 | 是 | 免费 |
 | [mkcert](https://github.com/FiloSottile/mkcert) | 本地 HTTPS 开发 | 跨平台 | 是 | 免费 |
 | [httpie](https://httpie.io/) | 现代化的命令行 HTTP 客户端 | 跨平台 | 是 | 免费 |
+| [Kilobat CLI](../tools/kilobat-cli/README.md) | DNS、延迟及代理路由诊断，支持 JSON、终端仪表盘与本地 MCP | macOS 14+ | 是（GPL-3.0-only） | 免费 |
 
 ## 安全工具
 
