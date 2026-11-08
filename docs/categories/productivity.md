@@ -51,6 +51,7 @@
 | [Raycast](tools/raycast/README.md) | 现代启动器 | macOS | 否 | 免费/付费 |
 | [Hammerspoon](tools/hammerspoon/README.md) | 自动化工具 | macOS | 是 | 免费 |
 | [BetterTouchTool](tools/bettertouchtool/README.md) | 输入设备自定义 | macOS | 否 | 付费 |
+| [LatchLayout](../tools/latchlayout/README.md) | 长按触发的工作区启动和窗口布局工具（预览版） | Windows 11 x64 | 是（MIT） | 免费 |
 | [Alacritty](tools/alacritty/README.md) | 跨平台终端 | 跨平台 | 是 | 免费 |
 
 ## 时间管理
