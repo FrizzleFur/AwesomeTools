@@ -21,6 +21,7 @@
 | [GIMP](tools/gimp/README.md) | GNU 图像处理程序 | 跨平台 | 是 | 免费 |
 | [Affinity Photo](tools/affinity-photo/README.md) | 专业图像编辑 | Windows, macOS, iPadOS | 否 | 付费 |
 | [Darktable](https://www.darktable.org/) | 摄影工作流应用 | 跨平台 | 是 | 免费 |
+| [Linger](../tools/linger/README.md) | 本地管理视觉参考、保留来源链接与笔记、按颜色检索并整理到画布 | macOS 14+ (Apple Silicon) | 否 | 付费 |
 
 ## 视频编辑
 
