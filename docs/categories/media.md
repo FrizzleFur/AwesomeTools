@@ -75,6 +75,7 @@
 | [Autodesk Maya](https://www.autodesk.com/products/maya/overview) | 3D 动画软件 | Windows, macOS, Linux | 否 | 付费 |
 | [Cinema 4D](https://www.maxon.net/en/cinema-4d) | 3D 建模和动画 | Windows, macOS | 否 | 付费 |
 | [Tinkercad](https://www.tinkercad.com/) | 在线 3D 设计 | Web | 否 | 免费 |
+| [StagePeek](../tools/stagepeek/README.md) | 2D 演唱会选座图与 3D 舞台视角模拟器 | Web | 否 | 免费/付费 |
 
 ## 选择指南
 
